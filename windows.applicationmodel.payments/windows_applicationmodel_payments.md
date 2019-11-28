@@ -1,6 +1,6 @@
 ---
 -api-id: N:Windows.ApplicationModel.Payments
--api-type: winrt namespace
+-api-type: winrt namespace antonydowney 
 ---
 
 # Windows.ApplicationModel.Payments
