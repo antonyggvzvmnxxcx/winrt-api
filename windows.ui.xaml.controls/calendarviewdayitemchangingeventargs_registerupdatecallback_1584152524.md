@@ -12,6 +12,8 @@ public void RegisterUpdateCallback(System.UInt32 callbackPhase, Windows.Foundati
 ## -description
 Registers the event handler to be called again during the specified phase.
 
+
+
 ## -parameters
 ### -param callbackPhase
 The phase during which the callback should occur.

@@ -12,12 +12,12 @@ public class FontFamily : Windows.UI.Xaml.Media.IFontFamily
 ## -description
 Represents a family of related fonts.
 
+
+
 ## -xaml-syntax
 ```xaml
 <FontFamily>fontFamilyName[,fallbackFontFamilyName]*</FontFamily>
-```
-
-```xaml
+- or -
 <object FontFamily="fontFamilyName[,fallbackFontFamilyName]*" ... />
 -or-
 <object FontFamily="[uri]fontFamilyName[,[uri]fallbackFontFamilyName]*" ... />

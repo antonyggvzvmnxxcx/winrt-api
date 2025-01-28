@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DataTemplate SelectionBoxItemTemplate { get; }
 ## -description
 Gets the template applied to the selection box content.
 
+
+
 ## -property-value
 The template applied to the selection box content.
 

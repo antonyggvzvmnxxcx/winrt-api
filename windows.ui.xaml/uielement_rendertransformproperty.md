@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty RenderTransformProperty { get; }
 ## -description
 Identifies the [RenderTransform](uielement_rendertransform.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [RenderTransform](uielement_rendertransform.md) dependency property.
 

@@ -12,6 +12,7 @@ public Windows.UI.Xaml.Controls.MediaTransportControls TransportControls { get; 
 ## -description
 Gets or sets the transport controls for the media.
 
+
 ## -property-value
 The transport controls for the media.
 

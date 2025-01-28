@@ -13,6 +13,8 @@ public class ContainerVisual : Windows.UI.Composition.Visual, Windows.UI.Composi
 
 A node in the visual tree that can have children.
 
+
+
 ## -remarks
 
 ## -examples
@@ -68,7 +70,7 @@ private:
 };
 ```
 
-```cpp
+```cppcx
 ref class MyClass
 {
     Compositor ^ _compositor;

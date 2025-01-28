@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Animation.ConnectedAnimation GetAnimation(System.St
 ## -description
 Returns the animation with the specified key.
 
+
+
 ## -parameters
 ### -param key
 The key for the animation.

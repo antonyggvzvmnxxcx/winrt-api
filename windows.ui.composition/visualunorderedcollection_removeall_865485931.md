@@ -12,6 +12,8 @@ public void RemoveAll()
 ## -description
 Removes all visuals from the collection.
 
+
+
 ## -remarks
 
 ## -examples

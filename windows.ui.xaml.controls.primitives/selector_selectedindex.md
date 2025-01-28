@@ -12,6 +12,8 @@ public int SelectedIndex { get;  set; }
 ## -description
 Gets or sets the index of the selected item.
 
+
+
 ## -xaml-syntax
 ```xaml
 <selector SelectedIndex="int" .../>

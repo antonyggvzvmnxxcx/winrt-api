@@ -12,6 +12,8 @@ public Windows.UI.Composition.VisualUnorderedCollection Targets { get; }
 ## -description
 The collection of Visuals targeted by the light.
 
+
+
 ## -property-value
 The collection of Visuals targeted by the light.
 

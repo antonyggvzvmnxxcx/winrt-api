@@ -12,6 +12,7 @@ public RenderTargetBitmap()
 ## -description
 Initializes a new instance of the [RenderTargetBitmap](rendertargetbitmap.md) class.
 
+
 ## -remarks
 
 ## -examples

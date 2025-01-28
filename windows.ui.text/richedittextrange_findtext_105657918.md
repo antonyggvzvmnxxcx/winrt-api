@@ -13,6 +13,8 @@ public int RichEditTextRange.FindText(String value, Int32 scanLength, FindOption
 
 Searches for a particular text string in a range and, if found, selects the string.
 
+
+
 ## -parameters
 ### -param value
 

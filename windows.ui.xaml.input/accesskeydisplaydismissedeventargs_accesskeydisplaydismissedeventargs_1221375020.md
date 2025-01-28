@@ -12,9 +12,10 @@ public AccessKeyDisplayDismissedEventArgs()
 ## -description
 Initializes a new instance of the [AccessKeyDisplayDismissedEventArgs](accesskeydisplaydismissedeventargs.md) class.
 
+
 ## -remarks
 
 ## -examples
 
 ## -see-also
-[Access keys](https://docs.microsoft.com/windows/uwp/design/input/access-keys)
+[Access keys](/windows/uwp/design/input/access-keys)

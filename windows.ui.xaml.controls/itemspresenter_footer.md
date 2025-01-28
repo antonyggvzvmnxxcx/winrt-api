@@ -12,13 +12,12 @@ public object Footer { get;  set; }
 ## -description
 Gets or sets the content for the items footer.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ItemsPresenter Footer="footerString"/>
-
-```
-
-```xaml
+- or -
 <ItemsPresenter>
   <ItemsPresenter.Footer>footerObject</ItemsPresenter.Footer>
 </ItemsPresenter>

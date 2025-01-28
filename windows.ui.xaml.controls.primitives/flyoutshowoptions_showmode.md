@@ -14,6 +14,8 @@ public IReference<FlyoutShowMode> ShowMode { get;  set; }
 
 Gets or sets a value that indicates how the flyout behaves when opened.
 
+
+
 ## -property-value
 
 A value of the enumeration that indicates how the flyout behaves when opened.

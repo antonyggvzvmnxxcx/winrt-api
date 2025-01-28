@@ -12,6 +12,7 @@ public BitmapImage(Windows.Foundation.Uri uriSource)
 ## -description
 Initializes a new instance of the [BitmapImage](bitmapimage.md) class, using the supplied Uniform Resource Identifier (URI).
 
+
 ## -parameters
 ### -param uriSource
 A reference to the image source file.

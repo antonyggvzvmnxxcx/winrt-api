@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IntermediateValueProperty { get; }
 ## -description
 Identifies the [IntermediateValue](slider_intermediatevalue.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IntermediateValue](slider_intermediatevalue.md) dependency property.
 

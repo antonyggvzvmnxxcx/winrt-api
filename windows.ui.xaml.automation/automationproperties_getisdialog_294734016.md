@@ -12,7 +12,9 @@ public bool AutomationProperties.GetIsDialog(DependencyObject element)
 
 ## -description
 
-Gets the value of the [AutomationProperties.IsDialog](/uwp/api/windows.ui.xaml.automation.automationproperties#xaml-attached-properties) attached property for the specified [DependencyObject](../windows.ui.xaml/dependencyobject.md).
+Gets the value of the [AutomationProperties.IsDialog](automationproperties_isdialog.md) attached property for the specified [DependencyObject](../windows.ui.xaml/dependencyobject.md).
+
+
 
 ## -parameters
 
@@ -28,5 +30,6 @@ The object to check.
 
 ## -see-also
 
-## -examples
+[AutomationProperties.IsDialog](automationproperties_isdialog.md), [Attached properties overview](/windows/uwp/xaml-platform/attached-properties-overview)
 
+## -examples

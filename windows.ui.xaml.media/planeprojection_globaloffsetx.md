@@ -12,6 +12,8 @@ public double GlobalOffsetX { get;  set; }
 ## -description
 Gets or sets the distance that the object is translated along the x-axis of the screen.
 
+
+
 ## -xaml-syntax
 ```xaml
 <PlaneProjection GlobalOffsetX="double"/>

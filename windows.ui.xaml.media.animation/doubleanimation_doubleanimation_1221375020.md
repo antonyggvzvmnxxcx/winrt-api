@@ -12,6 +12,7 @@ public DoubleAnimation()
 ## -description
 Initializes a new instance of the [DoubleAnimation](doubleanimation.md) class.
 
+
 ## -remarks
 
 ## -examples

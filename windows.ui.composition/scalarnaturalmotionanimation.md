@@ -13,6 +13,8 @@ public class ScalarNaturalMotionAnimation : NaturalMotionAnimation, NaturalMotio
 
 The base Scalar NaturalMotionAnimation used to target a Scalar property.
 
+
+
 ## -remarks
 
 ## -see-also

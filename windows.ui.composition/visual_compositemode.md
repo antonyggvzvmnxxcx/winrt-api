@@ -12,6 +12,8 @@ public Windows.UI.Composition.CompositionCompositeMode CompositeMode { get;  set
 ## -description
 Specifies how a visual's bitmap is blended with the screen.
 
+
+
 ## -property-value
 How a visual's bitmap is blended with the screen.
 

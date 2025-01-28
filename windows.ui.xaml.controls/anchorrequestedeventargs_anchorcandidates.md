@@ -14,6 +14,8 @@ public IVector<UIElement> AnchorCandidates { get; }
 
 Gets the set of anchor candidates that are currently registered with the scrolling control (for example, ScrollViewer).
 
+
+
 ## -property-value
 
 A list of [UIElement](../windows.ui.xaml/uielement.md) anchor candidates.
@@ -22,7 +24,6 @@ A list of [UIElement](../windows.ui.xaml/uielement.md) anchor candidates.
 
 ## -see-also
 
-- [IScrollAnchorProvider](iscrollanchorprovider.md)
-- [ScrollViewer.AnchorRequested](scrollviewer_anchorrequested.md)
+[IScrollAnchorProvider](iscrollanchorprovider.md), [ScrollViewer.AnchorRequested](scrollviewer_anchorrequested.md)
 
 ## -examples

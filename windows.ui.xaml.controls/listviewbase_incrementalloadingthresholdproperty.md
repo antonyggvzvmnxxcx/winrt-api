@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IncrementalLoadingThresholdProperty { 
 ## -description
 Identifies the [IncrementalLoadingThreshold](listviewbase_incrementalloadingthreshold.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IncrementalLoadingThreshold](listviewbase_incrementalloadingthreshold.md) dependency property.
 

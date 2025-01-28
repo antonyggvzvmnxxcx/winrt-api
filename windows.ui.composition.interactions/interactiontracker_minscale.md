@@ -12,6 +12,8 @@ public float MinScale { get;  set; }
 ## -description
 The minimum scale for the [InteractionTracker](interactiontracker.md).
 
+
+
 ## -property-value
 The minimum scale for the [InteractionTracker](interactiontracker.md).
 

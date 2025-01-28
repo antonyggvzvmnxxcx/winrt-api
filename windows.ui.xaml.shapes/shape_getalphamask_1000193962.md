@@ -12,6 +12,8 @@ public Windows.UI.Composition.CompositionBrush GetAlphaMask()
 ## -description
 Returns a mask that represents the alpha channel of a XAML shape as a [CompositionBrush](../windows.ui.composition/compositionbrush.md).
 
+
+
 ## -returns
 A mask that represents the alpha channel of a XAML shape.
 

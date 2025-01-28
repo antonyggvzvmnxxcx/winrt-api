@@ -6,7 +6,10 @@
 # Windows.UI.Xaml.Resources
 
 ## -description
+
 Contains [CustomXamlResourceLoader](customxamlresourceloader.md), which enables loading of custom resource dictionaries as sources.
+
+
 
 ## -remarks
 

@@ -12,6 +12,8 @@ public Windows.UI.Composition.QuaternionKeyFrameAnimation CreateQuaternionKeyFra
 ## -description
 Creates an instance of [QuaternionKeyFrameAnimation](quaternionkeyframeanimation.md).
 
+
+
 ## -returns
 Returns the created [QuaternionKeyFrameAnimation](quaternionkeyframeanimation.md) object.
 

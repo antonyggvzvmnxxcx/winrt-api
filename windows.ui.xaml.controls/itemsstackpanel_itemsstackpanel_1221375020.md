@@ -12,6 +12,7 @@ public ItemsStackPanel()
 ## -description
 Initializes a new instance of the [ItemsStackPanel](itemsstackpanel.md) class.
 
+
 ## -remarks
 
 ## -examples

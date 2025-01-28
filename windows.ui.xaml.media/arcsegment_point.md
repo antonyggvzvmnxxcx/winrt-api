@@ -12,6 +12,8 @@ public Windows.Foundation.Point Point { get;  set; }
 ## -description
 Gets or sets the endpoint of the elliptical arc.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ArcSegment Point="x,y"/>

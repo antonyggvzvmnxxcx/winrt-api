@@ -12,6 +12,7 @@ public bool IsPreviousTrackButtonVisible { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the previous track button is shown.
 
+
 ## -xaml-syntax
 ```xaml
 

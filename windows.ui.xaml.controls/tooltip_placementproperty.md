@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty PlacementProperty { get; }
 ## -description
 Identifies the [Placement](tooltip_placement.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Placement](tooltip_placement.md) dependency property.
 

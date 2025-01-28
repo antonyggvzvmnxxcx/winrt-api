@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TargetNameProperty { get; }
 ## -description
 Identifies the [TargetName](dragitemthemeanimation_targetname.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [TargetName](dragitemthemeanimation_targetname.md) dependency property.
 
@@ -20,4 +22,4 @@ The identifier for the [TargetName](dragitemthemeanimation_targetname.md) depend
 ## -examples
 
 ## -see-also
-[Animating drag-and-drop sequences](https://docs.microsoft.com/previous-versions/windows/apps/jj649427(v=win.10)), [Guidelines and checklist for drag-and-drop animations](https://docs.microsoft.com/windows/uwp/style/motion-dragdrop)
+[Animating drag-and-drop sequences](/previous-versions/windows/apps/jj649427(v=win.10)), [Guidelines and checklist for drag-and-drop animations](/windows/uwp/style/motion-dragdrop)

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty PixelWidthProperty { get; }
 ## -description
 Identifies the [PixelWidth](bitmapsource_pixelwidth.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [PixelWidth](bitmapsource_pixelwidth.md) dependency property.
 

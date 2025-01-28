@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty FillPatternStyleProperty { 
 ## -description
 Identifies the [FillPatternStyle](../windows.ui.xaml.automation.provider/istylesprovider_fillpatternstyle.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

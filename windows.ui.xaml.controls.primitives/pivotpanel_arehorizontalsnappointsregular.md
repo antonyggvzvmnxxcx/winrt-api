@@ -12,6 +12,8 @@ public bool AreHorizontalSnapPointsRegular { get; }
 ## -description
 This property is reserved for internal use and is not intended to be used in your code.
 
+
+
 ## -property-value
 Reserved.
 

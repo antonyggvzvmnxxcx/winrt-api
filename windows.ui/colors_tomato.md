@@ -13,6 +13,8 @@ public Windows.UI.Color Tomato { get; }
 
 Gets the system-defined color that has an ARGB value of #FFFF6347.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFFF6347.

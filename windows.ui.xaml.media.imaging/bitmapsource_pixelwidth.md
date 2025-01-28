@@ -12,6 +12,8 @@ public int PixelWidth { get; }
 ## -description
 Gets the width of the bitmap in pixels.
 
+
+
 ## -property-value
 The width of the bitmap in pixels.
 

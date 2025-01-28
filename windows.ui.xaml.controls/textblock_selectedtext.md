@@ -14,6 +14,8 @@ public string SelectedText { get; }
 
 Gets a text range of selected text.
 
+
+
 ## -property-value
 
 A text range of the selected text.

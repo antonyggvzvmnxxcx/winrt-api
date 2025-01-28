@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty HorizontalSnapPointsAlignmentProperty 
 ## -description
 Identifies the [HorizontalSnapPointsAlignment](scrollviewer_horizontalsnappointsalignment.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [HorizontalSnapPointsAlignment](scrollviewer_horizontalsnappointsalignment.md) dependency property.
 

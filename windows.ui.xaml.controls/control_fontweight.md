@@ -12,6 +12,8 @@ public Windows.UI.Text.FontWeight FontWeight { get;  set; }
 ## -description
 Gets or sets the thickness of the specified font.
 
+
+
 ## -xaml-syntax
 ```xaml
 <control FontWeight="fontWeightMemberName"/>

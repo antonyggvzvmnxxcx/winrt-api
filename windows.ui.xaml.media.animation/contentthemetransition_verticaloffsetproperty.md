@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty VerticalOffsetProperty { get; }
 ## -description
 Identifies the [VerticalOffset](contentthemetransition_verticaloffset.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [VerticalOffset](contentthemetransition_verticaloffset.md) dependency property.
 

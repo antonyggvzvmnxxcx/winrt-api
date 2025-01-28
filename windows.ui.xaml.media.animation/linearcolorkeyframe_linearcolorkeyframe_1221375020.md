@@ -12,6 +12,7 @@ public LinearColorKeyFrame()
 ## -description
 Initializes a new instance of the [LinearColorKeyFrame](linearcolorkeyframe.md) class.
 
+
 ## -remarks
 
 ## -examples

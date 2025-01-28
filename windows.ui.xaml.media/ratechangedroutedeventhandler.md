@@ -10,6 +10,7 @@ public delegate void RateChangedRoutedEventHandler(System.Object sender, Windows
 ## -description
 Represents the method that will handle the [RateChanged](../windows.ui.xaml.controls/mediaelement_ratechanged.md) event. This event fires when [PlaybackRate](../windows.ui.xaml.controls/mediaelement_playbackrate.md) or [DefaultPlaybackRate](../windows.ui.xaml.controls/mediaelement_defaultplaybackrate.md) change either via user interaction or from code.
 
+
 ## -parameters
 ### -param sender
 The object where the handler is attached.

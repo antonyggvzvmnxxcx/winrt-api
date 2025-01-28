@@ -14,6 +14,8 @@ public CompositionProjectedShadowReceiver Compositor.CreateProjectedShadowReceiv
 
 Creates an instance of [CompositionProjectedShadowReceiver](compositionprojectedshadowreceiver.md).
 
+
+
 ## -returns
 
 Returns the created [CompositionProjectedShadowReceiver](compositionprojectedshadowreceiver.md) object.

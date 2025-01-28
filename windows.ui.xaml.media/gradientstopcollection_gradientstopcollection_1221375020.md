@@ -12,6 +12,7 @@ public GradientStopCollection()
 ## -description
 Initializes a new instance of the [GradientStopCollection](gradientstopcollection.md) class.
 
+
 ## -remarks
 
 ## -examples

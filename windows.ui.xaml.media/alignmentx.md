@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Media.AlignmentX : int
 ## -description
 Describes how content is positioned horizontally in a container.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object property="enumMemberName"/>

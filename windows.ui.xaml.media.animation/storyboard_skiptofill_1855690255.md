@@ -12,6 +12,8 @@ public void SkipToFill()
 ## -description
 Advances the current time of the storyboard's clock to the end of its active period.
 
+
+
 ## -remarks
 If you call this method on an animation that doesn't have a [FillBehavior](timeline_fillbehavior.md) value of **HoldEnd**, this has the same effect as calling [Stop](storyboard_stop_1201535524.md).
 
@@ -23,4 +25,4 @@ This method is mainly relevant for methods that are playing or paused, and which
 ## -examples
 
 ## -see-also
-[FillBehavior](timeline_fillbehavior.md), [Storyboarded animations](https://docs.microsoft.com/windows/uwp/graphics/storyboarded-animations)
+[FillBehavior](timeline_fillbehavior.md), [Storyboarded animations](/windows/uwp/graphics/storyboarded-animations)

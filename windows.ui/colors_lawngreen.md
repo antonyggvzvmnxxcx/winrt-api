@@ -13,6 +13,8 @@ public Windows.UI.Color LawnGreen { get; }
 
 Gets the system-defined color that has an ARGB value of #FF7CFC00.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FF7CFC00.

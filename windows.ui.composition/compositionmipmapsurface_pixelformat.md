@@ -14,6 +14,8 @@ public DirectXPixelFormat PixelFormat { get; }
 
 Gets the pixel format of the mipmap surface.
 
+
+
 ## -property-value
 
 The pixel format of the mipmap surface.

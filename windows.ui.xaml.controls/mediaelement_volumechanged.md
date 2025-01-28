@@ -12,6 +12,7 @@ public event Windows.UI.Xaml.RoutedEventHandler VolumeChanged
 ## -description
 Occurs when the value of the [Volume](mediaelement_volume.md) property changes.
 
+
 ## -xaml-syntax
 ```xaml
 <MediaElement VolumeChanged="eventhandler" />

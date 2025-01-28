@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty IsAudioOnlyProperty { get; }
 ## -description
 Identifies the [IsAudioOnly](mediaelement_isaudioonly.md) dependency property.
 
+
 ## -property-value
 The identifier for the [IsAudioOnly](mediaelement_isaudioonly.md) dependency property.
 

@@ -12,12 +12,12 @@ public object OnContent { get;  set; }
 ## -description
 Provides the object content that should be displayed using the [OnContentTemplate](toggleswitch_oncontenttemplate.md) when this [ToggleSwitch](toggleswitch.md) has state of "On".
 
+
+
 ## -xaml-syntax
 ```xaml
 <ToggleSwitch OnContent="stringContent"/>
-```
-
-```xaml
+- or -
 <ToggleSwitch>
   <ToggleSwitch.OnContent>
     singleContentElement

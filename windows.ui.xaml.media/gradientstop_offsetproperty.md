@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty OffsetProperty { get; }
 ## -description
 Identifies the [Offset](gradientstop_offset.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Offset](gradientstop_offset.md) dependency property.
 

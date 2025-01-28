@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty CanMoveProperty { get; }
 ## -description
 Identifies the [CanMove](../windows.ui.xaml.automation.provider/itransformprovider_canmove.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

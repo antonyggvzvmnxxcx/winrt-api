@@ -13,6 +13,8 @@ public float GlobalPlaybackRate { get;  set; }
 
 Gets or sets the rate at which animation plays for all KeyFrame animations created by this compositor.
 
+
+
 ## -property-value
 
 The rate at which animation plays for all animations created by this compositor.

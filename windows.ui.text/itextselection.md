@@ -12,6 +12,8 @@ public interface ITextSelection : Windows.UI.Text.ITextRange
 ## -description
 Represents the currently selected text of a document.
 
+
+
 ## -remarks
 ### Interface inheritance
 

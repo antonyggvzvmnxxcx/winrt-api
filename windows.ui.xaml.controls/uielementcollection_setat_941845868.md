@@ -12,6 +12,7 @@ public void SetAt(System.UInt32 index, Windows.UI.Xaml.UIElement value)
 ## -description
 Sets the value at the specified index to the [UIElement](../windows.ui.xaml/uielement.md) value specified.
 
+
 ## -parameters
 ### -param index
 The index at which to set the value.
@@ -20,7 +21,7 @@ The index at which to set the value.
 The value to set.
 
 ## -remarks
-If you are programming using C# or Microsoft Visual Basic, see [Item (indexer)](/uwp/api/windows.ui.xaml.controls.uielementcollection.item).
+If you are programming using C# or Microsoft Visual Basic, see [Item (indexer)](/office/vba/Language/Reference/User-Interface-Help/item-method-visual-basic-for-applications).
 
 ## -examples
 

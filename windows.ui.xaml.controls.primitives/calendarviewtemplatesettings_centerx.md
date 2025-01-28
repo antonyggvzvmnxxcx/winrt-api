@@ -12,6 +12,8 @@ public double CenterX { get; }
 ## -description
 Gets the X coordinate of the [CalendarView](../windows.ui.xaml.controls/calendarview.md)'s center point.
 
+
+
 ## -property-value
 The X coordinate of the [CalendarView](../windows.ui.xaml.controls/calendarview.md)'s center point.
 

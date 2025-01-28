@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty OpenPaneLengthProperty { get; }
 ## -description
 Identifies the  [OpenPaneLength](splitview_openpanelength.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [OpenPaneLength](splitview_openpanelength.md)  dependency property.
 
@@ -20,4 +22,4 @@ The identifier for the [OpenPaneLength](splitview_openpanelength.md)  dependenc
 ## -examples
 
 ## -see-also
-[OpenPaneLength](splitview_openpanelength.md), [Dependency properties overview](https://docs.microsoft.com/windows/uwp/xaml-platform/dependency-properties-overview)
+[OpenPaneLength](splitview_openpanelength.md), [Dependency properties overview](/windows/uwp/xaml-platform/dependency-properties-overview)

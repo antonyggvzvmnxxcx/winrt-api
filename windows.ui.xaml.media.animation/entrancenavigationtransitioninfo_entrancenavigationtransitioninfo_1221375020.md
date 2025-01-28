@@ -12,6 +12,7 @@ public EntranceNavigationTransitionInfo()
 ## -description
 Initializes a new instance of the [EntranceNavigationTransitionInfo](entrancenavigationtransitioninfo.md) class.
 
+
 ## -remarks
 
 ## -examples

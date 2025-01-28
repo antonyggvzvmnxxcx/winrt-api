@@ -12,6 +12,8 @@ public class RangeBaseValueChangedEventArgs : Windows.UI.Xaml.RoutedEventArgs, W
 ## -description
 Provides data about a change in range value for the [ValueChanged](rangebase_valuechanged.md) event.
 
+
+
 ## -remarks
 
 ## -examples

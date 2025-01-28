@@ -12,6 +12,7 @@ public SolidColorBrush(Windows.UI.Color color)
 ## -description
 Initializes a new instance of the [SolidColorBrush](solidcolorbrush.md) class with the specified [Color](../windows.ui/color.md).
 
+
 ## -parameters
 ### -param color
 The color to apply to the brush.

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty PowerProperty { get; }
 ## -description
 Identifies the [Power](powerease_power.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Power](powerease_power.md) dependency property.
 

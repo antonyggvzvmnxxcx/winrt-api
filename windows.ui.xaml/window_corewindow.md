@@ -12,6 +12,8 @@ public Windows.UI.Core.CoreWindow CoreWindow { get; }
 ## -description
 Gets an internal *core* object for the application window.
 
+
+
 ## -property-value
 A **CoreWindow** object.
 

@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty DataProperty { get; }
 ## -description
 Identifies the [Data](pathicon_data.md) dependency property.
 
+
 ## -property-value
 The identifier for the [Data](pathicon_data.md) dependency property.
 

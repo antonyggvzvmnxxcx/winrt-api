@@ -12,8 +12,10 @@ public class ContentDialogButtonClickDeferral : Windows.UI.Xaml.Controls.IConten
 ## -description
 Represents a deferral that can be used by an app to respond asynchronously to a button click event.
 
+
+
 ## -remarks
-You can get an instance of this class by calling [ContentDialogButtonClickEventArgs.GetDeferral](contentdialogbuttonclickeventargs_getdeferral_1807836922.md).
+You can get an instance of this class by calling [ContentDialogButtonClickEventArgs.GetDeferral](contentdialogbuttonclickeventargs_getdeferral_254836512.md).
 
 ## -examples
 

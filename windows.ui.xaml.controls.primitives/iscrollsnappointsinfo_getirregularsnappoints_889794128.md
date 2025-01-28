@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IVectorView<float> GetIrregularSnapPoints(
 ## -description
 Returns the set of distances between irregular snap points for a specified orientation and alignment.
 
+
+
 ## -parameters
 ### -param orientation
 The orientation/dimension for the desired snap point set.

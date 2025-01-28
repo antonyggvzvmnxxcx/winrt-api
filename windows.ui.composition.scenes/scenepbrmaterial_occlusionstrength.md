@@ -14,6 +14,8 @@ public float OcclusionStrength { get;  set; }
 
 Gets or sets the occlusion strength.
 
+
+
 ## -property-value
 
 The occlusion strength.

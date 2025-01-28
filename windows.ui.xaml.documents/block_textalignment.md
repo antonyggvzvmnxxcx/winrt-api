@@ -12,6 +12,8 @@ public Windows.UI.Xaml.TextAlignment TextAlignment { get;  set; }
 ## -description
 Gets or sets the horizontal alignment of the text content.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Paragraph TextAlignment="textAlignmentMemberName"/>

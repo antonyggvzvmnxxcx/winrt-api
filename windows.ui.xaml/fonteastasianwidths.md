@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.FontEastAsianWidths : int
 ## -description
 Provides a mechanism for selecting glyphs of different width styles.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object property="enumMemberName"/>
@@ -40,7 +42,7 @@ Replaces uniform width glyphs with one-third width (one-third em) glyphs.
 
 
 ## -remarks
-This enumeration is used by the [Typography.EastAsianWidths](/uwp/api/windows.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+This enumeration is used by the [Typography.EastAsianWidths](/uwp/api/windows.ui.xaml.documents.typography.eastasianwidths) attached property.
 
 ## -examples
 

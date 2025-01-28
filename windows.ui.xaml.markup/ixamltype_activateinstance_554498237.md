@@ -12,6 +12,8 @@ public object ActivateInstance()
 ## -description
 Given a XAML type, sets its values for initialization and returns a usable instance.
 
+
+
 ## -returns
 The usable instance.
 

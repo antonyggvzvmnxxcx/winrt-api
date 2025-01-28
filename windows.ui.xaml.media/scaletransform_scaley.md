@@ -12,6 +12,8 @@ public double ScaleY { get;  set; }
 ## -description
 Gets or sets the y-axis scale factor.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ScaleTransform ScaleY="double"/>

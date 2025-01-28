@@ -12,6 +12,8 @@ public uint Size { get; }
 ## -description
 The size of the collection.
 
+
+
 ## -property-value
 The size of the collection.
 

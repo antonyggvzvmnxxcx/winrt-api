@@ -12,6 +12,8 @@ public object CreateFromString(System.String value)
 ## -description
 Creates a type system representation based on a string. The main scenario for this usage is creating an enumeration value and mapping the appropriate enumeration.
 
+
+
 ## -parameters
 ### -param value
 The string to create from.

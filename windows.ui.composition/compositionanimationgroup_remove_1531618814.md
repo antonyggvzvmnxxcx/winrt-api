@@ -12,6 +12,8 @@ public void Remove(Windows.UI.Composition.CompositionAnimation value)
 ## -description
 Removes an animation from the animation group.
 
+
+
 ## -parameters
 ### -param value
 The animation to remove from the group.

@@ -12,6 +12,7 @@ public ContentThemeTransition()
 ## -description
 Initializes a new instance of the [ContentThemeTransition](contentthemetransition.md) class.
 
+
 ## -remarks
 
 ## -examples

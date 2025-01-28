@@ -12,6 +12,8 @@ public Windows.UI.Composition.CompositionColorBrush CreateColorBrush(Windows.UI.
 ## -description
 Creates an instance of [CompositionColorBrush](compositioncolorbrush.md) using the specified color.
 
+
+
 ## -parameters
 ### -param color
 The color for the brush to use.

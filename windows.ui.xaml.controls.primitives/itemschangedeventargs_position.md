@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.Primitives.GeneratorPosition Position { get; }
 ## -description
 Gets the position in the collection where the change occurred.
 
+
+
 ## -property-value
 Returns a [GeneratorPosition](generatorposition.md).
 

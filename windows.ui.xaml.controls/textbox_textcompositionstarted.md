@@ -13,6 +13,8 @@ public event Windows.Foundation.TypedEventHandler TextCompositionStarted<Windows
 
 Occurs when a user starts composing text through an Input Method Editor (IME).
 
+
+
 ## -xaml-syntax
 
 ```xaml
@@ -23,7 +25,7 @@ Occurs when a user starts composing text through an Input Method Editor (IME).
 
 For event data, see [TextCompositionStartedEventArgs](textcompositionstartedeventargs.md).
 
-This event occurs only when text is composed through an [Input Method Editor (IME)](https://docs.microsoft.com/previous-versions/windows/apps/hh967427(v=win.10)). Text composition events occur in the following order:
+This event occurs only when text is composed through an [Input Method Editor (IME)](/previous-versions/windows/apps/hh967427(v=win.10)). Text composition events occur in the following order:
 
 + TextCompositionStarted
 + [TextChanging](textbox_textchanging.md)
@@ -37,4 +39,4 @@ After the TextCompositionStarted event, the [TextChanging](textbox_textchanging.
 
 ## -see-also
 
-[TextCompositionStartedEventArgs](textcompositionstartedeventargs.md), [Input Method Editor (IME)](https://docs.microsoft.com/previous-versions/windows/apps/hh967427(v=win.10))
+[TextCompositionStartedEventArgs](textcompositionstartedeventargs.md), [Input Method Editor (IME)](/previous-versions/windows/apps/hh967427(v=win.10))

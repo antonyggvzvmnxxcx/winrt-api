@@ -12,6 +12,7 @@ public void AddVideoEffect(System.String effectID, System.Boolean effectOptional
 ## -description
 Applies a video effect to playback. Takes effect for the next source that is set on this [MediaElement](mediaelement.md).
 
+
 ## -parameters
 ### -param effectID
 The identifier for the desired effect.

@@ -12,6 +12,7 @@ public AutomationAnnotation()
 ## -description
 Initializes a new instance of the  class.
 
+
 ## -remarks
 
 ## -examples

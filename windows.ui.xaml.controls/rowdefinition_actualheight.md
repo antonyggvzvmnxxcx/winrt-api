@@ -12,6 +12,8 @@ public double ActualHeight { get; }
 ## -description
 Gets a value that represents the calculated height of the [RowDefinition](rowdefinition.md).
 
+
+
 ## -property-value
 A value that represents the calculated height in pixels. The default value is 0.
 

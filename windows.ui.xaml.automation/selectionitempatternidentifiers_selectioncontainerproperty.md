@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty SelectionContainerProperty 
 ## -description
 Identifies the [SelectionContainer](../windows.ui.xaml.automation.provider/iselectionitemprovider_selectioncontainer.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

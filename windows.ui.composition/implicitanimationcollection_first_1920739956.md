@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IIterator<Windows.Foundation.Collections.I
 ## -description
 Retrieves the first animation in the collection.
 
+
+
 ## -returns
 Retrieves the first animation in the collection.
 

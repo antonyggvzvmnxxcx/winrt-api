@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Provider.IRawElementProviderSimple[] GetColumn
 ## -description
 Returns a collection of UI Automation providers that represents all the column headers in a table.
 
+
+
 ## -returns
 An array of UI Automation providers.
 

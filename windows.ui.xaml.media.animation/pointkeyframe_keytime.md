@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Animation.KeyTime KeyTime { get;  set; }
 ## -description
 Gets or sets the time at which the key frame's target [Value](pointkeyframe_value.md) should be reached.
 
+
+
 ## -xaml-syntax
 ```xaml
 <pointKeyFrame KeyTime="keyTimeString"/>

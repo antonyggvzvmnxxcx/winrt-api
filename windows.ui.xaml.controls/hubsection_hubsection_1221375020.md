@@ -12,6 +12,7 @@ public HubSection()
 ## -description
 Initializes a new instance of the [HubSection](hubsection.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.UIElement Pane { get;  set; }
 ## -description
 Gets or sets the contents of the pane of a [SplitView](splitview.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <SplitView>

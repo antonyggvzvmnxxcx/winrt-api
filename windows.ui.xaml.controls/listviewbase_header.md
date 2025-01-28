@@ -12,13 +12,12 @@ public object Header { get;  set; }
 ## -description
 Gets or sets the content for the list header.
 
+
+
 ## -xaml-syntax
 ```xaml
 <listViewBase Header="headerString"/>
-
-```
-
-```xaml
+- or -
 <listViewBase>
   <listViewBase.Header>
     headerObject

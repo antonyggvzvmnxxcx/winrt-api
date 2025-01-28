@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty OpacityProperty { get; }
 ## -description
 Identifies the [IsHitTestVisible](uielement_ishittestvisible.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsHitTestVisible](uielement_ishittestvisible.md) dependency property.
 

@@ -12,6 +12,7 @@ public PolyBezierSegment()
 ## -description
 Initializes a new instance of the [PolyBezierSegment](polybeziersegment.md) class.
 
+
 ## -remarks
 
 ## -examples

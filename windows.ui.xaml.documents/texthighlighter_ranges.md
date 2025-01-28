@@ -13,6 +13,8 @@ public IVector<TextRange> Ranges { get; }
 
 Gets the text ranges to highlight.
 
+
+
 ## -property-value
 
 The collection of text ranges to highlight.

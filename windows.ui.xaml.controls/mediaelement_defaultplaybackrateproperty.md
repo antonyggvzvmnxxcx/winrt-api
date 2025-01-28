@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty DefaultPlaybackRateProperty { get; }
 ## -description
 Identifies the [DefaultPlaybackRate](mediaelement_defaultplaybackrate.md)  dependency property.
 
+
 ## -property-value
 The identifier for the [DefaultPlaybackRate](mediaelement_defaultplaybackrate.md) dependency property.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty UnderlineStyleProperty { get; }
 ## -description
 Identifies the [UnderlineStyle](hyperlink_underlinestyle.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [UnderlineStyle](hyperlink_underlinestyle.md) dependency property.
 

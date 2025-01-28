@@ -12,6 +12,8 @@ public Windows.UI.Xaml.FlowDirection FlowDirection { get;  set; }
 ## -description
 Gets or sets the direction that text and other user interface elements flow within the [Run](run.md) element that controls their layout.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Run FlowDirection="LeftToRight"/>

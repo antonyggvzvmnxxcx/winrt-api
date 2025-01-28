@@ -12,6 +12,8 @@ public Windows.UI.Xaml.TextWrapping TextWrapping { get;  set; }
 ## -description
 Gets or sets how the element wraps text.
 
+
+
 ## -property-value
 A value that indicates how the element wraps text. The default is **NoWrap**.
 

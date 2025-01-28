@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.PointCollection Points { get;  set; }
 ## -description
 Gets or sets a collection that contains the vertex points of the polygon.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Polygon Points="pointSet"/>

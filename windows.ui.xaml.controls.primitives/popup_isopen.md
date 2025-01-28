@@ -12,6 +12,8 @@ public bool IsOpen { get;  set; }
 ## -description
 Gets or sets whether the popup is currently displayed on the screen.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Popup IsOpen="bool" />

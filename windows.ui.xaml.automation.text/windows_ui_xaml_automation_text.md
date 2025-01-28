@@ -8,6 +8,7 @@
 ## -description
 Contains enumerations that report specifics about text automation patterns.
 
+
 ## -remarks
 
 ## -examples

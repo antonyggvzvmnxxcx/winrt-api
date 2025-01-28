@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.ListViewBaseHeaderItem GroupHeaderContainer { ge
 ## -description
 Gets or sets the UI container that will be used to display the current data group.
 
+
+
 ## -property-value
 The UI container that will be used to display the current data group.
 

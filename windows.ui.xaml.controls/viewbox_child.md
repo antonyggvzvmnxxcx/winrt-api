@@ -12,6 +12,8 @@ public Windows.UI.Xaml.UIElement Child { get;  set; }
 ## -description
 Gets or sets the single child element of a [Viewbox](viewbox.md) element.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ViewBox ...>

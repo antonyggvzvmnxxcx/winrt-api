@@ -12,6 +12,8 @@ public class GetPreviewPageEventArgs : Windows.UI.Xaml.Printing.IGetPreviewPageE
 ## -description
 Provides event data for the [GetPreviewPage](printdocument_getpreviewpage.md) event.
 
+
+
 ## -remarks
 
 ## -examples

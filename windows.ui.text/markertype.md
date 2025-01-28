@@ -12,6 +12,8 @@ public enum Windows.UI.Text.MarkerType : int
 ## -description
 Specifies the kind of characters used to mark the item paragraphs in a list.
 
+
+
 ## -enum-fields
 ### -field Undefined:0
 The list type is not defined.

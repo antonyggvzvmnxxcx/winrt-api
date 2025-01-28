@@ -12,6 +12,8 @@ public void Start()
 ## -description
 Starts the [DispatcherTimer](dispatchertimer.md).
 
+
+
 ## -remarks
 If the timer has already started, then it is restarted.
 

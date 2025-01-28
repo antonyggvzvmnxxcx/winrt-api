@@ -14,6 +14,8 @@ public Visual CastingVisual { get;  set; }
 
 Gets or sets the Visual that casts the shadow.
 
+
+
 ## -property-value
 
 The Visual that casts the shadow.

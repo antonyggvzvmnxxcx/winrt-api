@@ -12,6 +12,8 @@ public string ContentTargetName { get;  set; }
 ## -description
 Gets or sets the identifying name of the UI element that will be translated. Typically this is a child/part of the element identified by [OpenedTargetName](splitopenthemeanimation_openedtargetname.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <SplitOpenThemeAnimation ContentTargetName="nameString" />

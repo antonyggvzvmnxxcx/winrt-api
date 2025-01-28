@@ -12,6 +12,8 @@ public Windows.UI.Composition.ICompositionSurface Surface { get;  set; }
 ## -description
 The [ICompositionSurface](icompositionsurface.md) associated with the [CompositionSurfaceBrush](compositionsurfacebrush.md).
 
+
+
 ## -property-value
 The composition surface associated with the [CompositionSurfaceBrush](compositionsurfacebrush.md).
 

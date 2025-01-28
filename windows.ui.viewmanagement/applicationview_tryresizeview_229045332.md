@@ -31,7 +31,7 @@ The resize request has no effect and the method returns false in these cases:
 
 + The requested size is larger than the available work area.
 + The requested size is less than the view's minimum size. (See [SetPreferredMinSize](applicationview_setpreferredminsize_991571047.md).)
-+ This method is called while the app is running in Tablet Mode.
++ This method is called while the app is running in [Tablet mode (Windows 10 only)](/windows-hardware/design/device-experiences/continuum).
 
 
 We recommend that you not begin any layout work until the window's [SizeChanged](../windows.ui.core/corewindow_sizechanged.md) event occurs. This avoids two different layout passes (one that happens immediately after TryResizeView and then another when the [SizeChanged](../windows.ui.core/corewindow_sizechanged.md) event occurs).
@@ -39,5 +39,5 @@ We recommend that you not begin any layout work until the window's [SizeChanged]
 ## -examples
 
 ## -see-also
-[Window resizing sample](https://go.microsoft.com/fwlink/p/?LinkId=620026), [
-      Responsive design 101 for ](https://docs.microsoft.com/windows/uwp/layout/screen-sizes-and-breakpoints-for-responsive-design)
+[Window resizing sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/ResizeAppView), [
+      Responsive design 101 for ](/windows/uwp/layout/screen-sizes-and-breakpoints-for-responsive-design)

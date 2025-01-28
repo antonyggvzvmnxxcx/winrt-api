@@ -12,6 +12,8 @@ public class ChoosingItemContainerEventArgs : Windows.UI.Xaml.Controls.IChoosing
 ## -description
 Provides event data for the [ListViewBase.ChoosingItemContainer](listviewbase_choosingitemcontainer.md) event.
 
+
+
 ## -remarks
 
 ## -examples

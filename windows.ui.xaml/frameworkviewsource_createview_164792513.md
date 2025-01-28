@@ -12,6 +12,8 @@ public Windows.ApplicationModel.Core.IFrameworkView CreateView()
 ## -description
 Creates a [FrameworkView](frameworkview.md).
 
+
+
 ## -returns
 The created [FrameworkView](frameworkview.md).
 

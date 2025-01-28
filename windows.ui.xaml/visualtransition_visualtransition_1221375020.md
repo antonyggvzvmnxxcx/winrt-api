@@ -12,6 +12,7 @@ public VisualTransition()
 ## -description
 Initializes a new instance of the [VisualTransition](visualtransition.md) class.
 
+
 ## -remarks
 
 ## -examples

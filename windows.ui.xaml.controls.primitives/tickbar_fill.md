@@ -12,22 +12,17 @@ public Windows.UI.Xaml.Media.Brush Fill { get;  set; }
 ## -description
 Gets or sets the [Brush](../windows.ui.xaml.media/brush.md) that draws on the background area of the [TickBar](tickbar.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <TickBar Fill="{StaticResource resourceName}"/>
-
-```
-
-```xaml
+- or -
 <TickBar Fill="colorString"/>
-
-```
-
-```xaml
+- or -
 <TickBar>
   <TickBar.Fill>singleBrush<TickBar.Fill>
 </TickBar>
-
 ```
 
 

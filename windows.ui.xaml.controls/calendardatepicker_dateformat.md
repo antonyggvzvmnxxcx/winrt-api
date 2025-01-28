@@ -12,6 +12,8 @@ public string DateFormat { get;  set; }
 ## -description
 Gets or sets the display format for the date value in the picker's text box.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarDatePicker DateFormat="formatString"/>

@@ -12,6 +12,8 @@ public Windows.Foundation.IAsyncAction SetBitmapAsync(Windows.Graphics.Imaging.S
 ## -description
 Sets the source [SoftwareBitmap](../windows.graphics.imaging/softwarebitmap.md) to be used as an image source.
 
+
+
 ## -parameters
 ### -param softwareBitmap
 The [SoftwareBitmap](../windows.graphics.imaging/softwarebitmap.md) to be used as an image source.

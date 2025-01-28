@@ -12,6 +12,8 @@ public bool IsTopmost { get; }
 ## -description
 Gets a Boolean value indicating if the [ComboBox](../windows.ui.xaml.controls/combobox.md) control is topmost.
 
+
+
 ## -property-value
 A Boolean value indicating if the [ComboBox](../windows.ui.xaml.controls/combobox.md) control is topmost.
 

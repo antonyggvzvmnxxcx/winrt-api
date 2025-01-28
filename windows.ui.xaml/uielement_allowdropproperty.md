@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty AllowDropProperty { get; }
 ## -description
 Identifies the [AllowDrop](uielement_allowdrop.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [AllowDrop](uielement_allowdrop.md) dependency property.
 

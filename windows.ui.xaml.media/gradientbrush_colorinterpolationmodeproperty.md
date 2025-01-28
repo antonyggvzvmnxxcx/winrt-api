@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ColorInterpolationModeProperty { get; 
 ## -description
 Identifies the [ColorInterpolationMode](gradientbrush_colorinterpolationmode.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ColorInterpolationMode](gradientbrush_colorinterpolationmode.md) dependency property.
 

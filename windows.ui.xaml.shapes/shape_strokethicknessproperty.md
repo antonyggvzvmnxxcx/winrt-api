@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty StrokeThicknessProperty { get; }
 ## -description
 Identifies the [StrokeThickness](shape_strokethickness.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [StrokeThickness](shape_strokethickness.md) dependency property.
 

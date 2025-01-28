@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty SelectedIndexProperty { get; }
 ## -description
 Identifies the [SelectedIndex](selector_selectedindex.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [SelectedIndex](selector_selectedindex.md) dependency property.
 

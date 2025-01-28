@@ -12,6 +12,7 @@ public PartialMediaFailureDetectedEventArgs()
 ## -description
 Initializes a new instance of the [PartialMediaFailureDetectedEventArgs](partialmediafailuredetectedeventargs.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public bool IsOutOfScopeEnabled { get;  set; }
 ## -description
 Gets or sets a value that indicates whether out-of-scope calendar items are shown with a unique foreground color.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarView IsOutOfScopeEnabled="bool" .../>

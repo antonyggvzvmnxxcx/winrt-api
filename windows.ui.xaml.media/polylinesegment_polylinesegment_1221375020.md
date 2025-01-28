@@ -12,6 +12,7 @@ public PolyLineSegment()
 ## -description
 Initializes a new instance of the [PolyLineSegment](polylinesegment.md) class.
 
+
 ## -remarks
 
 ## -examples

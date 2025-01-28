@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Thickness Margin { get;  set; }
 ## -description
 Gets or sets the amount of space around a [Block](block.md) element.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Paragraph Margin="uniform"/>

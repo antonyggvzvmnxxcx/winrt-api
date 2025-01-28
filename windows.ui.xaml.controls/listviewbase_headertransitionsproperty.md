@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty HeaderTransitionsProperty { get; }
 ## -description
 Identifies the [HeaderTransitions](listviewbase_headertransitions.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [HeaderTransitions](listviewbase_headertransitions.md) dependency property.
 

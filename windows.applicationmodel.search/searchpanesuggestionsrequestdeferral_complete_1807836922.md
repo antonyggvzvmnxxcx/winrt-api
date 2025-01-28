@@ -10,11 +10,18 @@ public void Complete()
 # Windows.ApplicationModel.Search.SearchPaneSuggestionsRequestDeferral.Complete
 
 ## -description
-Signals that the app has finished populating a [searchSuggestionCollection](searchsuggestioncollection.md) object while handling the [suggestionsrequested](searchpane_suggestionsrequested.md) event.
+
+Signals that the app has finished populating a [SearchSuggestionCollection](searchsuggestioncollection.md) object while handling the [SuggestionsRequested](searchpane_suggestionsrequested.md) event.
 
 ## -remarks
+
+> [!IMPORTANT]
+> To implement search in an app for Windows 10 or later, use [AutoSuggestBox](/uwp/api/windows.ui.xaml.controls.autosuggestbox). See [Auto-suggest box](/windows/apps/design/controls/auto-suggest-box) for more info.
+>
+> You should not use [Windows.ApplicationModel.Search](/uwp/api/windows.applicationmodel.search) APIs ([SearchPane](/uwp/api/windows.applicationmodel.search.searchpane), `SearchContract`) or [SearchBox](../windows.ui.xaml.controls/searchbox.md) APIs in apps for Windows 10 or later.
 
 ## -examples
 
 ## -see-also
+
 [SearchPaneSuggestionsRequest.GetDeferral method](searchpanesuggestionsrequest_getdeferral_254836512.md), [SearchPaneSuggestionsRequestDeferral class](searchpanesuggestionsrequestdeferral.md)

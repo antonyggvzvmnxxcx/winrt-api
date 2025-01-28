@@ -12,6 +12,7 @@ protected SelectorItem()
 ## -description
 Provides base class initialization behavior for [SelectorItem](selectoritem.md)-derived classes.
 
+
 ## -remarks
 
 ## -examples

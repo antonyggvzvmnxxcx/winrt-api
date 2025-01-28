@@ -12,6 +12,8 @@ public bool IsEqual(Windows.UI.Text.ITextParagraphFormat format)
 ## -description
 Determines whether this paragraph format object has the same properties as the specified paragraph format object.
 
+
+
 ## -parameters
 ### -param format
 The paragraph format object to compare against.

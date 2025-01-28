@@ -14,6 +14,8 @@ public SceneWrappingMode WrappingVMode { get;  set; }
 
 Gets or sets a value that indicates how wrapping occurs on the V axis.
 
+
+
 ## -property-value
 
 A value that indicates how wrapping occurs on the V axis.

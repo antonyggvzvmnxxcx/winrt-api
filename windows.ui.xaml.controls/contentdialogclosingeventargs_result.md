@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.ContentDialogResult Result { get; }
 ## -description
 Gets the [ContentDialogResult](contentdialogresult.md) of the closing event.
 
+
+
 ## -property-value
 The [ContentDialogResult](contentdialogresult.md) of the closing event.
 

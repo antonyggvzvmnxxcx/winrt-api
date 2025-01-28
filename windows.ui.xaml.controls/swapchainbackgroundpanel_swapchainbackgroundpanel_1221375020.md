@@ -15,6 +15,7 @@ public SwapChainBackgroundPanel()
 
 Initializes a new instance of the [SwapChainBackgroundPanel](swapchainbackgroundpanel.md) class.
 
+
 ## -remarks
 
 ## -examples

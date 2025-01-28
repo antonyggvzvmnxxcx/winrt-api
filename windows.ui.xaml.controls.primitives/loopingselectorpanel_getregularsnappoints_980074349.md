@@ -12,6 +12,8 @@ public float GetRegularSnapPoints(Windows.UI.Xaml.Controls.Orientation orientati
 ## -description
 Returns a read-only collection of numbers that represent the regular snap points for the specified orientation.
 
+
+
 ## -parameters
 ### -param orientation
 The orientation of the requested snap points.

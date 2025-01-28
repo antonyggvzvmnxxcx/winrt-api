@@ -12,6 +12,8 @@ public bool GetIsHorizontalScrollChainingEnabled(Windows.UI.Xaml.DependencyObjec
 ## -description
 Gets the value of the [IsHorizontalScrollChainingEnabled](scrollviewer_ishorizontalscrollchainingenabled.md) dependency property / `ScrollViewer.IsHorizontalScrollChainingEnabled` XAML attached property from a specified element.
 
+
+
 ## -parameters
 ### -param element
 The element from which the property value is read.

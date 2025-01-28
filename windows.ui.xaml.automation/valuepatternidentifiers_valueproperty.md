@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty ValueProperty { get; }
 ## -description
 Identifies the [Value](../windows.ui.xaml.automation.provider/ivalueprovider_value.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

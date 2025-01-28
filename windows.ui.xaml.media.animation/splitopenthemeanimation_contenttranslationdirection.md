@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.Primitives.AnimationDirection ContentTranslation
 ## -description
 Gets or sets a value that determines which direction the content should translate when the animation runs.
 
+
+
 ## -xaml-syntax
 ```xaml
 <SplitOpenThemeAnimation ContentTranslationDirection="animationDirectionMemberName" />

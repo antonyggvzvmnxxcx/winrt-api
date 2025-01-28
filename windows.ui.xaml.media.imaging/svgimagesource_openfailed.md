@@ -12,6 +12,8 @@ public event TypedEventHandler OpenFailed<SvgImageSource, SvgImageSourceFailedEv
 ## -description
 Occurs when there is an error associated with SVG retrieval or format.
 
+
+
 ## -xaml-syntax
 ```xaml
 <SvgImageSource OpenFailed="eventhandler"/>

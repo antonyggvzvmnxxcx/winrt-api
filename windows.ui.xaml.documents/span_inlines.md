@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Documents.InlineCollection Inlines { get;  set; }
 ## -description
 Gets an [InlineCollection](inlinecollection.md) containing the top-level inline elements that include the contents of [Span](span.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <Span ...>

@@ -12,6 +12,7 @@ public FlipViewAutomationPeer(Windows.UI.Xaml.Controls.FlipView owner)
 ## -description
 Initializes a new instance of the [FlipViewAutomationPeer](flipviewautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [FlipView](../windows.ui.xaml.controls/flipview.md) to create the peer for.

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty LevelProperty { get; }
 ## -description
 Gets the identifier for the level automation property.
 
+
+
 ## -property-value
 The identifier for the level automation property.
 

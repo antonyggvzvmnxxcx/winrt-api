@@ -12,6 +12,8 @@ public int CurrentPreviewPageNumber { get; }
 ## -description
 Gets the 1-based page number of the current preview page.
 
+
+
 ## -property-value
 The page number.
 

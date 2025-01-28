@@ -12,6 +12,8 @@ public bool IsTextScaleFactorEnabled { get;  set; }
 ## -description
 Gets or sets whether automatic text enlargement, to reflect the system text size setting, is enabled.
 
+
+
 ## -xaml-syntax
 ```xaml
 <control IsTextScaleFactorEnabled="bool"/>
@@ -26,4 +28,4 @@ Gets or sets whether automatic text enlargement, to reflect the system text size
 ## -examples
 
 ## -see-also
-[Accessible text requirements](https://docs.microsoft.com/windows/uwp/accessibility/accessible-text-requirements)
+[Accessible text requirements](/windows/uwp/accessibility/accessible-text-requirements)

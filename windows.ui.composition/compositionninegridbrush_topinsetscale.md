@@ -12,6 +12,8 @@ public float TopInsetScale { get;  set; }
 ## -description
 Scale to be applied to TopInset. Defaults to 1.0f.
 
+
+
 ## -property-value
 Scale to be applied to TopInset. Defaults to 1.0f.
 

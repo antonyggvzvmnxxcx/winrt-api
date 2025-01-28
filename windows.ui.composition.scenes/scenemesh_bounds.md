@@ -14,6 +14,8 @@ public SceneBoundingBox Bounds { get; }
 
 Gets the bounds of the mesh.
 
+
+
 ## -property-value
 
 The bounds of the mesh.

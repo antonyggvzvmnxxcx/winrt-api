@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Provider.IRawElementProviderSimple[] GetSelect
 ## -description
 Retrieves a Microsoft UI Automation provider for each child element that is selected.
 
+
+
 ## -returns
 A generic list of Microsoft UI Automation providers.
 

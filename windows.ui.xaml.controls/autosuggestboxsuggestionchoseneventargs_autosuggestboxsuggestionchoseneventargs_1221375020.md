@@ -12,6 +12,7 @@ public AutoSuggestBoxSuggestionChosenEventArgs()
 ## -description
 Initializes a new instance of the [AutoSuggestBoxSuggestionChosenEventArgs](autosuggestboxsuggestionchoseneventargs.md) class.
 
+
 ## -remarks
 
 ## -examples

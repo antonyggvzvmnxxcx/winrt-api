@@ -13,6 +13,8 @@ public CompositionLinearGradientBrush Compositor.CreateLinearGradientBrush()
 
 Creates an instance of [CompositionLinearGradientBrush](compositionlineargradientbrush.md).
 
+
+
 ## -returns
 
 The created CompositionLinearGradientBrush object.

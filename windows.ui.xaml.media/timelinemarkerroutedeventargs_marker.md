@@ -12,6 +12,7 @@ public Windows.UI.Xaml.Media.TimelineMarker Marker { get;  set; }
 ## -description
 Gets the [TimelineMarker](timelinemarker.md) that triggered this event.
 
+
 ## -property-value
 The [TimelineMarker](timelinemarker.md) that triggered this event.
 

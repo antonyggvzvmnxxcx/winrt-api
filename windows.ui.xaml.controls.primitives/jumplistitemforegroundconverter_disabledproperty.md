@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty DisabledProperty { get; }
 ## -description
 Identifies the [Disabled](jumplistitemforegroundconverter_disabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Disabled](jumplistitemforegroundconverter_disabled.md) dependency property.
 

@@ -12,6 +12,8 @@ public bool AutoReverse { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the timeline plays in reverse after it completes a forward iteration.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object AutoReverse="bool"/>

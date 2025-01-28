@@ -12,6 +12,8 @@ public void End()
 ## -description
 Closes the [CompositionScopedBatch](compositionscopedbatch.md). Once the [CompositionScopedBatch](compositionscopedbatch.md) has been closed it cannot be suspended or resumed again.
 
+
+
 ## -remarks
 
 ## -examples

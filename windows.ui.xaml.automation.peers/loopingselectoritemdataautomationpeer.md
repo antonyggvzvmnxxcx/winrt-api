@@ -12,6 +12,8 @@ public class LoopingSelectorItemDataAutomationPeer : Windows.UI.Xaml.Automation.
 ## -description
 Exposes the data content of a [LoopingSelectorItem](../windows.ui.xaml.controls.primitives/loopingselectoritem.md) to Microsoft UI Automation.
 
+
+
 ## -remarks
 
 

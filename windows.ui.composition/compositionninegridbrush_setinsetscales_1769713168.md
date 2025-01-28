@@ -12,6 +12,8 @@ public void SetInsetScales(System.Single left, System.Single top, System.Single 
 ## -description
 Sets the scale to be applied to the left, top, right, and bottom insets respectively. Defaults to 1.0f.
 
+
+
 ## -parameters
 ### -param left
 The scale of the left inset.

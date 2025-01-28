@@ -12,6 +12,8 @@ public double NoScroll { get; }
 ## -description
 Specifies that scrolling should not be performed.
 
+
+
 ## -property-value
 The value – 1. This is the value to return if a client asks for the scrolling percentage, but scrolling is not enabled.
 

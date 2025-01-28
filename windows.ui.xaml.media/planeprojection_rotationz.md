@@ -12,6 +12,8 @@ public double RotationZ { get;  set; }
 ## -description
 Gets or sets the number of degrees to rotate the object around the z-axis of rotation.
 
+
+
 ## -xaml-syntax
 ```xaml
 <PlaneProjection RotationZ="double"/>

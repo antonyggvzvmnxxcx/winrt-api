@@ -12,6 +12,8 @@ public Windows.Foundation.Point EndPoint { get;  set; }
 ## -description
 Gets or sets the end point of a line.
 
+
+
 ## -xaml-syntax
 ```xaml
 <LineGeometry EndPoint="x,y"/>

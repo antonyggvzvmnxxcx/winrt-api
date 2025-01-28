@@ -14,6 +14,8 @@ public class Shadow : DependencyObject, DependencyObject
 
 The base class for shadow effects that can be applied to a XAML element.
 
+
+
 ## -remarks
 
 ## -see-also

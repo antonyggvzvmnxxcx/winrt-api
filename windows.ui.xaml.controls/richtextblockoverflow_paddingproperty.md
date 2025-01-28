@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty PaddingProperty { get; }
 ## -description
 Identifies the [Padding](richtextblockoverflow_padding.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Padding](richtextblockoverflow_padding.md) dependency property.
 

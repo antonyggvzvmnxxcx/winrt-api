@@ -17,10 +17,10 @@ Specifies the virtual key used to modify another keypress. For example, the Ctrl
 No virtual key modifier.
 
 ### -field Control:1
-The Ctrl (control) virtual key.
+The Ctrl virtual key.
 
 ### -field Menu:2
-The Menu virtual key.
+The Alt virtual key.
 
 ### -field Shift:4
 The Shift virtual key.
@@ -29,9 +29,9 @@ The Shift virtual key.
 The Windows virtual key.
 
 ## -remarks
-This enum is used with the [Modifiers](../windows.ui.xaml.input/keyboardaccelerator_modifiers.md) property of a [KeyboardAccelerator](../windows.ui.xaml.input/keyboardaccelerator.md) object. For more information, including code examples, see [Keyboard Accelerators](https://docs.microsoft.com/windows/uwp/design/input/keyboard-accelerators).
+This enum is used with the [Modifiers](../windows.ui.xaml.input/keyboardaccelerator_modifiers.md) property of a [KeyboardAccelerator](../windows.ui.xaml.input/keyboardaccelerator.md) object. For more information, including code examples, see [Keyboard Accelerators](/windows/uwp/design/input/keyboard-accelerators).
 
 ## -examples
 
 ## -see-also
-[Keyboard Accelerators](https://docs.microsoft.com/windows/uwp/design/input/keyboard-accelerators), [Windows.System.VirtualKey](virtualkey.md)
+[Keyboard Accelerators](/windows/uwp/design/input/keyboard-accelerators), [Windows.System.VirtualKey](virtualkey.md)

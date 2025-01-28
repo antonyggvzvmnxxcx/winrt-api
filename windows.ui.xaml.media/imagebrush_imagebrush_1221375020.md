@@ -12,6 +12,7 @@ public ImageBrush()
 ## -description
 Initializes a new instance of the [ImageBrush](imagebrush.md) class.
 
+
 ## -remarks
 
 ## -examples

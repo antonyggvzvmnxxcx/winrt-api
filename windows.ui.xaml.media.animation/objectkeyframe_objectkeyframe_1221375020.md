@@ -12,6 +12,7 @@ protected ObjectKeyFrame()
 ## -description
 Provides base class initialization behavior for [ObjectKeyFrame](objectkeyframe.md)-derived classes.
 
+
 ## -remarks
 
 ## -examples

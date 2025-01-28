@@ -12,6 +12,7 @@ public string Text { get;  set; }
 ## -description
 Gets or sets the text value of a [TimelineMarker](timelinemarker.md).
 
+
 ## -property-value
 The text value of the [TimelineMarker](timelinemarker.md). The default value is an empty string.
 

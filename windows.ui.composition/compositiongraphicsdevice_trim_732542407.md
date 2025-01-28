@@ -14,6 +14,8 @@ public void CompositionGraphicsDevice.Trim()
 
 Trims any graphics memory allocated by the graphics device on the app's behalf.
 
+
+
 ## -remarks
 
 ## -see-also

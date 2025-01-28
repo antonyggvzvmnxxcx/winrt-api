@@ -12,6 +12,8 @@ public bool IsOn { get;  set; }
 ## -description
 Gets or sets a value that declares whether the state of the [ToggleSwitch](toggleswitch.md) is "On".
 
+
+
 ## -xaml-syntax
 ```xaml
 <ToggleSwitch IsOn="bool" />

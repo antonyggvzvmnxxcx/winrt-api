@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty SmallChangeProperty { get; 
 ## -description
 Identifies the [SmallChange](../windows.ui.xaml.automation.provider/irangevalueprovider_smallchange.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

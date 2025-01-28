@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.ItemsUpdatingScrollMode ItemsUpdatingScrollMode 
 ## -description
 Gets or sets a value that specifies scrolling behavior when the [ItemsSource](itemscontrol_itemssource.md) is updated.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ItemsStackPanel ItemsUpdatingScrollMode="itemsUpdatingScrollModeMemberName" />

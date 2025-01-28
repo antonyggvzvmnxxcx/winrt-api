@@ -13,6 +13,8 @@ public CompositionColorGradientStop CompositionColorGradientStopCollection.GetAt
 
 Returns the item located at the specified index.
 
+
+
 ## -parameters
 ### -param index
 

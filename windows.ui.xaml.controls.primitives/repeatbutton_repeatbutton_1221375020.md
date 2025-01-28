@@ -12,6 +12,7 @@ public RepeatButton()
 ## -description
 Initializes a new instance of the [RepeatButton](repeatbutton.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty IsPreviousTrackButtonVisibleProperty {
 ## -description
 Identifies the [IsPreviousTrackButtonVisible](mediatransportcontrols_isprevioustrackbuttonvisible.md) dependency property.
 
+
 ## -property-value
 The identifier for the [IsPreviousTrackButtonVisible](mediatransportcontrols_isprevioustrackbuttonvisible.md) dependency property.
 

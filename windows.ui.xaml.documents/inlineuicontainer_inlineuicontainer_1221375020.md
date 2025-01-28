@@ -12,6 +12,7 @@ public InlineUIContainer()
 ## -description
 Initializes a new instance of the [InlineUIContainer](inlineuicontainer.md) class.
 
+
 ## -remarks
 
 ## -examples

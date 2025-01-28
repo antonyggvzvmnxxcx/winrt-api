@@ -13,6 +13,7 @@ public DependencyProperty IsRepeatEnabledProperty { get; }
 
 Identifies the IsRepeatEnabled dependency property.
 
+
 ## -property-value
 
 The identifier for the IsRepeatEnabled dependency property.

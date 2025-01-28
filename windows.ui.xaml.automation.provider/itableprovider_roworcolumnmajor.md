@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.RowOrColumnMajor RowOrColumnMajor { get; }
 ## -description
 Gets the primary direction of traversal for the table.
 
+
+
 ## -property-value
 The primary direction of traversal, as a value of the enumeration.
 

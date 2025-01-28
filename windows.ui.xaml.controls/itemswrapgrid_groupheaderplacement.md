@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.Primitives.GroupHeaderPlacement GroupHeaderPlace
 ## -description
 Gets or sets a value that specifies where group headers are positioned in relation to the group.
 
+
+
 ## -xaml-syntax
 ```xaml
 ItemsWrapGrid GroupHeaderPlacement="groupHeaderPlacementMemberName" />

@@ -12,6 +12,8 @@ public DependencyProperty ShowAsMonochromeProperty { get; }
 ## -description
 Identifies the [ShowAsMonochrome](bitmapicon_showasmonochrome.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the **ShowAsMonochrome** dependency property.
 

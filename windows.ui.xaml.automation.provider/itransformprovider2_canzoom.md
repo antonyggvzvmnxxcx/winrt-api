@@ -12,6 +12,8 @@ public bool CanZoom { get; }
 ## -description
 Gets a value that indicates whether the control supports zooming of its viewport.
 
+
+
 ## -property-value
 **true** if the viewport can be zoomed; otherwise, **false**.
 

@@ -12,6 +12,8 @@ public bool IsActive { get; }
 ## -description
 Indicates whether the [CompositionCommitBatch](compositioncommitbatch.md) is currently opened for objects to be aggregated.
 
+
+
 ## -property-value
 Boolean indicating whether the [CompositionCommitBatch](compositioncommitbatch.md) is currently opened for objects to be aggregated.
 

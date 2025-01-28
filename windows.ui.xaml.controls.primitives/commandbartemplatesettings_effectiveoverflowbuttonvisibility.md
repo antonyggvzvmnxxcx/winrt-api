@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Visibility EffectiveOverflowButtonVisibility { get; }
 ## -description
 Gets the effective visibility of the command bar's overflow button.
 
+
+
 ## -property-value
 The effective visibility of the command bar's overflow button.
 

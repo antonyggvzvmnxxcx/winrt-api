@@ -13,6 +13,8 @@ public void CompositionColorGradientStopCollection.InsertAt(UInt32 index, Compos
 
 Inserts the specified item at the specified index.
 
+
+
 ## -parameters
 ### -param index
 

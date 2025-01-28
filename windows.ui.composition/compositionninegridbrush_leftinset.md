@@ -12,6 +12,8 @@ public float LeftInset { get;  set; }
 ## -description
 Inset from the left edge of the source content that specifies the thickness of the left column. Defaults to 0.0f.
 
+
+
 ## -property-value
 Inset from the left edge of the source content that specifies the thickness of the left column. Defaults to 0.0f.
 

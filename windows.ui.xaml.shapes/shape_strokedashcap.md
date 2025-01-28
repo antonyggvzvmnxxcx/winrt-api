@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.PenLineCap StrokeDashCap { get;  set; }
 ## -description
 Gets or sets a [PenLineCap](../windows.ui.xaml.media/penlinecap.md) enumeration value that specifies how the ends of a dash are drawn.
 
+
+
 ## -xaml-syntax
 ```xaml
 <shape StrokeDashCap="penLineCapMemberName"/>

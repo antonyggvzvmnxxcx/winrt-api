@@ -12,6 +12,8 @@ public bool Cancel { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the item drag action should be canceled.
 
+
+
 ## -property-value
 **True** to cancel the item drag action; otherwise, **false**.
 

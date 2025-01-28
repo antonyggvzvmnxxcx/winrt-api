@@ -14,6 +14,8 @@ public int MaxRespectedCasters { get; }
 
 Gets the maximum number of shadow casters that will be respected.
 
+
+
 ## -property-value
 
 The maximum number of shadow casters that will be respected.

@@ -12,6 +12,8 @@ public Windows.UI.Input.ManipulationDelta Delta { get; }
 ## -description
 Gets the most recent changes of the current manipulation, as a [ManipulationDelta](manipulationdeltaroutedeventargs.md).
 
+
+
 ## -property-value
 The most recent changes of the current manipulation.
 

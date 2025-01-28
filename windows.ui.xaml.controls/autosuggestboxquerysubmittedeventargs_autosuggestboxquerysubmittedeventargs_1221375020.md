@@ -12,6 +12,7 @@ public AutoSuggestBoxQuerySubmittedEventArgs()
 ## -description
 Initializes a new instance of the [AutoSuggestBoxQuerySubmittedEventArgs](autosuggestboxquerysubmittedeventargs.md) class.
 
+
 ## -remarks
 
 ## -examples

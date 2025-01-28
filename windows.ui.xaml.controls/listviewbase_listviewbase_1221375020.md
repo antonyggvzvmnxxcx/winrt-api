@@ -12,6 +12,7 @@ protected ListViewBase()
 ## -description
 Provides base-class initialization behavior for classes that are derived from the [ListViewBase](listviewbase.md) class.
 
+
 ## -remarks
 
 ## -examples

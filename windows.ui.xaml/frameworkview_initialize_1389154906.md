@@ -12,6 +12,8 @@ public void Initialize(Windows.ApplicationModel.Core.CoreApplicationView applica
 ## -description
 Initializes the view.
 
+
+
 ## -parameters
 ### -param applicationView
 The view object.

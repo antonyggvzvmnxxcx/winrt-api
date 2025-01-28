@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty SelectionHighlightColorProperty { get;
 ## -description
 Identifies the [SelectionHighlightColor](richtextblock_selectionhighlightcolor.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [SelectionHighlightColor](richtextblock_selectionhighlightcolor.md) dependency property.
 

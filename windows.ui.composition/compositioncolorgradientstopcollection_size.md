@@ -13,6 +13,8 @@ public uint Size { get; }
 
 Gets the size (count) of the collection.
 
+
+
 ## -property-value
 
 The count of items in the collection.

@@ -14,6 +14,8 @@ public class SceneSurfaceMaterialInput : SceneMaterialInput, SceneMaterialInput
 
 Represents an input to a composition surface.
 
+
+
 ## -remarks
 
 ## -see-also

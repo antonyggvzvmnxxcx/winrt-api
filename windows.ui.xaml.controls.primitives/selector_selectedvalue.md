@@ -12,6 +12,8 @@ public object SelectedValue { get;  set; }
 ## -description
 Gets or sets the value of the selected item, obtained by using the [SelectedValuePath](selector_selectedvaluepath.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <selector SelectedValue="valueAsString"/>

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ScaleYProperty { get; }
 ## -description
 Identifies the [ScaleY](compositetransform3d_scaley.md) dependency property.
 
+
+
 ## -property-value
 The [ScaleY](compositetransform3d_scaley.md) dependency property identifier.
 

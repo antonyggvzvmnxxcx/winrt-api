@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Provider.ITextRangeProvider RangeFromChild(Win
 ## -description
 Retrieves a text range that encloses a child element, such as an image, hyperlink, or other embedded object.
 
+
+
 ## -parameters
 ### -param childElement
 The enclosed object.

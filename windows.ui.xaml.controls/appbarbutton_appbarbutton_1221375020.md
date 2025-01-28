@@ -12,6 +12,7 @@ public AppBarButton()
 ## -description
 Initializes a new instance of the [AppBarButton](appbarbutton.md) class.
 
+
 ## -remarks
 
 ## -examples

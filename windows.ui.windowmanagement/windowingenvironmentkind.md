@@ -16,7 +16,7 @@ Defines constants the specify what kind a windowing environment is.
 
 ## -enum-fields
 
-### -field Tiled:1
+### -field Tiled:2
 
 The windowing environment supports only windows that do not overlap.
 
@@ -24,13 +24,13 @@ The windowing environment supports only windows that do not overlap.
 
 The windowing environment is not known.
 
-### -field Overlapped:2
+### -field Overlapped:1
 
 The windowing environment supports windows that overlap.
 
 ## -remarks
 
-An example of an Overlapped environment is the classic Windows desktop experience that supports overlapped windows. Examples of Tiled environments are PC Tablet Mode or Xbox.
+An example of an Overlapped environment is the classic Windows desktop experience that supports overlapped windows. Examples of Tiled environments are PC [Tablet mode (Windows 10 only)](/windows-hardware/design/device-experiences/continuum) or Xbox.
 
 ## -see-also
 

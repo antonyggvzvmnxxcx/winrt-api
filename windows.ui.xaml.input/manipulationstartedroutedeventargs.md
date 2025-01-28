@@ -12,6 +12,8 @@ public class ManipulationStartedRoutedEventArgs : Windows.UI.Xaml.RoutedEventArg
 ## -description
 Provides data for the [ManipulationStarted](../windows.ui.xaml/uielement_manipulationstarted.md) event.
 
+
+
 ## -remarks
 
 ## -examples

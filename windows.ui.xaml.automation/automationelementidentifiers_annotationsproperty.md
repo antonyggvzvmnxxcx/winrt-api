@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty AnnotationsProperty { get; 
 ## -description
 Gets the identifier for the annotations automation property.
 
+
+
 ## -property-value
 The identifier for the annotations automation property.
 

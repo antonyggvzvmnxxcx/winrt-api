@@ -12,6 +12,7 @@ public ItemsPickedEventArgs()
 ## -description
 Initializes a new instance of the [ItemsPickedEventArgs](itemspickedeventargs.md) class.
 
+
 ## -remarks
 
 ## -examples

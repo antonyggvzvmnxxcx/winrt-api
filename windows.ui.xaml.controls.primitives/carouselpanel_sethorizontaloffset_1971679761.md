@@ -12,6 +12,8 @@ public void SetHorizontalOffset(System.Double offset)
 ## -description
 Changes the horizontal offset of content within the [CarouselPanel](carouselpanel.md) viewport.
 
+
+
 ## -parameters
 ### -param offset
 The horizontal offset to set, in pixels.

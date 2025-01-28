@@ -12,6 +12,7 @@ public EasingDoubleKeyFrame()
 ## -description
 Initializes a new instance of the [EasingDoubleKeyFrame](easingdoublekeyframe.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,7 @@ public DragDeltaEventArgs(System.Double horizontalChange, System.Double vertical
 ## -description
 Initializes a new instance of the [DragDeltaEventArgs](dragdeltaeventargs.md) class.
 
+
 ## -parameters
 ### -param horizontalChange
 The horizontal change in the [Thumb](thumb.md) position since the last [DragDelta](thumb_dragdelta.md) event.

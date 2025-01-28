@@ -12,6 +12,7 @@ public StyleTypedPropertyAttribute()
 ## -description
 Initializes a new instance of the [StyleTypedPropertyAttribute](styletypedpropertyattribute.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,7 @@ protected Inline()
 ## -description
 Provides base class initialization behavior for [Inline](inline.md) derived classes.
 
+
 ## -remarks
 
 ## -examples

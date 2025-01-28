@@ -14,6 +14,8 @@ public void SceneNodeCollection.RemoveAtEnd()
 
 Removes the last item in the collection.
 
+
+
 ## -remarks
 
 ## -see-also

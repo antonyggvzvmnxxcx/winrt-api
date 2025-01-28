@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Automation.AutomationAnimationStyle : int
 ## -description
 Defines the style of animation for the automation.
 
+
+
 ## -enum-fields
 ### -field None:0
 No animation.

@@ -12,6 +12,8 @@ public Windows.Foundation.Point StartPoint { get;  set; }
 ## -description
 Gets or sets the starting two-dimensional coordinates of the linear gradient.
 
+
+
 ## -xaml-syntax
 ```xaml
 <LinearGradientBrush StartPoint="x,y"/>

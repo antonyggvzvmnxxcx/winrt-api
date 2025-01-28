@@ -12,6 +12,7 @@ public GroupItem()
 ## -description
 Initializes a new instance of the [GroupItem](groupitem.md) class.
 
+
 ## -remarks
 
 ## -examples

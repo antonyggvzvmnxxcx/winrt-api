@@ -10,6 +10,8 @@ public delegate Windows.Foundation.IAsyncOperation<object> ListViewKeyToItemHand
 ## -description
 Represents the asynchronous method that will handle callback for the [SetRelativeScrollPositionAsync](listviewpersistencehelper_setrelativescrollpositionasync_2138322716.md) method.
 
+
+
 ## -parameters
 ### -param key
 The key of the [ListView](listview.md) item.

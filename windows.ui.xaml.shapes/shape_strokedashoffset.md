@@ -12,6 +12,8 @@ public double StrokeDashOffset { get;  set; }
 ## -description
 Gets or sets a value that specifies the distance within the dash pattern where a dash begins.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object StrokeDashOffset="double"/>

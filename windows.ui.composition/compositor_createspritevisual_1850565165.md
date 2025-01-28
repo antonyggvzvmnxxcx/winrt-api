@@ -12,6 +12,8 @@ public Windows.UI.Composition.SpriteVisual CreateSpriteVisual()
 ## -description
 Creates an instance of [SpriteVisual](spritevisual.md).
 
+
+
 ## -returns
 Returns the created [SpriteVisual](spritevisual.md) object.
 

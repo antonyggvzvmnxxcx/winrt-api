@@ -12,6 +12,8 @@ public object SelectionBoxItem { get; }
 ## -description
 Gets the item shown when the [ComboBox](combobox.md) is closed.
 
+
+
 ## -property-value
 The item shown when the [ComboBox](combobox.md) is closed.
 

@@ -12,6 +12,8 @@ public string GetAutomationId()
 ## -description
 Gets the **AutomationId** of the element that is associated with the automation peer.
 
+
+
 ## -returns
 The automation identifier.
 

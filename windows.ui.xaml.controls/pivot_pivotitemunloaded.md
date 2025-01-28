@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler PivotItemUnloaded<Windows.UI.X
 ## -description
 Event for notifying that the pivot item has been completely unloaded from the visual pivot.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Pivot PivotItemUnloaded="eventhandler" />

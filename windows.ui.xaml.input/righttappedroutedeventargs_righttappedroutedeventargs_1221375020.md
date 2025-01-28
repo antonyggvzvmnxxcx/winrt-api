@@ -12,6 +12,7 @@ public RightTappedRoutedEventArgs()
 ## -description
 Initializes a new instance of the [RightTappedRoutedEventArgs](righttappedroutedeventargs.md) class.
 
+
 ## -remarks
 
 ## -examples

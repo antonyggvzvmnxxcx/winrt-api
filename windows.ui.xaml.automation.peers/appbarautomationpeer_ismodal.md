@@ -12,6 +12,8 @@ public bool IsModal { get; }
 ## -description
 Gets a Boolean value indicating if the app bar is modal.
 
+
+
 ## -property-value
 **true** if the app bar is modal; otherwise, **false**.
 

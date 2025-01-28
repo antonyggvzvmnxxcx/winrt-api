@@ -12,6 +12,7 @@ public QuadraticBezierSegment()
 ## -description
 Initializes a new instance of the [QuadraticBezierSegment](quadraticbeziersegment.md) class.
 
+
 ## -remarks
 
 ## -examples

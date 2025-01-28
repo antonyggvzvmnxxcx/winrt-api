@@ -12,6 +12,8 @@ public Windows.Foundation.TimeSpan Time { get;  set; }
 ## -description
 Gets or sets the time currently set in the time picker.
 
+
+
 ## -property-value
 The time currently set in the time picker.
 

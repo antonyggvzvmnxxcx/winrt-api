@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TextWrappingProperty { get; }
 ## -description
 Identifies the [TextWrapping](richtextblock_textwrapping.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [TextWrapping](richtextblock_textwrapping.md) dependency property.
 

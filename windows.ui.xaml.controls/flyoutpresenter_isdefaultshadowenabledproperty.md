@@ -14,6 +14,8 @@ public DependencyProperty IsDefaultShadowEnabledProperty { get; }
 
 Identifies the [IsDefaultShadowEnabled](flyoutpresenter_isdefaultshadowenabled.md) dependency property.
 
+
+
 ## -property-value
 
 The identifier for the [IsDefaultShadowEnabled](flyoutpresenter_isdefaultshadowenabled.md) dependency property.

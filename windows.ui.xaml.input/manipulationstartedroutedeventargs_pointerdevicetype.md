@@ -12,6 +12,8 @@ public Windows.Devices.Input.PointerDeviceType PointerDeviceType { get; }
 ## -description
 Gets the [PointerDeviceType](../windows.devices.input/pointerdevicetype.md) for the pointer device involved in the manipulation.
 
+
+
 ## -property-value
 A value of the enumeration.
 

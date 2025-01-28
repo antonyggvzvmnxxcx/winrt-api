@@ -12,6 +12,8 @@ public RoutedEvent CharacterReceivedEvent { get; }
 ## -description
 Gets the identifier for the [CharacterReceived](uielement_characterreceived.md) routed event.
 
+
+
 ## -property-value
 The identifier for the [CharacterReceived](uielement_characterreceived.md) routed event.
 

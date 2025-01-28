@@ -12,6 +12,8 @@ public bool IsPrimaryButtonEnabled { get;  set; }
 ## -description
 Gets or sets whether the dialog's primary button is enabled.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentDialog IsPrimaryButtonEnabled="bool"/>

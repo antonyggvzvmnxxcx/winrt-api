@@ -12,6 +12,8 @@ public float MaxZoomFactor { get;  set; }
 ## -description
 Gets or sets a value that indicates the maximum permitted run-time value of [ZoomFactor](scrollviewer_zoomfactor.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <ScrollViewer MaxZoomFactor="single" />

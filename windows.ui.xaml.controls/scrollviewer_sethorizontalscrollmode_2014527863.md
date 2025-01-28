@@ -12,6 +12,8 @@ public void SetHorizontalScrollMode(Windows.UI.Xaml.DependencyObject element, Wi
 ## -description
 Sets the value of the [HorizontalScrollMode](scrollviewer_horizontalscrollmode.md) dependency property / `ScrollViewer.HorizontalScrollMode` XAML attached property on a specified element.
 
+
+
 ## -parameters
 ### -param element
 The element on which to set the property value.

@@ -12,6 +12,7 @@ public QuinticEase()
 ## -description
 Initializes a new instance of the [QuinticEase](quinticease.md) class.
 
+
 ## -remarks
 
 ## -examples

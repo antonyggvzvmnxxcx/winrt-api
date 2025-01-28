@@ -12,6 +12,8 @@ public void SetHorizontalOffset(System.Double offset)
 ## -description
 Sets the distance the content has been scrolled horizontally.
 
+
+
 ## -parameters
 ### -param offset
 The distance the content has been scrolled horizontally.

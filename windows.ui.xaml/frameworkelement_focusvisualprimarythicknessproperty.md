@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty FocusVisualPrimaryThicknessProperty { 
 ## -description
 Identifies the [FocusVisualPrimaryThickness](frameworkelement_focusvisualprimarythickness.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [FocusVisualPrimaryThickness](frameworkelement_focusvisualprimarythickness.md)  dependency property.
 

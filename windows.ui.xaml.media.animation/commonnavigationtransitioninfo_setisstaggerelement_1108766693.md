@@ -12,6 +12,8 @@ public void SetIsStaggerElement(Windows.UI.Xaml.UIElement element, System.Boolea
 ## -description
 Sets a Boolean value indicating if the specified **UIElement** is the stagger element for the navigation transition.
 
+
+
 ## -parameters
 ### -param element
 The **UIElement** about which to set the stagger element indicator.
@@ -20,9 +22,10 @@ The **UIElement** about which to set the stagger element indicator.
 Set this value to **true** if *element* is the stagger element; otherwise set it to **false**.
 
 ## -remarks
-This method supports XAML usage of the [CommonNavigationTransitionInfo.IsStaggerElement](/uwp/api/windows.ui.xaml.media.animation.commonnavigationtransitioninfo#xaml-attached-properties) attached property.
+This method supports XAML usage of the [CommonNavigationTransitionInfo.IsStaggerElement](commonnavigationtransitioninfo_isstaggerelement.md) attached property.
 
 ## -examples
 
 ## -see-also
-[CommonNavigationTransitionInfo.IsStaggerElement](/uwp/api/windows.ui.xaml.media.animation.commonnavigationtransitioninfo#xaml-attached-properties)
+
+[CommonNavigationTransitionInfo.IsStaggerElement](commonnavigationtransitioninfo_isstaggerelement.md), [Attached properties overview](/windows/uwp/xaml-platform/attached-properties-overview)

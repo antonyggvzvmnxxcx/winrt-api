@@ -12,6 +12,8 @@ public bool IsCurrentBeforeFirst { get; }
 ## -description
 Gets a value that indicates whether the [CurrentItem](icollectionview_currentitem.md) of the view is beyond the beginning of the collection.
 
+
+
 ## -property-value
 **true** if the [CurrentItem](icollectionview_currentitem.md) of the view is beyond the beginning of the collection; otherwise, **false**.
 

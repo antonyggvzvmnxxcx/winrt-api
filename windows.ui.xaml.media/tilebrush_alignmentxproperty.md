@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty AlignmentXProperty { get; }
 ## -description
 Identifies the [AlignmentX](tilebrush_alignmentx.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [AlignmentX](tilebrush_alignmentx.md) dependency property.
 

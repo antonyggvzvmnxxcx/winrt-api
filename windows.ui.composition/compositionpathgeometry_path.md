@@ -13,6 +13,8 @@ public CompositionPath Path { get;  set; }
 
 Gets or sets the data that defines the lines and curves of the path.
 
+
+
 ## -property-value
 
 The data that defines the lines and curves of the path.

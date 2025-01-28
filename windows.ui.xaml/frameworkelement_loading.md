@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler Loading<Windows.UI.Xaml.Framew
 ## -description
 Occurs when a [FrameworkElement](frameworkelement.md) begins to load.
 
+
+
 ## -xaml-syntax
 ```xaml
 <frameworkElement Loading="eventhandler"/>

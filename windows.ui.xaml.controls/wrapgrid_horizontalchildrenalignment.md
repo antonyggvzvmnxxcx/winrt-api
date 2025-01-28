@@ -12,6 +12,8 @@ public Windows.UI.Xaml.HorizontalAlignment HorizontalChildrenAlignment { get;  s
 ## -description
 Gets or sets the alignment rules by which child elements are arranged for the horizontal dimension.
 
+
+
 ## -xaml-syntax
 ```xaml
 <WrapGrid HorizontalChildrenAlignment="horizontalAlignmentMemberName" />

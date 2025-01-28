@@ -12,6 +12,8 @@ public Windows.UI.Composition.DropShadow CreateDropShadow()
 ## -description
 Creates an instance of [DropShadow](dropshadow.md).
 
+
+
 ## -returns
 Returns the created [DropShadow](dropshadow.md) object.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty SelectionModeProperty { get; }
 ## -description
 Identifies the [SelectionMode](listviewbase_selectionmode.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [SelectionMode](listviewbase_selectionmode.md) dependency property.
 

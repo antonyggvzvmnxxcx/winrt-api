@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TickPlacementProperty { get; }
 ## -description
 Identifies the [TickPlacement](slider_tickplacement.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [TickPlacement](slider_tickplacement.md) dependency property.
 

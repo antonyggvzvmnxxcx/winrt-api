@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty IsSkipBackwardEnabledProperty { get; }
 ## -description
 Identifies the [IsSkipBackwardEnabled](mediatransportcontrols_isskipbackwardenabled.md) dependency property.
 
+
 ## -property-value
 The identifier for the [IsSkipBackwardEnabled](mediatransportcontrols_isskipbackwardenabled.md) dependency property.
 

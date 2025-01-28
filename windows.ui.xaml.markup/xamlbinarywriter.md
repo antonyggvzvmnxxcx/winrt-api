@@ -12,6 +12,8 @@ public class XamlBinaryWriter : Windows.UI.Xaml.Markup.IXamlBinaryWriter
 ## -description
 Produces a pre-parsed binary representation of a XAML production.
 
+
+
 ## -remarks
 The binary representation of XAML uses an XBF file extension. The binary representation enables performance advantages versus loading and parsing a XAML file as text. Loading the binary representation is most useful when loading XAML files that define large resources, such as the generic.xaml files that define templates.
 

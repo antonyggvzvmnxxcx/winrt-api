@@ -12,6 +12,7 @@ public class MediaPlayerElementAutomationPeer : Windows.UI.Xaml.Automation.Peers
 ## -description
 Exposes [MediaPlayerElement](../windows.ui.xaml.controls/mediaplayerelement.md) types to Microsoft UI Automation.
 
+
 ## -remarks
 
 ## -examples

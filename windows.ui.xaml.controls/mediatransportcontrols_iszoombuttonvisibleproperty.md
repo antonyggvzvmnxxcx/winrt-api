@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty IsZoomButtonVisibleProperty { get; }
 ## -description
 Identifies the [IsZoomButtonVisible](mediatransportcontrols_iszoombuttonvisible.md) dependency property.
 
+
 ## -property-value
 The identifier for the [IsZoomButtonVisible](mediatransportcontrols_iszoombuttonvisible.md) dependency property.
 

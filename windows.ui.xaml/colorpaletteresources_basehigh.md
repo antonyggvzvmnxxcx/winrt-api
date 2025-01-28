@@ -14,6 +14,8 @@ public IReference<Color> BaseHigh { get;  set; }
 
 Gets or sets the BaseHigh color value.
 
+
+
 ## -property-value
 
 The BaseHigh color value.

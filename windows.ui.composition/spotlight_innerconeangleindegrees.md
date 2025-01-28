@@ -12,6 +12,8 @@ public float InnerConeAngleInDegrees { get;  set; }
 ## -description
 The SpotLight’s inner cone angle, expressed as a semi-vertical angle in degrees. Animatable.
 
+
+
 ## -property-value
 The SpotLight’s inner cone angle, expressed as a semi-vertical angle in degrees.
 

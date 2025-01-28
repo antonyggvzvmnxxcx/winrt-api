@@ -12,6 +12,7 @@ public bool IsLooping { get;  set; }
 ## -description
 Gets or sets a value that describes whether the media source currently loaded in the media engine should automatically set the position to the media start after reaching its end.
 
+
 ## -xaml-syntax
 ```xaml
 <MediaElement IsLooping="bool"/>

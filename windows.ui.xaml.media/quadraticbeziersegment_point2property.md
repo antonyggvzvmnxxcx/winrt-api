@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty Point2Property { get; }
 ## -description
 Identifies the [Point2](quadraticbeziersegment_point2.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [Point2](quadraticbeziersegment_point2.md)  dependency property.
 

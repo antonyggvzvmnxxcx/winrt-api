@@ -12,6 +12,7 @@ public Windows.UI.Xaml.Media.AudioDeviceType AudioDeviceType { get;  set; }
 ## -description
 Gets or sets a value that describes the primary usage of the device that is being used to play back audio.
 
+
 ## -xaml-syntax
 ```xaml
 <MediaElement AudioDeviceType="audioDeviceTypeMemberName" /.

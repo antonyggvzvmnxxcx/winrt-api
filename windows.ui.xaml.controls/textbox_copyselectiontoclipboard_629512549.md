@@ -14,6 +14,8 @@ public void TextBox.CopySelectionToClipboard()
 
 Copies the selected content to the Windows clipboard.
 
+
+
 ## -remarks
 
 ## -see-also

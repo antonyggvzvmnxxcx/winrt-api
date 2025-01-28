@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.VisualStateChangedEventHandler CurrentStateChanged
 ## -description
 Occurs after a control changes into a different state.
 
+
+
 ## -remarks
 
 ## -examples

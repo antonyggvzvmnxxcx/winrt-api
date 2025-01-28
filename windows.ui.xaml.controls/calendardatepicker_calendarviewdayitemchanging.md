@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.Controls.CalendarViewDayItemChangingEventHandler Ca
 ## -description
 Occurs when a [CalendarViewDayItem](calendarviewdayitem.md) is loading in the picker's [CalendarView](calendarview.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarDatePicker CalendarViewDayItemChanging="eventhandler"/>

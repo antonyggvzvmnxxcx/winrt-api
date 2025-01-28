@@ -12,6 +12,8 @@ public interface IScrollSnapPointsInfo :
 ## -description
 Describes snap point behavior for objects that contain and present items.
 
+
+
 ## -remarks
 
 ## -examples

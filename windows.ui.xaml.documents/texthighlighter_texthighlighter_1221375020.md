@@ -13,6 +13,7 @@ public TextHighlighter.TextHighlighter()
 
 Initializes a new instance of the TextHighlighter class.
 
+
 ## -remarks
 
 ## -see-also

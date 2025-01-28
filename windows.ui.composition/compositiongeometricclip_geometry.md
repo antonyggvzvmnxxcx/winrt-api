@@ -14,6 +14,8 @@ public CompositionGeometry Geometry { get;  set; }
 
 Gets or sets CompositionGeometry that defines the shape of the clip.
 
+
+
 ## -property-value
 
 A CompositionGeometry that defines the shape of the clip. The default is **null**.

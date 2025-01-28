@@ -12,6 +12,8 @@ public object ScrollOwner { get;  set; }
 ## -description
 Gets or sets a reference to a [ScrollViewer](../windows.ui.xaml.controls/scrollviewer.md) that is the scroll host or scroll owner for scrolling behavior of the [OrientedVirtualizingPanel](orientedvirtualizingpanel.md).
 
+
+
 ## -property-value
 The scroll host or scroll owner for scrolling behavior.
 

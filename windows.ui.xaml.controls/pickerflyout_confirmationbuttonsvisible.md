@@ -12,6 +12,8 @@ public bool ConfirmationButtonsVisible { get;  set; }
 ## -description
 Gets or sets whether the confirmation buttons are visible.
 
+
+
 ## -property-value
 True of the confirmation buttons are visible; Otherwise, false.
 

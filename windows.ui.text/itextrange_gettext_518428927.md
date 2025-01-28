@@ -12,6 +12,8 @@ public void GetText(Windows.UI.Text.TextGetOptions options, System.String value)
 ## -description
 Retrieves the text in a text range according to the specified conversion flags.
 
+
+
 ## -parameters
 ### -param options
 The conversion flags that control how the text is retrieved.

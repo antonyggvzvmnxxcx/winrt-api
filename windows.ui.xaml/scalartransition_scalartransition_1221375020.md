@@ -13,6 +13,7 @@ public ScalarTransition.ScalarTransition()
 ## -description
 Initializes a new instance of the ScalarTransition class.
 
+
 ## -remarks
 
 ## -see-also

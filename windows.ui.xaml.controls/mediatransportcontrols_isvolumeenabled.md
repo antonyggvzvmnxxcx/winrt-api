@@ -12,6 +12,7 @@ public bool IsVolumeEnabled { get;  set; }
 ## -description
 Gets or sets a value that indicates whether a user can adjust the volume of the media.
 
+
 ## -xaml-syntax
 ```xaml
 

@@ -13,6 +13,8 @@ public DependencyProperty RevealBorderThicknessProperty { get; }
 
 Identifies the RevealBorderThickness dependency property.
 
+
+
 ## -property-value
 
 The identifier for the RevealBorderThickness dependency property.

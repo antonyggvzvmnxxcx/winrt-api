@@ -12,6 +12,7 @@ public SelectorItemAutomationPeer(System.Object item, Windows.UI.Xaml.Automation
 ## -description
 Initializes a new instance of the [SelectorItemAutomationPeer](selectoritemautomationpeer.md) class.
 
+
 ## -parameters
 ### -param item
 The specific item.

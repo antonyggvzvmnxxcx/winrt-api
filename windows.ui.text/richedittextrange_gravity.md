@@ -13,6 +13,8 @@ public RangeGravity Gravity { get;  set; }
 
 Gets or sets the gravity of the text range.
 
+
+
 ## -property-value
 
 The gravity of the text range.

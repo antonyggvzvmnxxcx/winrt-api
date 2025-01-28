@@ -25,13 +25,13 @@ When this method completes successfully, it returns a list of the files and subf
 To work with the returned items, call the [IsOfType](istorageitem_isoftype_1417811226.md) method of the [IStorageItem](istorageitem.md) interface to determine whether each item is a file or a folder. Then cast the item to a [StorageFolder](storagefolder.md) or [StorageFile](storagefile.md).
 
 ## -exceptions
-### System.UnauthorizedAccessException
+### T:System.UnauthorizedAccessException
 
-You don't have permission to access the contents of the current folder. For more information, see [File access permissions](https://docs.microsoft.com/windows/uwp/files/file-access-permissions).
+You don't have permission to access the contents of the current folder. For more information, see [File access permissions](/windows/uwp/files/file-access-permissions).
 
 ## -remarks
 
 ## -examples
 
 ## -see-also
-[File access permissions](https://docs.microsoft.com/windows/uwp/files/file-access-permissions), [GetItemsAsync](storagefolder_getitemsasync_1518547059.md), [GetFilesAsync](/uwp/api/windows.storage.storagefolder.getfilesasync), [GetFoldersAsync](/uwp/api/windows.storage.storagefolder.getfoldersasync)
+[File access permissions](/windows/uwp/files/file-access-permissions), [GetItemsAsync](storagefolder_getitemsasync_1518547059.md), [GetFilesAsync](/uwp/api/windows.storage.storagefolder.getfilesasync), [GetFoldersAsync](/uwp/api/windows.storage.storagefolder.getfoldersasync)

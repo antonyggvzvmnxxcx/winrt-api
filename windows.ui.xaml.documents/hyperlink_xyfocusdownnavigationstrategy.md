@@ -12,6 +12,8 @@ public XYFocusNavigationStrategy XYFocusDownNavigationStrategy { get;  set; }
 ## -description
 Gets or sets a value that specifies the strategy used to determine the target element of a down navigation.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Hyperlink XYFocusDownNavigationStrategy="xyFocusNavigationStrategyMemberName"/>

@@ -12,6 +12,8 @@ virtual protected Windows.Foundation.Collections.IVectorView<Windows.UI.Xaml.Aut
 ## -description
 Gets a list of the controlled peers for the current automation peer.
 
+
+
 ## -returns
 A list of the controlled peers for the current automation peer.
 

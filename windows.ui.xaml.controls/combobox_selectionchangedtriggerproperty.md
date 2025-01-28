@@ -12,6 +12,8 @@ public DependencyProperty SelectionChangedTriggerProperty { get; }
 ## -description
 Identifies the [SelectionChangedTrigger](combobox_selectionchangedtrigger.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the **SelectionChangedTrigger** dependency property.
 

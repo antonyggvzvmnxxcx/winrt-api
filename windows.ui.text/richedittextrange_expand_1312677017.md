@@ -13,6 +13,8 @@ public int RichEditTextRange.Expand(TextRangeUnit unit)
 
 Expands a text range to completely contain any partial text units.
 
+
+
 ## -parameters
 ### -param unit
 

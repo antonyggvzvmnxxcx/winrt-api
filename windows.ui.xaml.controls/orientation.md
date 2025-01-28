@@ -12,6 +12,7 @@ public enum Windows.UI.Xaml.Controls.Orientation : int
 ## -description
 Defines constants that specify the different orientations that a control or layout can have.
 
+
 ## -xaml-syntax
 ```xaml
 <object property="enumMemberName"/>

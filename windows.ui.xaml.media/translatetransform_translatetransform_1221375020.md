@@ -12,6 +12,7 @@ public TranslateTransform()
 ## -description
 Initializes a new instance of the [TranslateTransform](translatetransform.md) class.
 
+
 ## -remarks
 
 ## -examples

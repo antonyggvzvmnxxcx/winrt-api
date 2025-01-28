@@ -12,6 +12,8 @@ public string GetFullDescription()
 ## -description
 Gets a localized string that describes the actual visual appearance or contents of something such as an image or image control.
 
+
+
 ## -returns
 A localized string that describes the actual visual appearance or contents of something such as an image or image control.
 

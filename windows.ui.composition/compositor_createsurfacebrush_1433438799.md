@@ -12,6 +12,8 @@ public Windows.UI.Composition.CompositionSurfaceBrush CreateSurfaceBrush(Windows
 ## -description
 Creates an instance of [CompositionSurfaceBrush](compositionsurfacebrush.md) using the specified composition surface.
 
+
+
 ## -parameters
 ### -param surface
 The composition surface to associate with the [CompositionSurfaceBrush](compositionsurfacebrush.md).

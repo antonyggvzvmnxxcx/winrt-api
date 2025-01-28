@@ -12,6 +12,8 @@ public string Language { get;  set; }
 ## -description
 Gets or sets localization/globalization language information that applies to a [TextElement](textelement.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <textElement Language="languageString" .../.

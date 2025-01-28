@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Data.ICollectionView CreateView()
 ## -description
 Creates an [ICollectionView](icollectionview.md) instance using default settings.
 
+
+
 ## -returns
 The default view.
 

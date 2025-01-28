@@ -13,6 +13,8 @@ public DispatcherQueue DispatcherQueue { get; }
 
 Gets the [DispatcherQueue](../windows.system/dispatcherqueue.md) for the CompostionObject.
 
+
+
 ## -property-value
 
 The [DispatcherQueue](../windows.system/dispatcherqueue.md) for the CompostionObject.

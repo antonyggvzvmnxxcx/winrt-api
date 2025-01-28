@@ -21,13 +21,13 @@ This value can range from 0.0 (lowest volume) to 1.0 (highest volume), inclusive
 
 ## -remarks
 
-If Speech Synthesis Markup Language (SSML) is used, [AudioVolume](peechsynthesizeroptions_audiovolume.md) is combined with prosody tags in the markup.
+If Speech Synthesis Markup Language (SSML) is used, [AudioVolume](speechsynthesizeroptions_audiovolume.md) is combined with prosody tags in the markup.
 
 > [!NOTE]
 > Prosody are properties of syllables and larger units of speech, not individual phonetic segments (vowels and consonants).
 
 ## -see-also
 
-[Speech interactions](https://docs.microsoft.com/windows/uwp/design/input/speech-interactions), [Speech recognition and speech synthesis sample](https://go.microsoft.com/fwlink/p/?LinkID=619897)
+[Speech interactions](/windows/uwp/design/input/speech-interactions), [Speech recognition and speech synthesis sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/SpeechRecognitionAndSynthesis)
 
 ## -examples

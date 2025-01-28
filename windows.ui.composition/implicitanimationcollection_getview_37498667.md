@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IMapView<string, Windows.UI.Composition.IC
 ## -description
 Returns a map view of the collection.
 
+
+
 ## -returns
 Returns a map view of the collection.
 

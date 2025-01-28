@@ -12,6 +12,8 @@ public string GetViewName(System.Int32 viewId)
 ## -description
 Retrieves the name of a control-specific view.
 
+
+
 ## -parameters
 ### -param viewId
 The view identifier.

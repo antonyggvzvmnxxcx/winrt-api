@@ -12,6 +12,7 @@ public Polyline()
 ## -description
 Initializes a new instance of the [Polyline](polyline.md) class.
 
+
 ## -remarks
 
 ## -examples

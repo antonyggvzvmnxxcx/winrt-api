@@ -13,7 +13,7 @@ public void Close()
 Disposes the speech recognizer by freeing, releasing, or resetting allocated resources.
 
 ## -exceptions
-### System.ObjectDisposedException
+### T:System.ObjectDisposedException
 
 Thrown if either [RecognizeAsync](speechrecognizer_recognizeasync_748427924.md) or [RecognizeWithUIAsync](speechrecognizer_recognizewithuiasync_1152231907.md) is in progress.
 
@@ -24,4 +24,4 @@ If a [SpeechContinuousRecognitionSession](speechcontinuousrecognitionsession.md)
 ## -examples
 
 ## -see-also
-[Speech interactions](https://docs.microsoft.com/windows/uwp/input-and-devices/speech-interactions), [Speech design guidelines](https://docs.microsoft.com/windows/uwp/input-and-devices/speech-interactions), [Speech recognition and speech synthesis sample](https://go.microsoft.com/fwlink/p/?LinkID=619897)
+[Speech interactions](/windows/uwp/input-and-devices/speech-interactions), [Speech recognition and speech synthesis sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/SpeechRecognitionAndSynthesis)

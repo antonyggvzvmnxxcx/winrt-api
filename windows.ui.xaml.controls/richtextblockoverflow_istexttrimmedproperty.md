@@ -13,6 +13,8 @@ public DependencyProperty IsTextTrimmedProperty { get; }
 
 Identifies the IsTextTrimmed dependency property.
 
+
+
 ## -property-value
 
 The identifier for the IsTextTrimmed dependency property.

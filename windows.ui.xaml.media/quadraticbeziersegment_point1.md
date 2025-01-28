@@ -12,6 +12,8 @@ public Windows.Foundation.Point Point1 { get;  set; }
 ## -description
 Gets or sets the control point of the curve.
 
+
+
 ## -xaml-syntax
 ```xaml
 <QuadraticBezierSegment Point1="x,y"/>

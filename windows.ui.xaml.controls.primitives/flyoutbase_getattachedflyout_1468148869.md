@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.Primitives.FlyoutBase GetAttachedFlyout(Windows.
 ## -description
 Gets the flyout associated with the specified element.
 
+
+
 ## -parameters
 ### -param element
 The element for which to get the associated flyout.
@@ -24,4 +26,5 @@ The flyout attached to the specified element.
 ## -examples
 
 ## -see-also
-[FlyoutBase.AttachedFlyout](/uwp/api/windows.ui.xaml.controls.primitives.flyoutbase#xaml-attached-properties)
+
+[FlyoutBase.AttachedFlyout](flyoutbase_attachedflyout.md), [Attached properties overview](/windows/uwp/xaml-platform/attached-properties-overview)

@@ -12,6 +12,7 @@ public TextBoxAutomationPeer(Windows.UI.Xaml.Controls.TextBox owner)
 ## -description
 Initializes a new instance of the [TextBoxAutomationPeer](textboxautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [TextBox](../windows.ui.xaml.controls/textbox.md) to create a peer for.

@@ -12,6 +12,8 @@ public double OffsetFromCenter { get;  set; }
 ## -description
 Gets or sets an offset from the center of the *opened* target.
 
+
+
 ## -xaml-syntax
 ```xaml
 <SplitOpenThemeAnimation OffsetFromCenter="double" />

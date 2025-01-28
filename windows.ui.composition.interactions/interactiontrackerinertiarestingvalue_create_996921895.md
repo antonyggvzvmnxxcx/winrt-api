@@ -12,6 +12,8 @@ public Windows.UI.Composition.Interactions.InteractionTrackerInertiaRestingValue
 ## -description
 Creates an instance of [InteractionTrackerInertiaRestingValue](interactiontrackerinertiarestingvalue.md).
 
+
+
 ## -parameters
 ### -param compositor
 The compositor to use when creating the [InteractionTrackerInertiaRestingValue](interactiontrackerinertiarestingvalue.md) object.

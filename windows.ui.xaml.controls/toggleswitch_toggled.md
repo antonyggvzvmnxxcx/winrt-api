@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.RoutedEventHandler Toggled
 ## -description
 Occurs when "On"/"Off" state changes for this [ToggleSwitch](toggleswitch.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <ToggleSwitch Toggled="eventhandler"/>

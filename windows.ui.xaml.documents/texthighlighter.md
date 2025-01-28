@@ -13,6 +13,8 @@ public class TextHighlighter
 
 Represents an object that highlights one or more ranges of text.
 
+
+
 ## -remarks
 
 ## -see-also

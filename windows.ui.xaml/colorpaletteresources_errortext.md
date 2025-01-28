@@ -14,6 +14,8 @@ public IReference<Color> ErrorText { get;  set; }
 
 Gets or sets the ErrorText color value.
 
+
+
 ## -property-value
 
 The ErrorText color value.

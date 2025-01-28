@@ -12,6 +12,7 @@ public SplinePointKeyFrame()
 ## -description
 Initializes a new instance of the [SplinePointKeyFrame](splinepointkeyframe.md) class.
 
+
 ## -remarks
 
 ## -examples

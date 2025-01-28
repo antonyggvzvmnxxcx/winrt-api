@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Peers.AutomationPeer Peer { get;  set; }
 ## -description
 Gets or sets the automation peer of the element that implements the annotation.
 
+
+
 ## -property-value
 The automation peer of the element that implements the annotation.
 

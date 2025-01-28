@@ -10,40 +10,33 @@ public enum Windows.Security.Credentials.UI.UserConsentVerifierAvailability : in
 # UserConsentVerifierAvailability
 
 ## -description
-Describes the result of a check for a biometric (fingerprint) verifier device.
+Describes the result of a check for an an authentication device such as a fingerprint reader.
 
 ## -enum-fields
 ### -field Available:0
-A biometric verifier device is available.
+An authentication device is available.
 
 ### -field DeviceNotPresent:1
-There is no biometric verifier device available.
+There is no authentication device available.
 
 ### -field NotConfiguredForUser:2
-A biometric verifier device is not configured for this user.
+An authentication device is not configured for this user.
 
 ### -field DisabledByPolicy:3
-Group policy has disabled the biometric verifier device.
+Group policy has disabled the authentication device.
 
 ### -field DeviceBusy:4
-The biometric verifier device is performing an operation and is unavailable.
+The authentication device is performing an operation and is unavailable.
 
 
 ## -remarks
 You can use the [CheckAvailabilityAsync](userconsentverifier_checkavailabilityasync_167910294.md) method to determine if fingerprint authentication is supported for the current computer.
 
-The following example shows a method that checks to see if fingerprint authentication is supported for the current computer and returns a message that describes the result based on the UserConsentVerifierAvailability value.
+## -examples
 
-
-
-
+The following example shows a method that checks to see if an authentication device is supported for the current user and returns a message that describes the result based on the UserConsentVerifierAvailability value.
 
 [!code-csharp[1](../windows.security.credentials.ui/code/BiometricAuth/cs/MainPage.xaml.cs#Snippet1)]
 
-
-[!code-js[1_JS](../windows.security.credentials.ui/code/BiometricAuth/js/default.js#Snippet1_JS)]
-
-## -examples
-
 ## -see-also
-[Fingerprint biometrics](https://docs.microsoft.com/windows/uwp/security/fingerprint-biometrics), [UserConsentVerifier sample](https://go.microsoft.com/fwlink/p/?LinkID=303650), [CheckAvailabilityAsync](userconsentverifier_checkavailabilityasync_167910294.md), [UserConsentVerifier](userconsentverifier.md), [Windows.Security.Credentials.UI](windows_security_credentials_ui.md), [Authentication and user identity](https://docs.microsoft.com/windows/uwp/security/authentication-and-user-identity)
+[Fingerprint biometrics](/windows/uwp/security/fingerprint-biometrics), [UserConsentVerifier sample](https://github.com/microsoft/Windows-universal-samples/tree/master/Samples/UserConsentVerifier), [CheckAvailabilityAsync](userconsentverifier_checkavailabilityasync_167910294.md), [UserConsentVerifier](userconsentverifier.md), [Windows.Security.Credentials.UI](windows_security_credentials_ui.md), [Authentication and user identity](/windows/uwp/security/authentication-and-user-identity)

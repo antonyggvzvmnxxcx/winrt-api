@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Input.ICommand PrimaryButtonCommand { get;  set; }
 ## -description
 Gets or sets the command to invoke when the primary button is tapped.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentDialog PrimaryButtonCommand="commandReference"/>

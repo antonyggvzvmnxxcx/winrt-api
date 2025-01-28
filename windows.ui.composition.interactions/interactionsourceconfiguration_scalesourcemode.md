@@ -14,6 +14,8 @@ public InteractionSourceRedirectionMode ScaleSourceMode { get;  set; }
 
 Gets or sets a value that indicates how interactions are processed for this [VisualInteractionSource](visualinteractionsource.md) input on the scale axis.
 
+
+
 ## -property-value
 
 The source mode for the scale axis. By default, it takes the value of [VisualInteractionTracker.ScaleSourceMode](visualinteractionsource_scalesourcemode.md).
@@ -26,8 +28,6 @@ For more info, see [VisualInteractionSource.PointerWheelConfig](visualinteractio
 
 ## -see-also
 
-[VisualInteractionSource.PointerWheelConfig](visualinteractionsource_pointerwheelconfig.md)
-[VisualInteractionSource.ScaleSourceMode](visualinteractionsource_scalesourcemode.md)
+[VisualInteractionSource.PointerWheelConfig](visualinteractionsource_pointerwheelconfig.md), [VisualInteractionSource.ScaleSourceMode](visualinteractionsource_scalesourcemode.md)
 
 ## -examples
-

@@ -12,6 +12,8 @@ public object GetPattern(Windows.UI.Xaml.Automation.Peers.PatternInterface patte
 ## -description
 Gets the control pattern that is associated with the specified [PatternInterface](patterninterface.md).
 
+
+
 ## -parameters
 ### -param patternInterface
 A value from the [PatternInterface](patterninterface.md) enumeration.

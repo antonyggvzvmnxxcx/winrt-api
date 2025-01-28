@@ -13,6 +13,8 @@ public class Vector3NaturalMotionAnimation : NaturalMotionAnimation, NaturalMoti
 
 The base Vector3 NaturalMotionAnimation used to target a Vector3 property.
 
+
+
 ## -remarks
 
 ## -see-also

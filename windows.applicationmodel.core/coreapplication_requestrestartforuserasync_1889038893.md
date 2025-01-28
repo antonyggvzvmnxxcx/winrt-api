@@ -29,12 +29,10 @@ The status of the restart request.
 * The app is responsible for ensuring the validity of the **User** object. The activation will fail if there is policy in place which prevents that user from executing the app.
 * The app should not request an Extended Execution session after it has called this API because that will result in a poor user experience.
 * If the app has any in-process background tasks running when it calls this API, those tasks will be cancelled in the normal way. Out-of-process background tasks will not be affected.
-* When the app is restarted, [LaunchActivatedEventArgs.PreviousExecutionState](https://docs.microsoft.com/uwp/api/Windows.ApplicationModel.Activation.LaunchActivatedEventArgs) will have the value **Terminated** so that the app can distinguish between a resume and a restart.
+* When the app is restarted, [LaunchActivatedEventArgs.PreviousExecutionState](/uwp/api/Windows.ApplicationModel.Activation.LaunchActivatedEventArgs) will have the value **Terminated** so that the app can distinguish between a resume and a restart.
 
 ## -see-also
-
-[Windows.ApplicationModel.Core.CoreApplication.RequestRestartAsync](coreapplication_requestrestartasync_172604043.md)
-[How to restart your app programmatically](https://blogs.windows.com/buildingapps/2017/07/28/restart-app-programmatically/#oPS3xDHQYpflJRkA.97)
+[Windows.ApplicationModel.Core.CoreApplication.RequestRestartAsync](coreapplication_requestrestartasync_172604043.md), [How to restart your app programmatically](https://blogs.windows.com/buildingapps/2017/07/28/restart-app-programmatically/#oPS3xDHQYpflJRkA.97)
 
 ## -examples
 ```csharp

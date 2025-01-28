@@ -12,6 +12,8 @@ virtual protected void OnClosed(System.Object e)
 ## -description
 Invoked when the [AppBar](appbar.md) changes from visible to hidden.
 
+
+
 ## -parameters
 ### -param e
 Event data for the event.

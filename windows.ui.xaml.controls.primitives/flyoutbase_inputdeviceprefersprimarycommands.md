@@ -14,6 +14,8 @@ public bool InputDevicePrefersPrimaryCommands { get; }
 
 Gets a value that indicates whether the input device used to open the flyout does not easily open the secondary commands.
 
+
+
 ## -property-value
 
 **true** if the input device used to open the flyout does not easily open the secondary commands; otherwise, **false**.

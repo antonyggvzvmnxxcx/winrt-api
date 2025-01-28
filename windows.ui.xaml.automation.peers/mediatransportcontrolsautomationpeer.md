@@ -12,6 +12,7 @@ public class MediaTransportControlsAutomationPeer : Windows.UI.Xaml.Automation.P
 ## -description
 Exposes MediaTransportControls types to Microsoft UI Automation.
 
+
 ## -remarks
 
 ## -examples

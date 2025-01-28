@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyObject GroupHeaderContainerFromItemContainer(Wi
 ## -description
 Returns the group header container that corresponds to the specified container element.
 
+
+
 ## -parameters
 ### -param itemContainer
 The container element to return the group header container for.

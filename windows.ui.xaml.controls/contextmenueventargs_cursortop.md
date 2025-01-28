@@ -12,6 +12,8 @@ public double CursorTop { get; }
 ## -description
 Gets the pixel offset of the text cursor vertical position.
 
+
+
 ## -property-value
 A value in pixels.
 

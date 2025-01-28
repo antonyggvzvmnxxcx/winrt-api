@@ -12,6 +12,8 @@ public Windows.Foundation.Rect Bounds { get; }
 ## -description
 Gets the [Rect](../windows.foundation/rect.md) that defines the size and location of the Input Method Editor (IME) window, in the coordinate space of the text edit control.
 
+
+
 ## -property-value
 The [Rect](../windows.foundation/rect.md) that defines the size and location of the Input Method Editor (IME) window
 

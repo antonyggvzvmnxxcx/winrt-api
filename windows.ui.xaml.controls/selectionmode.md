@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Controls.SelectionMode : int
 ## -description
 Defines constants that specify the selection behavior for a [ListBox](listbox.md).
 
+
+
 ## -enum-fields
 ### -field Single:0
 The user can select only one item at a time.

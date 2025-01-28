@@ -14,6 +14,8 @@ public bool ReduceViewportForCoreInputViewOcclusions { get;  set; }
 
 Gets or sets a value that indicates whether the ScrollViewer should try to adjust its content to keep it visible when a docked CoreInputView occludes part of it.
 
+
+
 ## -property-value
 
 **true** if the ScrollViewer should try to adjust its content; otherwise, **false**. The default is **false**.

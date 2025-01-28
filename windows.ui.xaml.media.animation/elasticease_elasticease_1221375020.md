@@ -12,6 +12,7 @@ public ElasticEase()
 ## -description
 Initializes a new instance of the [ElasticEase](elasticease.md) class.
 
+
 ## -remarks
 
 ## -examples

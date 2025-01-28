@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty AudioCategoryProperty { get; }
 ## -description
 Identifies the [AudioCategory](mediaelement_audiocategory.md) dependency property.
 
+
 ## -property-value
 The identifier for the [AudioCategory](mediaelement_audiocategory.md) dependency property.
 

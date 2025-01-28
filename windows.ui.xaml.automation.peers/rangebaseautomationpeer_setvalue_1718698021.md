@@ -12,6 +12,8 @@ public void SetValue(System.Double value)
 ## -description
 Sets the value of the control, as an implementation of the [IValueProvider](../windows.ui.xaml.automation.provider/ivalueprovider.md) pattern.
 
+
+
 ## -parameters
 ### -param value
 The value to set.

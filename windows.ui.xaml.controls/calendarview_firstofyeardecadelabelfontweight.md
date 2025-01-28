@@ -12,6 +12,8 @@ public Windows.UI.Text.FontWeight FirstOfYearDecadeLabelFontWeight { get;  set; 
 ## -description
 Gets or sets the font weight used to display the first-of-year banner in the calendar.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarView FirstOfYearDecadeLabelFontWeight="fontWeightMemberName"/>

@@ -12,6 +12,8 @@ public void SetPropertyFromRect(System.Object dependencyObject, Windows.UI.Xaml.
 ## -description
 Sets a [DependencyProperty](../windows.ui.xaml/dependencyproperty.md) from a [Rect](../windows.foundation/rect.md) value.
 
+
+
 ## -parameters
 ### -param dependencyObject
 The object to which the property being set belongs.

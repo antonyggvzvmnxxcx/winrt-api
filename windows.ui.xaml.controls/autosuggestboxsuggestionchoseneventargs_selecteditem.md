@@ -12,6 +12,8 @@ public object SelectedItem { get; }
 ## -description
 Gets a reference to the selected item.
 
+
+
 ## -property-value
 A reference to the selected item.
 

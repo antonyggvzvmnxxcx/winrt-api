@@ -12,6 +12,8 @@ public Windows.Foundation.Rect GetBoundingRectangle()
 ## -description
 Gets the [Rect](../windows.foundation/rect.md) object that represents the screen coordinates of the element that is associated with the automation peer.
 
+
+
 ## -returns
 The bounding rectangle.
 

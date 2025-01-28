@@ -12,6 +12,8 @@ virtual protected void OnDropDownClosed(System.Object e)
 ## -description
 Invoked when the [DropDownClosed](combobox_dropdownclosed.md) event is raised.
 
+
+
 ## -parameters
 ### -param e
 Event data for the event. 

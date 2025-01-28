@@ -12,6 +12,8 @@ virtual protected void OnContentTemplateSelectorChanged(Windows.UI.Xaml.Controls
 ## -description
 Invoked when the value of the [ContentTemplateSelector](contentcontrol_contenttemplateselector.md) property changes.
 
+
+
 ## -parameters
 ### -param oldContentTemplateSelector
 The old value of the [ContentTemplateSelector](contentcontrol_contenttemplateselector.md) property.

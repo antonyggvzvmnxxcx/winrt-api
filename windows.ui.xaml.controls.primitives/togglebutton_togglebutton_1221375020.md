@@ -12,6 +12,7 @@ public ToggleButton()
 ## -description
 Initializes a new instance of the [ToggleButton](togglebutton.md) class.
 
+
 ## -remarks
 
 ## -examples

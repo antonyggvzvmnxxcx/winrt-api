@@ -12,6 +12,8 @@ public double HorizontalOffset { get;  set; }
 ## -description
 Gets or sets the distance by which the target is translated in the horizontal direction when the transition is active.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentThemeTransition HorizontalOffset="double" />

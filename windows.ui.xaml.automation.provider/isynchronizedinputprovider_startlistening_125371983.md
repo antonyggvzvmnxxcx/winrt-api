@@ -12,6 +12,8 @@ public void StartListening(Windows.UI.Xaml.Automation.SynchronizedInputType inpu
 ## -description
 Starts listening for input of the specified type.
 
+
+
 ## -parameters
 ### -param inputType
 The type of input that is requested to be synchronized.

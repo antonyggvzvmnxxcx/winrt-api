@@ -14,6 +14,8 @@ public uint SceneComponentCollection.GetMany(UInt32 startIndex, SceneComponent[]
 
 Retrieves multiple elements in a single pass through the iterator.
 
+
+
 ## -parameters
 ### -param startIndex
 

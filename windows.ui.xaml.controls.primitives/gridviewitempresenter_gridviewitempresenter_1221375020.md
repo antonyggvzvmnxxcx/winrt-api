@@ -12,6 +12,7 @@ public GridViewItemPresenter()
 ## -description
 Initializes a new instance of the [GridViewItemPresenter](gridviewitempresenter.md) class.
 
+
 ## -remarks
 
 ## -examples

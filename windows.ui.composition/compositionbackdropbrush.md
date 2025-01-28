@@ -12,6 +12,8 @@ public class CompositionBackdropBrush : Windows.UI.Composition.CompositionBrush,
 ## -description
 A brush that applies an effect (or a chain of effects) to the region behind a [SpriteVisual](spritevisual.md).
 
+
+
 ## -remarks
 See the remarks section of [CompositionEffectBrush](compositioneffectbrush.md) for information on creating and using effects.
 

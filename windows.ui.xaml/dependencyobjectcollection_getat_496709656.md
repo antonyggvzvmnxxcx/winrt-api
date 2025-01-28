@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyObject GetAt(System.UInt32 index)
 ## -description
 Returns the [DependencyObject](dependencyobject.md) located at the specified index.
 
+
+
 ## -parameters
 ### -param index
 The integer index for the value to retrieve.
@@ -20,8 +22,6 @@ The integer index for the value to retrieve.
 The [DependencyObject](dependencyobject.md) value at the specified index.
 
 ## -remarks
-> [!NOTE]
-> The equivalent Microsoft .NET  API is [Item](dependencyobjectcollection_item.md) (the indexer).
 
 ## -examples
 

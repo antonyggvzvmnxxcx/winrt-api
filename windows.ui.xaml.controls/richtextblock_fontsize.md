@@ -12,6 +12,8 @@ public double FontSize { get;  set; }
 ## -description
 Gets or sets the font size for the text content in this element.
 
+
+
 ## -xaml-syntax
 ```xaml
 <RichTextBlock FontSize="double" .../>

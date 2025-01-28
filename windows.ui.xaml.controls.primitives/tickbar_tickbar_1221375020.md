@@ -12,6 +12,7 @@ public TickBar()
 ## -description
 Initializes a new instance of the [TickBar](tickbar.md) class.
 
+
 ## -remarks
 
 ## -examples

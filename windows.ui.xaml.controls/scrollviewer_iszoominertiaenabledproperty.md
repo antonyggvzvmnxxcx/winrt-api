@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsZoomInertiaEnabledProperty { get; }
 ## -description
 Identifies the [IsZoomInertiaEnabled](scrollviewer_iszoominertiaenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsZoomInertiaEnabled](scrollviewer_iszoominertiaenabled.md) dependency property.
 

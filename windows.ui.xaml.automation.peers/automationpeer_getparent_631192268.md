@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Peers.AutomationPeer GetParent()
 ## -description
 Gets the [AutomationPeer](automationpeer.md) that is the parent of this [AutomationPeer](automationpeer.md).
 
+
+
 ## -returns
 The parent automation peer.
 

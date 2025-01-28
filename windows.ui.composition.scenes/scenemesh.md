@@ -14,6 +14,8 @@ public class SceneMesh : SceneObject, SceneObject
 
 Represents a mesh (the list of vertices that describe the polygons that make up a scene).
 
+
+
 ## -remarks
 
 ## -see-also

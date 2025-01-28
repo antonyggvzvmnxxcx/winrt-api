@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Animation.NavigationTransitionInfo DefaultNavigatio
 ## -description
 Gets or sets the default transition used when navigating between pages.
 
+
+
 ## -xaml-syntax
 ```xaml
 <NavigationThemeTransition>

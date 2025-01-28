@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty BorderThicknessProperty { get; }
 ## -description
 Identifies the [BorderThickness](border_borderthickness.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [BorderThickness](border_borderthickness.md) dependency property.
 

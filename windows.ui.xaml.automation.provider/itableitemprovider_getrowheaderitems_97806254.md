@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Provider.IRawElementProviderSimple[] GetRowHea
 ## -description
 Retrieves an array of UI Automation providers representing all the row headers associated with a table item or cell.
 
+
+
 ## -returns
 An array of UI Automation providers.
 

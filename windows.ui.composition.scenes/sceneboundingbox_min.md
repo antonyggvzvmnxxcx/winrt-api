@@ -14,6 +14,8 @@ public Vector3 Min { get; }
 
 Gets the minimum coordinates of the bounding box.
 
+
+
 ## -property-value
 
 The minimum coordinates of the bounding box.

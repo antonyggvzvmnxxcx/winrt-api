@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TranslateXProperty { get; }
 ## -description
 Identifies the [TranslateX](compositetransform_translatex.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [TranslateX](compositetransform_translatex.md) dependency property.
 

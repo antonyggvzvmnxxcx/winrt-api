@@ -12,6 +12,8 @@ public Windows.UI.Text.ITextParagraphFormat ParagraphFormat { get;  set; }
 ## -description
 Gets or sets the paragraph formatting attributes of the text range.
 
+
+
 ## -property-value
 The paragraph formatting attributes.
 

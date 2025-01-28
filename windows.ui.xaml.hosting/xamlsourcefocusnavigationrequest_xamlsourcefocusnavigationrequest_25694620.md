@@ -13,6 +13,7 @@ public XamlSourceFocusNavigationRequest.XamlSourceFocusNavigationRequest(XamlSou
 ## -description
 Initializes a new instance of the [XamlSourceFocusNavigationRequest](xamlsourcefocusnavigationrequest.md) class with the reason for the navigation request.
 
+
 ## -parameters
 ### -param reason
 A value that indicates the reason for the navigation request.

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsFilledProperty { get; }
 ## -description
 Identifies the [IsFilled](pathfigure_isfilled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsFilled](pathfigure_isfilled.md) dependency property.
 

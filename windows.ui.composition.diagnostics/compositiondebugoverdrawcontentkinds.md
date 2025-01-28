@@ -13,6 +13,8 @@ public enum CompositionDebugOverdrawContentKinds : uint
 
 Defines constants that specify what kinds of content are shown on an overdraw heatmap.
 
+
+
 ## -enum-fields
 ### -field SwapChains:64
 

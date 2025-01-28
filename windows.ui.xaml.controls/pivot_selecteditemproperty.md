@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty SelectedItemProperty { get; }
 ## -description
 Identifies the [SelectedItem](pivot_selecteditem.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [SelectedItem](pivot_selecteditem.md) dependency property.
 

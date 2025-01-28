@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.Orientation Orientation { get;  set; }
 ## -description
 Gets or sets the orientation of a [Slider](slider.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <Slider Orientation="Horizontal"/>

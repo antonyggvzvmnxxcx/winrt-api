@@ -12,6 +12,8 @@ public Windows.Foundation.Rect TransformBounds(Windows.Foundation.Rect rect)
 ## -description
 Transforms the specified bounding box and returns an axis-aligned bounding box that is exactly large enough to contain it.
 
+
+
 ## -parameters
 ### -param rect
 The bounding box to transform.

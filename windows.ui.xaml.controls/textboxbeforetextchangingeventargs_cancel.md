@@ -13,6 +13,8 @@ public bool Cancel { get;  set; }
 
 Gets or sets a value that indicates whether to cancel the text changes.
 
+
+
 ## -property-value
 
 **true** to cancel the text changes; otherwise, **false**. The default is **false**.

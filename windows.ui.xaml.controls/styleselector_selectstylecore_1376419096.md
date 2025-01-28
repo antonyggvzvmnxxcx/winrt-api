@@ -12,6 +12,8 @@ virtual protected Windows.UI.Xaml.Style SelectStyleCore(System.Object item, Wind
 ## -description
 When implemented by a derived class, returns a specific [Style](../windows.ui.xaml/style.md) based on custom logic.
 
+
+
 ## -parameters
 ### -param item
 The content.

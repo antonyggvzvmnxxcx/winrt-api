@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler ItemsPicked<Windows.UI.Xaml.Co
 ## -description
 Occurs when the user has selected items.
 
+
+
 ## -remarks
 
 ## -examples

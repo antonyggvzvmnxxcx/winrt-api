@@ -12,6 +12,8 @@ public double TickFrequency { get;  set; }
 ## -description
 Gets or sets the increment of the value range that ticks should be created for.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Slider TickFrequency="double" />

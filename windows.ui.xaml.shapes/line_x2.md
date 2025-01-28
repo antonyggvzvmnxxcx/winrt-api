@@ -12,6 +12,8 @@ public double X2 { get;  set; }
 ## -description
 Gets or sets the x-coordinate of the [Line](line.md) end point.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Line X2="double"/>

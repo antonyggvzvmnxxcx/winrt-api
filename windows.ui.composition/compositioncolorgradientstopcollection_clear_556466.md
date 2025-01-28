@@ -13,6 +13,8 @@ public void CompositionColorGradientStopCollection.Clear()
 
 Removes all items from the collection.
 
+
+
 ## -remarks
 
 ## -see-also

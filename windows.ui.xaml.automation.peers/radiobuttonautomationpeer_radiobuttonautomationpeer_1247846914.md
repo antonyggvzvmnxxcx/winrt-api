@@ -12,6 +12,7 @@ public RadioButtonAutomationPeer(Windows.UI.Xaml.Controls.RadioButton owner)
 ## -description
 Initializes a new instance of the [RadioButtonAutomationPeer](radiobuttonautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The owner element to create for.

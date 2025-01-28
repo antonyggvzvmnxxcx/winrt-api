@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.Primitives.AnimationDirection SelectedItemDirect
 ## -description
 Gets a value that reports the selection direction in a [ComboBox](../windows.ui.xaml.controls/combobox.md). This is either **Bottom** or **Top** depending on how [DropDownOffset](comboboxtemplatesettings_dropdownoffset.md) is set.
 
+
+
 ## -property-value
 A value of the enumeration.
 

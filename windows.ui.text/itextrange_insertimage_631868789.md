@@ -12,6 +12,8 @@ public void InsertImage(System.Int32 width, System.Int32 height, System.Int32 as
 ## -description
 Inserts an image into this range.
 
+
+
 ## -parameters
 ### -param width
 The width of the image, in Device-independent pixels (DIPs).

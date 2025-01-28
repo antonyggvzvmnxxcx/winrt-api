@@ -12,6 +12,8 @@ public Windows.UI.Color Color { get;  set; }
 ## -description
 Color of the light. Animatable.
 
+
+
 ## -property-value
 The color of the ambient light.
 

@@ -12,6 +12,8 @@ public double KeyTipVerticalOffset { get;  set; }
 ## -description
 Gets or sets a value that indicates how far up or down the keytip is placed in relation to the text element.
 
+
+
 ## -xaml-syntax
 ```xaml
 <textElement KeyTipVerticalOffset="double"/>

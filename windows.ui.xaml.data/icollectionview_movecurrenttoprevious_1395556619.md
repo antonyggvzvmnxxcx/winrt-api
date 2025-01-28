@@ -12,6 +12,8 @@ public bool MoveCurrentToPrevious()
 ## -description
 Sets the item before the [CurrentItem](icollectionview_currentitem.md) in the view as the [CurrentItem](icollectionview_currentitem.md).
 
+
+
 ## -returns
 **true** if the resulting [CurrentItem](icollectionview_currentitem.md) is an item within the view; otherwise, **false**.
 

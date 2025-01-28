@@ -12,6 +12,8 @@ public DependencyProperty LightsProperty { get; }
 ## -description
 Identifies the [Lights](uielement_lights.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Lights](uielement_lights.md) dependency property.
 

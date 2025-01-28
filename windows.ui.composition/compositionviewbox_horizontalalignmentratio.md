@@ -13,6 +13,8 @@ public float HorizontalAlignmentRatio { get;  set; }
 
 Gets or sets the horizontal alignment ratio of the view box.
 
+
+
 ## -property-value
 
 The horizontal alignment ratio of the view box.

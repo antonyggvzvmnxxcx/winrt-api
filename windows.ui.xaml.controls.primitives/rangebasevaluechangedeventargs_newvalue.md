@@ -12,6 +12,8 @@ public double NewValue { get; }
 ## -description
 Gets the new value of a range value property.
 
+
+
 ## -property-value
 The new value.
 

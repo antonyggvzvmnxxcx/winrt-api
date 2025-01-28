@@ -12,6 +12,7 @@ public SplineColorKeyFrame()
 ## -description
 Initializes a new instance of the [SplineColorKeyFrame](splinecolorkeyframe.md) class.
 
+
 ## -remarks
 
 ## -examples

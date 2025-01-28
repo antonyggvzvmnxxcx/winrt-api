@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty AutoMaximizeSuggestionAreaProperty { g
 ## -description
 Identifies the [AutoMaximizeSuggestionArea](autosuggestbox_automaximizesuggestionarea.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [AutoMaximizeSuggestionArea](autosuggestbox_automaximizesuggestionarea.md) dependency property.
 

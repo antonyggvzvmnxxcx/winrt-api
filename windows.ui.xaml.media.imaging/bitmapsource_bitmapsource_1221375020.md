@@ -12,6 +12,7 @@ protected BitmapSource()
 ## -description
 Provides base class initialization behavior for [BitmapSource](bitmapsource.md)-derived classes.
 
+
 ## -remarks
 
 ## -examples

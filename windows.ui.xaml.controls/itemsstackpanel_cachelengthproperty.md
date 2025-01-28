@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty CacheLengthProperty { get; }
 ## -description
 Identifies the [CacheLength](itemsstackpanel_cachelength.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [CacheLength](itemsstackpanel_cachelength.md) dependency property.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TextMemberPathProperty { get; }
 ## -description
 Identifies the [TextMemberPath](autosuggestbox_textmemberpath.md) dependency property.
 
+
+
 ## -property-value
 Identifier for the [TextMemberPath](autosuggestbox_textmemberpath.md) dependency property.
 

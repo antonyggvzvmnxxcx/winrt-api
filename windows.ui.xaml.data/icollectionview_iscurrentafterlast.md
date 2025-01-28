@@ -12,6 +12,8 @@ public bool IsCurrentAfterLast { get; }
 ## -description
 Gets a value that indicates whether the [CurrentItem](icollectionview_currentitem.md) of the view is beyond the end of the collection.
 
+
+
 ## -property-value
 **true** if the [CurrentItem](icollectionview_currentitem.md) of the view is beyond the end of the collection; otherwise, **false**.
 

@@ -12,6 +12,8 @@ public Windows.Foundation.Size PreviousSize { get; }
 ## -description
 Gets the previous size of the object reporting the size change.
 
+
+
 ## -property-value
 The previous size.
 

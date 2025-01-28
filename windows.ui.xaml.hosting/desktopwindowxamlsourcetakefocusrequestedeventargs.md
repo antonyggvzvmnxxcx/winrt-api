@@ -13,6 +13,7 @@ public class DesktopWindowXamlSourceTakeFocusRequestedEventArgs
 ## -description
 Provides event data for the [TakeFocusRequested](desktopwindowxamlsource_takefocusrequested.md) event. 
 
+
 ## -remarks
 
 ## -see-also

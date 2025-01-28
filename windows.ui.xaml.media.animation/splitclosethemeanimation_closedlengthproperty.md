@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ClosedLengthProperty { get; }
 ## -description
 Identifies the [ClosedLength](splitclosethemeanimation_closedlength.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ClosedLength](splitclosethemeanimation_closedlength.md) dependency property.
 

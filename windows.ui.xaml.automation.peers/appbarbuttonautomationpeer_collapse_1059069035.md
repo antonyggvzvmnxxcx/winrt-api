@@ -14,6 +14,8 @@ public void AppBarButtonAutomationPeer.Collapse()
 
 Hides all nodes, controls, or content that are descendants of the control.
 
+
+
 ## -remarks
 
 ## -see-also

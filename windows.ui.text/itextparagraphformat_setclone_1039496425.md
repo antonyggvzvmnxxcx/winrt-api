@@ -12,6 +12,8 @@ public void SetClone(Windows.UI.Text.ITextParagraphFormat format)
 ## -description
 Sets the paragraph formatting by copying another paragraph formatting object.
 
+
+
 ## -parameters
 ### -param format
 The paragraph formatting to apply.

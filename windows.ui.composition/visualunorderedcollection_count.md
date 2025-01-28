@@ -12,6 +12,8 @@ public int Count { get; }
 ## -description
 The number of visuals in the collection.
 
+
+
 ## -property-value
 The nubmer of visuals in the collection.
 

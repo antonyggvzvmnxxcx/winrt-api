@@ -12,6 +12,7 @@ public ColorKeyFrameCollection()
 ## -description
 Initializes a new instance of the [ColorKeyFrameCollection](colorkeyframecollection.md) class.
 
+
 ## -remarks
 
 ## -examples

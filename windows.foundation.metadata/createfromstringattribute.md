@@ -10,11 +10,11 @@ public class CreateFromStringAttribute : System.Attribute
 # Windows.Foundation.Metadata.CreateFromStringAttribute
 
 ## -description
-Create from string attribute.
+Creates a metadata object from a string.
 
 ## -remarks
 
 ## -examples
 
 ## -see-also
-[Attribute](https://docs.microsoft.com/dotnet/api/system.attribute?redirectedfrom=MSDN)
+[Attribute](/dotnet/api/system.attribute?view=dotnet-uwp-10.0&preserve-view=true)

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsEnabledProperty { get; }
 ## -description
 Identifies the [IsEnabled](control_isenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsEnabled](control_isenabled.md) dependency property.
 

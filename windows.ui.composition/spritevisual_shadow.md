@@ -12,6 +12,8 @@ public Windows.UI.Composition.CompositionShadow Shadow { get;  set; }
 ## -description
 The shadow for the [SpriteVisual](spritevisual.md).
 
+
+
 ## -property-value
 The shadow for the [SpriteVisual](spritevisual.md).
 

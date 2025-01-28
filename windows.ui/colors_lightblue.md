@@ -13,6 +13,8 @@ public Windows.UI.Color LightBlue { get; }
 
 Gets the system-defined color that has an ARGB value of #FFADD8E6.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFADD8E6.

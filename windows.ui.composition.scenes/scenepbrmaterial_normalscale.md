@@ -14,6 +14,8 @@ public float NormalScale { get;  set; }
 
 Gets or sets the normal scale for the material.
 
+
+
 ## -property-value
 
 The normal scale for the material.

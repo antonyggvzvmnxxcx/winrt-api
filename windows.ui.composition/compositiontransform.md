@@ -14,6 +14,8 @@ public class CompositionTransform : CompositionObject, CompositionObject
 
 Provides generalized transformation support for composition objects.
 
+
+
 ## -remarks
 
 ## -see-also

@@ -13,6 +13,8 @@ public CompositionRectangleGeometry Compositor.CreateRectangleGeometry()
 
 Creates an instance of [CompositionRectangleGeometry](compositionrectanglegeometry.md).
 
+
+
 ## -returns
 
 Returns the created [CompositionRectangleGeometry](compositionrectanglegeometry.md) object.

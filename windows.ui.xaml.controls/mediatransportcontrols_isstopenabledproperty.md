@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty IsStopEnabledProperty { get; }
 ## -description
 Identifies the [IsStopEnabled](mediatransportcontrols_isstopenabled.md) dependency property.
 
+
 ## -property-value
 The identifier for the [IsStopEnabled](mediatransportcontrols_isstopenabled.md) dependency property.
 

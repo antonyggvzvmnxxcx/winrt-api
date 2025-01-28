@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty VerticallyScrollablePropert
 ## -description
 Identifies the [VerticallyScrollable](../windows.ui.xaml.automation.provider/iscrollprovider_verticallyscrollable.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

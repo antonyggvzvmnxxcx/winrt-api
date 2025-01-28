@@ -12,6 +12,8 @@ public int NumberOfWeeksInView { get;  set; }
 ## -description
 Gets or sets the number of weeks shown in the calendar view.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarView NumberOfWeeksInView="int"/>

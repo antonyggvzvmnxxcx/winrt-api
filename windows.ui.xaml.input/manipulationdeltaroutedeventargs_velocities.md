@@ -12,6 +12,8 @@ public Windows.UI.Input.ManipulationVelocities Velocities { get; }
 ## -description
 Gets the rates of the most recent changes to the manipulation.
 
+
+
 ## -property-value
 The rates of the most recent changes to the manipulation.
 

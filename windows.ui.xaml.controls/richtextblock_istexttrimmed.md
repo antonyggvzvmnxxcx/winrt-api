@@ -13,6 +13,8 @@ public bool IsTextTrimmed { get; }
 
 Gets a value that indicates whether the control has trimmed text that overflows the content area.
 
+
+
 ## -property-value
 
 **true** if text is trimmed; otherwise, **false**.

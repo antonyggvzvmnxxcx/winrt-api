@@ -13,6 +13,7 @@ public Color XamlDirect.GetColorProperty(IXamlDirectObject xamlDirectObject, Xam
 ## -description
 Gets the value of a [Color](../windows.ui/color.md) property for a specific [IXamlDirectObject](ixamldirectobject.md).
 
+
 ## -parameters
 ### -param xamlDirectObject
 A reference to the specific [IXamlDirectObject](ixamldirectobject.md).

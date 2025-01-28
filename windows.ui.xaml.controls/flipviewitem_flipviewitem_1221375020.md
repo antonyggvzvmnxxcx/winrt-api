@@ -12,6 +12,7 @@ public FlipViewItem()
 ## -description
 Initializes a new instance of the [FlipViewItem](flipviewitem.md) class.
 
+
 ## -remarks
 
 ## -examples

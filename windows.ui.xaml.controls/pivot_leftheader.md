@@ -12,13 +12,12 @@ public object LeftHeader { get;  set; }
 ## -description
 Gets or sets the content for the header on the control's left side.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Pivot LeftHeader="headerString"/>
-
-```
-
-```xaml
+- or -
 <Pivot>
   <Pivot.LeftHeader>headerObject</Pivot.LeftHeader>
 </Pivot>

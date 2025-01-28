@@ -12,6 +12,8 @@ public bool InStory(Windows.UI.Text.ITextRange range)
 ## -description
 Determines whether this range's story is the same as a specified range's story.
 
+
+
 ## -parameters
 ### -param range
 The [ITextRange](itextrange.md) object whose story is compared to this range's story.

@@ -30,7 +30,7 @@ The generated [Color](color.md) value.
 
 ## -remarks
 > **C#/Visual Basic**
-> The [ColorHelper](colorhelper.md) class is available for use from C# and Visual Basic code but it's not commonly used. The **FromArgb** method that's available as a static method of the [Color](color.md) structure has exactly the same functionality, and you also have other API there that's more convenient to use from [Color](color.md) itself rather than using the [ColorHelper](colorhelper.md) class. [ColorHelper](colorhelper.md) is mainly intended for Visual C++ component extensions (C++/CX) code, which doesn't have access to the nondata API of the [Color](color.md) structure.
+> The [ColorHelper](colorhelper.md) class is available for use from C# and Visual Basic code but it's not commonly used. The **FromArgb** method that's available as a static method of the [Color](color.md) structure has exactly the same functionality, and you also have other API there that's more convenient to use from [Color](color.md) itself rather than using the [ColorHelper](colorhelper.md) class. [ColorHelper](colorhelper.md) is mainly intended for C++ code, which doesn't have access to the nondata API of the [Color](color.md) structure.
 
 The most common reason for creating a [Color](color.md) value is to use it as an argument for the [SolidColorBrush](../windows.ui.xaml.media/solidcolorbrush_solidcolorbrush_2106742027.md) constructor, then assign that brush to a XAML UI property.
 
@@ -42,7 +42,7 @@ This example shows how to create a Color.
 Windows::UI::Color orangeColor{ Windows::UI::ColorHelper::FromArgb(255, 255, 128, 0) };
 ```
 
-```cpp
+```cppcx
 auto orangeColor = Windows::UI::ColorHelper::FromArgb(255, 255, 128, 0);
 ```
 
@@ -53,7 +53,7 @@ Windows::UI::Xaml::Media::SolidColorBrush greenBrush{
     Windows::UI::ColorHelper::FromArgb(255, 90, 200, 90) };
 ```
 
-```cpp
+```cppcx
 auto greenBrush = ref new SolidColorBrush(Windows::UI::ColorHelper::FromArgb(255, 90, 200, 90));
 ```
 

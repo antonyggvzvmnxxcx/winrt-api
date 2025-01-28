@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TitleTemplateProperty { get; }
 ## -description
 Gets the identifier of the TitleTemplate dependency property.
 
+
+
 ## -property-value
 The identifier of the TitleTemplate dependency property.
 

@@ -30,7 +30,7 @@ Location settings are turned off. This status indicates that the user has not gr
 An operation to retrieve location has not yet been initialized. [LocationStatus](geolocator_locationstatus.md) will have this value if the application has not yet called [GetGeopositionAsync](geolocator_getgeopositionasync_189682258.md) or registered an event handler for the [PositionChanged](geolocator_positionchanged.md) event. [LocationStatus](geolocator_locationstatus.md) may also have this value if your app doesn’t have permission to access location.
 
 > [!IMPORTANT]
-> Starting in Windows 10, call the [RequestAccessAsync](geolocator_requestaccessasync_380675631.md) before accessing the user’s location. At that time, your app must be in the foreground and RequestAccessAsync must be called from the UI thread. Until the user grants your app permission to their location, your app can't access location data.
+> Starting in Windows 10, call [RequestAccessAsync](geolocator_requestaccessasync_380675631.md) before accessing the user's location. At that time, your app must be in the foreground and RequestAccessAsync must be called from the UI thread. Until the user grants your app permission to their location, your app can't access location data.
 
 ### -field NotAvailable:5
 Location services is not available on this version of Windows.
@@ -41,7 +41,7 @@ Location services is not available on this version of Windows.
 ## -examples
 
 ## -see-also
-[Get current location](https://docs.microsoft.com/windows/uwp/maps-and-location/get-location), [Get current location](https://docs.microsoft.com/windows/uwp/maps-and-location/get-location), [Set up a geofence](https://docs.microsoft.com/windows/uwp/maps-and-location/set-up-a-geofence), [geolocation sample](https://go.microsoft.com/fwlink/p/?linkid=533278)
+[Get current location](/windows/uwp/maps-and-location/get-location), [Get current location](/windows/uwp/maps-and-location/get-location), [Set up a geofence](/windows/uwp/maps-and-location/set-up-a-geofence), [geolocation sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/Geolocation)
 
 ## -capabilities
 location

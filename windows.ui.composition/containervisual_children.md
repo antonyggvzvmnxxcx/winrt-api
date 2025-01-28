@@ -12,6 +12,8 @@ public Windows.UI.Composition.VisualCollection Children { get; }
 ## -description
 The children of the [ContainerVisual](containervisual.md).
 
+
+
 ## -property-value
 The children of the [ContainerVisual](containervisual.md).
 

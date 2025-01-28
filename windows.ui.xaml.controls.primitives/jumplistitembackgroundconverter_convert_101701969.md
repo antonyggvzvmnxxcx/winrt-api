@@ -12,6 +12,8 @@ public object Convert(System.Object value, Windows.UI.Xaml.Interop.TypeName targ
 ## -description
 Returns the enabled brush if the item is not empty, otherwise returns the disabled brush.
 
+
+
 ## -parameters
 ### -param value
 The source data being passed to the target.

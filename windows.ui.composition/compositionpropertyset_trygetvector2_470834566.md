@@ -12,6 +12,8 @@ public Windows.UI.Composition.CompositionGetValueStatus TryGetVector2(System.Str
 ## -description
 Retrieves the specified [Vector2](../windows.foundation.numerics/vector2.md) property value.
 
+
+
 ## -parameters
 ### -param propertyName
 The name of the property to retrieve.

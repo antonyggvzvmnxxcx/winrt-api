@@ -12,6 +12,8 @@ public Windows.Foundation.DateTime MinDate { get;  set; }
 ## -description
 Gets or sets the first date to display.
 
+
+
 ## -property-value
 The first date to display.
 

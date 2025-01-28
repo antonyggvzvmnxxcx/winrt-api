@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty StepFrequencyProperty { get; }
 ## -description
 Identifies the [StepFrequency](slider_stepfrequency.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [StepFrequency](slider_stepfrequency.md) dependency property.
 

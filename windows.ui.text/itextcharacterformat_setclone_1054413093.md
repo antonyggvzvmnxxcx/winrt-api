@@ -12,6 +12,8 @@ public void SetClone(Windows.UI.Text.ITextCharacterFormat value)
 ## -description
 Sets the character formatting by copying another text character formatting object.
 
+
+
 ## -parameters
 ### -param value
 The character formatting to apply.

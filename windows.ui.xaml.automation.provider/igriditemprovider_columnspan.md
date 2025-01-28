@@ -12,6 +12,8 @@ public int ColumnSpan { get; }
 ## -description
 Gets the number of columns that are spanned by a cell or item.
 
+
+
 ## -property-value
 The number of columns.
 

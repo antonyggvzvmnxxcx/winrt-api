@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsOnProperty { get; }
 ## -description
 Identifies the [IsOn](toggleswitch_ison.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsOn](toggleswitch_ison.md) dependency property.
 

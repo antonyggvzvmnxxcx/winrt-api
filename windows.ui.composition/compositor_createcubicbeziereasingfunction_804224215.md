@@ -12,6 +12,8 @@ public Windows.UI.Composition.CubicBezierEasingFunction CreateCubicBezierEasingF
 ## -description
 Creates an instance of [CubicBezierEasingFunction](cubicbeziereasingfunction.md).
 
+
+
 ## -parameters
 ### -param controlPoint1
 The first control point for the easing function.

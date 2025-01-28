@@ -12,6 +12,7 @@ public ToggleMenuFlyoutItemAutomationPeer(Windows.UI.Xaml.Controls.ToggleMenuFly
 ## -description
 Initializes a new instance of the [ToggleMenuFlyoutItemAutomationPeer](togglemenuflyoutitemautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The owner element to create for.

@@ -12,6 +12,7 @@ public AppBarAutomationPeer(Windows.UI.Xaml.Controls.AppBar owner)
 ## -description
 Initializes a new instance of the [AppBarAutomationPeer](appbarautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [AppBar](../windows.ui.xaml.controls/appbar.md) control instance to create the peer for.

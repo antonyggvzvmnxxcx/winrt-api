@@ -12,6 +12,8 @@ public event TypedEventHandler CloseButtonClick<ContentDialog, ContentDialogButt
 ## -description
 Occurs after the close button has been tapped.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentDialog CloseButtonClick="eventhandler"/>

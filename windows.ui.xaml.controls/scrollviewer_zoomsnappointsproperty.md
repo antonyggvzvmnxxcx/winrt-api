@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ZoomSnapPointsProperty { get; }
 ## -description
 Identifies the [ZoomSnapPoints](scrollviewer_zoomsnappoints.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ZoomSnapPoints](scrollviewer_zoomsnappoints.md) dependency property.
 

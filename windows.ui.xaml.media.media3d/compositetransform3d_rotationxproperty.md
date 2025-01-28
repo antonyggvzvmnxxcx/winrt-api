@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty RotationXProperty { get; }
 ## -description
 Identifies the [RotationX](compositetransform3d_rotationx.md) dependency property.
 
+
+
 ## -property-value
 The [RotationX](compositetransform3d_rotationx.md) dependency property identifier.
 

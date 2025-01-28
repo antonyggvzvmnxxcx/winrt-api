@@ -12,6 +12,8 @@ public double SpeedRatio { get;  set; }
 ## -description
 Gets or sets the rate, relative to its parent, at which time progresses for this [Timeline](timeline.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <timeline SpeedRatio="double"/>

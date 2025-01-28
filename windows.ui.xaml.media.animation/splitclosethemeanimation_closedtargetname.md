@@ -12,6 +12,8 @@ public string ClosedTargetName { get;  set; }
 ## -description
 Gets or sets the identifying name of the UI element that specifies the initial clip size.
 
+
+
 ## -xaml-syntax
 ```xaml
 <SplitCloseThemeAnimation ClosedTargetName="nameString" />

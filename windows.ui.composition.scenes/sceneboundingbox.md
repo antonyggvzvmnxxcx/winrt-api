@@ -14,6 +14,8 @@ public class SceneBoundingBox : SceneObject, SceneObject
 
 Represents a box that encloses a 3D scene.
 
+
+
 ## -remarks
 
 ## -see-also

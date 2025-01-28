@@ -12,6 +12,8 @@ public Windows.UI.Xaml.TextAlignment TextAlignment { get;  set; }
 ## -description
 Gets or sets a value that indicates how text is aligned in the [RichEditBox](richeditbox.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <RichEditBox TextAlignment="textAlignmentValue"/>

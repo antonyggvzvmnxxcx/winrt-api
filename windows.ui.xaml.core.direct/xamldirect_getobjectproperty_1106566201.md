@@ -13,6 +13,7 @@ public object XamlDirect.GetObjectProperty(IXamlDirectObject xamlDirectObject, X
 ## -description
 Gets the value of an _object_ property for a specific [IXamlDirectObject](ixamldirectobject.md).
 
+
 ## -parameters
 ### -param xamlDirectObject
 A reference to the specific [IXamlDirectObject](ixamldirectobject.md).

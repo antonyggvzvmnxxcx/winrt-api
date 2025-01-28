@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty MediaPlayerProperty { get; }
 ## -description
 Identifies the [MediaPlayer](mediaplayerpresenter_mediaplayer.md) dependency property.
 
+
 ## -property-value
 The identifier for the [MediaPlayer](mediaplayerpresenter_mediaplayer.md) dependency property.
 

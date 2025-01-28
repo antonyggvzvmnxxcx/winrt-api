@@ -13,6 +13,8 @@ public void RichEditTextRange.ChangeCase(LetterCase value)
 
 Changes the case of letters in a text range.
 
+
+
 ## -parameters
 ### -param value
 

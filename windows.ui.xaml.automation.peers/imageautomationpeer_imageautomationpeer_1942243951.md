@@ -12,6 +12,7 @@ public ImageAutomationPeer(Windows.UI.Xaml.Controls.Image owner)
 ## -description
 Initializes a new instance of the [ImageAutomationPeer](imageautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [Image](../windows.ui.xaml.controls/image.md) to create a peer for.

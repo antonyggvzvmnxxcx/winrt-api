@@ -12,6 +12,7 @@ public Windows.UI.Xaml.Media.Stereo3DVideoPackingMode Stereo3DVideoPackingMode {
 ## -description
 Gets or sets an enumeration value that determines the stereo 3-D video frame-packing mode for the current media source.
 
+
 ## -xaml-syntax
 ```xaml
 <MediaElement Stereo3DVideoPackingMode="stereo3DVideoPackingModeMemberName" .../>

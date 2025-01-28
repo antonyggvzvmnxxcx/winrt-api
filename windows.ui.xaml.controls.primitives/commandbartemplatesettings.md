@@ -12,6 +12,8 @@ public class CommandBarTemplateSettings : Windows.UI.Xaml.DependencyObject, Wind
 ## -description
 Provides calculated values that can be referenced as **TemplatedParent** sources when defining templates for a [CommandBar](../windows.ui.xaml.controls/commandbar.md) control. Not intended for general use.
 
+
+
 ## -remarks
 
 ### Version history

@@ -12,6 +12,8 @@ public Style PrimaryButtonStyle { get;  set; }
 ## -description
 Gets or sets the [Style](./../windows.ui.xaml/style.md) to apply to the dialog's primary button. 
 
+
+
 ## -xaml-syntax
 ```xaml
 <contentDialog CloseButtonStyle="{StaticResource styleResourceKey}"//>

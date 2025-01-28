@@ -12,6 +12,8 @@ public DependencyProperty HighContrastAdjustmentProperty { get; }
 ## -description
 Identifies the [HighContrastAdjustment](uielement_highcontrastadjustment.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [HighContrastAdjustment](uielement_highcontrastadjustment.md) dependency property.
 

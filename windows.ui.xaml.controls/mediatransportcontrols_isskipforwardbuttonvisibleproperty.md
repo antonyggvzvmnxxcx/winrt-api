@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty IsSkipForwardButtonVisibleProperty { g
 ## -description
 Identifies the [IsSkipForwardButtonVisible](mediatransportcontrols_isskipforwardbuttonvisible.md) dependency property.
 
+
 ## -property-value
 The identifier for the [IsSkipForwardButtonVisible](mediatransportcontrols_isskipforwardbuttonvisible.md) dependency property.
 

@@ -12,6 +12,8 @@ public double RotationY { get;  set; }
 ## -description
 Gets or sets the angle in degrees of counterclockwise rotation around the y-axis.
 
+
+
 ## -property-value
 The angle of rotation around the y-axis, given in degrees in a counterclockwise direction. The default value is 0 degrees.
 

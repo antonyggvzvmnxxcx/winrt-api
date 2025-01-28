@@ -12,14 +12,13 @@ public Windows.UI.Xaml.Style CalendarViewDayItemStyle { get;  set; }
 ## -description
 Gets or sets the [Style](../windows.ui.xaml/style.md) associated with the control's internal [CalendarViewDayItem](calendarviewdayitem.md) object.
 
+
+
 ## -xaml-syntax
 ```xaml
 
 <CalendarView CalendarViewDayItemStyle={StaticResource styleResourceKey}/>
-
-```
-
-```xaml
+- or -
 <CalendarView>
   <CalendarView.CalendarViewDayItemStyle>
     <Style TargetType="CalendarViewDayItem">

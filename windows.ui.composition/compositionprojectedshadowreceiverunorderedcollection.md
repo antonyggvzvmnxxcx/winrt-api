@@ -14,6 +14,8 @@ public class CompositionProjectedShadowReceiverUnorderedCollection : Composition
 
 Represents an unordered collection of CompositionProjectedShadowReceiver objects.
 
+
+
 ## -remarks
 
 ## -see-also

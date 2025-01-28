@@ -12,6 +12,8 @@ public Windows.Foundation.Size Size { get; }
 ## -description
 The size of the drawing surface.
 
+
+
 ## -property-value
 The size of the drawing surface.
 

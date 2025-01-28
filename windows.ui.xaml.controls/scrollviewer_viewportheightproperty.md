@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ViewportHeightProperty { get; }
 ## -description
 Identifies the [ViewportHeight](scrollviewer_viewportheight.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [ViewportHeight](scrollviewer_viewportheight.md) dependency property.
 

@@ -14,6 +14,8 @@ public class CompositionProjectedShadowCasterCollection : CompositionObject, Com
 
 Represents a collection of CompositionProjectedShadowCaster objects.
 
+
+
 ## -remarks
 
 ## -see-also

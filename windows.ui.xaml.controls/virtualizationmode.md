@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Controls.VirtualizationMode : int
 ## -description
 Defines constants that specify how [VirtualizingStackPanel](virtualizingstackpanel.md) manages item containers for its child items.
 
+
+
 ## -xaml-syntax
 ```xaml
 <objectproperty = "enumMemberName"/>

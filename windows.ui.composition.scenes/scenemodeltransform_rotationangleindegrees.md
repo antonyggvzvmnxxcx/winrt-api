@@ -14,6 +14,8 @@ public float RotationAngleInDegrees { get;  set; }
 
 Gets or sets the rotation angle applied to the node, in degrees.
 
+
+
 ## -property-value
 
 The rotation angle applied to the node, in degrees.

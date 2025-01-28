@@ -12,6 +12,7 @@ public Windows.Foundation.HResult ExtendedError { get; }
 ## -description
 Gets error info for the media failure.
 
+
 ## -property-value
 The error info for the media failure.
 

@@ -12,6 +12,8 @@ public double StrokeMiterLimit { get;  set; }
 ## -description
 Gets or sets a limit on the ratio of the miter length to half the [StrokeThickness](shape_strokethickness.md) of a [Shape](shape.md) element.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object StrokeMiterLimit="double"/>

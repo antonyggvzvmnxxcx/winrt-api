@@ -12,6 +12,7 @@ public QuadraticEase()
 ## -description
 Initializes a new instance of the [QuadraticEase](quadraticease.md) class.
 
+
 ## -remarks
 
 ## -examples

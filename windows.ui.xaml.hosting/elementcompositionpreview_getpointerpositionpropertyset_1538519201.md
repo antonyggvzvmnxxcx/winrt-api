@@ -12,6 +12,8 @@ public CompositionPropertySet ElementCompositionPreview.GetPointerPositionProper
 ## -description
 Retrieves the pointer position relative to a UIElement.
 
+
+
 ## -parameters
 
 ### -param targetElement

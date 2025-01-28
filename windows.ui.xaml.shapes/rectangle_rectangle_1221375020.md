@@ -12,6 +12,7 @@ public Rectangle()
 ## -description
 Initializes a new instance of the [Rectangle](rectangle.md) class.
 
+
 ## -remarks
 
 ## -examples

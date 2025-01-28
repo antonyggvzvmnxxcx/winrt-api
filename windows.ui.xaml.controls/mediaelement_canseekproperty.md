@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty CanSeekProperty { get; }
 ## -description
 Identifies the [CanSeek](mediaelement_canseek.md) dependency property.
 
+
 ## -property-value
 The identifier for the [CanSeek](mediaelement_canseek.md) dependency property.
 

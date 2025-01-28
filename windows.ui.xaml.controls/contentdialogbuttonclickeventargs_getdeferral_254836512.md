@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.ContentDialogButtonClickDeferral GetDeferral()
 ## -description
 Gets a [ContentDialogButtonClickDeferral](contentdialogbuttonclickdeferral.md) that the app can use to respond asynchronously to a button click event.
 
+
+
 ## -returns
 A [ContentDialogButtonClickDeferral](contentdialogbuttonclickdeferral.md) that the app can use to respond asynchronously to a button click event.
 

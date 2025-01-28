@@ -12,6 +12,8 @@ public void RichEditTextDocument.SaveToStream(TextGetOptions options, IRandomAcc
 ## -description
 Saves the document to a stream.
 
+
+
 ## -parameters
 
 ### -param options

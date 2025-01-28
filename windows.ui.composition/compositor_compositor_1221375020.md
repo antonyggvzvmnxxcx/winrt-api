@@ -12,6 +12,7 @@ public Compositor()
 ## -description
 Creates an instance of [Compositor](compositor.md).
 
+
 ## -remarks
 
 ## -examples

@@ -13,6 +13,8 @@ public event Windows.UI.Xaml.Controls.TextChangedEventHandler TextChanged
 
 Occurs when content changes in the text box.
 
+
+
 ## -xaml-syntax
 
 ```xaml

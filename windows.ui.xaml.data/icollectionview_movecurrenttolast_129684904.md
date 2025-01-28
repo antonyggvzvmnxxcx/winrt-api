@@ -12,6 +12,8 @@ public bool MoveCurrentToLast()
 ## -description
 Sets the last item in the view as the [CurrentItem](icollectionview_currentitem.md).
 
+
+
 ## -returns
 **true** if the resulting [CurrentItem](icollectionview_currentitem.md) is an item within the view; otherwise, **false**.
 

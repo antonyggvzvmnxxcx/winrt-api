@@ -13,6 +13,8 @@ public InteractionTrackerInertiaNaturalMotion InteractionTrackerInertiaNaturalMo
 
 Creates an instance of [InteractionTrackerInertiaNaturalMotion](interactiontrackerinertianaturalmotion.md).
 
+
+
 ## -parameters
 ### -param compositor
 

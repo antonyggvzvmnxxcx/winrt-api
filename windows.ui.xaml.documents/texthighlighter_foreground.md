@@ -13,6 +13,8 @@ public Brush Foreground { get;  set; }
 
 Gets or sets the brush used to color highlighted text.
 
+
+
 ## -property-value
 
 The brush used to color highlighted text.

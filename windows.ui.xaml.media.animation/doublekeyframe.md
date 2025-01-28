@@ -12,6 +12,8 @@ public class DoubleKeyFrame : Windows.UI.Xaml.DependencyObject, Windows.UI.Xaml.
 ## -description
 An abstract class that defines an animation segment with its own target value and interpolation method for a [DoubleAnimationUsingKeyFrames](DoubleAnimationUsingKeyFrames.md).
 
+
+
 ## -remarks
 ### **DoubleKeyFrame** derived classes
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.Orientation Orientation { get;  set; }
 ## -description
 Gets or sets the direction in which child elements are arranged.
 
+
+
 ## -xaml-syntax
 ```xaml
 <VariableSizedWrapGrid Orientation="orientationMemberName" />

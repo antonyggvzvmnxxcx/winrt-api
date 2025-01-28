@@ -12,6 +12,8 @@ public void InsertAt(System.UInt32 index, Windows.UI.Xaml.DependencyObject value
 ## -description
 Inserts the specified item at the specified index.
 
+
+
 ## -parameters
 ### -param index
 The index at which to set the value.
@@ -21,11 +23,6 @@ The value to set.
 
 ## -remarks
 InsertAt expands the collection and moves all subsequent index items by one. In contrast, [SetAt](dependencyobjectcollection_setat_537822194.md) replaces the item at the index, and the collection count remains the same.
-
-
-
-> [!NOTE]
-> The equivalent Microsoft .NET  API is [Insert](dependencyobjectcollection_insert.md).
 
 ## -examples
 

@@ -14,6 +14,8 @@ public RichEditTextDocument TextDocument { get; }
 
 Gets an object that enables access to the text object model for the text contained in a [RichEditBox](richeditbox.md).
 
+
+
 ## -property-value
 
 An object that enables access to the text object model.

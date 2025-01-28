@@ -12,6 +12,8 @@ public void RichEditTextDocument.SetText(TextSetOptions options, String value)
 ## -description
 Sets the text of the document.
 
+
+
 ## -parameters
 
 ### -param options

@@ -14,6 +14,8 @@ public IReference<Color> BaseMedium { get;  set; }
 
 Gets or sets the BaseMedium color value.
 
+
+
 ## -property-value
 
 The BaseMedium color value.

@@ -12,6 +12,8 @@ public event Windows.Foundation.EventHandler VerticalSnapPointsChanged<object>
 ## -description
 Occurs when the vertical snap points change.
 
+
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler DateChanged<Windows.UI.Xaml.Co
 ## -description
 Occurs when the date value is changed.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarDatePicker DateChanged="eventhandler"/>

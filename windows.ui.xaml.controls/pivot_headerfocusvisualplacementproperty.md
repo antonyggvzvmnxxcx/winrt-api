@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty HeaderFocusVisualPlacementProperty { g
 ## -description
 Identifies the [HeaderFocusVisualPlacement](pivot_headerfocusvisualplacement.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [HeaderFocusVisualPlacement](pivot_headerfocusvisualplacement.md) dependency property.
 

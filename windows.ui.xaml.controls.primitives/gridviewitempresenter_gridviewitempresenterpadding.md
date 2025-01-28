@@ -15,6 +15,8 @@ public Windows.UI.Xaml.Thickness GridViewItemPresenterPadding { get;  set; }
 
 Gets or sets the padding between the presenter and the [GridView](../windows.ui.xaml.controls/gridview.md).
 
+
+
 ## -property-value
 A [Thickness](../windows.ui.xaml/thickness.md) value.
 

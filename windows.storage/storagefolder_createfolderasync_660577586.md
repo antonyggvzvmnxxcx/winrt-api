@@ -20,11 +20,11 @@ The name of the new subfolder to create in the current folder.
 When this method completes, it returns a [StorageFolder](storagefolder.md) that represents the new subfolder.
 
 ## -exceptions
-### System.IO.FileNotFoundException
+### T:System.IO.FileNotFoundException
 
 The folder name contains invalid characters, or the format of the folder name is incorrect. Check the value of *desiredName*.
 
-### System.UnauthorizedAccessException
+### T:System.UnauthorizedAccessException
 
 You don't have permission to create a subfolder in the current folder.
 
@@ -66,7 +66,7 @@ IAsyncAction MainPage::ExampleCoroutineAsync()
 }
 ```
 
-```cpp
+```cppcx
  //Get app's local folder
  StorageFolder^ localFolder = Windows::Storage::ApplicationData::Current->LocalFolder;
  
@@ -77,23 +77,6 @@ IAsyncAction MainPage::ExampleCoroutineAsync()
  {
     //Do something with folder
  });
-```
-
-```javascript
-// Get the app's local folder.
-var localFolder = Windows.Storage.ApplicationData.current.localFolder;
-
-// Create a new subfolder in the current folder.
-// Raise an exception if the folder already exists.
-var desiredName = "Subfolder";
-var CreationCollisionOption = Windows.Storage.CreationCollisionOption;
-var newFolderPromise = localFolder.createFolderAsync(desiredName, CreationCollisionOption.failIfExists);
-newFolderPromise.done(function createFolderSuccess(newFolder) {
-    // Subfolder was created in the current folder.
-
-}, function createFolderFail(error) {
-    // Subfolder creation fails if the folder already exists. 
-});
 ```
 
 ## -see-also

@@ -13,6 +13,8 @@ public class StateTrigger : Windows.UI.Xaml.StateTriggerBase, Windows.UI.Xaml.IS
 
 Represents a trigger that applies visual states conditionally.
 
+
+
 ## -xaml-syntax
 
 ```xaml

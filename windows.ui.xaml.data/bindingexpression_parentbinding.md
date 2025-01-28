@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Data.Binding ParentBinding { get; }
 ## -description
 Gets the [Binding](binding.md) object of this [BindingExpression](bindingexpression.md).
 
+
+
 ## -property-value
 The [Binding](binding.md) object of the current binding expression.
 

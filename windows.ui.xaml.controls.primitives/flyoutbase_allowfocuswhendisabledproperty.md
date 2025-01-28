@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty AllowFocusWhenDisabledProperty { get; 
 ## -description
 Identifies the [AllowFocusWhenDisabled](flyoutbase_allowfocuswhendisabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [AllowFocusWhenDisabled](flyoutbase_allowfocuswhendisabled.md) dependency property.
 

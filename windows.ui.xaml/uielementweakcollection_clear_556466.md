@@ -14,6 +14,8 @@ public void UIElementWeakCollection.Clear()
 
 Removes all items from the collection.
 
+
+
 ## -remarks
 
 ## -see-also

@@ -12,6 +12,7 @@ public enum Windows.UI.Xaml.Controls.ScrollBarVisibility : int
 ## -description
 Defines constants that specify the visibility of a scrollbar within a [ScrollViewer](scrollviewer.md) control.
 
+
 ## -xaml-syntax
 ```xaml
 <object property="enumMemberName"/>

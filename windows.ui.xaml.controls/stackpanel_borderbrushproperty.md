@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty BorderBrushProperty { get; }
 ## -description
 Identifies the [BorderBrush](stackpanel_borderbrush.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [BorderBrush](stackpanel_borderbrush.md) dependency property.
 
@@ -20,4 +22,4 @@ The identifier for the [BorderBrush](stackpanel_borderbrush.md) dependency prope
 ## -examples
 
 ## -see-also
-[BorderBrush](stackpanel_borderbrush.md), [Dependency properties overview](https://docs.microsoft.com/windows/uwp/xaml-platform/dependency-properties-overview)
+[BorderBrush](stackpanel_borderbrush.md), [Dependency properties overview](/windows/uwp/xaml-platform/dependency-properties-overview)

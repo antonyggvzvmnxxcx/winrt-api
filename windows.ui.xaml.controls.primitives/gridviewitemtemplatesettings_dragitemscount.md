@@ -12,6 +12,8 @@ public int DragItemsCount { get; }
 ## -description
 Gets a value that reports the count of items in the current drag operation.
 
+
+
 ## -property-value
 A value that reports the count of items in the current drag operation.
 

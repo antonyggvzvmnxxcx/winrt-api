@@ -12,6 +12,8 @@ public Windows.UI.Xaml.UIElement Child { get;  set; }
 ## -description
 Gets or sets the child element to draw the border around.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Border>

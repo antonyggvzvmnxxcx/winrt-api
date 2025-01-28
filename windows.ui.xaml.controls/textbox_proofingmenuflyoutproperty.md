@@ -14,6 +14,8 @@ public DependencyProperty ProofingMenuFlyoutProperty { get; }
 
 Identifies the [ProofingMenuFlyout](textbox_proofingmenuflyout.md) dependency property.
 
+
+
 ## -property-value
 
 The identifier for the [ProofingMenuFlyout](textbox_proofingmenuflyout.md) dependency property.

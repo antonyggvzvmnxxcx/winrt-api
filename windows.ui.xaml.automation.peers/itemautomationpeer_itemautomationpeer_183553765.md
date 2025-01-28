@@ -12,6 +12,7 @@ public ItemAutomationPeer(System.Object item, Windows.UI.Xaml.Automation.Peers.I
 ## -description
 Initializes a new instance of the [ItemAutomationPeer](itemautomationpeer.md) class.
 
+
 ## -parameters
 ### -param item
 The specific item to create for.

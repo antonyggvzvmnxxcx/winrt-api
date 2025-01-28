@@ -12,6 +12,7 @@ public AppBarSeparator()
 ## -description
 Initializes a new instance of the [AppBarSeparator](appbarseparator.md) class.
 
+
 ## -remarks
 
 ## -examples

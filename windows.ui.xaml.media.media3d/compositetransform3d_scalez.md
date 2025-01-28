@@ -12,6 +12,8 @@ public double ScaleZ { get;  set; }
 ## -description
 Gets or sets the z-axis scale factor. You can use this property to stretch or shrink an object along this axis.
 
+
+
 ## -property-value
 The scale factor along the z-axis. The default is 1.
 

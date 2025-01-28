@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty PeerProperty { get; }
 ## -description
 Identifies the [AutomationPeerAnnotation.Peer](automationpeerannotation_peer.md) property.
 
+
+
 ## -property-value
 The [AutomationPeerAnnotation.Peer](automationpeerannotation_peer.md) property.
 

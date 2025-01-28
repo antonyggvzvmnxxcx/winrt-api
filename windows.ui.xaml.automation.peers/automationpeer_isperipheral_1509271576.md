@@ -12,6 +12,7 @@ public bool IsPeripheral()
 ## -description
 Gets a Boolean value that indicates whether the automation element represents peripheral UI.
 
+
 ## -returns
 A Boolean value that indicates whether the automation element represents peripheral UI.
 

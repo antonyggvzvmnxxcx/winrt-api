@@ -13,6 +13,8 @@ public Windows.UI.Color IndianRed { get; }
 
 Gets the system-defined color that has an ARGB value of #FFCD5C5C.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFCD5C5C.

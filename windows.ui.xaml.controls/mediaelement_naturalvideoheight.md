@@ -12,6 +12,7 @@ public int NaturalVideoHeight { get; }
 ## -description
 Gets the height of the video associated with the media.
 
+
 ## -property-value
 The height of the video that is associated with the media, in pixels. Audio files return 0. The default is 0.
 

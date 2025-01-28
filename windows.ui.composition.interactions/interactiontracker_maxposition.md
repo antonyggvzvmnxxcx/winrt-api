@@ -12,6 +12,8 @@ public Windows.Foundation.Numerics.Vector3 MaxPosition { get;  set; }
 ## -description
 The maximum position allowed for the [InteractionTracker](interactiontracker.md).
 
+
+
 ## -property-value
 The maximum position allowed for the [InteractionTracker](interactiontracker.md).
 

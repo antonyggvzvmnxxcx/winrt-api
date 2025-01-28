@@ -13,6 +13,8 @@ public Vector2 EndPoint { get;  set; }
 
 Gets or sets the ending two-dimensional coordinates of the linear gradient.
 
+
+
 ## -property-value
 
 The ending two-dimensional coordinates of the linear gradient.

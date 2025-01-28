@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.WindowInteractionState InteractionState { get;
 ## -description
 Gets the interaction state of the window.
 
+
+
 ## -property-value
 The interaction state of the control, as a value of the enumeration.
 

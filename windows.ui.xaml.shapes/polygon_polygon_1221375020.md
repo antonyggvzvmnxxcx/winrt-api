@@ -12,6 +12,7 @@ public Polygon()
 ## -description
 Initializes a new instance of the [Polygon](polygon.md) class.
 
+
 ## -remarks
 
 ## -examples

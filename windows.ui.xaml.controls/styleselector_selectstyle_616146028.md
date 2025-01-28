@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Style SelectStyle(System.Object item, Windows.UI.Xaml.Dep
 ## -description
 Returns a specific [Style](../windows.ui.xaml/style.md) based on custom logic.
 
+
+
 ## -parameters
 ### -param item
 The content.

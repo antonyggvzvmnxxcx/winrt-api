@@ -12,6 +12,7 @@ public Windows.Media.Playback.FailedMediaStreamKind StreamKind { get; }
 ## -description
 Gets a value indicating whether the stream that failed to decode contains audio or video.
 
+
 ## -property-value
 A value indicating whether the stream that failed to decode contains audio or video.
 

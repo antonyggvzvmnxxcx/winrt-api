@@ -12,6 +12,8 @@ public void TypeText(System.String value)
 ## -description
 Enters text into the selection as if someone typed it.
 
+
+
 ## -parameters
 ### -param value
 The text string to type into this selection.

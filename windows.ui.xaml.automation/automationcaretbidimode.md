@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Automation.AutomationCaretBidiMode : int
 ## -description
 Defines the direction that the caret travels.
 
+
+
 ## -enum-fields
 ### -field LTR:0
 Left to right.

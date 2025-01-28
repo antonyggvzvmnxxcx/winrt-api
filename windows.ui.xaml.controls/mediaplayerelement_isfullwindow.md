@@ -12,6 +12,7 @@ public bool IsFullWindow { get;  set; }
 ## -description
 Gets or sets a value that specifies if the [MediaPlayerElement](mediaplayerelement.md) is rendering in full window mode.
 
+
 ## -xaml-syntax
 ```xaml
 <MediaPlayerElement IsFullWindow="bool" />

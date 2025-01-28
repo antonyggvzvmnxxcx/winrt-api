@@ -12,6 +12,8 @@ public IReference<Rect> TargetRect { get;  set; }
 ## -description
 Gets or sets the area of an element to bring into view.
 
+
+
 ## -property-value
 A rectangle that defines the area of an element to bring into view.
 

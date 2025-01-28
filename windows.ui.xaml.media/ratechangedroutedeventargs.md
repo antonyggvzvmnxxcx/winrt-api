@@ -12,6 +12,7 @@ public class RateChangedRoutedEventArgs : Windows.UI.Xaml.RoutedEventArgs, Windo
 ## -description
 Provides event data for the [RateChanged](../windows.ui.xaml.controls/mediaelement_ratechanged.md) event.
 
+
 ## -remarks
 [RateChanged](../windows.ui.xaml.controls/mediaelement_ratechanged.md) event fires when [PlaybackRate](../windows.ui.xaml.controls/mediaelement_playbackrate.md) or [DefaultPlaybackRate](../windows.ui.xaml.controls/mediaelement_defaultplaybackrate.md) change.
 

@@ -12,6 +12,8 @@ virtual protected void OnOpening(System.Object e)
 ## -description
 Invoked when the [AppBar](appbar.md) starts to change from hidden to visible, or starts to be first displayed.
 
+
+
 ## -parameters
 ### -param e
 Event data for the event.

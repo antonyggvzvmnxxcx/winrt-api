@@ -12,6 +12,7 @@ public BounceEase()
 ## -description
 Initializes a new instance of the [BounceEase](bounceease.md) class.
 
+
 ## -remarks
 
 ## -examples

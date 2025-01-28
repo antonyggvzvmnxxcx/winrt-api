@@ -12,6 +12,8 @@ public bool IsFinalStepSingleFrame { get;  set; }
 ## -description
 Indicates whether the final step should last the smallest possible duration.
 
+
+
 ## -property-value
 Boolean indicating whether the final step should last the smallest possible duration (1 frame).
 

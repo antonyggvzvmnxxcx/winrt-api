@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty SecondaryButtonCommandProperty { get; 
 ## -description
 Gets the identifier of the SecondaryButtonCommand dependency property.
 
+
+
 ## -property-value
 The identifier of the SecondaryButtonCommand dependency property.
 

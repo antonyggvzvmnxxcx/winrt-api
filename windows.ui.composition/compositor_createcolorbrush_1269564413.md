@@ -12,6 +12,8 @@ public Windows.UI.Composition.CompositionColorBrush CreateColorBrush()
 ## -description
 Creates an instance of [CompositionColorBrush](compositioncolorbrush.md).
 
+
+
 ## -returns
 Returns the created [CompositionColorBrush](compositioncolorbrush.md) object.
 

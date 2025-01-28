@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty FullSizeDesiredProperty { get; }
 ## -description
 Gets the identifier of the FullSizeDesired dependency property.
 
+
+
 ## -property-value
 The identifier of the FullSizeDesired dependency property.
 

@@ -12,6 +12,8 @@ public string DayOfWeekFormat { get;  set; }
 ## -description
 Gets or sets the display format for the day of the week headers in the picker's [CalendarView](calendarview.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarDatePicker DayOfWeekFormat="formatString"/>

@@ -12,6 +12,8 @@ public void Suspend()
 ## -description
 Suspends aggregating objects in the [CompositionScopedBatch](compositionscopedbatch.md).
 
+
+
 ## -remarks
 
 ## -examples

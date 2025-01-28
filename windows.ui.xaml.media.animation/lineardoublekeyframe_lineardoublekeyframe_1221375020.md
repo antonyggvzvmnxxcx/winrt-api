@@ -12,6 +12,7 @@ public LinearDoubleKeyFrame()
 ## -description
 Initializes a new instance of the [LinearDoubleKeyFrame](lineardoublekeyframe.md) class.
 
+
 ## -remarks
 
 ## -examples

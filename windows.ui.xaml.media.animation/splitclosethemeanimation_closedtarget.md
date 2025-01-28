@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyObject ClosedTarget { get;  set; }
 ## -description
 Gets or sets the UI element that specifies the initial clip size.
 
+
+
 ## -property-value
 The UI element that specifies the initial clip size.
 

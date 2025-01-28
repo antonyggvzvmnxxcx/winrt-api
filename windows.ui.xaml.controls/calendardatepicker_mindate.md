@@ -12,6 +12,8 @@ public Windows.Foundation.DateTime MinDate { get;  set; }
 ## -description
 Gets or sets the earliest date that can be set in the picker.
 
+
+
 ## -property-value
 The earliest date that can be set.
 

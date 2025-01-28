@@ -12,6 +12,8 @@ public double LocalOffsetY { get;  set; }
 ## -description
 Gets or sets the distance that the object is translated along the y-axis of the plane of the object.
 
+
+
 ## -xaml-syntax
 ```xaml
 <PlaneProjection LocalOffsetY="double"/>

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsCheckedProperty { get; }
 ## -description
 Identifies the [IsChecked](togglemenuflyoutitem_ischecked.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsChecked](togglemenuflyoutitem_ischecked.md) dependency property.
 

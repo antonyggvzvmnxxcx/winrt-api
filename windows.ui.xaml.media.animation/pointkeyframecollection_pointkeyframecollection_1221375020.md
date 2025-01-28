@@ -12,6 +12,7 @@ public PointKeyFrameCollection()
 ## -description
 Initializes a new instance of the [PointKeyFrameCollection](pointkeyframecollection.md) class.
 
+
 ## -remarks
 
 ## -examples

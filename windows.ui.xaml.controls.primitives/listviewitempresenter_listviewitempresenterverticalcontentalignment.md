@@ -15,6 +15,8 @@ public Windows.UI.Xaml.VerticalAlignment ListViewItemPresenterVerticalContentAli
 
 Gets or sets the vertical alignment of the content being presented.
 
+
+
 ## -property-value
 A value of the enumeration.
 

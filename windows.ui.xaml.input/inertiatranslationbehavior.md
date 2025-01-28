@@ -12,6 +12,8 @@ public class InertiaTranslationBehavior : Windows.UI.Xaml.Input.IInertiaTranslat
 ## -description
 Controls deceleration on a translation manipulation during inertia.
 
+
+
 ## -remarks
 
 ## -examples

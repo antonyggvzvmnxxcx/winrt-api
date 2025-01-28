@@ -12,6 +12,8 @@ public bool CanRotate { get; }
 ## -description
 Gets a value that indicates whether the element can be rotated.
 
+
+
 ## -property-value
 **true** if the element can be rotated; otherwise, **false**.
 

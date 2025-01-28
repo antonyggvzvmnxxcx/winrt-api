@@ -12,6 +12,7 @@ public AppBar()
 ## -description
 Initializes a new instance of the [AppBar](appbar.md) class.
 
+
 ## -remarks
 
 ## -examples

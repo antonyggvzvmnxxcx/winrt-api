@@ -12,6 +12,8 @@ public Windows.Foundation.Point Point3 { get;  set; }
 ## -description
 Gets or sets the end point of the curve.
 
+
+
 ## -xaml-syntax
 ```xaml
 <BezierSegment Point3="x,y"/>

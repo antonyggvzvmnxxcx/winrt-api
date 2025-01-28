@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty DecodePixelTypeProperty { get; }
 ## -description
 Identifies the [DecodePixelType](bitmapimage_decodepixeltype.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [DecodePixelType](bitmapimage_decodepixeltype.md) dependency property.
 

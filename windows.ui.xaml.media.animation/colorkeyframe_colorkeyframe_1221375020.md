@@ -12,6 +12,7 @@ protected ColorKeyFrame()
 ## -description
 Provides base class initialization behavior for [ColorKeyFrame](colorkeyframe.md)-derived classes.
 
+
 ## -remarks
 
 ## -examples

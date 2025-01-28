@@ -12,6 +12,8 @@ public double ScaleY { get;  set; }
 ## -description
 Gets or sets the y-axis scale factor. You can use this property to stretch or shrink an object vertically.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CompositeTransform ScaleY="double"/>

@@ -12,6 +12,8 @@ public string GetRelativeScrollPosition(Windows.UI.Xaml.Controls.ListViewBase li
 ## -description
 Retrieves the relative scroll position of the [ListView](listview.md).
 
+
+
 ## -parameters
 ### -param listViewBase
 The ListView object.

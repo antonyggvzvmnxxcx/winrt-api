@@ -12,6 +12,8 @@ public bool CanVerticallyScroll { get;  set; }
 ## -description
 Not intended for general use. Gets or sets a value that indicates whether scrolling on the vertical axis is possible.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CarouselPanel CanVerticallyScroll="bool" />

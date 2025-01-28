@@ -12,6 +12,8 @@ public class ItemsPickedEventArgs : Windows.UI.Xaml.DependencyObject, Windows.UI
 ## -description
 Provides data for the [ItemsPicked](listpickerflyout_itemspicked.md) event.
 
+
+
 ## -remarks
 
 ## -examples

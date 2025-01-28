@@ -12,6 +12,7 @@ public StackPanel()
 ## -description
 Initializes a new instance of the [StackPanel](stackpanel.md) class.
 
+
 ## -remarks
 
 ## -examples

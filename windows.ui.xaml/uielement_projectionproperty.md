@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ProjectionProperty { get; }
 ## -description
 Identifies the [Projection](uielement_projection.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Projection](uielement_projection.md) dependency property.
 

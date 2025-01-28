@@ -12,6 +12,8 @@ public bool IsSelectionBoxHighlighted { get; }
 ## -description
 Gets a value that indicates whether the [SelectionBoxItem](combobox_selectionboxitem.md) component is highlighted.
 
+
+
 ## -property-value
 **True** if the [SelectionBoxItem](combobox_selectionboxitem.md) is highlighted; otherwise, **false**. The default is **true**.
 

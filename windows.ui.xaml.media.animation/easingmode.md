@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Media.Animation.EasingMode : int
 ## -description
 Specifies how the animation associated with an easing function interpolates.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object property="enumMemberName"/>

@@ -12,6 +12,8 @@ public Windows.UI.Composition.CompositionAnimationGroup CreateAnimationGroup()
 ## -description
 Creates an instance of [CompositionAnimationGroup](compositionanimationgroup.md).
 
+
+
 ## -returns
 Returns the created [CompositionAnimationGroup](compositionanimationgroup.md) object.
 

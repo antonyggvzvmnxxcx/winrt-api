@@ -12,6 +12,7 @@ public CurrentChangingEventArgs()
 ## -description
 Initializes a new instance of the [CurrentChangingEventArgs](currentchangingeventargs.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty SelectionHighlightColorProperty { get;
 ## -description
 Identifies the [SelectionHighlightColor](passwordbox_selectionhighlightcolor.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [SelectionHighlightColor](passwordbox_selectionhighlightcolor.md) dependency property.
 

@@ -12,6 +12,8 @@ public bool IgnoreTrailingCharacterSpacing { get;  set; }
 ## -description
 Gets or sets a value that indicates whether character spacing is applied to the last character in a line.
 
+
+
 ## -property-value
 **true** if spacing is applied to the last character in a line of text; otherwise, **false**. The default is **false**.
 

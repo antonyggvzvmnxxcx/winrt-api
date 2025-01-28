@@ -13,6 +13,7 @@ public bool IsRepeatEnabled { get;  set; }
 
 Gets or sets a value that indicates whether a user repeat the playback of the media.
 
+
 ## -xaml-syntax
 
 ```xaml

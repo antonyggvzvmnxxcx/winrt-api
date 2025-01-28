@@ -12,6 +12,8 @@ public double VerticalScrollPercent { get; }
 ## -description
 Gets the current vertical scroll position.
 
+
+
 ## -property-value
 The vertical scroll position as a percentage of the total content area within the control.
 

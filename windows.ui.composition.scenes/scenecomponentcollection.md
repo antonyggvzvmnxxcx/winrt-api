@@ -14,6 +14,8 @@ public class SceneComponentCollection : SceneObject, SceneObject, IIterable<Scen
 
 Represents a collection of SceneComponent objects that can be individually accessed by index.
 
+
+
 ## -remarks
 
 ## -see-also

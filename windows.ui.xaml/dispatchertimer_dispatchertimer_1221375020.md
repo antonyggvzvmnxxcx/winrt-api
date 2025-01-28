@@ -12,6 +12,7 @@ public DispatcherTimer()
 ## -description
 Initializes a new instance of the [DispatcherTimer](dispatchertimer.md) class.
 
+
 ## -remarks
 
 ## -examples

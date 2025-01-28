@@ -13,6 +13,7 @@ public Duration XamlDirect.GetDurationProperty(IXamlDirectObject xamlDirectObjec
 ## -description
 Gets the value of a _Duration_ property for a specific [IXamlDirectObject](ixamldirectobject.md).
 
+
 ## -parameters
 ### -param xamlDirectObject
 A reference to the specific [IXamlDirectObject](ixamldirectobject.md).

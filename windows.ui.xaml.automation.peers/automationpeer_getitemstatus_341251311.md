@@ -12,6 +12,8 @@ public string GetItemStatus()
 ## -description
 Gets text that conveys the visual status of the element that is associated with this automation peer.
 
+
+
 ## -returns
 The item status.
 

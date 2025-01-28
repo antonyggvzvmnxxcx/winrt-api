@@ -13,6 +13,8 @@ public DependencyProperty RevealBackgroundShowsAboveContentProperty { get; }
 
 Identifies the RevealBackgroundShowsAboveContent dependency property.
 
+
+
 ## -property-value
 
 The identifier for the RevealBackgroundShowsAboveContent dependency property.

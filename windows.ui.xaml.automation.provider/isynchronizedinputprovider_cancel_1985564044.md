@@ -12,6 +12,8 @@ public void Cancel()
 ## -description
 Cancels listening for input.
 
+
+
 ## -remarks
 
 ## -examples

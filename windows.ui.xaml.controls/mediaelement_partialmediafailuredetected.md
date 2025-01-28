@@ -12,6 +12,7 @@ public event Windows.Foundation.TypedEventHandler PartialMediaFailureDetected<Wi
 ## -description
 Occurs when one or more streams fails to decode in content containing multiple streams.
 
+
 ## -remarks
 If at least one stream in the content is successfully decoded, the decoded media is played and this event is raised. If the stream that fails to decode is the only stream contained in the content, playback fails and the [MediaFailed](mediaelement_mediafailed.md) event is raised.
 

@@ -12,6 +12,8 @@ public class CandidateWindowBoundsChangedEventArgs : Windows.UI.Xaml.Controls.IC
 ## -description
 Provides event data for the **CandidateWindowBoundsChanged** event.
 
+
+
 ## -remarks
 For more info, see [TextBox.CandidateWindowBoundsChanged](textbox_candidatewindowboundschanged.md) and [RichEditBox.CandidateWindowBoundsChanged](richeditbox_candidatewindowboundschanged.md).
 

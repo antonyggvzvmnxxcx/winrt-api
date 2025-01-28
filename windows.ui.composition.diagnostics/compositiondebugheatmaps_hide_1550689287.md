@@ -13,6 +13,8 @@ public void CompositionDebugHeatMaps.Hide(Visual subtree)
 
 Hides the heatmap for the specified subtree.
 
+
+
 ## -parameters
 ### -param subtree
 

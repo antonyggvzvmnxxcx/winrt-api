@@ -14,6 +14,8 @@ public XamlRoot XamlRoot { get;  set; }
 
 Gets or sets the XamlRoot in which this element is being viewed.
 
+
+
 ## -property-value
 
 The XamlRoot in which this element is being viewed. The default is **null**.

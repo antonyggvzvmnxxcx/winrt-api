@@ -12,6 +12,8 @@ public bool GetIsZoomInertiaEnabled(Windows.UI.Xaml.DependencyObject element)
 ## -description
 Gets the value of the [IsZoomInertiaEnabled](scrollviewer_iszoominertiaenabled.md) dependency property / `ScrollViewer.IsZoomInertiaEnabled` XAML attached property from a specified element.
 
+
+
 ## -parameters
 ### -param element
 The element from which the property value is read.

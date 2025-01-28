@@ -12,6 +12,8 @@ virtual protected void OnValueChanged(System.Double oldValue, System.Double newV
 ## -description
 Fires the [ValueChanged](rangebase_valuechanged.md) routed event.
 
+
+
 ## -parameters
 ### -param oldValue
 Old value of the [Value](rangebase_value.md) property.

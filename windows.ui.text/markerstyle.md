@@ -12,6 +12,8 @@ public enum Windows.UI.Text.MarkerStyle : int
 ## -description
 Specifies the style used to mark the item paragraphs in a list.
 
+
+
 ## -enum-fields
 ### -field Undefined:0
 The marker style is not defined.

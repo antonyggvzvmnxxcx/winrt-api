@@ -12,6 +12,8 @@ public bool IsModal { get; }
 ## -description
 Gets a value that specifies whether the window is modal.
 
+
+
 ## -property-value
 **true** if the window is modal; otherwise, **false**.
 

@@ -14,6 +14,8 @@ public int Count { get; }
 
 Gets the size (count) of the collection.
 
+
+
 ## -property-value
 
 The number of items in the collection.

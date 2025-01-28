@@ -12,6 +12,8 @@ public double ViewportHeight { get; }
 ## -description
 Gets the vertical size of the viewport or content area.
 
+
+
 ## -property-value
 A value in pixels.
 

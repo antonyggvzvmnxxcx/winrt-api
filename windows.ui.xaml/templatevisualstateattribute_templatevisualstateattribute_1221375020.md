@@ -12,6 +12,7 @@ public TemplateVisualStateAttribute()
 ## -description
 Initializes a new instance of the [TemplateVisualStateAttribute](templatevisualstateattribute.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty MaxZoomProperty { get; }
 ## -description
 Identifies the [MaxZoom](../windows.ui.xaml.automation.provider/itransformprovider2_maxzoom.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

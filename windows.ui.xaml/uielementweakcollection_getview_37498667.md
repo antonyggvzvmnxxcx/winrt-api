@@ -14,6 +14,8 @@ public IVectorView<UIElement> UIElementWeakCollection.GetView()
 
 Gets an immutable view into the collection.
 
+
+
 ## -returns
 
 An object that represents the immutable collection view.

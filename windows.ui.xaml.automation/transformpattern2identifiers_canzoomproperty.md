@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty CanZoomProperty { get; }
 ## -description
 Identifies the [CanZoom](../windows.ui.xaml.automation.provider/itransformprovider2_canzoom.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.FontFamily FirstOfMonthLabelFontFamily { get;  set;
 ## -description
 Gets or sets the font used to display the first-of-month banner in the calendar.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarView FirstOfMonthLabelFontFamily="fontFamilyValue"/>

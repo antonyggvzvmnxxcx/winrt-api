@@ -14,6 +14,8 @@ Inertia decay rate, for scale. Range is from 0 to 1.
 
 The ScaleInertiaDecayRate property defines the rate at which [InteractionTracker](interactiontracker.md) will slow to a stop when it has entered Inertia and scale is changing. The closer to 1, the faster [InteractionTracker](interactiontracker.md) will slow to a stop and vice versa. Unlike the [PositionInertiaDecayRate](interactiontracker_positioninertiadecayrate.md) which is defined as a Vector3, ScaleInertiaDecayRate is defined as a single float.
 
+
+
 ## -property-value
 Inertia decay rate for scale. Range is from 0 to 1.
 

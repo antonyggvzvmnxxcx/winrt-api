@@ -14,6 +14,7 @@ public ColorPaletteResources.ColorPaletteResources()
 
 Initializes a new instance of the [ColorPaletteResources](colorpaletteresources.md) class.
 
+
 ## -remarks
 
 ## -see-also

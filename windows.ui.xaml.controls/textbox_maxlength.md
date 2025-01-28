@@ -12,6 +12,8 @@ public int MaxLength { get;  set; }
 ## -description
 Gets or sets the value that specifies the maximum number of characters allowed for user input.
 
+
+
 ## -xaml-syntax
 ```xaml
 <TextBox MaxLength="int"/>

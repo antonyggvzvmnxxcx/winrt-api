@@ -12,6 +12,8 @@ public class SvgImageSourceFailedEventArgs
 ## -description
 Provides event data for the [SvgImageSource.OpenFailed](svgimagesource_openfailed.md) event.
 
+
+
 ## -remarks
 
 ## -see-also

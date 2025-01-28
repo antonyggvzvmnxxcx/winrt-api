@@ -12,6 +12,7 @@ public ItemsControlAutomationPeer(Windows.UI.Xaml.Controls.ItemsControl owner)
 ## -description
 Initializes a new instance of the [ItemsControlAutomationPeer](itemautomationpeer_itemscontrolautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The owner element to create for.

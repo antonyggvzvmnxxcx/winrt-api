@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsGroupingProperty { get; }
 ## -description
 Identifies the [IsGrouping](itemscontrol_isgrouping.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsGrouping](itemscontrol_isgrouping.md) dependency property.
 

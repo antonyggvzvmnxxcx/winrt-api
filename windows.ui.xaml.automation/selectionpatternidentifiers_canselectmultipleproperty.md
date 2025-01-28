@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty CanSelectMultipleProperty {
 ## -description
 Identifies the [CanSelectMultiple](../windows.ui.xaml.automation.provider/iselectionprovider_canselectmultiple.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

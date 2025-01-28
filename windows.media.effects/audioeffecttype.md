@@ -67,11 +67,16 @@ A speaker compensation effect.
 ### -field DynamicRangeCompression:17
 A dynamic range compression effect.
 
+### -field FarFieldBeamForming:18
+A far-field beam forming effect.
+
+### -field DeepNoiseSuppression: 19
+A noise suppression effect. This type differs from **NoiseSuppression** in that it is a more advanced AI / machine learning based noise suppression effect.
 
 ## -remarks
-See the [Audio effects discovery sample](https://go.microsoft.com/fwlink/p/?LinkID=309019) for an example of how to query and monitor audio effects on render and capture audio devices.
+See the [Audio effects discovery sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Audio%20effects%20discovery%20sample) for an example of how to query and monitor audio effects on render and capture audio devices.
 
 ## -examples
 
 ## -see-also
-[Audio effects discovery sample](https://go.microsoft.com/fwlink/p/?LinkID=309019)
+[Audio effects discovery sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Audio%20effects%20discovery%20sample)

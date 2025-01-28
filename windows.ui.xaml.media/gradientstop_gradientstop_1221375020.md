@@ -12,6 +12,7 @@ public GradientStop()
 ## -description
 Initializes a new instance of the [GradientStop](gradientstop.md) class.
 
+
 ## -remarks
 
 ## -examples

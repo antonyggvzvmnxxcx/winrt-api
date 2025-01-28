@@ -16,6 +16,7 @@ Represents app capture settings.
 > This API is not available to all Windows apps. Unless your developer account is specially provisioned by Microsoft, calls to these APIs will fail at runtime.
 
 ## -remarks
+This API may throw an error if the background service has shut down due to idle timeout.
 
 ### Version history
 
@@ -32,7 +33,7 @@ Represents app capture settings.
 ## -examples
 
 ## -see-also
-[Object](https://docs.microsoft.com/dotnet/api/system.object?redirectedfrom=MSDN)
+[Object](/dotnet/api/system.object?view=dotnet-uwp-10.0&preserve-view=true)
 
 ## -capabilities
 appCaptureSettings

@@ -14,6 +14,8 @@ public uint Size { get; }
 
 Gets the number of items in the map.
 
+
+
 ## -property-value
 
 The number of items in the map.

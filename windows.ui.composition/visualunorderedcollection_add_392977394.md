@@ -12,6 +12,8 @@ public void Add(Windows.UI.Composition.Visual newVisual)
 ## -description
 Adds a visual to the collection.
 
+
+
 ## -parameters
 ### -param newVisual
 The visual to add to the collection.

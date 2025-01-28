@@ -12,6 +12,8 @@ public event Windows.Foundation.EventHandler Opened<object>
 ## -description
 Fires when the [IsOpen](popup_isopen.md) property is set to true.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Popup Opened="eventhandler"/>

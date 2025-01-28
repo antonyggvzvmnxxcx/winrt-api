@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty EnableDependentAnimationProperty { get
 ## -description
 Identifies the [EnableDependentAnimation](coloranimationusingkeyframes_enabledependentanimation.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [EnableDependentAnimation](coloranimationusingkeyframes_enabledependentanimation.md) dependency property.
 

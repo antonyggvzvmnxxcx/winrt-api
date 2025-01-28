@@ -12,6 +12,8 @@ public double Maximum { get; }
 ## -description
 Gets the maximum range value that is supported by the control.
 
+
+
 ## -property-value
 The maximum range value supported by the control.
 

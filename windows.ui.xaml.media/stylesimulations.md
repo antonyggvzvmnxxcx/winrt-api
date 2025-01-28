@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Media.StyleSimulations : int
 ## -description
 Describes the simulation style of a font.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object property="enumerationValue"/>

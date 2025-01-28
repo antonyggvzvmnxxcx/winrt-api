@@ -12,6 +12,7 @@ protected Control()
 ## -description
 Provides base class initialization behavior for [Control](control.md) derived classes.
 
+
 ## -remarks
 
 ## -examples

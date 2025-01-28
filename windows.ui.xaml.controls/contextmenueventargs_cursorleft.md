@@ -12,6 +12,8 @@ public double CursorLeft { get; }
 ## -description
 Gets the pixel offset of the text cursor horizontal position.
 
+
+
 ## -property-value
 A value in pixels.
 

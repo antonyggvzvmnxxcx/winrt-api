@@ -12,6 +12,7 @@ public Hyperlink()
 ## -description
 Initializes a new instance of the [Hyperlink](hyperlink.md) class.
 
+
 ## -remarks
 
 ## -examples

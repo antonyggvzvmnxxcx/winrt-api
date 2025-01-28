@@ -10,6 +10,8 @@ public delegate void ItemsChangedEventHandler(System.Object sender, Windows.UI.X
 ## -description
 Represents the method that will handle the [ItemsChanged](../windows.ui.xaml.controls/itemcontainergenerator_itemschanged.md) event.
 
+
+
 ## -parameters
 ### -param sender
 The source of the event.

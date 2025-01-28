@@ -13,6 +13,8 @@ public Windows.UI.Color Violet { get; }
 
 Gets the system-defined color that has an ARGB value of #FFEE82EE.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFEE82EE.

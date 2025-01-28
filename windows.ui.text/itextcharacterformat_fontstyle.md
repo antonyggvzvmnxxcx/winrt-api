@@ -12,6 +12,8 @@ public Windows.UI.Text.FontStyle FontStyle { get;  set; }
 ## -description
 Gets or sets the style of the font face, such as normal or italic.
 
+
+
 ## -property-value
 The font style.
 

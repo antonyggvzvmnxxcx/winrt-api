@@ -12,6 +12,8 @@ public class DatePickedEventArgs : Windows.UI.Xaml.DependencyObject, Windows.UI.
 ## -description
 Provides data for the [DatePicked](datepickerflyout_datepicked.md) event.
 
+
+
 ## -remarks
 
 ## -examples

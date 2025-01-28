@@ -12,6 +12,8 @@ public Windows.UI.Color Color { get;  set; }
 ## -description
 Color of the emitted DistantLight.
 
+
+
 ## -property-value
 Color of the emitted DistantLight.
 

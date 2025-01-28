@@ -12,6 +12,8 @@ public Windows.Graphics.Printing.PrintTaskOptions PrintTaskOptions { get; }
 ## -description
 Gets the [PrintTaskOptions](../windows.graphics.printing/printtaskoptions.md) for the pages involved in the event occurrence.
 
+
+
 ## -property-value
 An object that manages the options for print tasks.
 

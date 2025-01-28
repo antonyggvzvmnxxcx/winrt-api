@@ -12,6 +12,8 @@ public class RenderingEventArgs : Windows.UI.Xaml.Media.IRenderingEventArgs
 ## -description
 Provides event data for the [Rendering](compositiontarget_rendering.md) event.
 
+
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public class ManipulationDeltaRoutedEventArgs : Windows.UI.Xaml.RoutedEventArgs,
 ## -description
 Provides data for the [ManipulationDelta](../windows.ui.xaml/uielement_manipulationdelta.md) event.
 
+
+
 ## -remarks
 
 ## -examples

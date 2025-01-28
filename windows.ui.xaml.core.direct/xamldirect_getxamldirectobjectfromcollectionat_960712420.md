@@ -13,6 +13,7 @@ public IXamlDirectObject XamlDirect.GetXamlDirectObjectFromCollectionAt(IXamlDir
 ## -description
 Returns the [IXamlDirectObject](ixamldirectobject.md) item at the specified index from the specified [IXamlDirectObject](ixamldirectobject.md) collection.
 
+
 ## -parameters
 ### -param xamlDirectObject
 Refers to the specific [IXamlDirectObject](ixamldirectobject.md) collection.
@@ -26,7 +27,7 @@ Returns the [IXamlDirectObject](ixamldirectobject.md) item at the specified inde
 ## -examples
 The following example shows how to access an [IXamlDirectObject](ixamldirectobject.md) item at the specified index of a collection.
 
-```C#
+```csharp
 XamlDirect xd = XamlDirect.GetDefault();
 
 IXamlDirectObject relativePanel = xd.CreateInstance(XamlTypeIndex.RelativePanel);
@@ -36,7 +37,7 @@ IXamlDirectObject childrenCollection = xd.GetXamlDirectObjectProperty(relativePa
 IXamlDirectObject first = xd.GetXamlDirectObjectFromCollectionAt(childrenCollection, 0);
 ```
 
-```CPP
+```cppcx
 XamlDirect^ xd = XamlDirect::GetDefault();
 
 IXamlDirectObject^ relativePanel = xd->CreateInstance(XamlTypeIndex::RelativePanel);

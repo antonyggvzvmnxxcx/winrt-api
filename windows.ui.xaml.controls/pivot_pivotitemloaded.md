@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler PivotItemLoaded<Windows.UI.Xam
 ## -description
 Event for indicating that an item has fully loaded.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Pivot PivotItemLoaded="eventhandler" />

@@ -15,7 +15,7 @@ Gets a [Human Interface Device (HID)](https://www.usb.org/hid) input report for 
 
 ## -property-value
 
-A [HidInputReport](..\windows.devices.input.preview\gazepointpreview_hidinputreport.md) object.
+A [HidInputReport](../windows.devices.humaninterfacedevice/hidinputreport.md) object.
 
 ## -remarks
 
@@ -23,6 +23,6 @@ Devices issue input reports to describe state changes, user-input, and other dev
 
 ## -see-also
 
-[Gaze interactions and eye tracking in UWP apps](https://docs.microsoft.com/windows/uwp/design/input/gaze-interactions), [Gaze input sample (basic)](https://github.com/MicrosoftDocs/windows-topic-specific-samples/archive/uwp-gazeinput-basic.zip), [Windows Community Toolkit Gaze library](https://docs.microsoft.com/windows/uwpcommunitytoolkit/gaze/gazeinteractionlibrary)
+[Gaze interactions and eye tracking in UWP apps](/windows/uwp/design/input/gaze-interactions), [Gaze input sample (basic)](https://github.com/MicrosoftDocs/windows-topic-specific-samples/archive/uwp-gazeinput-basic.zip), [Windows Community Toolkit Gaze library](/windows/uwpcommunitytoolkit/gaze/gazeinteractionlibrary)
 
 ## -examples

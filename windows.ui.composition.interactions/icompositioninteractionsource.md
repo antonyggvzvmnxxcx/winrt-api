@@ -12,6 +12,8 @@ public interface ICompositionInteractionSource :
 ## -description
 An object that is being tracked for interactions in the compositor.
 
+
+
 ## -remarks
 
 ## -examples

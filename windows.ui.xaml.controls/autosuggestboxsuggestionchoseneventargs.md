@@ -12,6 +12,8 @@ public class AutoSuggestBoxSuggestionChosenEventArgs : Windows.UI.Xaml.Dependenc
 ## -description
 Provides data for the [SuggestionChosen](autosuggestbox_suggestionchosen.md) event.
 
+
+
 ## -remarks
 
 ## -examples

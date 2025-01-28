@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.CalendarViewDayItem Item { get; }
 ## -description
 Gets the calendar day item associated with this container.
 
+
+
 ## -property-value
 The [CalendarViewDayItem](calendarviewdayitem.md) associated with this container, or **null** if no item is associated with this container.
 

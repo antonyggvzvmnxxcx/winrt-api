@@ -12,6 +12,8 @@ public void SetAt(System.UInt32 index, System.Object value)
 ## -description
 Sets the item value at the specified index of the vector.
 
+
+
 ## -parameters
 ### -param index
 The zero-based index of the vector, at which to set the value.
@@ -20,9 +22,9 @@ The zero-based index of the vector, at which to set the value.
 The item value to set.
 
 ## -remarks
-When programming with .NET, this interface is hidden and developers should use the [System.Collections.IList](https://docs.microsoft.com/dotnet/api/system.collections.ilist?redirectedfrom=MSDN) interface.
+When programming with .NET, this interface is hidden and developers should use the [System.Collections.IList](/dotnet/api/system.collections.ilist?view=dotnet-uwp-10.0&preserve-view=true) interface.
 
 ## -examples
 
 ## -see-also
-[XAML data binding sample](https://go.microsoft.com/fwlink/p/?linkid=226854)
+[XAML data binding sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlBind)

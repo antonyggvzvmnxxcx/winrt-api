@@ -12,6 +12,8 @@ public void Connect(System.Int32 connectionId, System.Object target)
 ## -description
 Attaches events and names to XAML-initiated content.
 
+
+
 ## -parameters
 ### -param connectionId
 An identifier token to distinguish calls.

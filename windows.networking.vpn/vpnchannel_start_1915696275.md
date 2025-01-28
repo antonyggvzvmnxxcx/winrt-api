@@ -29,19 +29,19 @@ A pointer to Windows.Networking.VpnRouteAssignment class that represents the rou
 A pointer to Windows.Networking.DomainNameAssignment class that represents the list of name prefixes that are associated to the VPN channel, including its DNS and proxy servers.
 
 ### -param mtuSize
-A UINT16 value specifying the MTU size of the VPN L3 network interface. This is also the size of the IVpnPacketBuffers in the Receive pool.
+A UINT16 value specifying the MTU size of the VPN L3 network interface. This is also the size of the IVpnPacketBuffers in the Receive pool. This value should be configured to be at most 1400.
 
 ### -param maxFrameSize
-A UINT16 value specifying the max size of the frame defined by the VPN protocol encapsulation without counting the *outerTunnelTransport*. This is also the size of the **IVpnPacketBuffers** in the Send pool.
+A UINT16 value specifying the max size of the frame defined by the VPN protocol encapsulation without counting the *outerTunnelTransport*. This is also the size of the **IVpnPacketBuffers** in the Send pool. This value should be configured as mtuSize + [size of encapsulation headers], and should be <=1500. If it would be greater than 1500 either mtuSize or encapsulation header size should be reduced as the platform limits the framesize to 1500.
 
 ### -param optimizeForLowCostNetwork
 A **Boolean** specifying whether the VPN framework should monitor and use low cost networks as they are available. If **TRUE** the VPN framework will invoke the connect() callback to the VPN plug-in to reconnect it whenever the old network was costed and a new low cost network becomes available.
 
 ### -param mainOuterTunnelTransport
-An *IInspectable* object for socket transport. The object can be a [Windows.Networking.StreamSocket](../windows.networking.sockets/windows_networking_sockets.md), Windows.Networking.WebStreamSocket or Windows.Networking.DatagramSocket. This socket controls the connection to the VPN server and will be used to send encapsulated IP packets and receive encapsulated data.
+An *IInspectable* object for socket transport. This object can be a [Windows.Networking.Sockets.DatagramSocket](/uwp/api/windows.networking.sockets.datagramsocket) or a [Windows.Networking.Sockets.StreamSocket](/uwp/api/windows.networking.sockets.streamsocket). This socket controls the connection to the VPN server and will be used to send encapsulated IP packets and receive encapsulated data.
 
 ### -param optionalOuterTunnelTransport
-An optional *IInspectable* object for socket transport. The object can be a [Windows.Networking.StreamSocket](../windows.networking.sockets/windows_networking_sockets.md), Windows.Networking.WebStreamSocket or Windows.Networking.DatagramSocket. This socket controls the connection to the VPN server and will be used to send encapsulated IP packets and receive encapsulated data.
+An optional *IInspectable* object for socket transport. This object can be a [Windows.Networking.Sockets.DatagramSocket](/uwp/api/windows.networking.sockets.datagramsocket) or a [Windows.Networking.Sockets.StreamSocket](/uwp/api/windows.networking.sockets.streamsocket). This socket controls the connection to the VPN server and will be used to send encapsulated IP packets and receive encapsulated data.
 
 ## -remarks
 If the function succeeds, the return value is **S_OK**, otherwise the function will return an error hresult value describing the specific failure. If the plug-in is not connected, the error will be **E_ACCESSDENIED**.

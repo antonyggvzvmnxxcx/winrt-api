@@ -14,6 +14,8 @@ public IReference<DateTime> NewDate { get; }
 
 Gets the new date selected in the picker.
 
+
+
 ## -property-value
 
 The new date selected in the picker.

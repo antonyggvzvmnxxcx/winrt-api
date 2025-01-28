@@ -13,6 +13,8 @@ public SceneLightingEffectReflectanceModel ReflectanceModel { get;  set; }
 
 Gets or sets a value that indicates how the reflectance of a [SceneLightingEffect](scenelightingeffect.md) is modeled.
 
+
+
 ## -property-value
 
 A value that indicates how the reflectance of a [SceneLightingEffect](scenelightingeffect.md) is modeled.

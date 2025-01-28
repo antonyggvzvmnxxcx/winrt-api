@@ -12,6 +12,8 @@ public void LineRight()
 ## -description
 Scrolls the [ScrollContentPresenter](scrollcontentpresenter.md) content to the right by a predetermined amount.
 
+
+
 ## -remarks
 
 ## -examples

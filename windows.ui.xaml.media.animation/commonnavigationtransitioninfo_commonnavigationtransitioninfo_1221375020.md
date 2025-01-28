@@ -12,6 +12,7 @@ public CommonNavigationTransitionInfo()
 ## -description
 Initializes a new instance of the [CommonNavigationTransitionInfo](commonnavigationtransitioninfo.md) class.
 
+
 ## -remarks
 
 ## -examples

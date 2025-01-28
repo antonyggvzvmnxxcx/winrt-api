@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler CalendarViewDayItemChanging<Wi
 ## -description
 Occurs when a [CalendarViewDayItem](calendarviewdayitem.md) is loading.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarView CalendarViewDayItemChanging="eventhandler"/>

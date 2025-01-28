@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty LocalizedControlTypePropert
 ## -description
 Identifies the localized control type automation property which provides a mechanism to alter the control type read by Narrator.
 
+
+
 ## -property-value
 The automation property identifier.
 

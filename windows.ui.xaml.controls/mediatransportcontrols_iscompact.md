@@ -12,6 +12,7 @@ public bool IsCompact { get;  set; }
 ## -description
 Gets or sets a value that indicates whether transport controls are shown on one row instead of two.
 
+
 ## -xaml-syntax
 ```xaml
 

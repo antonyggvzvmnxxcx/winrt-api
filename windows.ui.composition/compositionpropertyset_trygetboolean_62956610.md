@@ -12,6 +12,8 @@ public Windows.UI.Composition.CompositionGetValueStatus TryGetBoolean(System.Str
 ## -description
 Retrieves the specified boolean property value.
 
+
+
 ## -parameters
 ### -param propertyName
 The name of the property to retrieve.

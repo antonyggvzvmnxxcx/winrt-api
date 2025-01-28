@@ -12,6 +12,8 @@ public double VerticalOffset { get;  set; }
 ## -description
 Gets or sets the vertical distance between the target origin and the pop-up alignment point.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ToolTip VerticalOffset="double"/>

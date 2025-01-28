@@ -12,6 +12,8 @@ public XYFocusNavigationStrategy XYFocusLeftNavigationStrategy { get;  set; }
 ## -description
 Gets or sets a value that specifies the strategy used to determine the target element of a left navigation.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Hyperlink XYFocusLeftNavigationStrategy="xyFocusNavigationStrategyMemberName"/>

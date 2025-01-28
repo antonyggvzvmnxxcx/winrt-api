@@ -12,6 +12,8 @@ public class NoFocusCandidateFoundEventArgs : RoutedEventArgs, RoutedEventArgs
 ## -description
 Provides data for the [NoFocusCandidateFound](../windows.ui.xaml/uielement_nofocuscandidatefound.md) event.
 
+
+
 ## -remarks
 
 ## -see-also

@@ -12,6 +12,7 @@ public bool IsDataValidForForm()
 ## -description
 Gets a Boolean value that indicates whether the entered or selected value is valid for the form rule associated with the automation element.
 
+
 ## -returns
 A Boolean value that indicates whether the entered or selected value is valid for the form rule associated with the automation element. The default return value is **true**.
 

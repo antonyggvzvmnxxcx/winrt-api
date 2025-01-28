@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ClipProperty { get; }
 ## -description
 Identifies the [Clip](uielement_clip.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Clip](uielement_clip.md) dependency property.
 

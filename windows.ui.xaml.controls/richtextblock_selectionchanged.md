@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.RoutedEventHandler SelectionChanged
 ## -description
 Occurs when the text selection has changed.
 
+
+
 ## -xaml-syntax
 ```xaml
 <RichTextBlock SelectionChanged="eventhandler"/>

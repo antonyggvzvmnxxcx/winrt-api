@@ -12,6 +12,8 @@ public class OrientedVirtualizingPanel : Windows.UI.Xaml.Controls.VirtualizingPa
 ## -description
 Adds infrastructure (provides base class) for virtualizing layout containers that support spatial cues, such as [VirtualizingStackPanel](../windows.ui.xaml.controls/virtualizingstackpanel.md) and [WrapGrid](../windows.ui.xaml.controls/wrapgrid.md).
 
+
+
 ## -remarks
 ### **OrientedVirtualizingPanel** derived classes
 

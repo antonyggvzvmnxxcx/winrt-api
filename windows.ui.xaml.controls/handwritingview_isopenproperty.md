@@ -11,17 +11,17 @@ public DependencyProperty IsOpenProperty { get; }
 
 ## -description
 
-Identifies the IsOpen dependency property.
+Identifies the [IsOpen](handwritingview_isopen.md) dependency property.
 
 ## -property-value
 
-The identifier for the IsOpen dependency property.
+The identifier for the [IsOpen](handwritingview_isopen.md) dependency property.
 
 ## -remarks
 
 ## -see-also
 
-[Text input with the handwriting view](https://docs.microsoft.com/windows/uwp/design/controls-and-patterns/text-handwriting-view)
+[Text input with the handwriting view](/windows/uwp/design/controls-and-patterns/text-handwriting-view)
 
 ## -examples
 

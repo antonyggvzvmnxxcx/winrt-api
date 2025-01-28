@@ -12,6 +12,8 @@ public ITextRange RichEditTextDocument.GetRangeFromPoint(Point point, PointOptio
 ## -description
 Retrieves the degenerate (empty) text range at, or nearest to, a particular point on the screen.
 
+
+
 ## -parameters
 
 ### -param point

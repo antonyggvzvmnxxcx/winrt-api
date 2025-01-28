@@ -13,6 +13,8 @@ public event TypedEventHandler IsTextTrimmedChanged<TextBlock, IsTextTrimmedChan
 
 Occurs when the [IsTextTrimmed](textblock_istexttrimmed.md) property value has changed.
 
+
+
 ## -xaml-syntax
 
 ```xaml

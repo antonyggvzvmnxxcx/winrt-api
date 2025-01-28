@@ -12,6 +12,8 @@ public bool IsSourceZoomedInView { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the starting view is the [ZoomedInView](semanticzoom_zoomedinview.md).
 
+
+
 ## -property-value
 **true** if the starting view is the [ZoomedInView](semanticzoom_zoomedinview.md); otherwise, **false**.
 

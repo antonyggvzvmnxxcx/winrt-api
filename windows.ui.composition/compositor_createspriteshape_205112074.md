@@ -13,6 +13,8 @@ public CompositionSpriteShape Compositor.CreateSpriteShape()
 
 Creates an instance of [CompositionSpriteShape](compositionspriteshape.md).
 
+
+
 ## -returns
 
 Returns the created [CompositionSpriteShape](compositionspriteshape.md) object.

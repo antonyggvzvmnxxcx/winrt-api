@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty IsFullWindowButtonVisibleProperty { ge
 ## -description
 Identifies the [IsFullWindowButtonVisible](mediatransportcontrols_isfullwindowbuttonvisible.md) dependency property.
 
+
 ## -property-value
 The identifier for the [IsFullWindowButtonVisible](mediatransportcontrols_isfullwindowbuttonvisible.md) dependency property.
 

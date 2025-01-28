@@ -12,6 +12,8 @@ public bool IsDirectionReversed { get;  set; }
 ## -description
 Gets or sets a value that indicates the direction of increasing value.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Slider IsDirectionReversed="bool"/>

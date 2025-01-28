@@ -12,6 +12,8 @@ public void RichEditTextDocument.GetText(TextGetOptions options, String value)
 ## -description
 Gets the text in the active story (document).
 
+
+
 ## -parameters
 
 ### -param options

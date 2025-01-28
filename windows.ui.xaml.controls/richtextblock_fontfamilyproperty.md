@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty FontFamilyProperty { get; }
 ## -description
 Identifies the [FontFamily](richtextblock_fontfamily.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [FontFamily](richtextblock_fontfamily.md) dependency property.
 

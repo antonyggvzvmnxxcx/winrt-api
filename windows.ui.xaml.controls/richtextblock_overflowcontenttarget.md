@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.RichTextBlockOverflow OverflowContentTarget { ge
 ## -description
 Gets or sets a reference to a [RichTextBlockOverflow](richtextblockoverflow.md) that is the linked target for any text overflow from this [RichTextBlock](richtextblock.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 RichTextBlock OverflowContentTarget="{Binding ElementName=nameOfTarget}" />

@@ -14,6 +14,8 @@ public Guid CorrelationId { get; }
 
 Gets the unique ID generated when a focus movement event is initiated.
 
+
+
 ## -property-value
 
 The unique ID, if any. Otherwise, **null**.

@@ -12,6 +12,7 @@ protected PickerFlyoutBase()
 ## -description
 Provides base-class initialization behavior for classes that are derived from the [PickerFlyoutBase](pickerflyoutbase.md) class.
 
+
 ## -remarks
 
 ## -examples

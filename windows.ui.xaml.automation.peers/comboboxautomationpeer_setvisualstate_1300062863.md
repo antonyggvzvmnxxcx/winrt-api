@@ -12,6 +12,8 @@ public void SetVisualState(Windows.UI.Xaml.Automation.WindowVisualState state)
 ## -description
 Changes the visual state of the [ComboBox](../windows.ui.xaml.controls/combobox.md) control.
 
+
+
 ## -parameters
 ### -param state
 The visual state for the [ComboBox](../windows.ui.xaml.controls/combobox.md) control, as a value of the enumeration.

@@ -12,6 +12,8 @@ public void AddPage(Windows.UI.Xaml.UIElement pageVisual)
 ## -description
 Adds a XAML root visual element to the print list.
 
+
+
 ## -parameters
 ### -param pageVisual
 The root visual element of the page to add to the print list.

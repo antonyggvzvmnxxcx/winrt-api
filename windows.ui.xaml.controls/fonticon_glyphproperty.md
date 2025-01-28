@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty GlyphProperty { get; }
 ## -description
 Gets the identifier for the [Glyph](fonticon_glyph.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Glyph](fonticon_glyph.md) dependency property.
 

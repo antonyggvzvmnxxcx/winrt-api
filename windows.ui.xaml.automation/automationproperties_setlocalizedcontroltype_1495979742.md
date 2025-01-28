@@ -12,6 +12,8 @@ public void SetLocalizedControlType(Windows.UI.Xaml.DependencyObject element, Sy
 ## -description
 Sets a localized string that indicates the type of the specified control.
 
+
+
 ## -parameters
 ### -param element
 The control for which to set the type.
@@ -25,3 +27,5 @@ Provides a mechanism to alter the control type read by Narrator. This is helpful
 ## -examples
 
 ## -see-also
+
+[AutomationProperties.LocalizedControlType](automationproperties_localizedcontroltype.md), [XAML attached properties](/windows/uwp/xaml-platform/attached-properties-overview)

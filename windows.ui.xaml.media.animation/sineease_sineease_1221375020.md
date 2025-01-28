@@ -12,6 +12,7 @@ public SineEase()
 ## -description
 Initializes a new instance of the [SineEase](sineease.md) class.
 
+
 ## -remarks
 
 ## -examples

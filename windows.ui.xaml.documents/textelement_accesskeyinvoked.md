@@ -12,6 +12,8 @@ public event TypedEventHandler AccessKeyInvoked<TextElement, AccessKeyInvokedEve
 ## -description
 Occurs when a user completes an access key sequence to notify the element that the access key action should be invoked.
 
+
+
 ## -remarks
 For more info, see [UIElement.AccessKeyInvoked](./../windows.ui.xaml/uielement_accesskeyinvoked.md).
 

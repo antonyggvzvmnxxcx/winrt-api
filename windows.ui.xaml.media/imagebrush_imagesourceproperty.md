@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ImageSourceProperty { get; }
 ## -description
 Identifies the [ImageSource](imagebrush_imagesource.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ImageSource](imagebrush_imagesource.md) dependency property.
 

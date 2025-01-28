@@ -12,6 +12,8 @@ public event Windows.Foundation.EventHandler Tick<object>
 ## -description
 Occurs when the timer interval has elapsed.
 
+
+
 ## -remarks
 
 ## -examples

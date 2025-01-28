@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty SelectedForegroundProperty { get; }
 ## -description
 Identifies the [SelectedForeground](gridviewitempresenter_selectedforeground.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [SelectedForeground](gridviewitempresenter_selectedforeground.md) dependency property.
 

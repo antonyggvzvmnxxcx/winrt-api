@@ -12,6 +12,8 @@ public string Name { get; }
 ## -description
 Gets or sets a unique identification for the object. Name can only be set from initial parsing of XAML.
 
+
+
 ## -xaml-syntax
 ```xaml
 <textElement Name="xamlNameString"/>

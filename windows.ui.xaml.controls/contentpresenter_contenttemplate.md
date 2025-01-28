@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DataTemplate ContentTemplate { get;  set; }
 ## -description
 Gets or sets the template that is used to display the content of the control.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentPresenter ContentTemplate="{Binding}"/>

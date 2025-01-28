@@ -12,6 +12,8 @@ public class RenderedEventArgs
 ## -description
 Provides event data for the [Rendered](compositiontarget_rendered.md) event.
 
+
+
 ## -remarks
 
 ## -see-also

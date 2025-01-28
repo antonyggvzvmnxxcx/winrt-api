@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty MinimumProperty { get; }
 ## -description
 Identifies the [Minimum](rangebase_minimum.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Minimum](rangebase_minimum.md) dependency property.
 

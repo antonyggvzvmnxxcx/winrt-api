@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty StrokeMiterLimitProperty { get; }
 ## -description
 Identifies the [StrokeMiterLimit](shape_strokemiterlimit.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [StrokeMiterLimit](shape_strokemiterlimit.md) dependency property.
 

@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.DependencyPropertyChangedEventHandler IsEnabledChan
 ## -description
 Occurs when the [IsEnabled](control_isenabled.md) property changes.
 
+
+
 ## -xaml-syntax
 ```xaml
 <control IsEnabledChanged="eventhandler"/>

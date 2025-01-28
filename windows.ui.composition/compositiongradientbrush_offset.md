@@ -13,6 +13,8 @@ public Vector2 Offset { get;  set; }
 
 Gets or sets the offset of the brush relative to the object being painted.
 
+
+
 ## -property-value
 
 The offset of the brush relative to the object being painted.

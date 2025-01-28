@@ -12,6 +12,8 @@ public int ItemCount { get; }
 ## -description
 Gets the number of items that were involved in the change.
 
+
+
 ## -property-value
 Integer that represents the number of items involved in the change.
 

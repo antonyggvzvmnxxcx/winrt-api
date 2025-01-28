@@ -10,7 +10,7 @@ public void AddStringArray(System.String name, System.String[] value, Windows.Fo
 # Windows.Foundation.Diagnostics.LoggingFields.AddStringArray
 
 ## -description
-Adds a [String](https://docs.microsoft.com/dotnet/api/system.string?redirectedfrom=MSDN) array field with the specified field name, format, and tags.
+Adds a [String](/dotnet/api/system.string?view=dotnet-uwp-10.0&preserve-view=true) array field with the specified field name, format, and tags.
 
 ## -parameters
 ### -param name
@@ -30,4 +30,4 @@ The user-defined tag for the event field. Specifies up to twenty-eight bits of u
 ## -examples
 
 ## -see-also
-[AddStringArray(String, String[])](loggingfields_addstringarray_82667375.md), [AddStringArray(String, String[], LoggingFieldFormat)](loggingfields_addstringarray_1270192757.md)
+[AddStringArray(String, String\[\])](/uwp/api/windows.foundation.diagnostics.loggingfields.addstringarray#windows-foundation-diagnostics-loggingfields-addstringarray(system-string-system-string())), [AddStringArray(String, String\[\], LoggingFieldFormat)](/uwp/api/windows.foundation.diagnostics.loggingfields.addstringarray#windows-foundation-diagnostics-loggingfields-addstringarray(system-string-system-string()-windows-foundation-diagnostics-loggingfieldformat))

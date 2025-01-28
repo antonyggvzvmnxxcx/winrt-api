@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty CheckBrushProperty { get; }
 ## -description
 Identifies the [CheckBrush](listviewitempresenter_checkbrush.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [CheckBrush](listviewitempresenter_checkbrush.md) dependency property.
 

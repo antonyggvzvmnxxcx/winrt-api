@@ -19,20 +19,28 @@ Manages the software available to a user.
 | Windows version | SDK version | Value added |
 | -- | -- | -- |
 | 1607 | 14393 | GetPackageVolumesAsync |
-| 1703 | 15063 | AddPackageAsync(Uri,IEnumerable<Uri>,DeploymentOptions,PackageVolume,IEnumerable<String>,IEnumerable<Uri>) |
+| 1703 | 15063 | AddPackageAsync(Uri,IEnumerable&lt;Uri&gt;,DeploymentOptions,PackageVolume,IEnumerable<String>,IEnumerable&lt;Uri&gt;) |
 | 1703 | 15063 | DebugSettings |
 | 1703 | 15063 | RegisterPackageByFamilyNameAsync |
-| 1703 | 15063 | StagePackageAsync(Uri,IEnumerable<Uri>,DeploymentOptions,PackageVolume,IEnumerable<String>,IEnumerable<Uri>) |
-| 1709 | 16299 | AddPackageAsync(Uri,IEnumerable<Uri>,DeploymentOptions,PackageVolume,IEnumerable<String>,IEnumerable<Uri>,IEnumerable<Uri>) |
+| 1703 | 15063 | StagePackageAsync(Uri,IEnumerable&lt;Uri&gt;,DeploymentOptions,PackageVolume,IEnumerable<String>,IEnumerable&lt;Uri&gt;) |
+| 1709 | 16299 | AddPackageAsync(Uri,IEnumerable&lt;Uri&gt;,DeploymentOptions,PackageVolume,IEnumerable<String>,IEnumerable&lt;Uri&gt;,IEnumerable&lt;Uri&gt;) |
 | 1709 | 16299 | AddPackageByAppInstallerFileAsync |
 | 1709 | 16299 | ProvisionPackageForAllUsersAsync |
-| 1709 | 16299 | RequestAddPackageAsync(Uri,IEnumerable<Uri>,DeploymentOptions,PackageVolume,IEnumerable<String>,IEnumerable<Uri>) |
+| 1709 | 16299 | RequestAddPackageAsync(Uri,IEnumerable&lt;Uri&gt;,DeploymentOptions,PackageVolume,IEnumerable<String>,IEnumerable&lt;Uri&gt;) |
 | 1709 | 16299 | RequestAddPackageByAppInstallerFileAsync |
-| 1709 | 16299 | StagePackageAsync(Uri,IEnumerable<Uri>,DeploymentOptions,PackageVolume,IEnumerable<String>,IEnumerable<Uri>,IEnumerable<Uri>) |
-| 1803 | 17134 | RequestAddPackageAsync(Uri,IEnumerable<Uri>,DeploymentOptions,PackageVolume,IEnumerable<String>,IEnumerable<Uri>,IEnumerable<Uri>) |
+| 1709 | 16299 | StagePackageAsync(Uri,IEnumerable&lt;Uri&gt;,DeploymentOptions,PackageVolume,IEnumerable<String>,IEnumerable&lt;Uri&gt;,IEnumerable<&lt;Uri&gt;) |
+| 1803 | 17134 | RequestAddPackageAsync(Uri,IEnumerable&lt;Uri&gt;,DeploymentOptions,PackageVolume,IEnumerable<String>,IEnumerable&lt;Uri&gt;,IEnumerable&lt;Uri&gt;) |
 | 1809 | 17763 | DeprovisionPackageForAllUsersAsync |
+| 2004 | 19041 | AddPackageByUriAsync |
+| 2004 | 19041 | FindProvisionedPackages |
+| 2004 | 19041 | GetPackageStubPreference |
+| 2004 | 19041 | RegisterPackageByUriAsync |
+| 2004 | 19041 | RegisterPackagesByFullNameAsync |
+| 2004 | 19041 | SetPackageStubPreference |
+| 2004 | 19041 | StagePackageByUriAsync |
 
 ## -examples
 
 ## -see-also
-[Add app package sample](https://go.microsoft.com/fwlink/p/?linkid=236968), [Enumerate app packages sample](https://code.msdn.microsoft.com/windowsdesktop/Package-Manager-Inventory-ee821079), [Enumerate app packages by name and publisher sample](https://code.msdn.microsoft.com/windowsdesktop/Package-Manager-Inventory-fe747b8a), [Enumerate app packages by user SID sample](https://code.msdn.microsoft.com/windowsdesktop/Package-Manager-Inventory-5bee970a), [Remove app package sample](https://go.microsoft.com/fwlink/p/?linkid=236972), [Packaging apps](https://docs.microsoft.com/windows/uwp/packaging/index), [DeploymentResult](deploymentresult.md), [PackageUserInformation](packageuserinformation.md)
+
+[Package](/uwp/api/windows.applicationmodel.package), [Add app package sample](https://github.com/microsoft/Windows-classic-samples/tree/master/Samples/PackageManagerAddPackage), [Enumerate app packages sample](https://github.com/microsoft/Windows-classic-samples/tree/master/Samples/PackageManagerFindProvisionedPackages), [Enumerate app packages by name and publisher sample](https://github.com/microsoft/Windows-classic-samples/tree/master/Samples/PackageManagerFindPackagesByNameAndPublisher), [Enumerate app packages by user SID sample](https://github.com/microsoft/Windows-classic-samples/tree/master/Samples/PackageManagerFindPackagesByUserSecurityId), [Remove app package sample](https://github.com/microsoft/Windows-classic-samples/tree/master/Samples/PackageManagerRemovePackage), [Packaging apps](/windows/uwp/packaging/index), [DeploymentResult](deploymentresult.md), [PackageUserInformation](packageuserinformation.md)

@@ -13,6 +13,8 @@ public SpringScalarNaturalMotionAnimation Compositor.CreateSpringScalarAnimation
 
 Creates an instance of [SpringScalarNaturalMotionAnimation](springscalarnaturalmotionanimation.md).
 
+
+
 ## -returns
 
 The created SpringScalarNaturalMotionAnimation object.

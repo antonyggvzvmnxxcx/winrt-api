@@ -12,6 +12,8 @@ public bool WaitForInputIdle(System.Int32 milliseconds)
 ## -description
 Blocks the calling code for the specified time or until the associated process enters an idle state, whichever completes first.
 
+
+
 ## -parameters
 ### -param milliseconds
 The amount of time, in milliseconds, to wait for the associated process to become idle.

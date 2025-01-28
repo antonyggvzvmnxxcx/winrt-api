@@ -14,6 +14,8 @@ public class SceneComponent : SceneObject, SceneObject
 
 Represents a functional part of a scene.
 
+
+
 ## -remarks
 
 ## -see-also

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty MaxLengthProperty { get; }
 ## -description
 Identifies the [MaxLength](passwordbox_maxlength.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [MaxLength](passwordbox_maxlength.md) dependency property.
 

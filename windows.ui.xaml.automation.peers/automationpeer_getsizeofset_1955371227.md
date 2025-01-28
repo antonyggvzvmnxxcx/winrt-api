@@ -12,6 +12,8 @@ public int GetSizeOfSet()
 ## -description
 Returns the 1-based integer for the size of the set where the element that is associated with the automation peer is located.
 
+
+
 ## -returns
 The 1-based integer for the size of the set.
 

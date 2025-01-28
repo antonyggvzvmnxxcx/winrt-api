@@ -12,6 +12,8 @@ public Windows.Foundation.Rect ClipRect { get; }
 ## -description
 Gets the rectangle used to clip the [CalendarView](../windows.ui.xaml.controls/calendarview.md).
 
+
+
 ## -property-value
 The rectangle used to clip the [CalendarView](../windows.ui.xaml.controls/calendarview.md).
 

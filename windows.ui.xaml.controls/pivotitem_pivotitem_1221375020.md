@@ -12,6 +12,7 @@ public PivotItem()
 ## -description
 Initializes a new instance of the [PivotItem](pivotitem.md) type.
 
+
 ## -remarks
 
 ## -examples

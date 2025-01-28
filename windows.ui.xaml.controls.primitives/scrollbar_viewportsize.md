@@ -12,6 +12,8 @@ public double ViewportSize { get;  set; }
 ## -description
 Gets or sets the amount of the scrollable content that is currently visible.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ScrollBar ViewportSize="double"/>

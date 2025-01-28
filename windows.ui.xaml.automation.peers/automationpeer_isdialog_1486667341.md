@@ -14,6 +14,7 @@ public bool AutomationPeer.IsDialog()
 
 Gets a value that indicates whether the element associated with this automation peer is a dialog window.
 
+
 ## -returns
 
 **true** if the element is a dialog; otherwise, **false**.

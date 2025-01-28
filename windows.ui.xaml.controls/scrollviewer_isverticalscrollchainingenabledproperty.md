@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsVerticalScrollChainingEnabledPropert
 ## -description
 Identifies the [IsVerticalScrollChainingEnabled](scrollviewer_isverticalscrollchainingenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsVerticalScrollChainingEnabled](scrollviewer_isverticalscrollchainingenabled.md) dependency property.
 

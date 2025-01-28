@@ -13,6 +13,8 @@ public Windows.UI.Xaml.Media.Media3D.Transform3D Transform3D { get;  set; }
 
 Gets or sets the 3-D transform effect to apply when rendering this element.
 
+
+
 ## -property-value
 
 The 3-D transform effect to apply when rendering this element. The default is **null**.
@@ -55,7 +57,7 @@ Here's an example of using the [Transform3D](../windows.ui.xaml.media.media3d/tr
 
 <img src="images/Transform3D.png" alt="Rectangles with 3-D transforms" />
 
-In this example, a [PerspectiveTransform3D](../windows.ui.xaml.media.media3d/perspectivetransform3d.md) is attached to the root [StackPanel](../windows.ui.xaml.controls/stackpanel.md) and provides a shared perspective viewport for the panel’s children.
+In this example, a [PerspectiveTransform3D](../windows.ui.xaml.media.media3d/perspectivetransform3d.md) is attached to the root [StackPanel](../windows.ui.xaml.controls/stackpanel.md) and provides a shared perspective viewport for the panel's children.
 
 + The [Rectangle](../windows.ui.xaml.shapes/rectangle.md) on the left has no transform, so it appears as normal.
 + The [Rectangle](../windows.ui.xaml.shapes/rectangle.md) in the center is rotated -30 degrees about its central axis and translated back 75 pixels, causing its right edge to have a Z-coordinate of -150 pixels.
@@ -65,7 +67,7 @@ The edges of the three rectangles appear to be contiguous because they share a c
 
 ### Animating CompositeTransform3D
 
-You can animate each property of a [CompositeTransform3D](../windows.ui.xaml.media.media3d/compositetransform3d.md) independently. For more info about animations, see [Storyboarded animations](https://docs.microsoft.com/windows/uwp/graphics/storyboarded-animations) and [Key-frame and easing function animations](https://docs.microsoft.com/windows/uwp/graphics/key-frame-and-easing-function-animations).
+You can animate each property of a [CompositeTransform3D](../windows.ui.xaml.media.media3d/compositetransform3d.md) independently. For more info about animations, see [Storyboarded animations](/windows/uwp/graphics/storyboarded-animations) and [Key-frame and easing function animations](/windows/uwp/graphics/key-frame-and-easing-function-animations).
 
 In this example, animations are applied the [RotationY](../windows.ui.xaml.media.media3d/compositetransform3d_rotationy.md) and [TranslateZ](../windows.ui.xaml.media.media3d/compositetransform3d_translatez.md) properties to make the middle rectangle appear to drop into place. The end result when the animations have stopped is the same as the previous example.
 
@@ -117,7 +119,7 @@ private void StackPanel_Loaded(object sender, RoutedEventArgs e)
 Prior to Windows 10, the only way to create 3-D effects was to set the [Projection](uielement_projection.md) property. When using [Projection](uielement_projection.md), 3-D transforms are not inherited down the XAML tree. Therefore, [Projection](uielement_projection.md) is suitable only for applying effects where elements are transformed in local coordinates, not relative to a shared perspective viewport. This same effect can be achieved by setting [PerspectiveTransform3D](../windows.ui.xaml.media.media3d/perspectivetransform3d.md) on a local element. For this reason, we recommend that you use Transform3D for all but the most simple 3-D effects, and whenever you need a shared perspective.
 
 > [!NOTE]
-> Transform3D does not affect the order in which elements are drawn. Elements further away from the viewer along the Z-axis might still be rendered above elements that are closer. You can use the [Canvas.ZIndex](/uwp/api/windows.ui.xaml.controls.canvas#xaml-attached-properties) attached property and the position of elements in the XAML visual tree to manage the drawing order of elements in your UI.
+> Transform3D does not affect the order in which elements are drawn. Elements further away from the viewer along the Z-axis might still be rendered above elements that are closer. You can use the [Canvas.ZIndex](/uwp/api/windows.ui.xaml.controls.canvas.zindex) attached property and the position of elements in the XAML visual tree to manage the drawing order of elements in your UI.
 
 ## -examples
 

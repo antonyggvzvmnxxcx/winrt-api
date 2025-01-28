@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.WindowInteractionState InteractionState { get;
 ## -description
 Gets the interaction state of the app bar, such as running, closing, and so on.
 
+
+
 ## -property-value
 The interaction state of the app bar.
 

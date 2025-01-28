@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ReasonProperty { get; }
 ## -description
 Identifies the [Reason](autosuggestboxtextchangedeventargs_reason.md) dependency property.
 
+
+
 ## -property-value
 Identifier for the [Reason](autosuggestboxtextchangedeventargs_reason.md) dependency property.
 

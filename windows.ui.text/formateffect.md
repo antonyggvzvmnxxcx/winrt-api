@@ -12,6 +12,8 @@ public enum Windows.UI.Text.FormatEffect : int
 ## -description
 Defines values that indicate the state of a character or paragraph formatting property.
 
+
+
 ## -enum-fields
 ### -field Off:0
 Turns off the property.

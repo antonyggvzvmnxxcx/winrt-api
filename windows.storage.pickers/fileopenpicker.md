@@ -13,9 +13,13 @@ public class FileOpenPicker : Windows.Storage.Pickers.IFileOpenPicker, Windows.S
 
 Represents a UI element that lets the user choose and open files.
 
+In a desktop app, before using an instance of this class in a way that displays UI, you'll need to associate the object with its owner's window handle. For more info, and code examples, see [Display WinRT UI objects that depend on CoreWindow](/windows/apps/develop/ui-input/display-ui-objects#winui-3-with-c).
+
 ## -remarks
 
-To get started accessing files and folders file picker, see [Quickstart: Accessing files with File Pickers](https://docs.microsoft.com/windows/uwp/files/quickstart-using-file-and-folder-pickers).
+To get started accessing files and folders file picker, see [Quickstart: Accessing files with File Pickers](/windows/uwp/files/quickstart-using-file-and-folder-pickers).
+
+For information about how to use this API outside of UWP apps, see [Call interop APIs from a .NET app](/windows/apps/desktop/modernize/winrt-com-interop-csharp).
 
 ### Version history
 
@@ -26,7 +30,7 @@ To get started accessing files and folders file picker, see [Quickstart: Accessi
 
 ## -examples
 
-The [File picker sample](https://go.microsoft.com/fwlink/p/?LinkId=619994) demonstrates how to check whether the app is snapped, how to set file picker properties, and how to show a file picker so that the user can pick one file.
+The [File picker sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/FilePicker) demonstrates how to check whether the app is snapped, how to set file picker properties, and how to show a file picker so that the user can pick one file.
 
 [!code-csharp[all_openpicker_checksnapped_showsingle](../windows.storage.pickers/code/FilePicker/CS/Scenario1.xaml.cs#Snippetall_openpicker_checksnapped_showsingle)]
 
@@ -43,4 +47,4 @@ The [File picker sample](https://go.microsoft.com/fwlink/p/?LinkId=619994) demon
 
 ## -see-also
 
-[File picker sample](https://go.microsoft.com/fwlink/p/?LinkId=619994), [Quickstart: Accessing files with File Pickers ](https://docs.microsoft.com/windows/uwp/files/quickstart-using-file-and-folder-pickers), [Blobs sample](https://go.microsoft.com/fwlink/p/?LinkId=620573)
+[File picker sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/FilePicker), [Quickstart: Accessing files with File Pickers](/windows/uwp/files/quickstart-using-file-and-folder-pickers), [Blobs sample](https://github.com/microsoft/Windows-universal-samples/tree/main/archived/MsBlobBuilder), [Display WinRT UI objects that depend on CoreWindow](/windows/apps/develop/ui-input/display-ui-objects)

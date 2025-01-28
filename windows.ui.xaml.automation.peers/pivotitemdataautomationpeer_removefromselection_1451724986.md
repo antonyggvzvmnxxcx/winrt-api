@@ -12,6 +12,8 @@ public void RemoveFromSelection()
 ## -description
 Removes the current element from the collection of selected items.
 
+
+
 ## -remarks
 
 ## -examples

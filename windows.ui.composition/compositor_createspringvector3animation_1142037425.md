@@ -13,6 +13,8 @@ public SpringVector3NaturalMotionAnimation Compositor.CreateSpringVector3Animati
 
 Creates an instance of [SpringVector3NaturalMotionAnimation](springvector3naturalmotionanimation.md).
 
+
+
 ## -returns
 
 The created SpringVector3NaturalMotionAnimation object.

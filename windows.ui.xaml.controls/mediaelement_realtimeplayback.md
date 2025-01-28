@@ -12,6 +12,7 @@ public bool RealTimePlayback { get;  set; }
 ## -description
 Gets or sets a value that configures the [MediaElement](mediaelement.md) for real-time communications scenarios.
 
+
 ## -xaml-syntax
 ```xaml
 <MediaElement RealTimePlayback="bool" />
@@ -28,4 +29,4 @@ Configuring for real-time playback changes the internal update logic to place hi
 ## -examples
 
 ## -see-also
-[Real-time communication sample (Windows 10)](https://go.microsoft.com/fwlink/p/?LinkId=620600)
+[Real-time communication sample (Windows 10)](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/SimpleCommunication)

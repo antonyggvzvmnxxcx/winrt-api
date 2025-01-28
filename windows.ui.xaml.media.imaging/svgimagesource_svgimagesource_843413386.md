@@ -12,6 +12,7 @@ public SvgImageSource.SvgImageSource(Uri uriSource)
 ## -description
 Initializes a new instance of the [SvgImageSource](svgimagesource.md) class, using the supplied Uniform Resource Identifier (URI).
 
+
 ## -parameters
 ### -param uriSource
 A reference to the SVG source file.

@@ -13,6 +13,8 @@ public CompositionStretch Stretch { get;  set; }
 
 Gets or sets a value that specifies how content fits into the available space.
 
+
+
 ## -property-value
 
 An enumeration value that specifies how content fits into the available space. The default is **Uniform**.

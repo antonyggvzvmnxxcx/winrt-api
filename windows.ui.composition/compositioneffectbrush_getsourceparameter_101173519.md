@@ -12,6 +12,8 @@ public Windows.UI.Composition.CompositionBrush GetSourceParameter(System.String 
 ## -description
 Retrieves a CompositionBrush associated with a given [CompositionEffectSourceParameter](compositioneffectsourceparameter.md) name.
 
+
+
 ## -parameters
 ### -param name
 The name of the input.

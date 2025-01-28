@@ -12,6 +12,8 @@ public struct XamlBinaryWriterErrorInformation
 ## -description
 Records error information produced by calls to [XamlBinaryWriter.Write](xamlbinarywriter_write_504090345.md).
 
+
+
 ## -struct-fields
 
 ### -field InputStreamIndex

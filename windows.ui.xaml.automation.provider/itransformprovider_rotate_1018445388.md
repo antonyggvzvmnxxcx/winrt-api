@@ -12,6 +12,8 @@ public void Rotate(System.Double degrees)
 ## -description
 Rotates the control.
 
+
+
 ## -parameters
 ### -param degrees
 The number of degrees to rotate the control. A positive number rotates the control clockwise. A negative number rotates the control counterclockwise.

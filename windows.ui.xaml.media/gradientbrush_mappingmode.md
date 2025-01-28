@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.BrushMappingMode MappingMode { get;  set; }
 ## -description
 Gets or sets a [BrushMappingMode](brushmappingmode.md) enumeration value that specifies whether the positioning coordinates of the gradient brush are absolute or relative to the output area.
 
+
+
 ## -xaml-syntax
 ```xaml
 <gradientBrush MappingMode="Absolute"/>

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.TextLineBounds TextLineBounds { get;  set; }
 ## -description
 Gets or sets a value that indicates how the line box height is determined for each line of text in the [TextBlock](textblock.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <TextBlock TextLineBounds="textLineBoundsValue"/>

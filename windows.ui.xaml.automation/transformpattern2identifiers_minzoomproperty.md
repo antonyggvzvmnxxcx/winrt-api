@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty MinZoomProperty { get; }
 ## -description
 Identifies the [MinZoom](../windows.ui.xaml.automation.provider/itransformprovider2_minzoom.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

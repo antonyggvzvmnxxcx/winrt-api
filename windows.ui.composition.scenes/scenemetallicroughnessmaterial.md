@@ -14,6 +14,8 @@ public class SceneMetallicRoughnessMaterial : ScenePbrMaterial, ScenePbrMaterial
 
 Represents a material that has that has the appearance of metal.
 
+
+
 ## -remarks
 
 ## -see-also

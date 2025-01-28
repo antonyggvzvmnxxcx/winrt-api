@@ -12,6 +12,7 @@ public NavigationThemeTransition()
 ## -description
 Initializes a new instance of the [NavigationThemeTransition](navigationthemetransition.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ZoomedInViewProperty { get; }
 ## -description
 Identifies the [ZoomedInView](semanticzoom_zoomedinview.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ZoomedInView](semanticzoom_zoomedinview.md) dependency property.
 

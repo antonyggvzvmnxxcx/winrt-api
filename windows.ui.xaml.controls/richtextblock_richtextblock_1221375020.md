@@ -12,6 +12,7 @@ public RichTextBlock()
 ## -description
 Initializes a new instance of the [RichTextBlock](richtextblock.md) class.
 
+
 ## -remarks
 
 ## -examples

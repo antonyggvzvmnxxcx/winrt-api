@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty FocusBorderBrushProperty { get; }
 ## -description
 Identifies the [FocusBorderBrush](listviewitempresenter_focusborderbrush.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [FocusBorderBrush](listviewitempresenter_focusborderbrush.md) dependency property.
 

@@ -12,6 +12,7 @@ public RelativeSource()
 ## -description
 Initializes a new instance of the [RelativeSource](relativesource.md) class by using default relative source mode.
 
+
 ## -remarks
 
 ## -examples

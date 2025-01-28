@@ -12,6 +12,8 @@ public Windows.UI.Text.FormatEffect Hidden { get;  set; }
 ## -description
 Gets or sets whether characters are hidden.
 
+
+
 ## -property-value
 The hidden state.
 

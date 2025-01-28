@@ -12,6 +12,8 @@ public Windows.Foundation.Point Point1 { get;  set; }
 ## -description
 Gets or sets the first control point of the curve.
 
+
+
 ## -xaml-syntax
 ```xaml
 <BezierSegment Point1="x,y"/>

@@ -13,6 +13,8 @@ public Windows.UI.Color DarkGray { get; }
 
 Gets the system-defined color that has the ARGB value of #FFA9A9A9.
 
+
+
 ## -property-value
 
 The system-defined color that has the ARGB value of #FFA9A9A9.

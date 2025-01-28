@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty KeyTimeProperty { get; }
 ## -description
 Identifies the [KeyTime](pointkeyframe_keytime.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [KeyTime](pointkeyframe_keytime.md) dependency property.
 

@@ -12,6 +12,8 @@ public string Text { get;  set; }
 ## -description
 Gets or sets the plain text of the text range.
 
+
+
 ## -property-value
 The plain text.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty PlaceholderBackgroundProperty { get; }
 ## -description
 Identifies the [PlaceholderBackground](listviewitempresenter_placeholderbackground.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [PlaceholderBackground](listviewitempresenter_placeholderbackground.md) dependency property.
 

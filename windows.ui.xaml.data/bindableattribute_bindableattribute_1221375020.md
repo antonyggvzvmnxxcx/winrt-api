@@ -12,6 +12,7 @@ public BindableAttribute()
 ## -description
 Initializes a new instance of the [BindableAttribute](bindableattribute.md) class.
 
+
 ## -remarks
 
 ## -examples

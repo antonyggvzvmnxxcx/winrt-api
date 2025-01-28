@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ScaleXProperty { get; }
 ## -description
 Identifies the [ScaleX](compositetransform_scalex.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ScaleX](compositetransform_scalex.md) dependency property.
 

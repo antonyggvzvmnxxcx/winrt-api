@@ -12,6 +12,8 @@ public double Offset { get;  set; }
 ## -description
 Gets the location of the gradient stop within the gradient vector.
 
+
+
 ## -xaml-syntax
 ```xaml
 <GradientStop Offset="double"/>

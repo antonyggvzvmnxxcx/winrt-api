@@ -13,13 +13,13 @@ public Brush PlaceholderForeground { get;  set; }
 
 Gets or sets a brush that describes the color of placeholder text.
 
+
+
 ## -xaml-syntax
 
 ```xaml
 <TextBox PlaceholderForeground="{StaticResource resourceName}"/>
-```
-
-```xaml
+- or -
 <TextBox PlaceholderForeground="colorString"/>
 ```
 

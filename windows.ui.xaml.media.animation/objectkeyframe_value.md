@@ -12,6 +12,8 @@ public object Value { get;  set; }
 ## -description
 Gets or sets the key frame's target value.
 
+
+
 ## -xaml-syntax
 ```xaml
 <DiscreteObjectKeyFrame>
@@ -19,9 +21,7 @@ Gets or sets the key frame's target value.
     singleObject
   </DiscreteObjectKeyFrame.Value>
 </DiscreteObjectKeyFrame>
-```
-
-```xaml
+- or -
 <DiscreteObjectKeyFrame Value="stringForObject"/>
 ```
 

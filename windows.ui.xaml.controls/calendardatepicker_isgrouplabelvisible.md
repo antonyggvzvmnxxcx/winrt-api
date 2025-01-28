@@ -12,6 +12,8 @@ public bool IsGroupLabelVisible { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the month name is shown with the first day of the month in the picker's [CalendarView](calendarview.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarDatePicker IsGroupLabelVisible="bool" .../>

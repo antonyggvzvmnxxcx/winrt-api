@@ -12,6 +12,8 @@ public object GetElementFromPoint(Windows.Foundation.Point pointInWindowCoordina
 ## -description
 Gets an element from the specified point.
 
+
+
 ## -parameters
 ### -param pointInWindowCoordinates
 The specified point.

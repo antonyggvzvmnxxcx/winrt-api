@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty CurrentViewProperty { get; 
 ## -description
 Identifies the [CurrentView](../windows.ui.xaml.automation.provider/imultipleviewprovider_currentview.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

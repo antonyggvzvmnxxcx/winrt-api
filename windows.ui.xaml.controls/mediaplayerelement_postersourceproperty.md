@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty PosterSourceProperty { get; }
 ## -description
 Identifies the [PosterSource](mediaplayerelement_postersource.md) dependency property.
 
+
 ## -property-value
 The identifier for the [PosterSource](mediaplayerelement_postersource.md) dependency property.
 

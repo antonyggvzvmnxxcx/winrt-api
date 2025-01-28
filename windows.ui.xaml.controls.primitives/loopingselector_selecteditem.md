@@ -12,6 +12,8 @@ public object SelectedItem { get;  set; }
 ## -description
 Gets or sets the [LoopingSelectorItem](loopingselectoritem.md) that is displayed in the [LoopingSelector](loopingselector.md).
 
+
+
 ## -property-value
 The [LoopingSelectorItem](loopingselectoritem.md) that is visible in the [LoopingSelector](loopingselector.md).
 

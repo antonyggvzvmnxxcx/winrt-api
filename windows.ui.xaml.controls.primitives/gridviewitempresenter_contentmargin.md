@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Thickness ContentMargin { get;  set; }
 ## -description
 Gets or sets an internal margin between presented content and its presenter.
 
+
+
 ## -xaml-syntax
 ```xaml
 <gridViewItemPresenter ContentMargin="uniform"/>

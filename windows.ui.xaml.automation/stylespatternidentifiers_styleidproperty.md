@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty StyleIdProperty { get; }
 ## -description
 Identifies the [StyleId](../windows.ui.xaml.automation.provider/istylesprovider_styleid.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

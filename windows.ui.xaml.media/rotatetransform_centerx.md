@@ -12,6 +12,8 @@ public double CenterX { get;  set; }
 ## -description
 Gets or sets the x-coordinate of the rotation center point for this transformation.
 
+
+
 ## -xaml-syntax
 ```xaml
 <RotateTransform CenterX="double"/>

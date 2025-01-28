@@ -12,6 +12,7 @@ public VirtualSurfaceImageSource(System.Int32 pixelWidth, System.Int32 pixelHeig
 ## -description
 Initializes a new instance of the [VirtualSurfaceImageSource](virtualsurfaceimagesource.md) class, specifying the size of the drawing area and a preference for whether to render with an alpha transparency.
 
+
 ## -parameters
 ### -param pixelWidth
 Width of the drawing area in pixels.

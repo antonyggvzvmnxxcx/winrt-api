@@ -12,6 +12,7 @@ public event Windows.UI.Xaml.ExceptionRoutedEventHandler MediaFailed
 ## -description
 Occurs when there is an error associated with the media [Source](mediaelement_source.md).
 
+
 ## -xaml-syntax
 ```xaml
 <MediaElement MediaFailed="eventhandler" .../>

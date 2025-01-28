@@ -9,16 +9,18 @@ public IAsyncOperation<UserDataTaskList>> UserDataAccount.FindUserDataTaskListsA
 
 # Windows.ApplicationModel.UserDataAccounts.UserDataAccount.FindUserDataTaskListsAsync
 
-## -description
-Returns a collection of [UserDataTask](../windows.applicationmodel.userdatatasks.md) instances associated with the [UserDataAccount](userdataaccount.md).
 
-## -params
+## -description
+
+Returns a collection of [UserDataTask](/uwp/api/windows.applicationmodel.userdatatasks.userdatatask) instances associated with the [UserDataAccount](userdataaccount.md).
 
 ## -returns
-A collection of [UserDataTask](../windows.applicationmodel.userdatatasks.md) instances associated with the [UserDataAccount](userdataaccount.md).
+
+A collection of [UserDataTask](/uwp/api/windows.applicationmodel.userdatatasks.userdatatask) instances associated with the [UserDataAccount](userdataaccount.md).
 
 ## -remarks
 
 ## -see-also
 
 ## -examples
+

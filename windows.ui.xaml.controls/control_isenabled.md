@@ -12,6 +12,8 @@ public bool IsEnabled { get;  set; }
 ## -description
 Gets or sets a value indicating whether the user can interact with the control.
 
+
+
 ## -xaml-syntax
 ```xaml
 <control IsEnabled="bool"/>

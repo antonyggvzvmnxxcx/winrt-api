@@ -13,6 +13,8 @@ public int RichEditTextRange.MoveEnd(TextRangeUnit unit, Int32 count)
 
 Moves the end position of the text range.
 
+
+
 ## -parameters
 ### -param unit
 

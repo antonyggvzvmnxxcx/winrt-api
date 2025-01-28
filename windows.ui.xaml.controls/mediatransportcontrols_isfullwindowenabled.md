@@ -12,6 +12,7 @@ public bool IsFullWindowEnabled { get;  set; }
 ## -description
 Gets or sets a value that indicates whether a user can play the media in full-screen mode.
 
+
 ## -xaml-syntax
 ```xaml
 

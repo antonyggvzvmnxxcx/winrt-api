@@ -12,6 +12,8 @@ public void RunInitializer()
 ## -description
 Invokes any necessary pre-activation logic as required by the XAML schema context and its platform dependencies.
 
+
+
 ## -remarks
 
 ## -examples

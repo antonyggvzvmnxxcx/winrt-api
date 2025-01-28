@@ -13,6 +13,8 @@ public Windows.UI.Color MediumSlateBlue { get; }
 
 Gets the system-defined color that has an ARGB value of #FF7B68EE.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FF7B68EE.

@@ -13,6 +13,8 @@ virtual protected object MarkupExtension.ProvideValue()
 
 When implemented in a derived class, returns an object that is provided as the value of the target property for this markup extension.
 
+
+
 ## -returns
 
 The object value to set on the property where the extension is applied.

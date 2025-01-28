@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsTextSelectionEnabledProperty { get; 
 ## -description
 Identifies the [IsTextSelectionEnabled](textblock_istextselectionenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsTextSelectionEnabled](textblock_istextselectionenabled.md) dependency property.
 

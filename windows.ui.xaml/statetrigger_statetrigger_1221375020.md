@@ -12,6 +12,7 @@ public StateTrigger()
 ## -description
 Initializes a new instance of the [StateTrigger](statetrigger.md) class.
 
+
 ## -remarks
 
 ## -examples

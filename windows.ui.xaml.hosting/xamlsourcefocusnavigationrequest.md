@@ -13,6 +13,7 @@ public class XamlSourceFocusNavigationRequest
 ## -description
 Provides information about a request to give focus to a [DesktopWindowXamlSource](desktopwindowxamlsource.md) object.
 
+
 ## -remarks
 
 ## -see-also

@@ -12,6 +12,8 @@ public Windows.UI.Composition.AmbientLight CreateAmbientLight()
 ## -description
 Creates an instance of [AmbientLight](ambientlight.md).
 
+
+
 ## -returns
 Returns the created [AmbientLight](ambientlight.md) object.
 

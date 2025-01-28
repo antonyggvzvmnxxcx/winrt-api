@@ -12,6 +12,7 @@ protected FrameworkElement()
 ## -description
 Provides base class initialization behavior for [FrameworkElement](frameworkelement.md)-derived classes.
 
+
 ## -remarks
 
 ## -examples

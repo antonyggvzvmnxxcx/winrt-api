@@ -12,6 +12,8 @@ public Windows.UI.Text.FontStyle FontStyle { get;  set; }
 ## -description
 Gets or sets the font style for the content in this element.
 
+
+
 ## -xaml-syntax
 ```xaml
 <RichTextBlock FontStyle="fontStyleMemberName"/>

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ItemTemplateProperty { get; }
 ## -description
 Identifies the [ItemTemplate](loopingselector_itemtemplate.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ItemTemplate](loopingselector_itemtemplate.md) dependency property.
 

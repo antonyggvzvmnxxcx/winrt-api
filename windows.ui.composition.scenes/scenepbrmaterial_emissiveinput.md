@@ -14,6 +14,8 @@ public SceneMaterialInput EmissiveInput { get;  set; }
 
 Gets or sets the input for the material's emissive value.
 
+
+
 ## -property-value
 
 The input for the material's emissive value.

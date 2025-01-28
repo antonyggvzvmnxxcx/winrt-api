@@ -12,6 +12,8 @@ public double MaxSuggestionListHeight { get;  set; }
 ## -description
 Gets or set the maximum height for the drop-down portion of the [AutoSuggestBox](autosuggestbox.md) control.
 
+
+
 ## -xaml-syntax
 ```xaml
 <AutoSuggestBox MaxSuggestionListHeight="double"/>

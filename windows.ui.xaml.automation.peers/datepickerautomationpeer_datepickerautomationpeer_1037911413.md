@@ -12,6 +12,7 @@ public DatePickerAutomationPeer(Windows.UI.Xaml.Controls.DatePicker owner)
 ## -description
 Initializes a new instance of the [DatePickerAutomationPeer](datepickerautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [DatePicker](../windows.ui.xaml.controls/datepicker.md) to create the peer for.

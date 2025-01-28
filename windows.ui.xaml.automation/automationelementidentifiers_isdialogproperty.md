@@ -14,6 +14,8 @@ public AutomationProperty IsDialogProperty { get; }
 
 Identifies the Boolean [AutomationProperties.IsDialogProperty](automationproperties_isdialogproperty.md) that indicates whether the automation element is a dialog window.
 
+
+
 ## -property-value
 
 The automation property identifier.

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty RectProperty { get; }
 ## -description
 Identifies the [Rect](rectanglegeometry_rect.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [Rect](rectanglegeometry_rect.md)  dependency property.
 

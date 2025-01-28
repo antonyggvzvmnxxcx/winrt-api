@@ -12,6 +12,8 @@ virtual protected int GetPositionInSetCore()
 ## -description
 Provides the peer’s behavior when a Microsoft UI Automation client calls [GetPositionInSet](automationpeer_getpositioninset_381040721.md) or an equivalent Microsoft UI Automation client API.
 
+
+
 ## -returns
 The peer’s behavior.
 

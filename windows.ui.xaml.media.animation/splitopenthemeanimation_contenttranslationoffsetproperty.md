@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ContentTranslationOffsetProperty { get
 ## -description
 Identifies the [ContentTranslationOffset](splitopenthemeanimation_contenttranslationoffset.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ContentTranslationOffset](splitopenthemeanimation_contenttranslationoffset.md) dependency property.
 

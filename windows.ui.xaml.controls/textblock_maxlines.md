@@ -12,6 +12,8 @@ public int MaxLines { get;  set; }
 ## -description
 Gets or sets the maximum number of lines of text shown in the [TextBlock](textblock.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <TextBlock MaxLines="int"/>

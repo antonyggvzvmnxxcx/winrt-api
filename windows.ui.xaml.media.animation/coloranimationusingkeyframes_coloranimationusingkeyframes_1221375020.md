@@ -12,6 +12,7 @@ public ColorAnimationUsingKeyFrames()
 ## -description
 Initializes a new instance of the [ColorAnimationUsingKeyFrames](coloranimationusingkeyframes.md) class.
 
+
 ## -remarks
 
 ## -examples

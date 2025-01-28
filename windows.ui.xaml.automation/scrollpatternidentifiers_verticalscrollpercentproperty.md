@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty VerticalScrollPercentProper
 ## -description
 Identifies the [VerticalScrollPercent](../windows.ui.xaml.automation.provider/iscrollprovider_verticalscrollpercent.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

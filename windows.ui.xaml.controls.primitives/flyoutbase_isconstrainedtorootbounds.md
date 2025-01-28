@@ -14,6 +14,8 @@ public bool IsConstrainedToRootBounds { get; }
 
 Gets a value that indicates whether the flyout is shown within the bounds of the XAML root.
 
+
+
 ## -property-value
 
 **true** if the flyout is shown within the bounds of the XAML root; otherwise, **false**.

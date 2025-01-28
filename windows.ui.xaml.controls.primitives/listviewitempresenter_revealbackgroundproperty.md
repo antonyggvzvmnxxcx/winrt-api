@@ -13,6 +13,8 @@ public DependencyProperty RevealBackgroundProperty { get; }
 
 Identifies the RevealBackground dependency property.
 
+
+
 ## -property-value
 
 The identifier for the RevealBackground dependency property.

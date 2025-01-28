@@ -13,6 +13,7 @@ public void XamlDirect.SetBooleanProperty(IXamlDirectObject xamlDirectObject, Xa
 ## -description
 Sets the value of a _Boolean_ property for a specific [IXamlDirectObject](ixamldirectobject.md).
 
+
 ## -parameters
 ### -param xamlDirectObject
 A reference to the specific [IXamlDirectObject](ixamldirectobject.md).

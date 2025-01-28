@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty AccessKeyScopeOwnerProperty { get; }
 ## -description
 Identifies for the [AccessKeyScopeOwner](uielement_accesskeyscopeowner.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [AccessKeyScopeOwner](uielement_accesskeyscopeowner.md) dependency property.
 
@@ -20,4 +22,4 @@ The identifier for the [AccessKeyScopeOwner](uielement_accesskeyscopeowner.md) d
 ## -examples
 
 ## -see-also
-[Access keys](https://docs.microsoft.com/windows/uwp/design/input/access-keys)
+[Access keys](/windows/uwp/design/input/access-keys)

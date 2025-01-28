@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Media.Stretch : int
 ## -description
 Describes how content is resized to fill its allocated space.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object property="enumMemberName"/>

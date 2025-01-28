@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsZoomedInViewActiveProperty { get; }
 ## -description
 Identifies the [IsZoomedInViewActive](semanticzoom_iszoomedinviewactive.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsZoomedInViewActive](semanticzoom_iszoomedinviewactive.md) dependency property.
 

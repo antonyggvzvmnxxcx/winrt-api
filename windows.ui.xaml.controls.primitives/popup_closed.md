@@ -12,6 +12,8 @@ public event Windows.Foundation.EventHandler Closed<object>
 ## -description
 Fires when the [IsOpen](popup_isopen.md) property is set to false.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Popup Closed="eventhandler"/>

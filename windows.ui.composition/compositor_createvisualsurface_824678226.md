@@ -14,6 +14,8 @@ public CompositionVisualSurface Compositor.CreateVisualSurface()
 
 Creates an instance of [CompositionVisualSurface](compositionvisualsurface.md).
 
+
+
 ## -returns
 
 Returns the created [CompositionVisualSurface](compositionvisualsurface.md) object.

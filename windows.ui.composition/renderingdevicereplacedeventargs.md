@@ -12,6 +12,8 @@ public class RenderingDeviceReplacedEventArgs : Windows.UI.Composition.Compositi
 ## -description
 Arguments for the [RenderingDeviceReplaced](compositiongraphicsdevice_renderingdevicereplaced.md) event.
 
+
+
 ## -remarks
 
 ## -examples

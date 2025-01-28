@@ -14,6 +14,8 @@ public DirectXAlphaMode AlphaMode { get; }
 
 Gets the alpha mode of the mipmap surface.
 
+
+
 ## -property-value
 
 The alpha mode of the mipmap surface.

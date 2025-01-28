@@ -12,6 +12,8 @@ public string DisplayMemberPath { get;  set; }
 ## -description
 Gets or sets the name or path of the property that is displayed for each data item
 
+
+
 ## -property-value
 The name or path of the property that is displayed for each the data item in the control. The default is an empty string ("").
 

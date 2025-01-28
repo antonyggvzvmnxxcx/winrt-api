@@ -12,6 +12,8 @@ public Windows.UI.Color AutoColor { get; }
 ## -description
 Gets the default color.
 
+
+
 ## -property-value
 The default color.
 

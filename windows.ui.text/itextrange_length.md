@@ -12,6 +12,8 @@ public int Length { get; }
 ## -description
 Gets the count of characters in the text range.
 
+
+
 ## -property-value
 The count of characters.
 

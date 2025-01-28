@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.SupportedTextSelection SupportedTextSelection 
 ## -description
 Gets a value that specifies whether a text provider supports selection, and if it does, the type of selection that is supported.
 
+
+
 ## -property-value
 A value of [SupportedTextSelection](../windows.ui.xaml.automation/supportedtextselection.md).
 

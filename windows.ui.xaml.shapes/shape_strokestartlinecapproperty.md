@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty StrokeStartLineCapProperty { get; }
 ## -description
 Identifies the [StrokeStartLineCap](shape_strokestartlinecap.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [StrokeStartLineCap](shape_strokestartlinecap.md) dependency property.
 

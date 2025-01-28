@@ -10,6 +10,7 @@ public void SimpleHapticsController.StopFeedback()
 # Windows.Devices.Haptics.SimpleHapticsController.StopFeedback
 
 ## -description
+
 Terminates haptic feedback by the input device.
 
 ## -remarks
@@ -17,4 +18,3 @@ Terminates haptic feedback by the input device.
 ## -see-also
 
 ## -examples
-

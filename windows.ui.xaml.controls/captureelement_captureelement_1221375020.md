@@ -12,6 +12,7 @@ public CaptureElement()
 ## -description
 Initializes a new instance of the [CaptureElement](captureelement.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public bool IsInertial { get; }
 ## -description
 Gets a value that indicates whether the pan/zoom manipulation has an inertial component.
 
+
+
 ## -property-value
 **true** if the pan/zoom manipulation has an inertial component; otherwise, **false**.
 

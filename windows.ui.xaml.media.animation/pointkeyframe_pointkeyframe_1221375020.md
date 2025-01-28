@@ -12,6 +12,7 @@ protected PointKeyFrame()
 ## -description
 Provides base class initialization behavior for [PointKeyFrame](pointkeyframe.md)-derived classes.
 
+
 ## -remarks
 
 ## -examples

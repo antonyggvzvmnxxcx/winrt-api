@@ -12,6 +12,8 @@ public class SvgImageSourceOpenedEventArgs
 ## -description
 Provides event data for the [SvgImageSource.Opened](svgimagesource_opened.md) event.
 
+
+
 ## -remarks
 
 ## -see-also

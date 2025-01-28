@@ -12,6 +12,8 @@ public double MinViewWidth { get; }
 ## -description
 Gets the minimum width of the view.
 
+
+
 ## -property-value
 The minimum width of the view.
 

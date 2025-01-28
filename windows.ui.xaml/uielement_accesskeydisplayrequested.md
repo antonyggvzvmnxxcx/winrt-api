@@ -13,6 +13,8 @@ public event Windows.Foundation.TypedEventHandler AccessKeyDisplayRequested<Wind
 
 Occurs when the user requests that access keys be displayed.
 
+
+
 ## -xaml-syntax
 
 ```xaml
@@ -29,4 +31,4 @@ This event is not raised if the element is under an element with its [Visibility
 
 ## -see-also
 
-[AccessKeyDisplayDismissedEventArgs](../windows.ui.xaml.input/accesskeydisplarequestedeventargs.md), [Access keys](https://docs.microsoft.com/windows/uwp/design/input/access-keys)
+[AccessKeyDisplayRequestedEventArgs](../windows.ui.xaml.input/accesskeydisplayrequestedeventargs.md), [Access keys](/windows/uwp/design/input/access-keys)

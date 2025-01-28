@@ -13,6 +13,8 @@ public event TypedEventHandler PasswordChanging<PasswordBox, PasswordBoxPassword
 
 Occurs synchronously when the text in the password box starts to change, but before it is rendered.
 
+
+
 ## -xaml-syntax
 
 ```xaml

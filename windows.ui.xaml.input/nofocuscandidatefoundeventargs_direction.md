@@ -12,6 +12,8 @@ public FocusNavigationDirection Direction { get; }
 ## -description
 Gets the direction that focus moved from element to element within the app UI.
 
+
+
 ## -property-value
 The direction of focus movement.
 

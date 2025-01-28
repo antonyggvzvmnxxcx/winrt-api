@@ -14,6 +14,8 @@ public class EffectiveViewportChangedEventArgs
 
 Provides data for the [FrameworkElement.EffectiveViewportChanged](frameworkelement_effectiveviewportchanged.md) event.
 
+
+
 ## -remarks
 
 ## -see-also

@@ -12,6 +12,8 @@ public Windows.UI.Input.ManipulationDelta Cumulative { get; }
 ## -description
 Gets the overall changes since the beginning of the manipulation.
 
+
+
 ## -property-value
 The overall changes since the beginning of the manipulation.
 

@@ -12,6 +12,8 @@ public int MinUnitCount { get; }
 ## -description
 Gets the minimum unit count.
 
+
+
 ## -property-value
 The minimum unit count.
 

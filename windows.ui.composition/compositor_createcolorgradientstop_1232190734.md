@@ -13,6 +13,8 @@ public CompositionColorGradientStop Compositor.CreateColorGradientStop(Single of
 
 Creates an instance of [CompositionColorGradientStop](compositioncolorgradientstop.md) with the specified offset and color.
 
+
+
 ## -parameters
 ### -param offset
 

@@ -12,6 +12,8 @@ public string ErrorMessage { get; }
 ## -description
 Gets the message component of the exception, as a string.
 
+
+
 ## -property-value
 The message component of the exception.
 

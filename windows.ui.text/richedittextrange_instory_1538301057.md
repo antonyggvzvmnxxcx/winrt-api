@@ -13,6 +13,8 @@ public bool RichEditTextRange.InStory(ITextRange range)
 
 Determines whether this range's story is the same as a specified range's story.
 
+
+
 ## -parameters
 ### -param range
 

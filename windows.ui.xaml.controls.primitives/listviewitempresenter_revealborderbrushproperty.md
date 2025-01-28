@@ -13,6 +13,8 @@ public DependencyProperty RevealBorderBrushProperty { get; }
 
 Identifies the RevealBorderBrush dependency property.
 
+
+
 ## -property-value
 
 The identifier for the RevealBorderBrush dependency property.

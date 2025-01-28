@@ -12,6 +12,8 @@ public void SelectAll()
 ## -description
 Selects all the characters in the [PasswordBox](passwordbox.md).
 
+
+
 ## -remarks
 
 ## -examples

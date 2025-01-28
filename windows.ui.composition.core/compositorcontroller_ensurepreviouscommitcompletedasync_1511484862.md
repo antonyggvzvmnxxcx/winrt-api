@@ -13,6 +13,8 @@ public IAsyncAction CompositorController.EnsurePreviousCommitCompletedAsync()
 
 Ensures the previous commit was completed.
 
+
+
 ## -returns
 
 An asynchronous action.

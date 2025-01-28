@@ -12,6 +12,8 @@ public string WeekDay6 { get; }
 ## -description
 Gets the sixth day of the week.
 
+
+
 ## -property-value
 The sixth day of the week.
 

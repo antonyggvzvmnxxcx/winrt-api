@@ -14,6 +14,8 @@ public bool CanExecute { get;  set; }
 
 Gets or sets a value indicating whether the [ICommand](icommand.md) that raised this event is able to execute.
 
+
+
 ## -property-value
 
 **true** if the ICommand is able to execute; otherwise, **false**.
@@ -22,7 +24,7 @@ Gets or sets a value indicating whether the [ICommand](icommand.md) that raised 
 
 ## -see-also
 
-[CanExecuteRequested](icommand_canexecuterequested.md)
+[CanExecuteRequested](xamluicommand_canexecuterequested.md)
 
 ## -examples
 

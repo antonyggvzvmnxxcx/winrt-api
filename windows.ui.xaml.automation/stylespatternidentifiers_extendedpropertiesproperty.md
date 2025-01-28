@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty ExtendedPropertiesProperty 
 ## -description
 Identifies the [ExtendedProperties](../windows.ui.xaml.automation.provider/istylesprovider_extendedproperties.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

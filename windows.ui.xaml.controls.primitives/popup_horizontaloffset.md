@@ -12,6 +12,8 @@ public double HorizontalOffset { get;  set; }
 ## -description
 Gets or sets the distance between the left side of the application window and the left side of the popup. 
 
+
+
 ## -xaml-syntax
 ```xaml
 <Popup HorizontalOffset="double"/>

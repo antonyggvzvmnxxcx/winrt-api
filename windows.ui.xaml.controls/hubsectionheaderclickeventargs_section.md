@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.HubSection Section { get; }
 ## -description
 Gets the [HubSection](hubsection.md) for the header that was clicked.
 
+
+
 ## -property-value
 The [HubSection](hubsection.md) for the header that was clicked.
 

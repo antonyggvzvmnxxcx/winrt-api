@@ -12,6 +12,7 @@ public bool IsMuted { get;  set; }
 ## -description
 Gets or sets a value indicating whether the audio is muted.
 
+
 ## -xaml-syntax
 ```xaml
 <MediaElement IsMuted="bool" .../>

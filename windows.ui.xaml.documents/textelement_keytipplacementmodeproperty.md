@@ -12,6 +12,8 @@ public DependencyProperty KeyTipPlacementModeProperty { get; }
 ## -description
 Identifies the **KeyTipPlacementMode** dependency property.
 
+
+
 ## -property-value
 The identifier for the **KeyTipPlacementMode** dependency property.
 

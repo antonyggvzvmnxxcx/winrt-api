@@ -14,6 +14,8 @@ public Vector3 RotationAxis { get;  set; }
 
 Gets or sets the axes around which the node is rotated.
 
+
+
 ## -property-value
 
 The axes around which the node is rotated.

@@ -13,6 +13,8 @@ public float Offset { get;  set; }
 
 Gets or sets the location of the gradient stop within the gradient vector.
 
+
+
 ## -property-value
 
 The relative location of this gradient stop along the gradient vector. The default is 0.

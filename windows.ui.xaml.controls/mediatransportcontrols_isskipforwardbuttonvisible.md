@@ -12,6 +12,7 @@ public bool IsSkipForwardButtonVisible { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the skip forward button is shown.
 
+
 ## -xaml-syntax
 ```xaml
 

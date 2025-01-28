@@ -12,6 +12,8 @@ public Windows.UI.Input.ManipulationVelocities Velocities { get; }
 ## -description
 Gets the velocities that are used for the manipulation.
 
+
+
 ## -property-value
 The velocities that are used for the manipulation.
 

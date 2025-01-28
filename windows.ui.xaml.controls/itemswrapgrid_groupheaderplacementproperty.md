@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty GroupHeaderPlacementProperty { get; }
 ## -description
 Identifies the [GroupHeaderPlacement](itemswrapgrid_groupheaderplacement.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [GroupHeaderPlacement](itemswrapgrid_groupheaderplacement.md) dependency property.
 

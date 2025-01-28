@@ -12,6 +12,7 @@ public ScrollBar()
 ## -description
 Initializes a new instance of the [ScrollBar](scrollbar.md) class.
 
+
 ## -remarks
 
 ## -examples

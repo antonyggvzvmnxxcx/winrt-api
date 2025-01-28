@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty CanResizeProperty { get; }
 ## -description
 Identifies the [CanResize](../windows.ui.xaml.automation.provider/itransformprovider_canresize.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

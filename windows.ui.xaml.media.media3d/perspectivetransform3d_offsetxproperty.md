@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty OffsetXProperty { get; }
 ## -description
 Identifies the [OffsetX](perspectivetransform3d_offsetx.md) dependency property.
 
+
+
 ## -property-value
 The [OffsetX](perspectivetransform3d_offsetx.md) dependency property identifier.
 

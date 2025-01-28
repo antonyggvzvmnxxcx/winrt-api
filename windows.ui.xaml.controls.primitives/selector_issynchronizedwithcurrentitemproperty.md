@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsSynchronizedWithCurrentItemProperty 
 ## -description
 Identifies the [IsSynchronizedWithCurrentItem](selector_issynchronizedwithcurrentitem.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsSynchronizedWithCurrentItem](selector_issynchronizedwithcurrentitem.md) dependency property.
 

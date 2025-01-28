@@ -12,6 +12,8 @@ public Windows.UI.Composition.ExpressionAnimation CreateExpressionAnimation()
 ## -description
 Creates an instance of [ExpressionAnimation](expressionanimation.md).
 
+
+
 ## -returns
 Returns the created [ExpressionAnimation](expressionanimation.md) object.
 

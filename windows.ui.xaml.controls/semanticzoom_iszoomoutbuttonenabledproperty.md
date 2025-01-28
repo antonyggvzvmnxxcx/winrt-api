@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsZoomOutButtonEnabledProperty { get; 
 ## -description
 Identifies the [IsZoomOutButtonEnabled](semanticzoom_iszoomoutbuttonenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier of the [IsZoomOutButtonEnabled](semanticzoom_iszoomoutbuttonenabled.md) dependency property.
 

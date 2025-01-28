@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty MaxSuggestionListHeightProperty { get;
 ## -description
 Identifies the [MaxSuggestionListHeight](autosuggestbox_maxsuggestionlistheight.md) dependency property.
 
+
+
 ## -property-value
 Identifier for the [MaxSuggestionListHeight](autosuggestbox_maxsuggestionlistheight.md) dependency property.
 

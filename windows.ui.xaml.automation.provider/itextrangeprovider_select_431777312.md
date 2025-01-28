@@ -12,6 +12,8 @@ public void Select()
 ## -description
 Highlights text in the text control that corresponds to the start and end endpoints of the text range.
 
+
+
 ## -remarks
 
 ## -examples

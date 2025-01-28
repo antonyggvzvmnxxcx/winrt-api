@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty StyleProperty { get; }
 ## -description
 Identifies the [Style](frameworkelement_style.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Style](frameworkelement_style.md) dependency property.
 

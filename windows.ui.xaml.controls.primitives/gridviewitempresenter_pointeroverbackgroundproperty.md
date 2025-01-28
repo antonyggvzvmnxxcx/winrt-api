@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty PointerOverBackgroundProperty { get; }
 ## -description
 Identifies the [PointerOverBackground](gridviewitempresenter_pointeroverbackground.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [PointerOverBackground](gridviewitempresenter_pointeroverbackground.md) dependency property.
 

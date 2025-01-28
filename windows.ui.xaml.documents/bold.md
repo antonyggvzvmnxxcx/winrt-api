@@ -12,6 +12,8 @@ public class Bold : Windows.UI.Xaml.Documents.Span, Windows.UI.Xaml.Documents.IB
 ## -description
 Provides an inline-level content element that causes content to render with a bold font weight.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Bold>text</Bold>

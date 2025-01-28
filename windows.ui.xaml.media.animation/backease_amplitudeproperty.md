@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty AmplitudeProperty { get; }
 ## -description
 Identifies the [Amplitude](backease_amplitude.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Amplitude](backease_amplitude.md) dependency property.
 

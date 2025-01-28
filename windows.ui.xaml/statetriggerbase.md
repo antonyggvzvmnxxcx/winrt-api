@@ -12,6 +12,8 @@ public class StateTriggerBase : Windows.UI.Xaml.DependencyObject, Windows.UI.Xam
 ## -description
 Represents the base class for state triggers.
 
+
+
 ## -remarks
 
 ## -examples

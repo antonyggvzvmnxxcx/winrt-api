@@ -13,6 +13,8 @@ public CompositionGradientExtendMode ExtendMode { get;  set; }
 
 Gets or sets a value that specifies how to draw the gradient outside the brush's gradient vector or space.
 
+
+
 ## -property-value
 
 The mode used to paint the gradient.

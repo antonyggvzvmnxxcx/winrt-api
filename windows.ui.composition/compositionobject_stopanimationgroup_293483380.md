@@ -12,6 +12,8 @@ public void StopAnimationGroup(Windows.UI.Composition.ICompositionAnimationBase 
 ## -description
 Stops an animation group.
 
+
+
 ## -parameters
 ### -param value
 The animation group to stop.

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty DisplayMemberPathProperty { get; }
 ## -description
 Identifies the [DisplayMemberPath](listpickerflyout_displaymemberpath.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [DisplayMemberPath](listpickerflyout_displaymemberpath.md) dependency property.
 

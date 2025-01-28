@@ -12,6 +12,8 @@ public void InsertAt(System.UInt32 index, Windows.UI.Xaml.SetterBase value)
 ## -description
 Inserts the specified item at the specified index.
 
+
+
 ## -parameters
 ### -param index
 The index at which to set the value.
@@ -25,9 +27,9 @@ InsertAt expands the collection and moves all subsequent index items by one. In 
 
 
 > [!NOTE]
-> The equivalent Microsoft .NET  API is [Insert](setterbasecollection_insert.md).
+> The equivalent Microsoft .NET API is [Insert](/dotnet/api/system.collections.objectmodel.collection-1.insert).
 
 ## -examples
 
 ## -see-also
-[Insert](setterbasecollection_insert.md)
+[Insert](/dotnet/api/system.collections.objectmodel.collection-1.insert)

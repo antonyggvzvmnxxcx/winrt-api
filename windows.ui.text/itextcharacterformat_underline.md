@@ -12,6 +12,8 @@ public Windows.UI.Text.UnderlineType Underline { get;  set; }
 ## -description
 Gets or sets the type of underlining that the characters use.
 
+
+
 ## -property-value
 The type of underlining.
 

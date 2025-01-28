@@ -14,6 +14,8 @@ public IReference<Color> ChromeWhite { get;  set; }
 
 Gets or sets the ChromeWhite color value.
 
+
+
 ## -property-value
 
 The ChromeWhite color value.

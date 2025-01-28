@@ -17,7 +17,7 @@ Contains the options available to the asynchronous operation.
 No options are requested.
 
 ### -field SilentMode:1
-Tells the web authentication broker to not render any UI. This option will throw an exception if used with [AuthenticateAndContinue](webauthenticationbroker_authenticateandcontinue_ol.md); [AuthenticateSilentlyAsync](webauthenticationbroker_authenticatesilentlyasync_ol.md), which includes this option implicitly, should be used instead.
+Tells the web authentication broker to not render any UI. This option will throw an exception if used with [AuthenticateAndContinue](webauthenticationbroker_authenticateandcontinue_1571442307.md); [AuthenticateSilentlyAsync](webauthenticationbroker_authenticatesilentlyasync_444210422.md), which includes this option implicitly, should be used instead.
 
 ### -field UseTitle:2
 Tells the web authentication broker to return the window title string of the webpage in the [ResponseData](webauthenticationresult_responsedata.md) property.
@@ -34,4 +34,4 @@ Tells the web authentication broker to render the webpage in an app container th
 ## -examples
 
 ## -see-also
-[Authentication and user identity](https://docs.microsoft.com/windows/uwp/security/authentication-and-user-identity), [Web authentication broker](https://docs.microsoft.com/windows/uwp/security/web-authentication-broker), [Windows authentication broker sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/WebAuthenticationBroker)
+[Authentication and user identity](/windows/uwp/security/authentication-and-user-identity), [Web authentication broker](/windows/uwp/security/web-authentication-broker), [Windows authentication broker sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/WebAuthenticationBroker)

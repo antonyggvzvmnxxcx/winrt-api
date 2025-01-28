@@ -12,6 +12,7 @@ public FrameworkView()
 ## -description
 Initializes a new instance of the [FrameworkView](frameworkview.md) class.
 
+
 ## -remarks
 
 ## -examples

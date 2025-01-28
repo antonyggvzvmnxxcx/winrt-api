@@ -13,6 +13,8 @@ public event TypedEventHandler IsTextTrimmedChanged<RichTextBlock, IsTextTrimmed
 
 Occurs when the [IsTextTrimmed](richtextblock_istexttrimmed.md) property value has changed.
 
+
+
 ## -xaml-syntax
 
 ```xaml

@@ -12,6 +12,7 @@ public MediaElementAutomationPeer(Windows.UI.Xaml.Controls.MediaElement owner)
 ## -description
 Initializes a new instance of the [MediaElementAutomationPeer](mediaelementautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The owner element to create for.

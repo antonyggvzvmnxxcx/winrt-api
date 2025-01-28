@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IIterable<Windows.UI.Xaml.UIElement> FindE
 ## -description
 Retrieves a set of objects that are located within a specified x-y coordinate point of an app UI. The set of objects represents the components of a visual tree that share that point.
 
+
+
 ## -parameters
 ### -param intersectingPoint
 The point to use as the determination point. This point is using the coordinate space of the app window, not of any specific element (and not of *subtree* if specified).
@@ -27,7 +29,7 @@ An enumerable set of [UIElement](../windows.ui.xaml/uielement.md) objects that a
 
 ## -remarks
 An element is considered hit-testable if it both occupies space in the layout and "*produces ink*". 
-For elements that have a [Brush](./brush.md), any non-**null** Brush is considered something that produces ink, even if the Brush doesn't produce visible pixels. For example, a [SolidColorBrush](./solidcolorbrush.md) with it's color set to *Transparent* still produces ink. Only a **null** brush does not produce ink. The Opacity property is not considered. The element still produces ink even if it's Opacity is 0.
+For elements that have a [Brush](./brush.md), any non-**null** Brush is considered something that produces ink, even if the Brush doesn't produce visible pixels. For example, a [SolidColorBrush](./solidcolorbrush.md) with its color set to *Transparent* still produces ink. Only a **null** brush does not produce ink. The Opacity property is not considered. The element still produces ink even if it's Opacity is 0.
 
 When the *includeAllElements* parameter is set to **true**, elements that don't produce ink are considered for hit-testing. In this case, as long as the element meets the spatial requirements (the point intersects the element bounds), then it and its ancestors are included in the results.
 
@@ -83,4 +85,4 @@ private void Test(object sender, RoutedEventArgs e)
 
 
 ## -see-also
-[Point](../windows.foundation/point.md), [FindElementsInHostCoordinates(Point, UIElement)](visualtreehelper_findelementsinhostcoordinates_1478853318.md), [FindElementsInHostCoordinates(Rect, UIElement)](visualtreehelper_findelementsinhostcoordinates_241596294.md), [FindElementsInHostCoordinates(Rect, UIElement, Boolean)](visualtreehelper_findelementsinhostcoordinates_895215498.md), [Mouse interactions](https://docs.microsoft.com/windows/uwp/input-and-devices/mouse-interactions)
+[Point](../windows.foundation/point.md), [FindElementsInHostCoordinates(Point, UIElement)](visualtreehelper_findelementsinhostcoordinates_1478853318.md), [FindElementsInHostCoordinates(Rect, UIElement)](visualtreehelper_findelementsinhostcoordinates_241596294.md), [FindElementsInHostCoordinates(Rect, UIElement, Boolean)](visualtreehelper_findelementsinhostcoordinates_895215498.md), [Mouse interactions](/windows/uwp/input-and-devices/mouse-interactions)

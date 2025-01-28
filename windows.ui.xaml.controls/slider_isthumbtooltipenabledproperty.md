@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsThumbToolTipEnabledProperty { get; }
 ## -description
 Identifies the [IsThumbToolTipEnabled](slider_isthumbtooltipenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsThumbToolTipEnabled](slider_isthumbtooltipenabled.md) dependency property.
 

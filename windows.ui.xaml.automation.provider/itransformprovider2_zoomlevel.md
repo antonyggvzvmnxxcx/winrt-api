@@ -12,6 +12,8 @@ public double ZoomLevel { get; }
 ## -description
 Gets the zoom level of the control's viewport.
 
+
+
 ## -property-value
 The zoom level, specified as a percentage. The provider should zoom the viewport to the nearest supported value.
 

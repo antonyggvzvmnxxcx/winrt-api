@@ -12,6 +12,8 @@ public bool TryStart(Windows.UI.Xaml.UIElement destination)
 ## -description
 Attempts to start the animation.
 
+
+
 ## -parameters
 ### -param destination
 The element that is animated into view.

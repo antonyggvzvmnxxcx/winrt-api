@@ -13,13 +13,13 @@ public Brush Foreground { get;  set; }
 
 Gets or sets the brush that paints the text and icon of the item.
 
+Equivalent **WinUI 2 API for UWP**: [Microsoft.UI.Xaml.Controls.SwipeItem.Foreground](/windows/winui/api/microsoft.ui.xaml.controls.swipeitem.foreground) (for WinUI in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 
 ```xaml
 <SwipeItem Foreground="{StaticResource resourceName}"/>
-```
-
-```xaml
+- or -
 <SwipeItem Foreground="colorString"/>
 ```
 

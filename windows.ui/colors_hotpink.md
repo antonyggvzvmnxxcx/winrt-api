@@ -13,6 +13,8 @@ public Windows.UI.Color HotPink { get; }
 
 Gets the system-defined color that has an ARGB value of #FFFF69B4.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFFF69B4.

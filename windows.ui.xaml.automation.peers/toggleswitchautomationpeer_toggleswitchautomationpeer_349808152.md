@@ -12,6 +12,7 @@ public ToggleSwitchAutomationPeer(Windows.UI.Xaml.Controls.ToggleSwitch owner)
 ## -description
 Initializes a new instance of the [ToggleSwitchAutomationPeer](toggleswitchautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [ToggleSwitch](../windows.ui.xaml.controls/toggleswitch.md) to create a peer for.

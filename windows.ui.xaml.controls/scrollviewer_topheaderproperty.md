@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TopHeaderProperty { get; }
 ## -description
 Identifies the [TopHeader](scrollviewer_topheader.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [TopHeader](scrollviewer_topheader.md) dependency property.
 

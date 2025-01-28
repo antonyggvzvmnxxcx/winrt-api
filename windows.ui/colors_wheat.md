@@ -13,6 +13,8 @@ public Windows.UI.Color Wheat { get; }
 
 Gets the system-defined color that has an ARGB value of #FFF5DEB3.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFF5DEB3.

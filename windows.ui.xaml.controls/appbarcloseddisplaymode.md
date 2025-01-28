@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Controls.AppBarClosedDisplayMode : int
 ## -description
 Defines constants that specify whether icon buttons are displayed when an app bar is not completely open.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object property="enumMemberName"/>

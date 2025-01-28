@@ -12,6 +12,8 @@ public void SetTextViaStream(Windows.UI.Text.TextSetOptions options, Windows.Sto
 ## -description
 Sets the text in the text range based on the contents of a random access stream.
 
+
+
 ## -parameters
 ### -param options
 The text options.

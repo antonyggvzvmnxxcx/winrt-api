@@ -12,6 +12,8 @@ public int Count { get; }
 ## -description
 Gets the number of visual instances in the collection.
 
+
+
 ## -property-value
 The number of visual instances in the collection.
 

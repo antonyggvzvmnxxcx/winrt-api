@@ -12,6 +12,8 @@ public double KnobOffToOnOffset { get; }
 ## -description
 Gets the calculated value of the offset for the "knob" element of the [ToggleSwitch](../windows.ui.xaml.controls/toggleswitch.md), in "Off" to "On" direction.
 
+
+
 ## -property-value
 A value in pixels.
 

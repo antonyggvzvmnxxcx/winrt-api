@@ -14,6 +14,8 @@ public enum CompositionMappingMode : int
 
 Defines constants that specify whether the gradient brush's positioning coordinates (StartPoint, EndPoint) are absolute or relative to the output area.
 
+
+
 ## -enum-fields
 ### -field Relative:1
 

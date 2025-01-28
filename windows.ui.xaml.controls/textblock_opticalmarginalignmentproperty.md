@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty OpticalMarginAlignmentProperty { get; 
 ## -description
 Identifies the [OpticalMarginAlignment](textblock_opticalmarginalignment.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [OpticalMarginAlignment](textblock_opticalmarginalignment.md) dependency property.
 

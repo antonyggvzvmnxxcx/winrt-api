@@ -12,6 +12,8 @@ public Windows.UI.Composition.CompositionEffectFactoryLoadStatus LoadStatus { ge
 ## -description
 The load status of a [CreateBrush](compositioneffectfactory_createbrush_639615316.md) call.
 
+
+
 ## -property-value
 The load status of a [CreateBrush](compositioneffectfactory_createbrush_639615316.md) call.
 

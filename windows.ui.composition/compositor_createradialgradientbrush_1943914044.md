@@ -14,6 +14,8 @@ public CompositionRadialGradientBrush Compositor.CreateRadialGradientBrush()
 
 Creates an instance of [CompositionRadialGradientBrush](compositionradialgradientbrush.md).
 
+
+
 ## -returns
 
 Returns the created [CompositionRadialGradientBrush](compositionradialgradientbrush.md) object.

@@ -12,6 +12,7 @@ public ArcSegment()
 ## -description
 Initializes a new instance of the [ArcSegment](arcsegment.md) class.
 
+
 ## -remarks
 
 ## -examples

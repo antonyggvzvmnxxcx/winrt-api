@@ -10,6 +10,8 @@ public delegate void DragDeltaEventHandler(System.Object sender, Windows.UI.Xaml
 ## -description
 Represents the method that will handle the [DragDelta](thumb_dragdelta.md) event of a [Thumb](thumb.md).
 
+
+
 ## -parameters
 ### -param sender
 The object where the event handler is attached.

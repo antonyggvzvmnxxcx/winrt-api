@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty MarginProperty { get; }
 ## -description
 Identifies the [Margin](block_margin.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Margin](block_margin.md) dependency property.
 

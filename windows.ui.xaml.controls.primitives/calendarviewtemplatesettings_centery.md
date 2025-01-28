@@ -12,6 +12,8 @@ public double CenterY { get; }
 ## -description
 Gets the Y coordinate of the [CalendarView](../windows.ui.xaml.controls/calendarview.md)'s center point.
 
+
+
 ## -property-value
 The Y coordinate of the [CalendarView](../windows.ui.xaml.controls/calendarview.md)'s center point.
 

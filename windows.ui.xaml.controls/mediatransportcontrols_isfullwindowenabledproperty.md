@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty IsFullWindowEnabledProperty { get; }
 ## -description
 Identifies the [IsFullWindowEnabled](mediatransportcontrols_isfullwindowenabled.md) dependency property.
 
+
 ## -property-value
 The identifier for the [IsFullWindowEnabled](mediatransportcontrols_isfullwindowenabled.md) dependency property.
 

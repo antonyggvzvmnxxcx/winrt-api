@@ -14,6 +14,8 @@ public CompositionGeometricClip Compositor.CreateGeometricClip(CompositionGeomet
 
 Creates an instance of [CompositionGeometricClip](compositiongeometricclip.md) using the specified geometry.
 
+
+
 ## -parameters
 ### -param geometry
 

@@ -12,6 +12,8 @@ public void Resume()
 ## -description
 Resumes aggregating objects in the [CompositionScopedBatch](compositionscopedbatch.md).
 
+
+
 ## -remarks
 
 ## -examples

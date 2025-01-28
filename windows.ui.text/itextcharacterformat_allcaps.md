@@ -12,6 +12,8 @@ public Windows.UI.Text.FormatEffect AllCaps { get;  set; }
 ## -description
 Gets or sets whether the characters are all uppercase.
 
+
+
 ## -property-value
 The uppercase state.
 

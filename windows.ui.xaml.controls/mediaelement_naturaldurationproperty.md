@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty NaturalDurationProperty { get; }
 ## -description
 Identifies the [NaturalDuration](mediaelement_naturalduration.md) dependency property.
 
+
 ## -property-value
 The identifier for the [NaturalDuration](mediaelement_naturalduration.md) dependency property.
 

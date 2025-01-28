@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty FillColorProperty { get; }
 ## -description
 Identifies the [FillColor](../windows.ui.xaml.automation.provider/istylesprovider_fillcolor.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

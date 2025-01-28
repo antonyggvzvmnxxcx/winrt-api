@@ -14,6 +14,8 @@ public DirectXPrimitiveTopology PrimitiveTopology { get;  set; }
 
 Gets or sets a value that indicates how the vertex data is interpreted by the graphics pipeline and rendered on screen.
 
+
+
 ## -property-value
 
 A value of the enumeration that indicates how the vertex data is interpreted.

@@ -12,6 +12,8 @@ public string QueryText { get; }
 ## -description
 Gets the query text of the current search.
 
+
+
 ## -property-value
 The query text of the current search.
 

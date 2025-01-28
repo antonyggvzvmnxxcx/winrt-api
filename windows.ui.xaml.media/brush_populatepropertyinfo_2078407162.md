@@ -14,6 +14,8 @@ public void Brush.PopulatePropertyInfo(String propertyName, AnimationPropertyInf
 
 Defines a property that can be animated.
 
+
+
 ## -parameters
 ### -param propertyName
 

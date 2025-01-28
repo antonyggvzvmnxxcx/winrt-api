@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Documents.LogicalDirection LogicalDirection { get; }
 ## -description
 Gets the logical direction associated with the current position, which is used to disambiguate content associated with the current position.
 
+
+
 ## -property-value
 The [LogicalDirection](logicaldirection.md) value that is associated with the current position.
 

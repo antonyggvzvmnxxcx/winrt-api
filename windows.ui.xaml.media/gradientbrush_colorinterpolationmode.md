@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.ColorInterpolationMode ColorInterpolationMode { get
 ## -description
 Gets or sets a [ColorInterpolationMode](colorinterpolationmode.md) enumeration value that specifies how the gradient's colors are interpolated.
 
+
+
 ## -xaml-syntax
 ```xaml
 <gradientBrush ColorInterpolationMode="colorInterpolationModeMemberName"/>

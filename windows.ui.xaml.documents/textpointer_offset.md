@@ -12,6 +12,8 @@ public int Offset { get; }
 ## -description
 Gets the character index of a [TextPointer](textpointer.md) within its container.
 
+
+
 ## -property-value
 The character index of a [TextPointer](textpointer.md) within its container.
 

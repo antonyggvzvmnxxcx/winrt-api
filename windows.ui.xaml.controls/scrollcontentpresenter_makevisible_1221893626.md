@@ -12,6 +12,8 @@ public Windows.Foundation.Rect MakeVisible(Windows.UI.Xaml.UIElement visual, Win
 ## -description
 Forces content to scroll until the coordinate space of a visual object is visible.
 
+
+
 ## -parameters
 ### -param visual
 A [UIElement](../windows.ui.xaml/uielement.md) that becomes visible.

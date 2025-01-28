@@ -13,6 +13,8 @@ public class CompositionPath : IGeometrySource2D
 
 Represents a series of connected lines and curves.
 
+
+
 ## -remarks
 
 ## -see-also

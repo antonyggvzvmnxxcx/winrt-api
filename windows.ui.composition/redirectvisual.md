@@ -14,6 +14,8 @@ public class RedirectVisual : ContainerVisual, ContainerVisual
 
 Represents a visual that gets its content from another visual.
 
+
+
 ## -remarks
 
 ## -see-also

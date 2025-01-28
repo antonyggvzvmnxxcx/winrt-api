@@ -12,6 +12,8 @@ public float Spacing { get;  set; }
 ## -description
 Gets or sets the amount of horizontal spacing between characters.
 
+
+
 ## -property-value
 The amount of horizontal spacing, in floating-point points.
 

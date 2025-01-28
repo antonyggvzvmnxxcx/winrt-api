@@ -12,6 +12,7 @@ public LinearGradientBrush()
 ## -description
 Initializes a new instance of the [LinearGradientBrush](lineargradientbrush.md) class.
 
+
 ## -remarks
 
 ## -examples

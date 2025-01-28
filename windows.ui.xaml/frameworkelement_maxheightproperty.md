@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty MaxHeightProperty { get; }
 ## -description
 Identifies the [MaxHeight](frameworkelement_maxheight.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [MaxHeight](frameworkelement_maxheight.md)  dependency property.
 

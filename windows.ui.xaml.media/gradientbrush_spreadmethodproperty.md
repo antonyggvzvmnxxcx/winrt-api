@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty SpreadMethodProperty { get; }
 ## -description
 Identifies the [SpreadMethod](gradientbrush_spreadmethod.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [SpreadMethod](gradientbrush_spreadmethod.md) dependency property.
 

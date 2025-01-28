@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsSelectedProperty { get; }
 ## -description
 Identifies the [IsSelected](selectoritem_isselected.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsSelected](selectoritem_isselected.md) dependency property.
 

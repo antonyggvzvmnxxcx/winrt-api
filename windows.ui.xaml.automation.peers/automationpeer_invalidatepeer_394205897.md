@@ -12,6 +12,7 @@ public void InvalidatePeer()
 ## -description
 Triggers recalculation of the main properties of the [AutomationPeer](automationpeer.md) and raises the [PropertyChanged](automationpeer_raisepropertychangedevent_715050195.md) notification to the automation client if the properties have changed.
 
+
 ## -remarks
 
 ## -examples

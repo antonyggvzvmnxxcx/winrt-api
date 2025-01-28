@@ -12,6 +12,7 @@ public ExponentialEase()
 ## -description
 Initializes a new instance of the [ExponentialEase](exponentialease.md) class.
 
+
 ## -remarks
 
 ## -examples

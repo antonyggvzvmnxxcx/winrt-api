@@ -12,6 +12,7 @@ public CalendarViewDayItem()
 ## -description
 Initializes a new instance of the [CalendarViewDayItem](calendarviewdayitem.md) class.
 
+
 ## -remarks
 
 ## -examples

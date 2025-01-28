@@ -12,6 +12,7 @@ public double MaxSideLength { get; }
 ## -description
 Gets the maximum bounding size of the progress ring as rendered.
 
+
 ## -property-value
 The maximum bounding size of the progress ring as rendered, in pixels.
 

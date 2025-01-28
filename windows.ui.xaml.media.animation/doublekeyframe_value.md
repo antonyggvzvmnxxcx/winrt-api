@@ -12,6 +12,8 @@ public double Value { get;  set; }
 ## -description
 Gets or sets the key frame's target value.
 
+
+
 ## -xaml-syntax
 ```xaml
 <doubleKeyFrame Value="double"/>

@@ -12,6 +12,8 @@ public void SetVerticalOffset(System.Double offset)
 ## -description
 Changes the vertical offset of content within the [CarouselPanel](carouselpanel.md) viewport.
 
+
+
 ## -parameters
 ### -param offset
 The vertical offset to set, in pixels.

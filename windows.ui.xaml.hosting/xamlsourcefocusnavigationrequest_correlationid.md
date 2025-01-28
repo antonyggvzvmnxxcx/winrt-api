@@ -13,6 +13,7 @@ public Guid CorrelationId { get; }
 ## -description
 Gets the unique identifier for the navigation request. You can use this value for logging purposes, or if you have an existing correlation ID from an in-progress focus movement already in progress and you want to connect that focus movement with a new navigation request.
 
+
 ## -property-value
 The unique identifier for the navigation request.
 

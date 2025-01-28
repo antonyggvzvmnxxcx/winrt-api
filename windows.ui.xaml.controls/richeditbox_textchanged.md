@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.RoutedEventHandler TextChanged
 ## -description
 Occurs when content changes in the [RichEditBox](richeditbox.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <RichEditBox TextChanged="eventhandler"/>

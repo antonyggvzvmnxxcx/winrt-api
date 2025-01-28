@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ChildrenProperty { get; }
 ## -description
 Identifies the [Children](transformgroup_children.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Children](transformgroup_children.md) dependency property.
 

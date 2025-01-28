@@ -12,6 +12,8 @@ public event Windows.Foundation.EventHandler HorizontalSnapPointsChanged<object>
 ## -description
 Fires when the measurements for horizontal snap points change.
 
+
+
 ## -xaml-syntax
 ```xaml
 <orientedVirtualizingPanel HorizontalSnapPointsChanged="eventhandler" />

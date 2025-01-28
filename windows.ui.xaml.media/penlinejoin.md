@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Media.PenLineJoin : int
 ## -description
 Describes the shape that joins two lines or segments.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object property="enumMemberName"/>

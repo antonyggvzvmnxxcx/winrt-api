@@ -13,6 +13,8 @@ public int RichEditTextRange.GetIndex(TextRangeUnit unit)
 
 Retrieves the story index of the text unit (word, line, sentence, paragraph, and so on) at the starting character position of the text range.
 
+
+
 ## -parameters
 ### -param unit
 

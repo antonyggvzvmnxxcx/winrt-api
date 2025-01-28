@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.ScrollBarVisibility HorizontalScrollBarVisibilit
 ## -description
 Gets or sets a value that indicates whether a horizontal [ScrollBar](../windows.ui.xaml.controls.primitives/scrollbar.md) should be displayed.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ScrollViewer HorizontalScrollBarVisibility="scrollBarVisibilityMemberName"/>

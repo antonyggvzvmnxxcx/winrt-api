@@ -12,6 +12,8 @@ public string Name { get; }
 ## -description
 Gets the path-relevant name of the property.
 
+
+
 ## -property-value
 The name of the property as it would be specified in a binding expression.
 

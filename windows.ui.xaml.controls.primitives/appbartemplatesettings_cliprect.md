@@ -12,6 +12,8 @@ public Windows.Foundation.Rect ClipRect { get; }
 ## -description
 Gets the [Rect](../windows.foundation/rect.md) that describes the clipped area of the [AppBar](../windows.ui.xaml.controls/appbar.md).
 
+
+
 ## -property-value
 A [Rect](../windows.foundation/rect.md) that describes the clipped area of the [AppBar](../windows.ui.xaml.controls/appbar.md).
 

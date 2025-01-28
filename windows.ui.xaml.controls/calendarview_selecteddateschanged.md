@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler SelectedDatesChanged<Windows.U
 ## -description
 Occurs when the collection of selected dates is changed.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarView SelectedDatesChanged="eventhandler"/>

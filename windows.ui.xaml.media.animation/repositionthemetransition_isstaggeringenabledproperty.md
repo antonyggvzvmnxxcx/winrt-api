@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsStaggeringEnabledProperty { get; }
 ## -description
 Identifies the [IsStaggeringEnabled](repositionthemetransition_isstaggeringenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsStaggeringEnabled](repositionthemetransition_isstaggeringenabled.md) dependency property.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty AccessKeyProperty { get; }
 ## -description
 Identifies the access key automation property. The access key property value is returned by the [GetAccessKey](../windows.ui.xaml.automation.peers/automationpeer_getaccesskey_372284052.md) method.
 
+
+
 ## -property-value
 The automation property identifier.
 

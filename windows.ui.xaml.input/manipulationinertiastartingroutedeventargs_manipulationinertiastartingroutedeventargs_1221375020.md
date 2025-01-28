@@ -12,6 +12,7 @@ public ManipulationInertiaStartingRoutedEventArgs()
 ## -description
 Initializes a new instance of the [ManipulationInertiaStartingRoutedEventArgs](manipulationinertiastartingroutedeventargs.md) class.
 
+
 ## -remarks
 
 ## -examples

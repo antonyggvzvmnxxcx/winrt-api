@@ -12,6 +12,8 @@ public Windows.UI.Text.FontStretch FontStretch { get;  set; }
 ## -description
 Gets or sets the degree to which a font is condensed or expanded on the screen.
 
+
+
 ## -xaml-syntax
 ```xaml
 <control FontStretch="fontStretchMemberName"/>

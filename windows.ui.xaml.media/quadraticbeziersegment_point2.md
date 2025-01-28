@@ -12,6 +12,8 @@ public Windows.Foundation.Point Point2 { get;  set; }
 ## -description
 Gets or sets the end [Point](../windows.foundation/point.md) of this [QuadraticBezierSegment](quadraticbeziersegment.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <QuadraticBezierSegment Point2="x,y"/>

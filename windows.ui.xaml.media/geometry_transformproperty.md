@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TransformProperty { get; }
 ## -description
 Identifies the [Transform](geometry_transform.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Transform](geometry_transform.md) dependency property.
 

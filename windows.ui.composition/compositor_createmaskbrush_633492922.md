@@ -12,6 +12,8 @@ public Windows.UI.Composition.CompositionMaskBrush CreateMaskBrush()
 ## -description
 Creates an instance of [CompositionMaskBrush](compositionmaskbrush.md).
 
+
+
 ## -returns
 Returns the created [CompositionMaskBrush](compositionmaskbrush.md) object.
 

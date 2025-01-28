@@ -12,6 +12,7 @@ public GridViewHeaderItemAutomationPeer(Windows.UI.Xaml.Controls.GridViewHeaderI
 ## -description
 Initializes a new instance of the [GridViewHeaderItemAutomationPeer](gridviewheaderitemautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [GridViewHeaderItem](../windows.ui.xaml.controls/gridviewheaderitem.md) to create the peer for.

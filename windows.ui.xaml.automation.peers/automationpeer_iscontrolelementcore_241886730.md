@@ -12,6 +12,7 @@ virtual protected bool IsControlElementCore()
 ## -description
 Provides the peer's behavior when a Microsoft UI Automation client calls [IsControlElement](automationpeer_iscontrolelement_1004644794.md) or an equivalent Microsoft UI Automation client API.
 
+
 ## -returns
 **true** if the element is a control; otherwise, **false**.
 
@@ -21,4 +22,4 @@ The standard implementation at the [AutomationPeer](automationpeer.md) level ret
 ## -examples
 
 ## -see-also
-[FrameworkElementAutomationPeer](frameworkelementautomationpeer.md), [Custom automation peers](https://docs.microsoft.com/windows/uwp/accessibility/custom-automation-peers), [Accessibility](https://docs.microsoft.com/windows/uwp/accessibility/accessibility)
+[FrameworkElementAutomationPeer](frameworkelementautomationpeer.md), [Custom automation peers](/windows/uwp/accessibility/custom-automation-peers), [Accessibility](/windows/uwp/accessibility/accessibility)

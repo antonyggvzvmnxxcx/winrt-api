@@ -12,6 +12,7 @@ public GroupItemAutomationPeer(Windows.UI.Xaml.Controls.GroupItem owner)
 ## -description
 Initializes a new instance of the [GroupItemAutomationPeer](groupitemautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [GroupItem](../windows.ui.xaml.controls/groupitem.md) to create the peer for.

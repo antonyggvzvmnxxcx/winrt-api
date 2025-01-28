@@ -12,6 +12,8 @@ public void Select(Windows.UI.Xaml.Documents.TextPointer start, Windows.UI.Xaml.
 ## -description
 Selects a range of text in the [RichTextBlock](richtextblock.md).
 
+
+
 ## -parameters
 ### -param start
 An object that represents the start of the range to select.

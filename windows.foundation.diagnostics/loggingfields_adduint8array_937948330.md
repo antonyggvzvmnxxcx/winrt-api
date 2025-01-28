@@ -34,7 +34,7 @@ Use the *format* parameter to specify the format of the array. You may use the f
    <tr><td>Json</td><td>Data is treated as a Multi-Byte Character Set (MBCS) JavaScript Object Notation (JSON) string</td></tr>
    <tr><td>Signed</td><td>Data is treated as an array of signed 8-bit integers</td></tr>
    <tr><td>String</td><td>Data is treated as a MBCS string</td></tr>
-   <tr><td>SocketAddress</td><td>Data is treated as a [sockaddr](https://docs.microsoft.com/windows/desktop/WinSock/sockaddr-2)</td></tr>
+   <tr><td>SocketAddress</td><td>Data is treated as a [sockaddr](/windows/desktop/WinSock/sockaddr-2)</td></tr>
    <tr><td>Unsigned</td><td>Data is treated as an array of unsigned 8-bit integers</td></tr>
    <tr><td>XML</td><td>Data is treated as an MBCS XML string</td></tr>
 </table>
@@ -44,4 +44,4 @@ Use the *format* parameter to specify the format of the array. You may use the f
 ## -examples
 
 ## -see-also
-[AddUInt8Array(String, Byte[])](loggingfields_adduint8array_1568617358.md), [AddUInt8Array(String, Byte[], LoggingFieldFormat)](loggingfields_adduint8array_304598678.md)
+[AddUInt8Array(String, Byte\[\])](/uwp/api/windows.foundation.diagnostics.loggingfields.adduint8array#windows-foundation-diagnostics-loggingfields-adduint8array(system-string-system-byte())), [AddUInt8Array(String, Byte\[\], LoggingFieldFormat)](/uwp/api/windows.foundation.diagnostics.loggingfields.adduint8array#windows-foundation-diagnostics-loggingfields-adduint8array(system-string-system-byte()-windows-foundation-diagnostics-loggingfieldformat))

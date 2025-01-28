@@ -12,6 +12,7 @@ public LineSegment()
 ## -description
 Initializes a new instance of the [LineSegment](linesegment.md) class.
 
+
 ## -remarks
 
 ## -examples

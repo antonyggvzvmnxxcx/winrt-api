@@ -13,6 +13,8 @@ public CompositionColorGradientStop Compositor.CreateColorGradientStop()
 
 Creates an instance of [CompositionColorGradientStop](compositioncolorgradientstop.md).
 
+
+
 ## -returns
 
 The created CompositionColorGradientStop object.

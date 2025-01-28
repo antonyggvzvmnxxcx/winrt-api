@@ -12,6 +12,7 @@ public PointCollection()
 ## -description
 Initializes a new instance of the [PointCollection](pointcollection.md) class.
 
+
 ## -remarks
 
 ## -examples

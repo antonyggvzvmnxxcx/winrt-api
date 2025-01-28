@@ -12,6 +12,8 @@ public Windows.Foundation.IReference<double> By { get;  set; }
 ## -description
 Gets or sets the total amount by which the animation changes its starting value.
 
+
+
 ## -xaml-syntax
 ```xaml
 <DoubleAnimation By="double"/>

@@ -12,6 +12,8 @@ public double FontSize { get;  set; }
 ## -description
 Gets or sets the font size for the text content presented by the [ContentPresenter](contentpresenter.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentPresenter FontSize="double" .../>

@@ -13,6 +13,8 @@ public class SpringVector3NaturalMotionAnimation : Vector3NaturalMotionAnimation
 
 A spring physics-based animation that targets any Vector3-based property.
 
+
+
 ## -remarks
 
 ## -see-also

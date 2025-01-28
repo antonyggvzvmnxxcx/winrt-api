@@ -12,6 +12,8 @@ public DependencyObject KeyTipTarget { get;  set; }
 ## -description
 Gets or sets a value that indicates the element targeted by the access key Key Tip.
 
+
+
 ## -property-value
 The element targeted by the Key Tip.
 

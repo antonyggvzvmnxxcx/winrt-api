@@ -12,6 +12,8 @@ public Windows.UI.Color Color { get;  set; }
 ## -description
 Gets or sets the color of the gradient stop.
 
+
+
 ## -xaml-syntax
 ```xaml
 <GradientStop Color="colorString" .../>

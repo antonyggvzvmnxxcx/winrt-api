@@ -12,6 +12,8 @@ public event Windows.Foundation.EventHandler HorizontalSnapPointsChanged<object>
 ## -description
 Occurs when the horizontal snap points change.
 
+
+
 ## -remarks
 
 ## -examples

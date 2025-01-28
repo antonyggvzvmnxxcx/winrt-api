@@ -12,6 +12,7 @@ public ManipulationPivot()
 ## -description
 Initializes a new instance of the [ManipulationPivot](manipulationpivot.md) class with no initial values.
 
+
 ## -remarks
 
 ## -examples

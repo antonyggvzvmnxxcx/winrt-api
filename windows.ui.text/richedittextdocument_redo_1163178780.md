@@ -9,10 +9,12 @@ public void RichEditTextDocument.Redo()
 
 # Windows.UI.Text.RichEditTextDocument.Redo
 
+
 ## -description
+
 Reverses the most recent undo operation.
 
-## -parameters
+
 
 ## -remarks
 

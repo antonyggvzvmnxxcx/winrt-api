@@ -13,6 +13,7 @@ public DependencyProperty IsRepeatButtonVisibleProperty { get; }
 
 Identifies the IsRepeatButtonVisible dependency property.
 
+
 ## -property-value
 
 The identifier for the IsRepeatButtonVisible dependency property.

@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Media.SweepDirection : int
 ## -description
 Specifies the direction in which an elliptical arc is drawn.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object property="enumMemberName"/>

@@ -14,6 +14,8 @@ Starts an animation group.
 
 The StartAnimationGroup method on [CompositionObject](compositionobject.md) lets you start [CompositionAnimationGroup](compositionanimationgroup.md). All the animations in the group will be started at the same time on the object.
 
+
+
 ## -parameters
 ### -param value
 The animation group to start.

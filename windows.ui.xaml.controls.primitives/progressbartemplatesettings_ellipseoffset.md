@@ -12,6 +12,7 @@ public double EllipseOffset { get; }
 ## -description
 Gets the template-defined offset position of the "Ellipse" element that is animated in a templated [ProgressBar](progressbartemplatesettings.md).
 
+
 ## -property-value
 The offset in pixels.
 

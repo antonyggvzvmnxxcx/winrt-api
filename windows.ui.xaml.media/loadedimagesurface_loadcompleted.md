@@ -12,6 +12,8 @@ public event TypedEventHandler LoadCompleted<LoadedImageSurface, LoadedImageSour
 ## -description
 Occurs when the image has been downloaded, decoded and loaded to the underlying [ICompositionSurface](../windows.ui.composition/icompositionsurface.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <LoadedImageSurface LoadCompleted="eventhandler"/>

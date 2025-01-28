@@ -12,6 +12,7 @@ public double EllipseDiameter { get; }
 ## -description
 Gets the template-defined diameter of the "Ellipse" element that is animated in a templated [ProgressRing](../windows.ui.xaml.controls/progressring.md).
 
+
 ## -property-value
 The "Ellipse" width in pixels.
 

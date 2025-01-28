@@ -12,6 +12,8 @@ public float CompositionScaleY { get; }
 ## -description
 Gets the y-axis scale factor of the [SwapChainPanel](swapchainpanel.md).
 
+
+
 ## -property-value
 The y-axis scale factor of the [SwapChainPanel](swapchainpanel.md). A value of 1.0 means no scaling is applied.
 

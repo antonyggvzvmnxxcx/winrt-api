@@ -13,6 +13,8 @@ public void CompositionDebugHeatMaps.ShowRedraw(Visual subtree)
 
 Highlights areas of the app UI that are producing updates.
 
+
+
 ## -parameters
 ### -param subtree
 

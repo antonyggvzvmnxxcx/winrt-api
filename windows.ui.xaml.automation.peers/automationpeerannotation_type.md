@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AnnotationType Type { get;  set; }
 ## -description
 Gets or sets the type of the annotation.
 
+
+
 ## -property-value
 The type of the annotation.
 

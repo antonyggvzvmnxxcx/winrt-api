@@ -12,6 +12,8 @@ public Uri DefaultStyleResourceUri { get;  set; }
 ## -description
 Gets or sets the path to the resource file that contains the default style for the control.
 
+
+
 ## -property-value
 The path to the resource file that contains the default style for the control.
 

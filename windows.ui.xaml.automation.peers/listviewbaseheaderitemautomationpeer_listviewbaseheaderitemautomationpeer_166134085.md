@@ -12,6 +12,7 @@ protected ListViewBaseHeaderItemAutomationPeer(Windows.UI.Xaml.Controls.ListView
 ## -description
 Initializes a new instance of the [ListViewBaseHeaderItemAutomationPeer](listviewbaseheaderitemautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [ListViewBaseHeaderItem](../windows.ui.xaml.controls/listviewbaseheaderitem.md) to create the peer for.

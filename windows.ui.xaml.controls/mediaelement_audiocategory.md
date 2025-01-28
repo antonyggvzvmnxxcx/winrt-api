@@ -13,6 +13,7 @@ public Windows.UI.Xaml.Media.AudioCategory AudioCategory { get;  set; }
 
 Gets or sets a value that describes the purpose of the audio information in an audio stream.
 
+
 ## -xaml-syntax
 
 ```xaml

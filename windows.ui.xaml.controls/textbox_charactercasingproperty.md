@@ -13,6 +13,8 @@ public DependencyProperty CharacterCasingProperty { get; }
 
 Identifies the CharacterCasing dependency property.
 
+
+
 ## -property-value
 
 The identifier for the CharacterCasing dependency property.

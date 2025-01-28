@@ -12,6 +12,8 @@ public void SetAt(System.UInt32 index, Windows.UI.Xaml.Media.PathFigure value)
 ## -description
 Sets the value at the specified index to the [PathFigure](pathfigure.md) value specified.
 
+
+
 ## -parameters
 ### -param index
 The index at which to set the value.

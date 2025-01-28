@@ -13,6 +13,8 @@ public uint CompositionStrokeDashArray.GetMany(UInt32 startIndex, Single[] items
 
 Retrieves multiple elements in a single pass through the iterator.
 
+
+
 ## -parameters
 ### -param startIndex
 

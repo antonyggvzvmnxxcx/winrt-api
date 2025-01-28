@@ -13,6 +13,8 @@ public class Vector2NaturalMotionAnimation : NaturalMotionAnimation, NaturalMoti
 
 The base Vector2 NaturalMotionAnimation used to target a Vector2 property.
 
+
+
 ## -remarks
 
 ## -see-also

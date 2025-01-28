@@ -12,6 +12,7 @@ public ThumbAutomationPeer(Windows.UI.Xaml.Controls.Primitives.Thumb owner)
 ## -description
 Initializes a new instance of the [ThumbAutomationPeer](thumbautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [Thumb](../windows.ui.xaml.controls.primitives/thumb.md) to create a peer for.

@@ -12,6 +12,8 @@ public bool AnimationDesired { get;  set; }
 ## -description
 Gets or sets a value that indicates whether to use animation when the element is brought into view.
 
+
+
 ## -property-value
 **true** to use animation; otherwise, **false**. The default is **true**.
 

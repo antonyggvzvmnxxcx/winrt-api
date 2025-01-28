@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Input.ICommand SecondaryButtonCommand { get;  set; }
 ## -description
 Gets or sets the command to invoke when the secondary button is tapped.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentDialog SecondaryButtonCommand="commandReference"/>

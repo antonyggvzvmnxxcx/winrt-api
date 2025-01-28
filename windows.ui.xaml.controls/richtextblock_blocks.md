@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Documents.BlockCollection Blocks { get; }
 ## -description
 Gets the contents of the [RichTextBlock](richtextblock.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <RichTextBlock ...>

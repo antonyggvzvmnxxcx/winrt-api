@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty DragOpacityProperty { get; }
 ## -description
 Identifies the [DragOpacity](gridviewitempresenter_dragopacity.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [DragOpacity](gridviewitempresenter_dragopacity.md) dependency property.
 

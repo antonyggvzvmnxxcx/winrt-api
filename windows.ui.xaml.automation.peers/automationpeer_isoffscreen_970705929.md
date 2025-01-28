@@ -12,6 +12,7 @@ public bool IsOffscreen()
 ## -description
 Gets a value that indicates whether an element is off the screen.
 
+
 ## -returns
 **true** if the element is not on the screen; otherwise, **false**.
 

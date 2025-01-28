@@ -12,6 +12,8 @@ public Windows.UI.Text.FontStyle DayItemFontStyle { get;  set; }
 ## -description
 Gets or sets the font style used to display day values in the calendar.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarView DayItemFontStyle="fontStyleMemberName" />

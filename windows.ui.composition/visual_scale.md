@@ -12,6 +12,8 @@ public Windows.Foundation.Numerics.Vector3 Scale { get;  set; }
 ## -description
 The scale to apply to the visual.
 
+
+
 ## -property-value
 The scale to apply to the visual. A value of Vector3 (1.0,1.0,1.0) is equivalent to 100%.
 

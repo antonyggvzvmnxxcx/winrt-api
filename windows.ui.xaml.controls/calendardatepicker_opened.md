@@ -12,6 +12,8 @@ public event Windows.Foundation.EventHandler Opened<object>
 ## -description
 Occurs when the picker's [CalendarView](calendarview.md) is shown.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarDatePicker Opened="eventhandler"/>

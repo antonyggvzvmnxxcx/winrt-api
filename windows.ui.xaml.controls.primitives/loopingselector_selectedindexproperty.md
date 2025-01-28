@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty SelectedIndexProperty { get; }
 ## -description
 Identifies the [SelectedIndex](loopingselector_selectedindex.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [SelectedIndex](loopingselector_selectedindex.md) dependency property.
 

@@ -12,6 +12,8 @@ public string AnnotationTypeName { get; }
 ## -description
 Gets the name of this annotation type.
 
+
+
 ## -property-value
 The name of this annotation type.
 

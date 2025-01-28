@@ -13,6 +13,8 @@ public CompositionPathGeometry Compositor.CreatePathGeometry(CompositionPath pat
 
 Creates an instance of [CompositionPathGeometry](compositionpathgeometry.md) using the specified path.
 
+
+
 ## -parameters
 ### -param path
 

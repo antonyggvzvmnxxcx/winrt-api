@@ -12,6 +12,7 @@ public LineBreak()
 ## -description
 Initializes a new instance of the [LineBreak](linebreak.md) class.
 
+
 ## -remarks
 
 ## -examples

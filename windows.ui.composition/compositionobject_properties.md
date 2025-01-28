@@ -12,6 +12,8 @@ public Windows.UI.Composition.CompositionPropertySet Properties { get; }
 ## -description
 The collection of properties associated with the [CompositionObject](compositionobject.md).
 
+
+
 ## -property-value
 The collection of properties associated with the [CompositionObject](compositionobject.md).
 

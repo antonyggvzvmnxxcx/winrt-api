@@ -12,6 +12,7 @@ public ListViewItemDataAutomationPeer(System.Object item, Windows.UI.Xaml.Automa
 ## -description
 Initializes a new instance of the [ListViewItemDataAutomationPeer](listviewitemdataautomationpeer.md) class.
 
+
 ## -parameters
 ### -param item
 The specific data item.

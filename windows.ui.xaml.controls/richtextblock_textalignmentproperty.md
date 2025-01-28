@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TextAlignmentProperty { get; }
 ## -description
 Identifies the [TextAlignment](richtextblock_textalignment.md) dependency property.
 
+
+
 ## -property-value
 Identifier for the [TextAlignment](richtextblock_textalignment.md) dependency property.
 

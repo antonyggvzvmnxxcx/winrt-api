@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty ClickablePointProperty { ge
 ## -description
 Identifies the clickable point automation property. A valid clickable point property value is returned by the [GetClickablePoint](../windows.ui.xaml.automation.peers/automationpeer_getclickablepoint_955785073.md) method.
 
+
+
 ## -property-value
 The automation property identifier.
 

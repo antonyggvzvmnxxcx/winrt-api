@@ -13,6 +13,8 @@ public bool AnimationDesired { get;  set; }
 
 Gets or sets a value that specifies whether the scrolling should be animated.
 
+
+
 ## -property-value
 
 **true** to animate the scrolling; otherwise, **false**.

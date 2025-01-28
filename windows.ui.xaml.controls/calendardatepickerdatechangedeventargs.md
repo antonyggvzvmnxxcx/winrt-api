@@ -12,6 +12,8 @@ public class CalendarDatePickerDateChangedEventArgs : Windows.UI.Xaml.Controls.I
 ## -description
 Provides event data for the [DateChanged](calendardatepicker_datechanged.md) event.
 
+
+
 ## -remarks
 
 ## -examples

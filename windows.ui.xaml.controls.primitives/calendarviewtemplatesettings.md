@@ -12,6 +12,8 @@ public class CalendarViewTemplateSettings : Windows.UI.Xaml.DependencyObject, Wi
 ## -description
 Provides calculated values that can be referenced as **TemplatedParent** sources when defining templates for a [CalendarView](../windows.ui.xaml.controls/calendarview.md) control. Not intended for general use.
 
+
+
 ## -remarks
 
 ## -examples

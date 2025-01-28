@@ -12,6 +12,8 @@ public string Label { get;  set; }
 ## -description
 Gets or sets the text description displayed on the app bar toggle button.
 
+
+
 ## -xaml-syntax
 ```xaml
 <AppBarToggleButton Label="stringContent" .../>

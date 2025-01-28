@@ -17,7 +17,7 @@ Asynchronously creates a new [MiracastReceiverSession](miracastreceiversession.m
 ## -parameters
 ### -param view
 
-The [CoreApplicationView](..\Windows.ApplicationModel.Core\coreapplicationview.md) used by the app when displaying the Miracast video stream.
+The [CoreApplicationView](/uwp/api/Windows.ApplicationModel.Core.CoreApplicationView) used by the app when displaying the Miracast video stream.
 
 ## -returns
 
@@ -27,7 +27,7 @@ An asynchronous operation that returns the new **MiracastReceiverSession** objec
 
 ## -see-also
 
-[CoreApplicationView](..\Windows.ApplicationModel.Core\coreapplicationview.md),
+[CoreApplicationView](../Windows.ApplicationModel.Core/coreapplicationview.md),
 [CreateSession](miracastreceiver_createsession_1495869043.md)
 
 ## -examples

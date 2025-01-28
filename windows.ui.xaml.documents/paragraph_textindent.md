@@ -12,6 +12,8 @@ public double TextIndent { get;  set; }
 ## -description
 Gets or sets the indentation of the first line of text in a paragraph, in pixels.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Paragraph TextIndent="double"/>

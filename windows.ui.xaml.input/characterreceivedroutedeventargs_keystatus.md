@@ -12,6 +12,8 @@ public CorePhysicalKeyStatus KeyStatus { get; }
 ## -description
 Gets the status of the physical key that raised the character-received event.
 
+
+
 ## -property-value
 The status of the key that was pressed.
 

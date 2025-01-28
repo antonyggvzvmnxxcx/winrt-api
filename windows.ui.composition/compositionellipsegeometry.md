@@ -13,6 +13,8 @@ public class CompositionEllipseGeometry : CompositionGeometry, CompositionGeomet
 
 Represents an ellipse with the specified center and radius.
 
+
+
 ## -remarks
 
 ## -see-also

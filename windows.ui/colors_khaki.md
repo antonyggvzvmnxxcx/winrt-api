@@ -13,6 +13,8 @@ public Windows.UI.Color Khaki { get; }
 
 Gets the system-defined color that has an ARGB value of #FFF0E68C.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFF0E68C.

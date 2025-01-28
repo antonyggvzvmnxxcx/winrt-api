@@ -12,6 +12,7 @@ public CalendarView()
 ## -description
 Initializes a new instance of the [CalendarView](calendarview.md) class.
 
+
 ## -remarks
 
 ## -examples

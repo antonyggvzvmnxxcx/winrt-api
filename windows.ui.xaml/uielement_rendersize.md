@@ -12,6 +12,8 @@ public Windows.Foundation.Size RenderSize { get; }
 ## -description
 Gets the final render size of a [UIElement](uielement.md). Use is not recommended, see Remarks.
 
+
+
 ## -property-value
 The rendered size for this object. There is no default value.
 

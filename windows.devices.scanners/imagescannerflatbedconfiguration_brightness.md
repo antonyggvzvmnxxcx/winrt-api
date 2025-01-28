@@ -10,13 +10,13 @@ public int Brightness { get;  set; }
 # Windows.Devices.Scanners.ImageScannerFlatbedConfiguration.Brightness
 
 ## -description
-Gets or sets the current brightness level for capturing image data from the scanner's Flatbed. At the beginning of a new scan session, this property is set to the [DefaultBrightness](imagescannerflatbedconfiguration_defaultbrightness.md) property.
+Gets or sets the current brightness level for capturing image data from the scanner's flatbed. At the beginning of a new scan session, this property is set to the [DefaultBrightness](imagescannerflatbedconfiguration_defaultbrightness.md) property.
 
 ## -property-value
 The current brightness level.
 
 ## -remarks
-Your app can set the value of this property to any [Int32](https://docs.microsoft.com/dotnet/api/system.int32?redirectedfrom=MSDN) value between the [MinBrightness](imagescannerflatbedconfiguration_minbrightness.md) and [MaxBrightness](imagescannerflatbedconfiguration_maxbrightness.md) values, and also relates to the [BrightnessStep](imagescannerflatbedconfiguration_brightnessstep.md) value with this equation:
+Your app can set the value of this property to any [Int32](/dotnet/api/system.int32?view=dotnet-uwp-10.0&preserve-view=true) value between the [MinBrightness](imagescannerflatbedconfiguration_minbrightness.md) and [MaxBrightness](imagescannerflatbedconfiguration_maxbrightness.md) values, and also relates to the [BrightnessStep](imagescannerflatbedconfiguration_brightnessstep.md) value with this equation:
 
 **Brightness = MinBrightness + (N * BrightnessStep)**
 

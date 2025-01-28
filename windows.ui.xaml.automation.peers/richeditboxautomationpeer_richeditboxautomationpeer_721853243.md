@@ -12,6 +12,7 @@ public RichEditBoxAutomationPeer(Windows.UI.Xaml.Controls.RichEditBox owner)
 ## -description
 Initializes a new instance of the [RichEditBoxAutomationPeer](richeditboxautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The owner element to create for.

@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IVector<object> SelectedItems { get; }
 ## -description
 Gets the list of currently selected items.
 
+
+
 ## -property-value
 The list of currently selected items.
 

@@ -12,14 +12,14 @@ public Windows.UI.Color Value { get;  set; }
 ## -description
 Gets or sets the key frame's target value.
 
+
+
 ## -xaml-syntax
 ```xaml
 <colorKeyFrame Value="colorString"/>
 -or-
 <colorKeyFrame Value="referenceToColor"/>
-```
-
-```xaml
+- or -
 <colorKeyFrame>
   <colorKeyFrame.Value>
     <Color>colorString</Color>

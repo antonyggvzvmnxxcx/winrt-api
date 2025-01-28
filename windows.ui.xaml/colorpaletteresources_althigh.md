@@ -14,6 +14,8 @@ public IReference<Color> AltHigh { get;  set; }
 
 Gets or sets the AltHigh color value.
 
+
+
 ## -property-value
 
 The AltHigh color value.

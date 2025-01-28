@@ -12,6 +12,8 @@ public bool Maximizable { get; }
 ## -description
 Gets a Boolean value that indicates whether the app bar can be maximized.
 
+
+
 ## -property-value
 **true** if the app bar can be maximized; otherwise, **false**.
 

@@ -12,6 +12,8 @@ public DependencyProperty RasterizePixelWidthProperty { get; }
 ## -description
 Identifies the **RasterizePixelWidth** dependency property.
 
+
+
 ## -property-value
 The identifier for the **RasterizePixelWidth** dependency property.
 

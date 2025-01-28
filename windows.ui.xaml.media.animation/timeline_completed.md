@@ -12,6 +12,8 @@ public event Windows.Foundation.EventHandler Completed<object>
 ## -description
 Occurs when the [Storyboard](storyboard.md) object has completed playing.
 
+
+
 ## -xaml-syntax
 ```xaml
 <timeline Completed="eventhandler"/>

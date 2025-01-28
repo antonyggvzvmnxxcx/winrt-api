@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.ScrollMode GetHorizontalScrollMode(Windows.UI.Xa
 ## -description
 Gets the value of the [HorizontalScrollMode](scrollviewer_horizontalscrollmode.md) dependency property / `ScrollViewer.HorizontalScrollMode` XAML attached property from a specified element.
 
+
+
 ## -parameters
 ### -param element
 The element from which the property value is read.

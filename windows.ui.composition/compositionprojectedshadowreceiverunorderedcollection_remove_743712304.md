@@ -14,6 +14,8 @@ public void CompositionProjectedShadowReceiverUnorderedCollection.Remove(Composi
 
 Removes the specified CompositionProjectedShadowReceiver from the collection.
 
+
+
 ## -parameters
 ### -param value
 

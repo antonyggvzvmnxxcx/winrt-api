@@ -13,6 +13,8 @@ public class BasicConnectedAnimationConfiguration : ConnectedAnimationConfigurat
 ## -description
 An object that configures the connected animation as a linear transition from the source to the destination.
 
+
+
 ## -remarks
 
 ## -see-also

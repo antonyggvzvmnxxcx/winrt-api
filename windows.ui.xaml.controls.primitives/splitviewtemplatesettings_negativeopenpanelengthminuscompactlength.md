@@ -12,6 +12,8 @@ public double NegativeOpenPaneLengthMinusCompactLength { get; }
 ## -description
 Gets the negative of the value calculated by subtracting the [CompactPaneLength](../windows.ui.xaml.controls/splitview_compactpanelength.md) value from the [OpenPaneLength](../windows.ui.xaml.controls/splitview_openpanelength.md) value.
 
+
+
 ## -property-value
 The negative of the [OpenPaneLength](../windows.ui.xaml.controls/splitview_openpanelength.md) value minus the [CompactPaneLength](../windows.ui.xaml.controls/splitview_compactpanelength.md) value.
 

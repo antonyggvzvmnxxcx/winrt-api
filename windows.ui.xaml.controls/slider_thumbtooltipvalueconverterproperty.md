@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ThumbToolTipValueConverterProperty { g
 ## -description
 Identifies the [ThumbToolTipValueConverter](slider_thumbtooltipvalueconverter.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ThumbToolTipValueConverter](slider_thumbtooltipvalueconverter.md) dependency property.
 

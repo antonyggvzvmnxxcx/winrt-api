@@ -12,6 +12,8 @@ public string CalendarIdentifier { get;  set; }
 ## -description
 Gets or sets the calendar system to use.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarDatePicker CalendarIdentifier="calendarSystem"/>

@@ -12,6 +12,8 @@ public string GetAccessKey()
 ## -description
 Gets the access key for the element that is associated with the automation peer.
 
+
+
 ## -returns
 The access key.
 

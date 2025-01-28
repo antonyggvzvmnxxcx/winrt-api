@@ -12,6 +12,8 @@ public DependencyProperty MaxLengthProperty { get; }
 ## -description
 Identifies the **MaxLength** dependency property.
 
+
+
 ## -property-value
 The identifier for the **MaxLength** dependency property.
 

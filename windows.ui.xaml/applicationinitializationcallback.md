@@ -10,6 +10,8 @@ public delegate void ApplicationInitializationCallback(Windows.UI.Xaml.Applicati
 ## -description
 Represents the callback that should be invoked during the initialization sequence.
 
+
+
 ## -parameters
 ### -param p
 Parameters that convey information for custom startup initialization.

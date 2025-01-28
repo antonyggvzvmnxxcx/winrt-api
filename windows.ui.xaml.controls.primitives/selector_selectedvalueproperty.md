@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty SelectedValueProperty { get; }
 ## -description
 Gets the identifier for the [SelectedValue](selector_selectedvalue.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [SelectedValue](selector_selectedvalue.md) dependency property.
 

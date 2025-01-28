@@ -12,6 +12,8 @@ public void CompositionDrawingSurface.Resize(SizeInt32 sizePixels)
 ## -description
 Resizes the drawing surface to the specified size.
 
+
+
 ## -parameters
 
 ### -param sizePixels

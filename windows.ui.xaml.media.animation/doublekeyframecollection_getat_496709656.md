@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Animation.DoubleKeyFrame GetAt(System.UInt32 index)
 ## -description
 Returns the [DoubleKeyFrame](doublekeyframe.md) located at the specified index.
 
+
+
 ## -parameters
 ### -param index
 The integer index for the value to retrieve.

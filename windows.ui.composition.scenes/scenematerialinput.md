@@ -14,6 +14,8 @@ public class SceneMaterialInput : SceneObject, SceneObject
 
 Represents an input that influences a material.
 
+
+
 ## -remarks
 
 ## -see-also

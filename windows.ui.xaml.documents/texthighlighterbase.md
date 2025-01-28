@@ -13,6 +13,8 @@ public class TextHighlighterBase : DependencyObject, DependencyObject
 
 The base class for [TextHighlighter](texthighlighter.md).
 
+
+
 ## -remarks
 
 ## -see-also

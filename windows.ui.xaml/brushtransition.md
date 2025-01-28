@@ -13,6 +13,8 @@ public class BrushTransition
 ## -description
 Provides the animated transition behavior when an element's brush changes. Currently limited to changes between SolidColorBrush objects.
 
+
+
 ## -remarks
 
 ## -see-also

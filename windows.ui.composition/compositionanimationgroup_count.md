@@ -12,6 +12,8 @@ public int Count { get; }
 ## -description
 The number of animations in the group.
 
+
+
 ## -property-value
 The number of animations in the group.
 

@@ -12,6 +12,8 @@ public Windows.UI.Text.FormatEffect Superscript { get;  set; }
 ## -description
 Gets or sets whether characters are displayed as superscript.
 
+
+
 ## -property-value
 The superscript state.
 

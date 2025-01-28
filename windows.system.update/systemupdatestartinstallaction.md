@@ -10,6 +10,9 @@ public enum SystemUpdateStartInstallAction : int
 
 # Windows.System.Update.SystemUpdateStartInstallAction
 
+> [!IMPORTANT]
+> Only available for [Windows 10 IoT Core](https://learn.microsoft.com/windows/iot-core/windows-iot-core).
+
 ## -description
 
 ## -enum-fields
@@ -18,12 +21,6 @@ Download, and install.  Wait for interactive reboot to install or automatic rebo
 
 ### -field AllowReboot:1
 Download, and install.  If reboots are required reboot automatically as sson as they are required
-
-### -field AllowReboot:1
-
-
-### -field UpToReboot:0
-
 
 ## -remarks
 

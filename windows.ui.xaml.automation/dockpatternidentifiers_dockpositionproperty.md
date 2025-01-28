@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty DockPositionProperty { get;
 ## -description
 Identifies the [DockPosition](../windows.ui.xaml.automation.provider/idockprovider_dockposition.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

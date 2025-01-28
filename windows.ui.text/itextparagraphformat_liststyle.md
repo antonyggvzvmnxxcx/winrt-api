@@ -12,6 +12,8 @@ public Windows.UI.Text.MarkerStyle ListStyle { get;  set; }
 ## -description
 Gets or sets the style used to mark the item paragraphs in a list.
 
+
+
 ## -property-value
 The style used to mark the item paragraphs.
 

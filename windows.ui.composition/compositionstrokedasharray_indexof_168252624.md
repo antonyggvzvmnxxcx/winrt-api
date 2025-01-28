@@ -13,6 +13,8 @@ public bool CompositionStrokeDashArray.IndexOf(Single value, UInt32 index)
 
 Retrieves the index of the specified item.
 
+
+
 ## -parameters
 ### -param value
 

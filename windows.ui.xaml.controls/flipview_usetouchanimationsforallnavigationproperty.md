@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty UseTouchAnimationsForAllNavigationProp
 ## -description
 Identifies the [UseTouchAnimationsForAllNavigation](flipview_usetouchanimationsforallnavigation.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [UseTouchAnimationsForAllNavigation](flipview_usetouchanimationsforallnavigation.md) dependency property.
 

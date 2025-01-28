@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Documents.TextPointer ContentEnd { get; }
 ## -description
 Gets a [TextPointer](textpointer.md) that represents the end of the content in the element.
 
+
+
 ## -property-value
 A [TextPointer](textpointer.md) that represents the end of the content in the [TextElement](textelement.md).
 

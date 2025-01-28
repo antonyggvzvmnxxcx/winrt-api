@@ -12,6 +12,8 @@ public Windows.Foundation.IReference<Windows.Foundation.DateTime> NewDate { get;
 ## -description
 Gets the date that is currently selected in the [CalendarDatePicker](calendardatepicker.md).
 
+
+
 ## -property-value
 The date that is currently selected in the [CalendarDatePicker](calendardatepicker.md).
 

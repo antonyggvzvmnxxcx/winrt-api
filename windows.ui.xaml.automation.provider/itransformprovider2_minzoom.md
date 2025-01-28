@@ -12,6 +12,8 @@ public double MinZoom { get; }
 ## -description
 Gets the minimum zoom level of the element.
 
+
+
 ## -property-value
 The minimum zoom level, as a percentage.
 

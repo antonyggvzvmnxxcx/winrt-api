@@ -12,6 +12,8 @@ public Windows.UI.Text.FormatEffect Subscript { get;  set; }
 ## -description
 Gets or sets whether characters are displayed as subscript.
 
+
+
 ## -property-value
 The subscript state.
 

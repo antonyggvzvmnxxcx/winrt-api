@@ -12,6 +12,8 @@ public bool HasKey(System.String key)
 ## -description
 Returns a boolean indicating whether the collection contains the specified key.
 
+
+
 ## -parameters
 ### -param key
 The key to check for.

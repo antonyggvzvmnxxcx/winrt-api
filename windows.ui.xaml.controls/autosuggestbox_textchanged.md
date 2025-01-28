@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler TextChanged<Windows.UI.Xaml.Co
 ## -description
 Raised after the text content of the editable control component is updated.
 
+
+
 ## -xaml-syntax
 ```xaml
 <AutoSuggestBox TextChanged="eventhandler"/>

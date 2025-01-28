@@ -12,6 +12,8 @@ public float LeftInsetScale { get;  set; }
 ## -description
 Scale to be applied to LeftInset. Defaults to 1.0f.
 
+
+
 ## -property-value
 Scale to be applied to LeftInset. Defaults to 1.0f.
 

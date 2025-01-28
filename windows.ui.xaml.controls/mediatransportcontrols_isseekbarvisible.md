@@ -12,6 +12,7 @@ public bool IsSeekBarVisible { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the seek bar is shown.
 
+
 ## -xaml-syntax
 ```xaml
 

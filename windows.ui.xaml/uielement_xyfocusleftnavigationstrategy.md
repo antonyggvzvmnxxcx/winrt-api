@@ -13,6 +13,8 @@ public XYFocusNavigationStrategyMode XYFocusLeftNavigationStrategy { get;  set; 
 
 Gets or sets a value that specifies the strategy used to determine the target element of a left navigation.
 
+
+
 ## -xaml-syntax
 
 ```xaml

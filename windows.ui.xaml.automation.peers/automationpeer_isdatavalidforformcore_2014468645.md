@@ -12,6 +12,7 @@ virtual protected bool IsDataValidForFormCore()
 ## -description
 Provides the peer’s behavior when a Microsoft UI Automation client accesses [IsDataValidForForm](automationpeer_isdatavalidforform_1579318026.md) or an equivalent Microsoft UI Automation client API.
 
+
 ## -returns
 A Boolean value that indicates whether the entered or selected value is valid for the form rule associated with the automation element.
 

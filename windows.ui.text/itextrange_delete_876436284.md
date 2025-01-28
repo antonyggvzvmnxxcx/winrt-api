@@ -12,6 +12,8 @@ public int Delete(Windows.UI.Text.TextRangeUnit unit, System.Int32 count)
 ## -description
 Deletes text from the text range.
 
+
+
 ## -parameters
 ### -param unit
 The unit of text to delete.

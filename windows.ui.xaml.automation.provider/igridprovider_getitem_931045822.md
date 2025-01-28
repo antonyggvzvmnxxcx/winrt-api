@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Provider.IRawElementProviderSimple GetItem(Sys
 ## -description
 Retrieves the UI Automation provider for the specified cell.
 
+
+
 ## -parameters
 ### -param row
 The ordinal number of the row that contains the cell.

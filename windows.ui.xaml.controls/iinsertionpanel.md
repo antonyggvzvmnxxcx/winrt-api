@@ -12,6 +12,7 @@ public interface IInsertionPanel :
 ## -description
 Provides methods to let an item be inserted between other items in a drag-and-drop operation.
 
+
 ## -remarks
 
 ## -examples

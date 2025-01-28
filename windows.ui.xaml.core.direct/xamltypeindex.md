@@ -13,6 +13,8 @@ public enum XamlTypeIndex : int
 ## -description
 Enum that lists all the supported types in [XamlDirect](windows_ui_xaml_core_direct.md). 
 
+Equivalent **WinUI 2 API for UWP**: [Microsoft.UI.Xaml.Core.Direct.XamlTypeIndex](/windows/winui/api/microsoft.ui.xaml.core.direct.xamltypeindex) (for WinUI in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -enum-fields
 ### -field XamlUICommand:969
 The [XamlUICommand](../windows.ui.xaml.input/xamluicommand.md) type.
@@ -509,9 +511,6 @@ The [FontIconSource](../windows.ui.xaml.controls/fonticonsource.md) type.
 ### -field FontIcon:440
 The [FontIcon](../windows.ui.xaml.controls/fonticon.md) type.
 
-### -field FlyoutShowOptions:942
-The [FlyoutShowOptions](../windows.ui.xaml.controls.primitives/flyoutshowoptions.md) type.
-
 ### -field FlyoutPresenter:508
 The [FlyoutPresenter](../windows.ui.xaml.controls/flyoutpresenter.md) type.
 
@@ -768,7 +767,5 @@ The [AdaptiveTrigger](../windows.ui.xaml/adaptivetrigger.md) type.
 The [ThemeShadow](../windows.ui.xaml.media/ThemeShadow.md) type.
 
 ## -see-also
-* [XamlDirect](xamldirect.md)
-* [IXamlDirectObject](ixamldirectobject.md)
-* [XamlPropertyIndex](xamlpropertyindex.md)
-* [XamlEventIndex](xamleventindex.md)
+
+[XamlDirect](xamldirect.md), [IXamlDirectObject](ixamldirectobject.md), [XamlPropertyIndex](xamlpropertyindex.md), [XamlEventIndex](xamleventindex.md)

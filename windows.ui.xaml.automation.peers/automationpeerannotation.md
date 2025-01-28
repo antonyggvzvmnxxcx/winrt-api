@@ -12,6 +12,8 @@ public class AutomationPeerAnnotation : Windows.UI.Xaml.DependencyObject, Window
 ## -description
 Represents a single UI automation annotation.
 
+
+
 ## -remarks
 
 ## -examples

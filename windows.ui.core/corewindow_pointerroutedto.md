@@ -11,14 +11,12 @@ public event Windows.Foundation.TypedEventHandler PointerRoutedTo<Windows.UI.Cor
 
 ## -description
 
-Occurs on the process not currently receiving input, but designated to begin receiving input from another process.
+Occurs when captured pointer input previously being delivered to another object, transitions to being delivered to this object.
 
 ## -remarks
-
-This event is not fired on a [PointerPressed](corewindow_pointerpressed.md) event.
 
 ## -examples
 
 ## -see-also
 
-[Handle pointer input](https://docs.microsoft.com/windows/uwp/design/input/handle-pointer-input), [Relative mouse movement and CoreWindow](https://docs.microsoft.com/en-us/windows/uwp/gaming/relative-mouse-movement), [XAML user input events sample](https://go.microsoft.com/fwlink/p/?linkid=231524)
+[Handle pointer input](/windows/uwp/design/input/handle-pointer-input), [Relative mouse movement and CoreWindow](/windows/uwp/gaming/relative-mouse-movement), [XAML user input events sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Input%20XAML%20user%20input%20events%20sample)

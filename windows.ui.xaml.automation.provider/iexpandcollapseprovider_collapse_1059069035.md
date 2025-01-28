@@ -12,6 +12,8 @@ public void Collapse()
 ## -description
 Hides all nodes, controls, or content that are descendants of the control.
 
+
+
 ## -remarks
 
 ## -examples

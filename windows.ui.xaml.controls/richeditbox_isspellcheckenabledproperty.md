@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsSpellCheckEnabledProperty { get; }
 ## -description
 Identifies the [IsSpellCheckEnabled](richeditbox_isspellcheckenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsSpellCheckEnabled](richeditbox_isspellcheckenabled.md) dependency property.
 

@@ -12,6 +12,8 @@ public bool IsGrouping { get; }
 ## -description
 Gets a value that indicates whether the control is using grouping.
 
+
+
 ## -property-value
 **true** if a control is using grouping; otherwise, **false**.
 

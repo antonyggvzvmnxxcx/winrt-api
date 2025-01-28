@@ -12,6 +12,8 @@ public Windows.Foundation.DateTime NewDate { get; }
 ## -description
 Gets the date that was selected by the user.
 
+
+
 ## -property-value
 The date that was selected by the user.
 

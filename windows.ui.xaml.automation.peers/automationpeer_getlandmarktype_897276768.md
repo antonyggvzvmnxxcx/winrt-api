@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Peers.AutomationLandmarkType GetLandmarkType()
 ## -description
 Gets the landmark type for this automation peer.
 
+
+
 ## -returns
 The landmark type for this automation peer.
 

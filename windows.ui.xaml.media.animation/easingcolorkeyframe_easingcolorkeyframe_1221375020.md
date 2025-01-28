@@ -12,6 +12,7 @@ public EasingColorKeyFrame()
 ## -description
 Initializes a new instance of the [EasingColorKeyFrame](easingcolorkeyframe.md) class.
 
+
 ## -remarks
 
 ## -examples

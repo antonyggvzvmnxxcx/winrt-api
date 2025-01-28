@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty MaxWidthProperty { get; }
 ## -description
 Identifies the [MaxWidth](columndefinition_maxwidth.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [MaxWidth](columndefinition_maxwidth.md) dependency property.
 

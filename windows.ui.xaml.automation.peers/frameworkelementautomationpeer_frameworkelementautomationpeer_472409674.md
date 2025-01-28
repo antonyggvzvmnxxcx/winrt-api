@@ -12,6 +12,7 @@ public FrameworkElementAutomationPeer(Windows.UI.Xaml.FrameworkElement owner)
 ## -description
 Initializes a new instance of the [FrameworkElementAutomationPeer](frameworkelementautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The owner element to create for.

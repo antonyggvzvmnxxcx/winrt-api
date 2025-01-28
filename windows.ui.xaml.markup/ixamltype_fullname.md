@@ -12,6 +12,8 @@ public string FullName { get; }
 ## -description
 Gets the full class name of the underlying type.
 
+
+
 ## -property-value
 The full class name of the underlying type.
 

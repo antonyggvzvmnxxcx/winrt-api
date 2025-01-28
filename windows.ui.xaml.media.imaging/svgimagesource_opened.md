@@ -12,6 +12,8 @@ public event TypedEventHandler Opened<SvgImageSource, SvgImageSourceOpenedEventA
 ## -description
 Occurs when the SVG source is downloaded and decoded with no failure.
 
+
+
 ## -xaml-syntax
 ```xaml
 <SvgImageSource Opened="eventhandler"/>

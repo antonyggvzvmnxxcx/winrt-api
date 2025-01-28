@@ -14,6 +14,8 @@ public class SceneVisual : ContainerVisual, ContainerVisual
 
 Represents a container visual for the nodes of a 3D scene.
 
+
+
 ## -remarks
 
 ## -see-also

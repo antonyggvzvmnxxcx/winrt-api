@@ -12,6 +12,8 @@ public void ResumeRendering(Windows.UI.Xaml.UIElement target)
 ## -description
 Resumes rendering of the specified element.
 
+
+
 ## -parameters
 ### -param target
 The element for which to resume rendering.

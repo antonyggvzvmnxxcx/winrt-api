@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty RealTimePlaybackProperty { get; }
 ## -description
 Identifies the [RealTimePlayback](mediaelement_realtimeplayback.md) dependency property.
 
+
 ## -property-value
 The identifier for the [RealTimePlayback](mediaelement_realtimeplayback.md) dependency property.
 

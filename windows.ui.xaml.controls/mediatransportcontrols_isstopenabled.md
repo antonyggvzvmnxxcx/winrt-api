@@ -12,6 +12,7 @@ public bool IsStopEnabled { get;  set; }
 ## -description
 Gets or sets a value that indicates whether a user can stop the media playback.
 
+
 ## -xaml-syntax
 ```xaml
 

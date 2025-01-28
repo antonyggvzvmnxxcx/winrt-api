@@ -12,6 +12,7 @@ public event Windows.UI.Xaml.RoutedEventHandler MediaEnded
 ## -description
 Occurs when the [MediaElement](mediaelement.md) finishes playing audio or video.
 
+
 ## -xaml-syntax
 ```xaml
 <MediaElement MediaEnded="eventhandler" ../>

@@ -12,6 +12,8 @@ public object CommandParameter { get;  set; }
 ## -description
 Gets or sets the parameter to pass to the [Command](buttonbase_command.md) property.
 
+
+
 ## -xaml-syntax
 ```xaml
 <button>
@@ -19,9 +21,7 @@ Gets or sets the parameter to pass to the [Command](buttonbase_command.md) prope
     object
   </button.CommandParameter>
 </button>
-```
-
-```xaml
+- or -
 <button CommandParameter="objectAsString"/>
 ```
 

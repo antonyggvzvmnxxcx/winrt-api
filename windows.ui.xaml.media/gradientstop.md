@@ -12,6 +12,8 @@ public class GradientStop : Windows.UI.Xaml.DependencyObject, Windows.UI.Xaml.Me
 ## -description
 Describes the location and color of a transition point in a gradient.
 
+
+
 ## -xaml-syntax
 ```xaml
 <GradientStop .../>

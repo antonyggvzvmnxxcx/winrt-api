@@ -12,6 +12,8 @@ public int BackStackDepth { get; }
 ## -description
 Gets the number of entries in the navigation back stack.
 
+
+
 ## -property-value
 The number of entries in the navigation back stack.
 

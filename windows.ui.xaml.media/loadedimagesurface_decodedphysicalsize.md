@@ -12,6 +12,8 @@ public Size DecodedPhysicalSize { get; }
 ## -description
 Gets the size of the decoded image in physical pixels. 
 
+
+
 ## -property-value
 The size of the decoded image in physical pixels.
 

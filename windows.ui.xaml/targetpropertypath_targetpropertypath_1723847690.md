@@ -12,6 +12,7 @@ public TargetPropertyPath(Windows.UI.Xaml.DependencyProperty targetProperty)
 ## -description
 Initializes a new instance of the [TargetPropertyPath](targetpropertypath.md) class with the specified target property.
 
+
 ## -parameters
 ### -param targetProperty
 The target property.

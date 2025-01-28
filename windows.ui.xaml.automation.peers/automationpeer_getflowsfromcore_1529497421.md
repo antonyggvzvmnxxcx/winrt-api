@@ -12,6 +12,8 @@ virtual protected Windows.Foundation.Collections.IIterable<Windows.UI.Xaml.Autom
 ## -description
 Provides the peer's behavior when a Microsoft UI Automation client calls [GetFlowsFrom](../windows.ui.xaml.automation/automationproperties_getflowsfrom_1915156123.md) or an equivalent Microsoft UI Automation client API.
 
+
+
 ## -returns
 A list of automation elements that suggests the reading order before the current automation element.
 

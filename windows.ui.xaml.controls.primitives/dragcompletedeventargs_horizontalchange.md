@@ -12,6 +12,8 @@ public double HorizontalChange { get; }
 ## -description
 Gets the horizontal distance between the current mouse position and the thumb coordinates.
 
+
+
 ## -property-value
 The horizontal distance between the current mouse position and the thumb coordinates.
 

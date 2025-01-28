@@ -12,6 +12,8 @@ public DependencyProperty SelectionHighlightColorWhenNotFocusedProperty { get; }
 ## -description
 Identifies the **SelectionHighlightColorWhenNotFocused** dependency property.
 
+
+
 ## -property-value
 The identifier for the **SelectionHighlightColorWhenNotFocused** dependency property.
 

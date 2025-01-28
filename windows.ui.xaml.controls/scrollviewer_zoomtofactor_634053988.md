@@ -15,6 +15,8 @@ public void ZoomToFactor(System.Single factor)
 
 Sets the effective value of [ZoomFactor](scrollviewer_zoomfactor.md).
 
+
+
 ## -parameters
 ### -param factor
 The zoom factor to set. The factors are based on a norm of 1.0, which represents no zoom applied. The values you can set are also influenced by current values for [MinZoomFactor](scrollviewer_minzoomfactor.md) and [MaxZoomFactor](scrollviewer_maxzoomfactor.md).

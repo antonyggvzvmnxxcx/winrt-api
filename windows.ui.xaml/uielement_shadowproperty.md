@@ -14,6 +14,8 @@ public DependencyProperty ShadowProperty { get; }
 
 Identifies the [Shadow](uielement_shadow.md) dependency property.
 
+
+
 ## -property-value
 
 The identifier for the [Shadow](uielement_shadow.md) dependency property.

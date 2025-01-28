@@ -12,6 +12,7 @@ public Windows.UI.Xaml.Media.MediaCanPlayResponse CanPlayType(System.String type
 ## -description
 Returns an enumeration value that describes the likelihood that the current [MediaElement](mediaelement.md) and its client configuration can play that media source.
 
+
 ## -parameters
 ### -param type
 A string that describes the desired type as a MIME string.

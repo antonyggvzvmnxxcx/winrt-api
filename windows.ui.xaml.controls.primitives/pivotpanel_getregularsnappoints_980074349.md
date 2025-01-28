@@ -12,6 +12,8 @@ public float GetRegularSnapPoints(Windows.UI.Xaml.Controls.Orientation orientati
 ## -description
 This property is reserved for internal use and is not intended to be used in your code.
 
+
+
 ## -parameters
 ### -param orientation
 Reserved.

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyObject GetParent(Windows.UI.Xaml.DependencyObje
 ## -description
 Returns an object's parent object in the visual tree.
 
+
+
 ## -parameters
 ### -param reference
 The object for which to get the parent object.

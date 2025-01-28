@@ -12,6 +12,8 @@ public Windows.UI.Composition.LayerVisual CreateLayerVisual()
 ## -description
 Creates an instance of [LayerVisual](layervisual.md).
 
+
+
 ## -returns
 Returns the created [LayerVisual](layervisual.md) object.
 

@@ -13,6 +13,8 @@ public event TypedEventHandler ActualThemeChanged<FrameworkElement,  object>
 
 Occurs when the ActualTheme property value has changed.
 
+
+
 ## -xaml-syntax
 
 ```xaml

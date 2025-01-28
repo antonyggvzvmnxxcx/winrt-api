@@ -12,9 +12,11 @@ public Windows.UI.Xaml.Documents.InlineCollection Inlines { get; }
 ## -description
 Gets the collection of inline text elements within a [TextBlock](textblock.md).
 
+
+
 ## -xaml-syntax
 ```xaml
-<TextBlock
+<TextBlock>
   oneOrMoreInlineElements
 </TextBlock>
 ```

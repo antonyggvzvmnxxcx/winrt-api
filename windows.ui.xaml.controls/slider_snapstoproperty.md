@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty SnapsToProperty { get; }
 ## -description
 Identifies the [SnapsTo](slider_snapsto.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [SnapsTo](slider_snapsto.md) dependency property.
 

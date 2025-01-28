@@ -14,6 +14,8 @@ public int SelectionLength { get; }
 
 Gets the length of the text selection.
 
+
+
 ## -property-value
 
 The length of the text selection.

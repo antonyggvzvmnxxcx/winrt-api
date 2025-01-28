@@ -12,6 +12,8 @@ public object Navigate(Windows.UI.Xaml.Automation.Peers.AutomationNavigationDire
 ## -description
 Gets the element in the specified direction within the UI automation tree.
 
+
+
 ## -parameters
 ### -param direction
 The specified direction.

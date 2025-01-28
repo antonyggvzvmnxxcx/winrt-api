@@ -12,6 +12,8 @@ public int CacheSize { get;  set; }
 ## -description
 Gets or sets the number of pages in the navigation history that can be cached for the frame.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Frame CacheSize="int" />

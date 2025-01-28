@@ -13,6 +13,8 @@ public Windows.UI.Color MediumSeaGreen { get; }
 
 Gets the system-defined color that has an ARGB value of #FF3CB371.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FF3CB371.

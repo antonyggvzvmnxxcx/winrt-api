@@ -14,6 +14,8 @@ public SceneModelTransform Transform { get; }
 
 Gets the transform that describes the position, rotation, and scale of this node.
 
+
+
 ## -property-value
 
 The transform that describes the position, rotation, and scale of this node.

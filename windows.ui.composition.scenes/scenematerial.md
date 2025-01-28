@@ -14,6 +14,8 @@ public class SceneMaterial : SceneObject, SceneObject
 
 Represents an asset that describes how a surface is rendered.
 
+
+
 ## -remarks
 
 ## -see-also

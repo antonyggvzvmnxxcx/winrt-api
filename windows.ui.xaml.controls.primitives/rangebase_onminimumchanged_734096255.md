@@ -12,6 +12,8 @@ virtual protected void OnMinimumChanged(System.Double oldMinimum, System.Double 
 ## -description
 Called when the [Minimum](rangebase_minimum.md) property changes.
 
+
+
 ## -parameters
 ### -param oldMinimum
 Old value of the [Minimum](rangebase_minimum.md) property.

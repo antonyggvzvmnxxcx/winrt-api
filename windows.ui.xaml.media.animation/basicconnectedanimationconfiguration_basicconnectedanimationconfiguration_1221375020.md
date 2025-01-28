@@ -13,6 +13,7 @@ public BasicConnectedAnimationConfiguration.BasicConnectedAnimationConfiguration
 ## -description
 Initializes a new instance of the BasicConnectedAnimationConfiguration class.
 
+
 ## -remarks
 
 ## -see-also

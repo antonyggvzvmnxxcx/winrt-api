@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty CanDragProperty { get; }
 ## -description
 Identifies the [CanDrag](uielement_candrag.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [CanDrag](uielement_candrag.md) dependency property.
 

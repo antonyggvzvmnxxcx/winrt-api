@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty YearFormatProperty { get; }
 ## -description
 Gets the identifier for the [YearFormat](datepicker_yearformat.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [YearFormat](datepicker_yearformat.md) dependency property.
 

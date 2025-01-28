@@ -12,6 +12,8 @@ public event Windows.Foundation.EventHandler Closed<object>
 ## -description
 Occurs when the flyout is hidden.
 
+
+
 ## -xaml-syntax
 ```xaml
 <flyout Closed="eventhandler"/>

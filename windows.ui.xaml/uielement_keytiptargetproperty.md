@@ -12,6 +12,8 @@ public DependencyProperty KeyTipTargetProperty { get; }
 ## -description
 Identifies the [KeyTipTarget](uielement_keytiptarget.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [KeyTipTarget](uielement_keytiptarget.md) dependency property.
 

@@ -12,6 +12,8 @@ abstract public event Windows.Foundation.EventHandler VerticalSnapPointsChanged<
 ## -description
 Occurs when the measurements for vertical snap points change.
 
+
+
 ## -remarks
 
 ## -examples

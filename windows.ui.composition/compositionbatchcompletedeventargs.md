@@ -12,6 +12,8 @@ public class CompositionBatchCompletedEventArgs : Windows.UI.Composition.Composi
 ## -description
 Arguments for the [CompositionCommitBatch.Completed](compositioncommitbatch_completed.md) or [CompositionScopedBatch.Completed](compositionscopedbatch_completed.md) events.
 
+
+
 ## -remarks
 
 ## -examples
@@ -60,4 +62,4 @@ Arguments for the [CompositionCommitBatch.Completed](compositioncommitbatch_comp
 
 
 ## -see-also
-[Composition Animations Overview](https://go.microsoft.com/fwlink/p/?LinkID=692060), [CompositionObject](compositionobject.md), [IClosable](../windows.foundation/iclosable.md)
+[Composition Animations Overview](/windows/uwp/composition/composition-animation), [CompositionObject](compositionobject.md), [IClosable](../windows.foundation/iclosable.md)

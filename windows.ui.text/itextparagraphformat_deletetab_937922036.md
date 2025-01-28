@@ -12,6 +12,8 @@ public void DeleteTab(System.Single position)
 ## -description
 Deletes the tab at the specified position.
 
+
+
 ## -parameters
 ### -param position
 The position of the tab to delete, in floating-point points.

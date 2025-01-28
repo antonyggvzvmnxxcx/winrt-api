@@ -12,13 +12,12 @@ public double ReorderHintOffset { get;  set; }
 ## -description
 Gets or sets the amount that the reorder hint is offset. This property is ignored for a Windows 10 app.
 
+
+
 ## -xaml-syntax
 ```xaml
 <listViewItemPresenterReorderHintOffset="themeResourceReference"/>
-
-```
-
-```xaml
+- or -
 <listViewItemPresenter ReorderHintOffset="double"/>
 ```
 

@@ -14,6 +14,8 @@ public float MaxBlurRadius { get;  set; }
 
 Gets or sets the maximum blur radius of the shadow.
 
+
+
 ## -property-value
 
 The maximum blur radius of the shadow.

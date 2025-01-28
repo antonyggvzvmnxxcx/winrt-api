@@ -12,6 +12,7 @@ public bool IsContentElement()
 ## -description
 Gets a value that indicates whether the element that is associated with this automation peer contains data that is presented to the user.
 
+
 ## -returns
 **true** if the element is a content element; otherwise, **false**.
 

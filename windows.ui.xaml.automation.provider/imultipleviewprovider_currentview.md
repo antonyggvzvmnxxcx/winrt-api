@@ -12,6 +12,8 @@ public int CurrentView { get; }
 ## -description
 Gets the current control-specific view.
 
+
+
 ## -property-value
 The view identifier for the current view of the UI Automation element.
 

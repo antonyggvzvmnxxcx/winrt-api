@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty CompositionScaleXProperty { get; }
 ## -description
 Identifies the [CompositionScaleX](swapchainpanel_compositionscalex.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [CompositionScaleX](swapchainpanel_compositionscalex.md) dependency property.
 

@@ -12,6 +12,7 @@ public Ellipse()
 ## -description
 Initializes a new instance of the [Ellipse](ellipse.md) class.
 
+
 ## -remarks
 
 ## -examples

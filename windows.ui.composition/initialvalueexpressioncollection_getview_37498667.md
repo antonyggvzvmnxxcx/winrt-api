@@ -13,6 +13,8 @@ public IMapView<string, string> InitialValueExpressionCollection.GetView()
 
 Gets an immutable view into the collection.
 
+
+
 ## -returns
 
 An object representing the immutable collection view.

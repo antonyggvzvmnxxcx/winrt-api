@@ -12,6 +12,8 @@ public Windows.UI.Core.CoreDispatcher Dispatcher { get; }
 ## -description
 Gets the [CoreDispatcher](../windows.ui.core/coredispatcher.md) object for the [Window](window.md), which is generally the [CoreDispatcher](../windows.ui.core/coredispatcher.md) for the UI thread.
 
+
+
 ## -property-value
 An object that references the UI thread for the [Window](window.md).
 

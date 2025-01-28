@@ -13,6 +13,7 @@ public Thickness XamlDirect.GetThicknessProperty(IXamlDirectObject xamlDirectObj
 ## -description
 Gets the value of a [Thickness](../windows.ui.xaml/thickness.md) property for a specific [IXamlDirectObject](ixamldirectobject.md).
 
+
 ## -parameters
 ### -param xamlDirectObject
 A reference to the specific [IXamlDirectObject](ixamldirectobject.md).

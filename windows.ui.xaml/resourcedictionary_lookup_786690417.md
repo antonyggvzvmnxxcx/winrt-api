@@ -12,6 +12,8 @@ public object Lookup(System.Object key)
 ## -description
 Returns the value from the requested key, if an entry with that key exists.
 
+
+
 ## -parameters
 ### -param key
 The requested key.
@@ -21,9 +23,9 @@ The value, if an item with the specified key exists. Use the **HasKey** method t
 
 ## -remarks
 > [!NOTE]
-> The equivalent Microsoft .NET  API is the [Item](resourcedictionary_item.md) indexer.
+> The equivalent Microsoft .NET API is the [Item](/dotnet/api/system.windows.resourcedictionary.item) indexer.
 
 ## -examples
 
 ## -see-also
-[Item](XREF:TODO:P:System.Collections.Generic.IDictionary`2.Item(`0)), [ResourceDictionary and XAML resource references](https://docs.microsoft.com/windows/uwp/controls-and-patterns/resourcedictionary-and-xaml-resource-references)
+@P:System.Collections.Generic.IDictionary`2.Item(`0), [ResourceDictionary and XAML resource references](/windows/apps/design/style/xaml-resource-dictionary)

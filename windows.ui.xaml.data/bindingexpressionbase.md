@@ -12,6 +12,8 @@ public class BindingExpressionBase : Windows.UI.Xaml.Data.IBindingExpressionBase
 ## -description
 Represents the base class for [BindingExpression](bindingexpression.md).
 
+
+
 ## -remarks
 
 ## -examples

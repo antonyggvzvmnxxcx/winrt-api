@@ -12,6 +12,8 @@ public double CenterZ { get;  set; }
 ## -description
 Gets the z-coordinate of the center point in pixels for all transforms specified by the [CompositeTransform3D](compositetransform3d.md).
 
+
+
 ## -property-value
 The z-coordinate of the center point for all transforms specified by the [CompositeTransform3D](compositetransform3d.md). The default value is 0.
 

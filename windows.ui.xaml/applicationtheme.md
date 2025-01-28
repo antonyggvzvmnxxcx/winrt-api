@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.ApplicationTheme : int
 ## -description
 Declares the theme preference for an app.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object property="enumMemberName"/> 

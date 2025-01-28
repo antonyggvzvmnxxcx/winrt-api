@@ -12,6 +12,8 @@ public int SelectedIndex { get;  set; }
 ## -description
 Gets or sets the zero-based index of the currently selected item in the [Pivot](pivot.md).
 
+
+
 ## -property-value
 The zero-based index of the currently selected item.
 

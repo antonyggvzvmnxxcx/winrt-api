@@ -14,6 +14,8 @@ public bool Cancel { get;  set; }
 
 Gets or sets a value that indicates whether the selection operation should be canceled.
 
+
+
 ## -property-value
 
 **true** to cancel the selection operation; otherwise, **false**. The default is **false**.

@@ -12,6 +12,7 @@ public DrillInNavigationTransitionInfo()
 ## -description
 Initializes a new instance of the [DrillInNavigationTransitionInfo](drillinnavigationtransitioninfo.md) class.
 
+
 ## -remarks
 
 ## -examples

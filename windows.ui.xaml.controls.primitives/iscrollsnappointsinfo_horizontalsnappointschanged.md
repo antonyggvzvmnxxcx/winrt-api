@@ -12,6 +12,8 @@ abstract public event Windows.Foundation.EventHandler HorizontalSnapPointsChange
 ## -description
 Occurs when the measurements for horizontal snap points change.
 
+
+
 ## -remarks
 
 ## -examples

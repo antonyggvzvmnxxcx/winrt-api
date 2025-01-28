@@ -16,13 +16,13 @@ Gets a game save provider for the specified user.
 ## -parameters
 ### -param user
 
-Type: [User](windows.system.user)
+Type: [User](../windows.system/user.md)
 
 User who the game saves are for.
 
 ### -param serviceConfigId
 
-Type: **String** \[JavaScript\] | [System.String](https://docs.microsoft.com/dotnet/api/system.string?redirectedfrom=MSDN) \[.NET\] | [Platform::String](https://docs.microsoft.com/cpp/cppcx/platform-string-class) \[C++\]
+Type: **String** \[JavaScript\] | [System.String](/dotnet/api/system.string?view=dotnet-uwp-10.0&preserve-view=true) \[.NET\] | [Platform::String](/cpp/cppcx/platform-string-class) \[C++\]
 
 The service configuration ID (SCID) used by your game.
 

@@ -10,10 +10,12 @@ public class InputPane : Windows.UI.ViewManagement.IInputPane, Windows.UI.ViewMa
 # Windows.UI.ViewManagement.InputPane
 
 ## -description
+
 Enables an app to receive notifications when the docked touch keyboard, or Soft Input Panel (SIP), is about to be displayed or hidden, and to determine which portion of the application's window is obscured by the input pane.
 
 > [!NOTE]
-> The InputPane APIs provide accurate occlusion information for a docked panel only. For Windows 10 Creators Fall Update and newer, we reccomend using the following APIs to handle occlusion by docked, undocked, moveable, and transitory input panes such as Soft Input Panels (SIP), Input Method Editor (IME) candidate windows, floating toolbars, and so on. 
+> The InputPane APIs provide accurate occlusion information for a docked panel only. For Windows 10 Creators Fall Update and newer, we reccomend using the following APIs to handle occlusion by docked, undocked, moveable, and transitory input panes such as Soft Input Panels (SIP), Input Method Editor (IME) candidate windows, floating toolbars, and so on.
+>
 > - [CoreInputView](../windows.ui.viewmanagement.core/coreinputview.md)
 > - [CoreInputViewOcclusion](../windows.ui.viewmanagement.core/coreinputviewocclusion.md)
 > - [CoreInputViewOcclusionKind](../windows.ui.viewmanagement.core/coreinputviewocclusionkind.md)
@@ -24,15 +26,16 @@ The input pane appears when the user performs an action that requires them to en
 
 In some cases, overlay UI such as an InputPane is not fully supported. This includes:
 
-+ apps in full-screen mode, like [games](https://docs.microsoft.com/windows/uwp/gaming/index).
-+ Windows Holographic apps in [holographic view](https://developer.microsoft.com/mixed-reality#app_views).
+- apps in full-screen mode, like [games](/windows/uwp/gaming/index).
+- Windows Holographic apps in [holographic view](https://developer.microsoft.com/mixed-reality#app_views).
 
 Call [GetForCurrentView](inputpane_getforcurrentview_1363600702.md) to get an InputPane object.
 
 After you register to receive input pane notifications, the system calls your event delegate whenever the input pane is shown or hidden for the window that was visible when you called the [GetForCurrentView](inputpane_getforcurrentview_1363600702.md) method.
 
+<!-- confirmed -->
 > [!NOTE]
-> This class is not agile, which means that you need to consider its threading model and marshaling behavior. For more info, see [Threading and Marshaling (C++/CX)](https://go.microsoft.com/fwlink/p/?linkid=258275).
+> This class is not agile, which means that you need to consider its threading model and marshaling behavior. For more info, see [Threading and Marshaling (C++/CX)](/cpp/cppcx/threading-and-marshaling-c-cx).
 
 ### Version history
 
@@ -43,4 +46,4 @@ After you register to receive input pane notifications, the system calls your ev
 ## -examples
 
 ## -see-also
-[Respond to the presence of the touch keyboard](https://docs.microsoft.com/windows/uwp/design/input/respond-to-the-presence-of-the-touch-keyboard)
+[Respond to the presence of the touch keyboard](/windows/uwp/design/input/respond-to-the-presence-of-the-touch-keyboard)

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty MinWidthProperty { get; }
 ## -description
 Identifies the [MinWidth](columndefinition_minwidth.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [MinWidth](columndefinition_minwidth.md) dependency property.
 

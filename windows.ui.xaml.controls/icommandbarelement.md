@@ -12,6 +12,7 @@ public interface ICommandBarElement :
 ## -description
 Defines the compact view for command bar elements.
 
+
 ## -remarks
 
 ## -examples

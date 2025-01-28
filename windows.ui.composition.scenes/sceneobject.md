@@ -14,6 +14,8 @@ public class SceneObject : CompositionObject, CompositionObject
 
 The base class for objects that make up a 3D scene.
 
+
+
 ## -remarks
 
 ## -see-also

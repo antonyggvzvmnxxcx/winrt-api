@@ -12,6 +12,8 @@ public int ColumnCount { get; }
 ## -description
 Gets the total number of columns in a grid.
 
+
+
 ## -property-value
 The total number of columns in a grid.
 

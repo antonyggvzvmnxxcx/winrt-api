@@ -12,6 +12,7 @@ public Slider()
 ## -description
 Initializes a new instance of the [Slider](slider.md) class.
 
+
 ## -remarks
 
 ## -examples

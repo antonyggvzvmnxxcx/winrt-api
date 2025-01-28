@@ -12,6 +12,7 @@ public bool IsFastRewindEnabled { get;  set; }
 ## -description
 Gets or sets a value that indicates whether a user can rewind the media.
 
+
 ## -xaml-syntax
 ```xaml
 

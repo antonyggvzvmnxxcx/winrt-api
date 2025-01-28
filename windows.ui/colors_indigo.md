@@ -13,6 +13,8 @@ public Windows.UI.Color Indigo { get; }
 
 Gets the system-defined color that has an ARGB value of #FF4B0082.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FF4B0082.

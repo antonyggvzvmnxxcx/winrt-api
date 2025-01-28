@@ -12,6 +12,7 @@ public PivotPanel()
 ## -description
 Initializes a new instance of the [PivotPanel](pivotpanel.md) class.
 
+
 ## -remarks
 
 ## -examples

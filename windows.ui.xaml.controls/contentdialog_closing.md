@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler Closing<Windows.UI.Xaml.Contro
 ## -description
 Occurs after the dialog starts to close, but before it is closed and before the [Closed](contentdialog_closed.md) event occurs.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentDialog Closing="eventhandler"/>

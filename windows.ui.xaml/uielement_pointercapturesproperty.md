@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty PointerCapturesProperty { get; }
 ## -description
 Identifies the [PointerCaptures](uielement_pointercaptures.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [PointerCaptures](uielement_pointercaptures.md) dependency property.
 

@@ -12,6 +12,8 @@ public double TranslateY { get;  set; }
 ## -description
 Gets or sets the distance to translate along the y-axis in pixels.
 
+
+
 ## -property-value
 The distance to translate (move) an object along the y-axis, in pixels. The default value is 0.
 

@@ -13,6 +13,7 @@ public void XamlDirect.SetInt32Property(IXamlDirectObject xamlDirectObject, Xaml
 ## -description
 Sets the value of an _Int32_ property for a specific [IXamlDirectObject](ixamldirectobject.md).
 
+
 ## -parameters
 ### -param xamlDirectObject
 A reference to the specific [IXamlDirectObject](ixamldirectobject.md).

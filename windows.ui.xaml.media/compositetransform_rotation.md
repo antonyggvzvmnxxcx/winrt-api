@@ -12,6 +12,8 @@ public double Rotation { get;  set; }
 ## -description
 Gets or sets the angle, in degrees, of clockwise rotation.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CompositeTransform Rotation="double"/>

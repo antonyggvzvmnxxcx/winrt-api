@@ -12,6 +12,8 @@ public class LineGeometry : Windows.UI.Xaml.Media.Geometry, Windows.UI.Xaml.Medi
 ## -description
 Represents the geometry of a line.
 
+
+
 ## -xaml-syntax
 ```xaml
 <LineGeometry .../>

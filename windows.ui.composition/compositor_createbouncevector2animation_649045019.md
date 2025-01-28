@@ -13,6 +13,8 @@ public BounceVector2NaturalMotionAnimation Compositor.CreateBounceVector2Animati
 
 Creates an instance of [BounceVector2NaturalMotionAnimation](bouncevector2naturalmotionanimation.md).
 
+
+
 ## -returns
 
 The created [BounceVector2NaturalMotionAnimation](bouncevector2naturalmotionanimation.md) object.

@@ -12,6 +12,7 @@ public ToggleButtonAutomationPeer(Windows.UI.Xaml.Controls.Primitives.ToggleButt
 ## -description
 Initializes a new instance of the [ToggleButtonAutomationPeer](togglebuttonautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [ToggleButton](../windows.ui.xaml.controls.primitives/togglebutton.md) to create a peer for.

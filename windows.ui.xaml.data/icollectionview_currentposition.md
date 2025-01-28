@@ -12,6 +12,8 @@ public int CurrentPosition { get; }
 ## -description
 Gets the ordinal position of the [CurrentItem](icollectionview_currentitem.md) within the view.
 
+
+
 ## -property-value
 The ordinal position of the [CurrentItem](icollectionview_currentitem.md) within the view.
 

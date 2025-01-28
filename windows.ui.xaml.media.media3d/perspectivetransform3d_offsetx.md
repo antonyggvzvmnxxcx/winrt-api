@@ -12,6 +12,8 @@ public double OffsetX { get;  set; }
 ## -description
 Gets or sets the x-offset in pixels for the perspective's origin from the center of the element.
 
+
+
 ## -property-value
 The x-offset of the perspective's origin from the center of the element. This distance is measured in pixels and the default value is 0.
 

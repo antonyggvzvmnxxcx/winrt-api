@@ -12,6 +12,8 @@ public string OpenedTargetName { get;  set; }
 ## -description
 Gets or sets the identifying name of the UI element that will be clipped.
 
+
+
 ## -xaml-syntax
 ```xaml
 <SplitCloseThemeAnimation OpenedTargetName="nameString" />

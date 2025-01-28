@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsTapEnabledProperty { get; }
 ## -description
 Identifies the [IsTapEnabled](uielement_istapenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsTapEnabled](uielement_istapenabled.md) dependency property.
 

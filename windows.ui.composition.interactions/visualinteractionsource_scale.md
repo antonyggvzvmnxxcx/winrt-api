@@ -12,6 +12,8 @@ public float Scale { get; }
 ## -description
 The total percentage-difference in scale since the start of the interaction. Multiplicative. Defaults to 1. Readable only via expression/animation.
 
+
+
 ## -property-value
 The scale of the interaction source.
 

@@ -12,6 +12,8 @@ public bool ProcessBinding(System.UInt32 phase)
 ## -description
 Provides phased rendering of bound data in a data template.
 
+
+
 ## -parameters
 ### -param phase
 Gets the number of times the method has been called.

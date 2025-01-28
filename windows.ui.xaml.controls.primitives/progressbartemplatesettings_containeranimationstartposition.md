@@ -12,6 +12,7 @@ public double ContainerAnimationStartPosition { get; }
 ## -description
 Gets the "From" point of the container animation that animates the [ProgressBar](../windows.ui.xaml.controls/progressbar.md).
 
+
 ## -property-value
 A double that represents the orientation-specific x- or y-value that is the"From" point of the animation.
 

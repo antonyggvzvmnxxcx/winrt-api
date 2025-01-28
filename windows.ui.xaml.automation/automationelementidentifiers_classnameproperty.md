@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty ClassNameProperty { get; }
 ## -description
 Identifies the class name automation property. The class name property value is returned by the [GetClassName](../windows.ui.xaml.automation.peers/automationpeer_getclassname_614238974.md) method.
 
+
+
 ## -property-value
 The automation property identifier.
 

@@ -14,6 +14,8 @@ public SceneMeshMaterialAttributeMap UVMappings { get; }
 
 Gets the UV mappings for the material to the mesh.
 
+
+
 ## -property-value
 
 The UV mappings for the material to the mesh.

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.FontFamily FontFamily { get;  set; }
 ## -description
 Gets or sets the preferred top-level font family for the text content in this element.
 
+
+
 ## -xaml-syntax
 ```xaml
 <RichTextBlock FontFamily="fontFamily" />

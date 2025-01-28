@@ -12,6 +12,7 @@ public bool IsSeekEnabled { get;  set; }
 ## -description
 Gets or sets a value that indicates whether a user can use the seek bar to find a location in the media.
 
+
 ## -xaml-syntax
 ```xaml
 

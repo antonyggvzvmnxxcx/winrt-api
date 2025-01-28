@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IVector<object> AddedItems { get; }
 ## -description
 Gets the collection of items that were selected by the user.
 
+
+
 ## -property-value
 The collection of items that were selected by the user.
 

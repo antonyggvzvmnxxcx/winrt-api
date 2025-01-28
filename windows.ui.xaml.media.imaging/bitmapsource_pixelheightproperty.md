@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty PixelHeightProperty { get; }
 ## -description
 Identifies the [PixelHeight](bitmapsource_pixelheight.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [PixelHeight](bitmapsource_pixelheight.md) dependency property.
 

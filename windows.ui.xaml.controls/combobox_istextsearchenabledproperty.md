@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsTextSearchEnabledProperty { get; }
 ## -description
 Identifies the [IsTextSearchEnabled](combobox_istextsearchenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsTextSearchEnabled](combobox_istextsearchenabled.md) dependency property.
 

@@ -12,6 +12,8 @@ public object DataItem { get; }
 ## -description
 Gets the binding source object that this [BindingExpression](bindingexpression.md) uses.
 
+
+
 ## -property-value
 The binding source object that this [BindingExpression](bindingexpression.md) uses.
 

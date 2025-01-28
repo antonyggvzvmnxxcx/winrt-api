@@ -12,6 +12,8 @@ public void RaiseTextEditTextChangedEvent(Windows.UI.Xaml.Automation.AutomationT
 ## -description
 Raises an event to notify the Microsoft UI Automation core that a text control has programmatically changed text.
 
+
+
 ## -parameters
 ### -param automationTextEditChangeType
 The type of change that was made to the text.

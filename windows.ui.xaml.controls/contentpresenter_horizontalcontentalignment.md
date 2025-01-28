@@ -12,6 +12,8 @@ public Windows.UI.Xaml.HorizontalAlignment HorizontalContentAlignment { get;  se
 ## -description
 Gets or sets the horizontal alignment of the content.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentPresenter  HorizontalContentAlignment="horizontalAlignmentMemberName"/>

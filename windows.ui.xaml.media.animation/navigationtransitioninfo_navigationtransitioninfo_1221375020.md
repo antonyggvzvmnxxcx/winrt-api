@@ -12,6 +12,7 @@ protected NavigationTransitionInfo()
 ## -description
 Initializes a new instance of the [NavigationTransitionInfo](navigationtransitioninfo.md) class.
 
+
 ## -remarks
 
 ## -examples

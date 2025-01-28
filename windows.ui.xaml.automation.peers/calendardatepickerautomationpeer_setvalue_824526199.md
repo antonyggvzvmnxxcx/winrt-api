@@ -12,6 +12,8 @@ public void CalendarDatePickerAutomationPeer.SetValue(String value)
 ## -description
 Sets the value of a control, as an implementation of the [IValueProvider](../windows.ui.xaml.automation.provider/ivalueprovider.md) pattern.
 
+
+
 ## -parameters
 ### -param value
 The value to set.

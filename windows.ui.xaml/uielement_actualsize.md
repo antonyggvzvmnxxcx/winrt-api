@@ -14,6 +14,8 @@ public Vector2 ActualSize { get; }
 
 Gets the size that this UIElement computed during the arrange pass of the layout process.  
 
+
+
 ## -property-value
 
 The size that this UIElement computed during the arrange pass of the layout process.

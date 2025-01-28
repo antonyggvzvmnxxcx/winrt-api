@@ -13,6 +13,8 @@ public Windows.UI.Color SeaShell { get; }
 
 Gets the system-defined color that has an ARGB value of #FFFFF5EE.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFFFF5EE.

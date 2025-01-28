@@ -12,6 +12,7 @@ public MenuFlyoutSeparator()
 ## -description
 Initializes a new instance of the [MenuFlyoutSeparator](menuflyoutseparator.md) class.
 
+
 ## -remarks
 
 ## -examples

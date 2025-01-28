@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty FontStyleProperty { get; }
 ## -description
 Gets the identifier for the [FontStyle](fonticon_fontstyle.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [FontStyle](fonticon_fontstyle.md) dependency property.
 

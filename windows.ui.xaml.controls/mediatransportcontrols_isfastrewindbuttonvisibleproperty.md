@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty IsFastRewindButtonVisibleProperty { ge
 ## -description
 Identifies the [IsFastRewindButtonVisible](mediatransportcontrols_isfastrewindbuttonvisible.md) dependency property.
 
+
 ## -property-value
 The identifier for the [IsFastRewindButtonVisible](mediatransportcontrols_isfastrewindbuttonvisible.md) dependency property.
 

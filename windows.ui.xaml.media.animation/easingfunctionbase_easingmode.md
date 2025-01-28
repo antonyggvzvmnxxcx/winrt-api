@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Animation.EasingMode EasingMode { get;  set; }
 ## -description
 Gets or sets a value that specifies how the animation interpolates.
 
+
+
 ## -xaml-syntax
 ```xaml
 <easingFunction EasingMode="easingMode"/>

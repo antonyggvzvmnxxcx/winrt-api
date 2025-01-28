@@ -14,6 +14,8 @@ public CompositionBitmapInterpolationMode BitmapInterpolationMode { get;  set; }
 
 Gets or sets the bitmap interpolation mode.
 
+
+
 ## -property-value
 
 The bitmap interpolation mode.

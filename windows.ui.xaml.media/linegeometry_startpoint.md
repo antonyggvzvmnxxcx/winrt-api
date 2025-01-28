@@ -12,6 +12,8 @@ public Windows.Foundation.Point StartPoint { get;  set; }
 ## -description
 Gets or sets the start point of the line.
 
+
+
 ## -xaml-syntax
 ```xaml
 <LineGeometry StartPoint="x,y"/>

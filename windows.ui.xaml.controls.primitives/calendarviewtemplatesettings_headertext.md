@@ -12,6 +12,8 @@ public string HeaderText { get; }
 ## -description
 Gets the text of the header.
 
+
+
 ## -property-value
 The text of the header.
 

@@ -12,6 +12,7 @@ public AdaptiveTrigger()
 ## -description
 Initializes a new instance of the [AdaptiveTrigger](adaptivetrigger.md) class
 
+
 ## -remarks
 
 ## -examples

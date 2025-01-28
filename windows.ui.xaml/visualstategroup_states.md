@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IVector<Windows.UI.Xaml.VisualState> State
 ## -description
 Gets the collection of mutually exclusive [VisualState](visualstate.md) objects.
 
+
+
 ## -xaml-syntax
 ```xaml
 <VisualStateGroup>

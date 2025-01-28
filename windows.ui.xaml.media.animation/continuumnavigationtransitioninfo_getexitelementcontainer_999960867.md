@@ -12,6 +12,8 @@ public bool GetExitElementContainer(Windows.UI.Xaml.Controls.ListViewBase elemen
 ## -description
 Returns a Boolean value indicating if the specified element is the [ExitElement](continuumnavigationtransitioninfo_exitelement.md) container.
 
+
+
 ## -parameters
 ### -param element
 The element to be checked as being the container.
@@ -20,9 +22,10 @@ The element to be checked as being the container.
 Returns **true** if *element* is the container; otherwise **false**.
 
 ## -remarks
-This method supports XAML usage of the [ContinuumNavigationTransitionInfo.ExitElementContainer](/uwp/api/windows.ui.xaml.media.animation.continuumnavigationtransitioninfo#xaml-attached-properties) attached property.
+This method supports XAML usage of the [ContinuumNavigationTransitionInfo.ExitElementContainer](continuumnavigationtransitioninfo_exitelementcontainer.md) attached property.
 
 ## -examples
 
 ## -see-also
-[ContinuumNavigationTransitionInfo.ExitElementContainer](/uwp/api/windows.ui.xaml.media.animation.continuumnavigationtransitioninfo#xaml-attached-properties)
+
+[ContinuumNavigationTransitionInfo.ExitElementContainer](continuumnavigationtransitioninfo_exitelementcontainer.md), [XAML attached properties](/windows/uwp/xaml-platform/attached-properties-overview)

@@ -12,6 +12,7 @@ public LinearPointKeyFrame()
 ## -description
 Initializes a new instance of the [LinearPointKeyFrame](linearpointkeyframe.md) class.
 
+
 ## -remarks
 
 ## -examples

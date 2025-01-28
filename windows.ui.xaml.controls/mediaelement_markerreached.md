@@ -12,6 +12,7 @@ public event Windows.UI.Xaml.Media.TimelineMarkerRoutedEventHandler MarkerReache
 ## -description
 Occurs when a timeline marker is encountered during media playback.
 
+
 ## -xaml-syntax
 ```xaml
 <MediaElement MarkerReached="eventhandler"/>

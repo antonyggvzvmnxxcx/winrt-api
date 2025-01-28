@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Animation.RepeatBehavior RepeatBehavior { get;  set
 ## -description
 Gets or sets the repeating behavior of this timeline.
 
+
+
 ## -xaml-syntax
 ```xaml
 <timeline RepeatBehavior="repeatBehaviorValue"/>

@@ -12,6 +12,8 @@ public Windows.UI.Composition.ExpressionAnimation CreateExpressionAnimation(Syst
 ## -description
 Creates an instance of [ExpressionAnimation](expressionanimation.md).
 
+
+
 ## -parameters
 ### -param expression
 The expression describing how the [ExpressionAnimation](expressionanimation.md) should calculate its current value.

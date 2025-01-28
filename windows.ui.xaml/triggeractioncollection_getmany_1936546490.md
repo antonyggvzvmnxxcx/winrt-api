@@ -12,6 +12,8 @@ public uint GetMany(System.UInt32 startIndex, Windows.UI.Xaml.TriggerAction[] it
 ## -description
 Retrieves multiple elements in a single pass through the iterator.
 
+
+
 ## -parameters
 ### -param startIndex
 The index from which to start retrieval.
@@ -24,7 +26,7 @@ The number of items retrieved.
 
 ## -remarks
 > [!NOTE]
-> The equivalent Microsoft .NET  API is [CopyTo](triggeractioncollection_copyto.md).
+> The equivalent Microsoft .NET API is [CopyTo](/dotnet/api/system.windows.triggeractioncollection.copyto).
 
 ## -examples
 

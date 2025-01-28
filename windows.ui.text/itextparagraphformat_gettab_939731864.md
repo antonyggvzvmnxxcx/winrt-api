@@ -12,6 +12,8 @@ public void GetTab(System.Int32 index, System.Single position, Windows.UI.Text.T
 ## -description
 Retrieves information about the specified tab.
 
+
+
 ## -parameters
 ### -param index
 The zero-based index of the tab to retrieve.

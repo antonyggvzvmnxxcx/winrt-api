@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Controls.PivotHeaderFocusVisualPlacement : int
 ## -description
 Defines constants that specify the style of focus visual used for pivot header items.
 
+
+
 ## -enum-fields
 ### -field ItemHeaders:0
 A single focus visual (rectangle) is drawn around all visible item headers.

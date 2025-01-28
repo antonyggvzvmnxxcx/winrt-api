@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsDraggingProperty { get; }
 ## -description
 Identifies the [IsDragging](thumb_isdragging.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsDragging](thumb_isdragging.md) dependency property.
 

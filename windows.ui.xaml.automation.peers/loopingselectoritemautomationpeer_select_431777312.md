@@ -12,6 +12,8 @@ public void Select()
 ## -description
 Clears any existing selection and then selects the current element.
 
+
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IVectorView<float> GetIrregularSnapPoints(
 ## -description
 Returns a read-only collection of numbers that represent the irregular snap points for the specified orientation.
 
+
+
 ## -parameters
 ### -param orientation
 The orientation of the requested snap points.

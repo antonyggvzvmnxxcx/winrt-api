@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IVector<object> Items { get;  set; }
 ## -description
 Gets a list of the [LoopingSelectorItem](loopingselectoritem.md) objects.
 
+
+
 ## -property-value
 The list of [LoopingSelectorItem](loopingselectoritem.md) objects.
 

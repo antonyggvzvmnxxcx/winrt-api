@@ -12,6 +12,7 @@ protected FlyoutBase()
 ## -description
 Provides base class initialization behavior for [FlyoutBase](flyoutbase.md) derived classes.
 
+
 ## -remarks
 
 ## -examples

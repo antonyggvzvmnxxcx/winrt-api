@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ByProperty { get; }
 ## -description
 Identifies the [By](coloranimation_by.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [By](coloranimation_by.md)  dependency property.
 

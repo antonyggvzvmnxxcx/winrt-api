@@ -12,6 +12,8 @@ public bool IsAccessKeyScope { get;  set; }
 ## -description
 Gets or sets a value that indicates whether an element defines its own access key scope.
 
+
+
 ## -property-value
 **true** if an element defines its own scope; otherwise, **false**.
 

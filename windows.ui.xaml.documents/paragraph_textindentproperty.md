@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TextIndentProperty { get; }
 ## -description
 Identifies the [TextIndent](paragraph_textindent.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [TextIndent](paragraph_textindent.md) dependency property.
 

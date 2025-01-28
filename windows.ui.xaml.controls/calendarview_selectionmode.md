@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.CalendarViewSelectionMode SelectionMode { get;  
 ## -description
 Gets or sets a value that indicates what kind of selections are allowed.
 
+
+
 ## -xaml-syntax
 ```xaml
 

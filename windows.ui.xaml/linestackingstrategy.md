@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.LineStackingStrategy : int
 ## -description
 Describes the mechanism by which a line box is determined for each line.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object property="enumMemberName"/>

@@ -12,6 +12,8 @@ public class ContainerContentChangingEventArgs : Windows.UI.Xaml.Controls.IConta
 ## -description
 Provides data for the [ContainerContentChanging](listviewbase_containercontentchanging.md) event.
 
+
+
 ## -remarks
 
 ## -examples

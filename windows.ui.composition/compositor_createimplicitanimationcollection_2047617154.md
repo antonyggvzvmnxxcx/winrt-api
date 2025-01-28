@@ -12,6 +12,8 @@ public Windows.UI.Composition.ImplicitAnimationCollection CreateImplicitAnimatio
 ## -description
 Creates an instance of [ImplicitAnimationCollection](implicitanimationcollection.md).
 
+
+
 ## -returns
 Returns the created [ImplicitAnimationCollection](implicitanimationcollection.md) object.
 

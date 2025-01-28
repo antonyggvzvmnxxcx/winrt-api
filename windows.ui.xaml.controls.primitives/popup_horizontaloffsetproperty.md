@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty HorizontalOffsetProperty { get; }
 ## -description
 Gets the identifier for the [HorizontalOffset](popup_horizontaloffset.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [HorizontalOffset](popup_horizontaloffset.md) dependency property.
 

@@ -12,6 +12,7 @@ public ManipulationPivot(Windows.Foundation.Point center, System.Double radius)
 ## -description
 Initializes a new instance of the [ManipulationPivot](manipulationpivot.md) class with the specified center and radius values.
 
+
 ## -parameters
 ### -param center
 The center point of the pivot.

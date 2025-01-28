@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.ListViewReorderMode ReorderMode { get;  set; }
 ## -description
 Gets or sets the reorder behavior for a [ListViewBase](listviewbase.md) instance. When **Enabled**, unsorted and ungrouped lists can be reordered by user manipulation.
 
+
+
 ## -xaml-syntax
 ```xaml
 <listViewBase ReorderMode="Enabled"/>

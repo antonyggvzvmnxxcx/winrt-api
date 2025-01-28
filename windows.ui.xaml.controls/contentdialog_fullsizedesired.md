@@ -12,6 +12,8 @@ public bool FullSizeDesired { get;  set; }
 ## -description
 Gets or sets a value that indicates whether a request is being made to display the dialog full screen.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentDialog FullSizeDesired="bool"/>

@@ -12,6 +12,8 @@ public string GetItemType()
 ## -description
 Gets a string that describes what kind of item an element represents.
 
+
+
 ## -returns
 The kind of item.
 

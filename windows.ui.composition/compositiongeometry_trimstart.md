@@ -13,6 +13,8 @@ public float TrimStart { get;  set; }
 
 Gets or sets the amount to trim the start of the geometry path.
 
+
+
 ## -property-value
 
 The amount to trim the start of the geometry path. The default is 0.

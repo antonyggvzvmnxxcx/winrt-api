@@ -13,6 +13,8 @@ public int RichEditTextRange.Delete(TextRangeUnit unit, Int32 count)
 
 Deletes text from the text range.
 
+
+
 ## -parameters
 ### -param unit
 

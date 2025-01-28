@@ -12,6 +12,8 @@ public double FontSize { get;  set; }
 ## -description
 Gets or sets the font size for the content of the element.
 
+
+
 ## -xaml-syntax
 ```xaml
 <textElement FontSize="double" /> 

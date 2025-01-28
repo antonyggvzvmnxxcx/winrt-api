@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.SemanticZoom SemanticZoomOwner { get;  set; }
 ## -description
 Gets or sets the [SemanticZoom](semanticzoom.md) owner that hosts the implementing view.
 
+
+
 ## -property-value
 The [SemanticZoom](semanticzoom.md) that hosts this view. 
 <!--Note about only implementers of interface should set?-->

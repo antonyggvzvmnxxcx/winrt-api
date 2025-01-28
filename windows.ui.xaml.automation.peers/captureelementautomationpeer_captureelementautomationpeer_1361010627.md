@@ -12,6 +12,7 @@ public CaptureElementAutomationPeer(Windows.UI.Xaml.Controls.CaptureElement owne
 ## -description
 Initializes a new instance of the [CaptureElementAutomationPeer](captureelementautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [CaptureElement](../windows.ui.xaml.controls/captureelement.md) instance to create the peer for.

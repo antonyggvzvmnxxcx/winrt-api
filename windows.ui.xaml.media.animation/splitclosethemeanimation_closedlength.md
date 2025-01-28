@@ -12,6 +12,8 @@ public double ClosedLength { get;  set; }
 ## -description
 Gets or sets the initial size of the target element in the animation direction.
 
+
+
 ## -xaml-syntax
 ```xaml
 <SplitCloseThemeAnimation ClosedLength="double"/>

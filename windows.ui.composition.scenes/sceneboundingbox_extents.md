@@ -14,6 +14,8 @@ public Vector3 Extents { get; }
 
 Gets the extents of the bounding box.
 
+
+
 ## -property-value
 
 The extents of the bounding box.

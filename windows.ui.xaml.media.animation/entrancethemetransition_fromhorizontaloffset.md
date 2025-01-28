@@ -12,6 +12,7 @@ public double FromHorizontalOffset { get;  set; }
 ## -description
 Gets or sets the distance by which the target is translated in the horizontal direction when the animation is active.
 
+
 ## -xaml-syntax
 ```xaml
 <EntranceThemeTransition FromHorizontalOffset="double" />
@@ -26,4 +27,4 @@ The horizontal offset translation, in pixels.
 ## -examples
 
 ## -see-also
-[Animating page transitions](https://docs.microsoft.com/previous-versions/windows/apps/jj649426(v=win.10)), [Guidelines and checklist for page transition animations](https://msdn.microsoft.com/library/windows/apps/jj635239.aspx)
+[Animating page transitions](/previous-versions/windows/apps/jj649426(v=win.10)), [Guidelines and checklist for page transition animations](/windows/apps/design/motion/content-transition-animations)

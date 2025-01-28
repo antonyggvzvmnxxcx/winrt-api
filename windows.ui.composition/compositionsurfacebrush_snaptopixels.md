@@ -14,6 +14,8 @@ public bool SnapToPixels { get;  set; }
 
 Gets or sets a value that indicates whether the surface brush aligns with pixels.
 
+
+
 ## -property-value
 
 **true** if the surface brush aligns with pixels; otherwise, **false**.

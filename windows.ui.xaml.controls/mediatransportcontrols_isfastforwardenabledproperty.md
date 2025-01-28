@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty IsFastForwardEnabledProperty { get; }
 ## -description
 Identifies the [IsFastForwardEnabled](mediatransportcontrols_isfastforwardenabled.md) dependency property.
 
+
 ## -property-value
 The identifier for the [IsFastForwardEnabled](mediatransportcontrols_isfastforwardenabled.md) dependency property.
 

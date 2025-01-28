@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty CommandProperty { get; }
 ## -description
 Identifies the [Command](menuflyoutitem_command.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Command](menuflyoutitem_command.md) dependency property.
 

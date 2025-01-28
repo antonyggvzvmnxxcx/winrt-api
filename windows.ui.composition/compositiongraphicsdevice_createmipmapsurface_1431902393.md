@@ -14,6 +14,8 @@ public CompositionMipmapSurface CompositionGraphicsDevice.CreateMipmapSurface(Si
 
 Creates an instance of [CompositionMipMapSurface](compositionmipmapsurface.md).
 
+
+
 ## -parameters
 ### -param sizePixels
 

@@ -12,6 +12,8 @@ public object SecondaryButtonCommandParameter { get;  set; }
 ## -description
 Gets or sets the parameter to pass to the command for the secondary button.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentDialog>
@@ -19,9 +21,7 @@ Gets or sets the parameter to pass to the command for the secondary button.
     object
   </ContentDialog.SecondaryButtonCommandParameter>
 </ContentDialog>
-```
-
-```xaml
+- or -
 <ContentDialog SecondaryButtonCommandParameter="objectAsString"/>
 ```
 

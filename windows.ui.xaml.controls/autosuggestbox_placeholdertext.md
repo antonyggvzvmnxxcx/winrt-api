@@ -12,6 +12,8 @@ public string PlaceholderText { get;  set; }
 ## -description
 Gets or sets the placeholder text to be displayed in the control.
 
+
+
 ## -xaml-syntax
 ```xaml
 <AutoSuggestBox PlaceholderText="string"/>

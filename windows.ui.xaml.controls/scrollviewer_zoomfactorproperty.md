@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ZoomFactorProperty { get; }
 ## -description
 Identifies the [ZoomFactor](scrollviewer_zoomfactor.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ZoomFactor](scrollviewer_zoomfactor.md) dependency property.
 

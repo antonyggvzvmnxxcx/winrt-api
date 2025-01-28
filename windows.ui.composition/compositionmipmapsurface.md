@@ -14,6 +14,8 @@ public class CompositionMipmapSurface : CompositionObject, CompositionObject, IC
 
 Represents a drawing surface for mipmap textures.
 
+
+
 ## -remarks
 
 ## -see-also

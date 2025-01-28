@@ -12,6 +12,8 @@ public double FirstOfYearDecadeLabelFontSize { get;  set; }
 ## -description
 Gets or sets the font size used to display the first-of-year banner in the calendar.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarView FirstOfYearDecadeLabelFontSize="double"/>

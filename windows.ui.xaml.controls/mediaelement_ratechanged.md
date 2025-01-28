@@ -12,6 +12,7 @@ public event Windows.UI.Xaml.Media.RateChangedRoutedEventHandler RateChanged
 ## -description
 Occurs when [PlaybackRate](mediaelement_playbackrate.md) or [DefaultPlaybackRate](mediaelement_defaultplaybackrate.md) value changes.
 
+
 ## -xaml-syntax
 ```xaml
 <MediaElement RateChanged="eventhandler"/>

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty SelectedValuePathProperty { get; }
 ## -description
 Gets the identifier for the [SelectedValuePath](selector_selectedvaluepath.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [SelectedValuePath](selector_selectedvaluepath.md) dependency property.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsOpenProperty { get; }
 ## -description
 Identifies the [IsOpen](appbar_isopen.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsOpen](appbar_isopen.md) dependency property.
 

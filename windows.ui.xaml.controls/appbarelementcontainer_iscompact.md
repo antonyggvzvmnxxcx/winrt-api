@@ -14,6 +14,8 @@ public bool IsCompact { get;  set; }
 
 Gets or sets a value that indicates whether the element is shown in its compact state.
 
+
+
 ## -xaml-syntax
 
 ```xaml

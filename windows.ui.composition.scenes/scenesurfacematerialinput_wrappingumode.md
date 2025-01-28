@@ -14,6 +14,8 @@ public SceneWrappingMode WrappingUMode { get;  set; }
 
 Gets or sets a value that indicates how wrapping occurs on the U axis.
 
+
+
 ## -property-value
 
 A value that indicates how wrapping occurs on the U axis.

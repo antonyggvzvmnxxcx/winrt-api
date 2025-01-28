@@ -12,6 +12,8 @@ public double Minimum { get; }
 ## -description
 Gets the minimum range value that is supported by the control.
 
+
+
 ## -property-value
 The minimum range value supported by the control.
 

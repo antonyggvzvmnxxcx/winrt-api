@@ -12,6 +12,8 @@ public bool IsReadOnly { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the user can change the text in the [RichEditBox](richeditbox.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <RichEditBox IsReadOnly="bool"/>

@@ -13,6 +13,8 @@ public ScalarNaturalMotionAnimation NaturalMotion { get;  set; }
 
 Gets or set a [ScalarNaturalMotionAnimation](../windows.ui.composition/scalarnaturalmotionanimation.md) that describes the modified motion for [InteractionTracker](interactiontracker.md) if the expression in the Condition property is **true**.
 
+
+
 ## -property-value
 
 A ScalarNaturalMotionAnimation that describes the modified motion for [InteractionTracker](interactiontracker.md) if the expression in the Condition property is **true**.

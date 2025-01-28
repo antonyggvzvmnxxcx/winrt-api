@@ -12,6 +12,8 @@ public Windows.UI.Xaml.UIElement UIElement { get; }
 ## -description
 Gets an instance of the visual element that represents the data value.
 
+
+
 ## -property-value
 The [UIElement](../windows.ui.xaml/uielement.md) that represents the data value.
 

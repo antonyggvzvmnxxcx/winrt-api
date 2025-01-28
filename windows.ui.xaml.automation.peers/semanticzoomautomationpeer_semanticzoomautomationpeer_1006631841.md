@@ -12,6 +12,7 @@ public SemanticZoomAutomationPeer(Windows.UI.Xaml.Controls.SemanticZoom owner)
 ## -description
 Initializes a new instance of the [SemanticZoomAutomationPeer](semanticzoomautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [SemanticZoom](../windows.ui.xaml.controls/semanticzoom.md) to create a peer for.

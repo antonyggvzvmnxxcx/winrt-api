@@ -11,7 +11,11 @@ public Windows.Foundation.IAsyncOperation<int> RemoveMemberAsync(System.String u
 # Windows.Devices.AllJoyn.AllJoynSession.RemoveMemberAsync
 
 ## -description
-Removes the member specified by the input [String](https://docs.microsoft.com/dotnet/api/system.string?redirectedfrom=MSDN) from the session.
+
+> [!IMPORTANT]
+> The types in the **Windows.Devices.AllJoyn** namespace are deprecated, and might not be available in future versions of Windows. [AllJoyn](https://openconnectivity.org/technology/reference-implementation/alljoyn/)&mdash;sponsored by AllSeen Alliance&mdash;was an open-source discovery and communication protocol for Internet of Things (IoT) scenarios such as turning lights on and off, and reading temperatures. For alternatives, such as [IoTivity Lite](https://github.com/iotivity/iotivity-lite) and [IoTivity](https://github.com/iotivity/iotivity), refer to the [iotivity.org](https://iotivity.org/) website.
+
+Removes the member specified by the input [String](/dotnet/api/system.string?view=dotnet-uwp-10.0&preserve-view=true) from the session.
 
 ## -parameters
 ### -param uniqueName

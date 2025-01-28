@@ -12,6 +12,8 @@ public double RotationZ { get;  set; }
 ## -description
 Gets or sets the angle in degrees of counterclockwise rotation around the z-axis.
 
+
+
 ## -property-value
 The angle of rotation around the z-axis, given in degrees in a counterclockwise direction. The default value is 0 degrees.
 

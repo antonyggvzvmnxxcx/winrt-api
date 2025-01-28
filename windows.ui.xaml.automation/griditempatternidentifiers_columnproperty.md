@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty ColumnProperty { get; }
 ## -description
 Identifies the [Column](../windows.ui.xaml.automation.provider/igriditemprovider_column.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

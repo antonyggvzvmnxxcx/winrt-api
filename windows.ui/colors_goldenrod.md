@@ -13,6 +13,8 @@ public Windows.UI.Color Goldenrod { get; }
 
 Gets the system-defined color that has an ARGB value of #FFDAA520.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFDAA520.

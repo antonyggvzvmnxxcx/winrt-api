@@ -12,6 +12,8 @@ public class PickerConfirmedEventArgs : Windows.UI.Xaml.DependencyObject, Window
 ## -description
 Provides data for the PickerConfirmed event.
 
+
+
 ## -remarks
 
 ## -examples

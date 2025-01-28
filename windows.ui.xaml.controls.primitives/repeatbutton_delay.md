@@ -12,6 +12,8 @@ public int Delay { get;  set; }
 ## -description
 Gets or sets the time, in milliseconds, that the [RepeatButton](repeatbutton.md) waits when it is pressed before it starts repeating the click action.
 
+
+
 ## -xaml-syntax
 ```xaml
 <RepeatButton Delay="int"/>

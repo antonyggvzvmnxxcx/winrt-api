@@ -12,6 +12,8 @@ public int GetPositionInSet()
 ## -description
 Returns the 1-based integer for the ordinal position in the set for the element that is associated with the automation peer.
 
+
+
 ## -returns
 The 1-based integer for the ordinal position in the set.
 

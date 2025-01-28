@@ -12,6 +12,8 @@ public bool IsTodayHighlighted { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the current date is highlighted.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarView IsTodayHighlighted="bool" .../>

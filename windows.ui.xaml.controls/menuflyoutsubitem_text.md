@@ -12,6 +12,8 @@ public string Text { get;  set; }
 ## -description
 Gets or sets the text content of a [MenuFlyoutSubItem](menuflyoutsubitem.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <MenuFlyoutSubItem Text="string"/>

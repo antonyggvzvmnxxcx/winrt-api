@@ -12,6 +12,8 @@ public class CalendarPanel : Windows.UI.Xaml.Controls.Panel, Windows.UI.Xaml.Con
 ## -description
 Represents a panel that contains a calendar.
 
+
+
 ## -remarks
 
 ## -examples

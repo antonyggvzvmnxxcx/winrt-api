@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ItemContainerTransitionsProperty { get
 ## -description
 Identifies the [ItemContainerTransitions](itemscontrol_itemcontainertransitions.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ItemContainerTransitions](itemscontrol_itemcontainertransitions.md) dependency property.
 

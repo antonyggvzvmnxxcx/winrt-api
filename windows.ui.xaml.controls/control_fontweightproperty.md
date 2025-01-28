@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty FontWeightProperty { get; }
 ## -description
 Identifies the [FontWeight](control_fontweight.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [FontWeight](control_fontweight.md) dependency property.
 

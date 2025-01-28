@@ -14,6 +14,8 @@ public RedirectVisual Compositor.CreateRedirectVisual(Visual source)
 
 Creates an instance of [RedirectVisual](redirectvisual.md) using the specified source.
 
+
+
 ## -parameters
 ### -param source
 

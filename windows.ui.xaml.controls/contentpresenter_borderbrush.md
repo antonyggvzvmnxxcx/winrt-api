@@ -12,18 +12,14 @@ public Windows.UI.Xaml.Media.Brush BorderBrush { get;  set; }
 ## -description
 Gets or sets a brush that describes the border fill of the content presenter.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentPresenter BorderBrush="{StaticResource resourceName}"/>
-
-```
-
-```xaml
+- or -
 <ContentPresenter BorderBrush="colorString"/>
-
-```
-
-```xaml
+- or -
 <ContentPresenter>
   <ContentPresenter.BorderBrush>singleBrush</ContentPresenter.BorderBrush>
 </ContentPresenter>

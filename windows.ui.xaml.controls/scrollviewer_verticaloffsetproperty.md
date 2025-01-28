@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty VerticalOffsetProperty { get; }
 ## -description
 Identifies the [VerticalOffset](scrollviewer_verticaloffset.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [VerticalOffset](scrollviewer_verticaloffset.md)  dependency property.
 

@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty BalanceProperty { get; }
 ## -description
 Identifies the [Balance](mediaelement_balance.md)  dependency property.
 
+
 ## -property-value
 The identifier for the [Balance](mediaelement_balance.md) dependency property.
 

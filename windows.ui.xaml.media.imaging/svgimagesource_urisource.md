@@ -12,6 +12,8 @@ public Uri UriSource { get;  set; }
 ## -description
 Gets or sets the Uniform Resource Identifier (URI) of the SVG source file that generated this [SvgImageSource](svgimagesource.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <SvgImageSource UriSource="uri" />

@@ -12,6 +12,8 @@ public double HorizontalOffset { get;  set; }
 ## -description
 Gets or sets the horizontal distance to add to the viewport-relative position of the TargetRect after satisfying the requested [HorizontalAlignmentRatio](bringintoviewoptions_horizontalalignmentratio.md).
 
+
+
 ## -property-value
 
 The horizontal distance to add to the viewport-relative position of the TargetRect after satisfying the requested [HorizontalAlignmentRatio](bringintoviewoptions_horizontalalignmentratio.md).

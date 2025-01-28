@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IVector<Windows.UI.Xaml.Automation.Peers.A
 ## -description
 Gets a reference to the list of UI automation annotations for the current automation peer.
 
+
+
 ## -returns
 The list of UI automation annotations.
 

@@ -12,6 +12,8 @@ public enum Windows.UI.Text.UnderlineType : int
 ## -description
 Specifies the type of character underlining.
 
+
+
 ## -enum-fields
 ### -field Undefined:0
 No underline type is defined.

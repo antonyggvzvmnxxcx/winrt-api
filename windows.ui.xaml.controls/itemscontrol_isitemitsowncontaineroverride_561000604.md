@@ -12,6 +12,8 @@ virtual protected bool IsItemItsOwnContainerOverride(System.Object item)
 ## -description
 Determines whether the specified item is (or is eligible to be) its own container.
 
+
+
 ## -parameters
 ### -param item
 The item to check.

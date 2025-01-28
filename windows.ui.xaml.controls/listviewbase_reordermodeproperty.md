@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ReorderModeProperty { get; }
 ## -description
 Identifies the [ReorderMode](listviewbase_reordermode.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ReorderMode](listviewbase_reordermode.md) dependency property.
 

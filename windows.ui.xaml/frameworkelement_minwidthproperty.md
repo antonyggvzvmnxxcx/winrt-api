@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty MinWidthProperty { get; }
 ## -description
 Identifies the [MinWidth](frameworkelement_minwidth.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [MinWidth](frameworkelement_minwidth.md)  dependency property.
 

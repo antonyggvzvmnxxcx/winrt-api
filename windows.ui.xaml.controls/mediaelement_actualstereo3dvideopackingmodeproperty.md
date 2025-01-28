@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty ActualStereo3DVideoPackingModeProperty
 ## -description
 Identifies the [ActualStereo3DVideoPackingMode](mediaelement_actualstereo3dvideopackingmode.md) dependency property.
 
+
 ## -property-value
 The identifier for the [ActualStereo3DVideoPackingMode](mediaelement_actualstereo3dvideopackingmode.md) dependency property.
 

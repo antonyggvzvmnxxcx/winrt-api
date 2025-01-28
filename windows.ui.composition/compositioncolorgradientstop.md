@@ -13,6 +13,8 @@ public class CompositionColorGradientStop : CompositionObject, CompositionObject
 
 Describes the location and color of a transition point in a gradient.
 
+
+
 ## -remarks
 
 ## -see-also

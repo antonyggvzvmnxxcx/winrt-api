@@ -12,6 +12,8 @@ public void SetCurrentView(System.Int32 viewId)
 ## -description
 Sets the current control-specific view.
 
+
+
 ## -parameters
 ### -param viewId
 A view identifier.

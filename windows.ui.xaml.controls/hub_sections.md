@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IVector<Windows.UI.Xaml.Controls.HubSectio
 ## -description
 Gets all the hub sections in the [Hub](hub.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <Hub ...>

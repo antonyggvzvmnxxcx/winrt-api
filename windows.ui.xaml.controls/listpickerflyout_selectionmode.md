@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.ListPickerFlyoutSelectionMode SelectionMode { ge
 ## -description
 Gets or sets the selection mode of the picker.
 
+
+
 ## -property-value
 The selection mode of the picker.
 

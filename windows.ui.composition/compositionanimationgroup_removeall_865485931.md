@@ -12,6 +12,8 @@ public void RemoveAll()
 ## -description
 Removes all animations from the group.
 
+
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,7 @@ public AutoSuggestBoxTextChangedEventArgs()
 ## -description
 Initializes a new instance of the [AutoSuggestBoxTextChangedEventArgs](autosuggestboxtextchangedeventargs.md) class.
 
+
 ## -remarks
 
 ## -examples

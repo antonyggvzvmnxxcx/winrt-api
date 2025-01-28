@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty MonthVisibleProperty { get; }
 ## -description
 Gets the identifier for the [MonthVisible](datepickerflyout_monthvisible.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [MonthVisible](datepickerflyout_monthvisible.md) dependency property.
 

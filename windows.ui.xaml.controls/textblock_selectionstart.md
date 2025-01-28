@@ -14,6 +14,8 @@ public Windows.UI.Xaml.Documents.TextPointer SelectionStart { get; }
 
 Gets the starting position of the text selected in the [TextBlock](textblock.md).
 
+
+
 ## -property-value
 
 An object that represents the selection start, or null if no selection exists.

@@ -12,6 +12,8 @@ public double OpenPaneLengthMinusCompactLength { get; }
 ## -description
 Gets a value calculated by subtracting the [CompactPaneLength](../windows.ui.xaml.controls/splitview_compactpanelength.md) value from the [OpenPaneLength](../windows.ui.xaml.controls/splitview_openpanelength.md) value.
 
+
+
 ## -property-value
 The value calculated by subtracting the [CompactPaneLength](../windows.ui.xaml.controls/splitview_compactpanelength.md) value from the [OpenPaneLength](../windows.ui.xaml.controls/splitview_openpanelength.md) value.
 

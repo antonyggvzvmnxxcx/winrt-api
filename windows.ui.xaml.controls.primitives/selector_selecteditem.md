@@ -12,6 +12,8 @@ public object SelectedItem { get;  set; }
 ## -description
 Gets or sets the selected item.
 
+
+
 ## -xaml-syntax
 ```xaml
 <selector SelectedItem="bindingReference" .../>

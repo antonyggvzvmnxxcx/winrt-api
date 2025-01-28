@@ -12,6 +12,7 @@ public DragStartedEventArgs(System.Double horizontalOffset, System.Double vertic
 ## -description
 Initializes a new instance of the [DragStartedEventArgs](dragstartedeventargs.md) class.
 
+
 ## -parameters
 ### -param horizontalOffset
 The horizontal distance between the current mouse position and the thumb coordinates.

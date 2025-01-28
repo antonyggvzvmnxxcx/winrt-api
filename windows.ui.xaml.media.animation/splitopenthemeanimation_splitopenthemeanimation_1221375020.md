@@ -12,6 +12,7 @@ public SplitOpenThemeAnimation()
 ## -description
 Initializes a new instance of the [SplitOpenThemeAnimation](splitopenthemeanimation.md) class.
 
+
 ## -remarks
 
 ## -examples

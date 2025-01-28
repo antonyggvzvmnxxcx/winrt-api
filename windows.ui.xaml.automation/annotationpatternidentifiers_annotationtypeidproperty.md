@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty AnnotationTypeIdProperty { 
 ## -description
 Gets the identifier for the [AnnotationTypeId](../windows.ui.xaml.automation.provider/iannotationprovider_annotationtypeid.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

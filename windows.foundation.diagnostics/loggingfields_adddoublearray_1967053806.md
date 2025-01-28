@@ -10,7 +10,7 @@ public void AddDoubleArray(System.String name, System.Double[] value, Windows.Fo
 # Windows.Foundation.Diagnostics.LoggingFields.AddDoubleArray
 
 ## -description
-Adds a [Double](https://docs.microsoft.com/dotnet/api/system.double?redirectedfrom=MSDN) array field with the specified field name and format.
+Adds a [Double](/dotnet/api/system.double?view=dotnet-uwp-10.0&preserve-view=true) array field with the specified field name and format.
 
 ## -parameters
 ### -param name
@@ -27,4 +27,4 @@ The format of the event field. Specifies an optional formatting hint that may be
 ## -examples
 
 ## -see-also
-[AddDoubleArray(String, Double[])](loggingfields_adddoublearray_979773174.md), [AddDoubleArray(String, Double[], LoggingFieldFormat, Int32)](loggingfields_adddoublearray_1358881234.md)
+[AddDoubleArray(String, Double\[\])](/uwp/api/windows.foundation.diagnostics.loggingfields.adddoublearray#windows-foundation-diagnostics-loggingfields-adddoublearray(system-string-system-double())), [AddDoubleArray(String, Double\[\], LoggingFieldFormat, Int32)](/uwp/api/windows.foundation.diagnostics.loggingfields.adddoublearray#windows-foundation-diagnostics-loggingfields-adddoublearray(system-string-system-double()-windows-foundation-diagnostics-loggingfieldformat-system-int32))

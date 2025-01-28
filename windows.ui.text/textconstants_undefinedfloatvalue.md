@@ -12,6 +12,8 @@ public float UndefinedFloatValue { get; }
 ## -description
 Gets the undefined floating-point value.
 
+
+
 ## -property-value
 The undefined floating-point value.
 

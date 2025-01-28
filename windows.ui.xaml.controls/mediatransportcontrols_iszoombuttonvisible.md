@@ -12,6 +12,7 @@ public bool IsZoomButtonVisible { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the zoom button is shown.
 
+
 ## -xaml-syntax
 ```xaml
 

@@ -13,6 +13,8 @@ public class Visual : Windows.UI.Composition.CompositionObject, Windows.UI.Compo
 
 The base visual object in the visual hierarchy.
 
+
+
 ## -remarks
 
 Visual objects compose and render serialized drawing content and form the basis of a retained mode visual system. The Visual class supports basic position and clipping and can have 2D and 3D transformations applied to them. Additional functionality like solid colors, images, and content with effects is provided through subclasses like [SpriteVisual](spritevisual.md) or [ContainerVisual](containervisual.md), and by setting the [Brush](spritevisual_brush.md) property of the visual to CompositionBrush subclasses such as [CompositionColorBrush](compositioncolorbrush.md), [CompositionEffectBrush](compositioneffectbrush.md), or [CompositionSurfaceBrush](compositionsurfacebrush.md).
@@ -21,7 +23,7 @@ Visual objects are thread-agile and not bound to the UI thread.
 
 ### Animatable properties
 
-The following properties can be animated. Call [CompositionObject.StartAnimation](compositionobject_startanimation_709050842.md) to associate the property with a [CompositionAnimation](https://docs.microsoft.com/windows/uwp/composition/composition-animation).
+The following properties can be animated. Call [CompositionObject.StartAnimation](compositionobject_startanimation_709050842.md) to associate the property with a [CompositionAnimation](/windows/uwp/composition/composition-animation).
 
 + [Size](visual_size.md)
 + [Offset](visual_offset.md)
@@ -56,4 +58,4 @@ Visual supports two forms of rotation:
 
 ## -see-also
 
-[Composition Visual Tree Overview](https://go.microsoft.com/fwlink/p/?LinkID=699335), [CompositionObject](compositionobject.md), [IClosable](../windows.foundation/iclosable.md), [Composition visual without framework sample (Windows 10)](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/CompositionVisual)
+[Composition Visual Tree Overview](/windows/uwp/composition/composition-visual-tree), [CompositionObject](compositionobject.md), [IClosable](../windows.foundation/iclosable.md), [Composition visual without framework sample (Windows 10)](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/CompositionVisual)

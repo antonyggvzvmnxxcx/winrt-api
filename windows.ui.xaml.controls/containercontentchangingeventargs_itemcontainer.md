@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.Primitives.SelectorItem ItemContainer { get; }
 ## -description
 Gets the UI container used to display the current data item.
 
+
+
 ## -property-value
 The UI container used to display the current data item.
 

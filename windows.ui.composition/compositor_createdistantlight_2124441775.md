@@ -12,6 +12,8 @@ public Windows.UI.Composition.DistantLight CreateDistantLight()
 ## -description
 Creates an instance of [DistantLight](distantlight.md).
 
+
+
 ## -returns
 Returns the created [DistantLight](distantlight.md) object.
 

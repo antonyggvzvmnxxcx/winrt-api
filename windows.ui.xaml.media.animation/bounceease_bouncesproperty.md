@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty BouncesProperty { get; }
 ## -description
 Identifies the [Bounces](bounceease_bounces.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Bounces](bounceease_bounces.md) dependency property.
 

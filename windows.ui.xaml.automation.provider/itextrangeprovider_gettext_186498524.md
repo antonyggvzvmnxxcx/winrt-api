@@ -12,6 +12,8 @@ public string GetText(System.Int32 maxLength)
 ## -description
 Retrieves the plain text of the range.
 
+
+
 ## -parameters
 ### -param maxLength
 The maximum length of the string to return. Use – 1 to specify an unlimited length.

@@ -12,6 +12,8 @@ public class SuppressNavigationTransitionInfo : Windows.UI.Xaml.Media.Animation.
 ## -description
 Specifies that animations are suppressed during navigation.
 
+
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler Completed<object,  Windows.UI.
 ## -description
 Event that is triggered when all objects in a [CompositionCommitBatch](compositioncommitbatch.md) have completed.
 
+
+
 ## -remarks
 
 ## -examples

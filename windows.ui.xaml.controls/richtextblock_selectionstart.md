@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Documents.TextPointer SelectionStart { get; }
 ## -description
 Gets the starting position of the text selected in the [RichTextBlock](richtextblock.md).
 
+
+
 ## -property-value
 An object that represents the selection start, or **null** if no selection exists.
 

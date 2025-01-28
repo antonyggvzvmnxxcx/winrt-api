@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ExponentProperty { get; }
 ## -description
 Identifies the [Exponent](exponentialease_exponent.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [Exponent](exponentialease_exponent.md)  dependency property.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Provider.IRawElementProviderSimple GetItemByNa
 ## -description
 Returns a Microsoft UI Automation element that represents the spreadsheet cell that has the specified name.
 
+
+
 ## -parameters
 ### -param name
 The name of the target cell.

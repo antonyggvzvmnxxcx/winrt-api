@@ -12,6 +12,7 @@ public SplineDoubleKeyFrame()
 ## -description
 Initializes a new instance of the [SplineDoubleKeyFrame](splinedoublekeyframe.md) class.
 
+
 ## -remarks
 
 ## -examples

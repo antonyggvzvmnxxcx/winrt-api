@@ -12,6 +12,8 @@ public Windows.UI.Color UndefinedColor { get; }
 ## -description
 Gets the undefined color value.
 
+
+
 ## -property-value
 The undefined color.
 

@@ -12,6 +12,8 @@ public int AnnotationTypeId { get; }
 ## -description
 Gets the annotation type identifier of this annotation.
 
+
+
 ## -property-value
 The annotation type identifier of this annotation.
 

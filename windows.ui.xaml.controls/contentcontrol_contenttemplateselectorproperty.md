@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ContentTemplateSelectorProperty { get;
 ## -description
 Identifies the [ContentTemplateSelector](contentcontrol_contenttemplateselector.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ContentTemplateSelector](contentcontrol_contenttemplateselector.md) dependency property.
 

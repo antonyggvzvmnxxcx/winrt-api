@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty HorizontalOffsetProperty { get; }
 ## -description
 Identifies the [HorizontalOffset](tooltip_horizontaloffset.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [HorizontalOffset](tooltip_horizontaloffset.md)  dependency property.
 

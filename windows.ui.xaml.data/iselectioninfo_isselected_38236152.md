@@ -12,6 +12,8 @@ public bool IsSelected(System.Int32 index)
 ## -description
 Provides info about whether the item in the data source at the specified *index* is selected in the list control.
 
+
+
 ## -parameters
 ### -param index
 The index of an item in the data source.

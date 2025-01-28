@@ -12,6 +12,8 @@ public string WeekDay1 { get; }
 ## -description
 Gets the first day of the week.
 
+
+
 ## -property-value
 The first day of the week.
 

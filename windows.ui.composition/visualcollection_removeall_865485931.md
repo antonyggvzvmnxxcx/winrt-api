@@ -12,6 +12,8 @@ public void RemoveAll()
 ## -description
 Removes all of the visual instances from the collection.
 
+
+
 ## -remarks
 
 ## -examples

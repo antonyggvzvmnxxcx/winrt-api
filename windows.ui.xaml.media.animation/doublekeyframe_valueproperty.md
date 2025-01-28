@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ValueProperty { get; }
 ## -description
 Identifies the [Value](doublekeyframe_value.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Value](doublekeyframe_value.md) dependency property.
 

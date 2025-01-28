@@ -13,6 +13,8 @@ public TimeSpan Duration { get;  set; }
 ## -description
 Gets or sets the duration of the transition.
 
+
+
 ## -property-value
 
 The duration of the transition.

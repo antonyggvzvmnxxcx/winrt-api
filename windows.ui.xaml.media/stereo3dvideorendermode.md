@@ -12,6 +12,7 @@ public enum Windows.UI.Xaml.Media.Stereo3DVideoRenderMode : int
 ## -description
 Describes the stereo 3-D video render mode for the current media source.
 
+
 ## -xaml-syntax
 ```xaml
 <object property="enumMemberName"/>

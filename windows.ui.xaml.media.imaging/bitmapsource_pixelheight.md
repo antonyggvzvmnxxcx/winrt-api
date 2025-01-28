@@ -12,6 +12,8 @@ public int PixelHeight { get; }
 ## -description
 Gets the height of the bitmap in pixels.
 
+
+
 ## -property-value
 The height of the bitmap in pixels.
 

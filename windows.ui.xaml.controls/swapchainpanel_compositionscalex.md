@@ -12,6 +12,8 @@ public float CompositionScaleX { get; }
 ## -description
 Gets the x-axis scale factor of the [SwapChainPanel](swapchainpanel.md).
 
+
+
 ## -property-value
 The x-axis scale factor of the [SwapChainPanel](swapchainpanel.md). A value of 1.0 means no scaling is applied.
 

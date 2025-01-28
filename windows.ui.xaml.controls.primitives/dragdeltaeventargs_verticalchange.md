@@ -12,6 +12,8 @@ public double VerticalChange { get; }
 ## -description
 Gets the vertical change in the [Thumb](thumb.md) position since the last [DragDelta](thumb_dragdelta.md) event.
 
+
+
 ## -property-value
 The vertical change in the [Thumb](thumb.md) position since the last [DragDelta](thumb_dragdelta.md) event.
 

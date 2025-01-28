@@ -10,6 +10,9 @@ public enum SystemUpdateManagerState : int
 
 # Windows.System.Update.SystemUpdateManagerState
 
+> [!IMPORTANT]
+> Only available for [Windows 10 IoT Core](https://learn.microsoft.com/windows/iot-core/windows-iot-core).
+
 ## -description
 Enumeration that describes the current state of system updates.
 
@@ -39,15 +42,18 @@ System updates are finalizing.
 An error has occurred. Check [ExtendedError](systemupdatemanager_extendederror.md).
 
 ### -field Downloading:3
+System updates are downloading.
 
 ### -field Detecting:1
+Update manager is checking for available updates.
 
 ### -field Completed:9
+Update process has been completed.
 
 ### -field AttentionRequired:10
+Update process cannot continue without user input.
 
 ## -remarks
-
 ## -see-also
 
 ## -examples

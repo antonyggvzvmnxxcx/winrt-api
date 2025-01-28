@@ -12,6 +12,7 @@ public DoubleAnimationUsingKeyFrames()
 ## -description
 Initializes a new instance of the [DoubleAnimationUsingKeyFrames](doubleanimationusingkeyframes.md) class.
 
+
 ## -remarks
 
 ## -examples

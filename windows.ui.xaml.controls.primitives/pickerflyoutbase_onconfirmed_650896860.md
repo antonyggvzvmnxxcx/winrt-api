@@ -12,6 +12,8 @@ virtual protected void OnConfirmed()
 ## -description
 Notifies [PickerFlyoutBase](pickerflyoutbase.md) subclasses when a user has confirmed a selection.
 
+
+
 ## -remarks
 
 ## -examples

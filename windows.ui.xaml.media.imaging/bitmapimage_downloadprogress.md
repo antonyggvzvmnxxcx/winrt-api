@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.Media.Imaging.DownloadProgressEventHandler Download
 ## -description
 Occurs when a significant change has occurred in the download progress of the [BitmapImage](bitmapimage.md) content.
 
+
+
 ## -xaml-syntax
 ```xaml
 <BitmapImage DownloadProgress="eventhandler"/>

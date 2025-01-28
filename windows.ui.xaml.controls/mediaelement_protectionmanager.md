@@ -12,11 +12,12 @@ public Windows.Media.Protection.MediaProtectionManager ProtectionManager { get; 
 ## -description
 Gets or sets the dedicated object for media content protection that is associated with this [MediaElement](mediaelement.md).
 
+
 ## -property-value
 The dedicated object for media content protection.
 
 ## -remarks
-See the [PlayReady sample for ](https://go.microsoft.com/fwlink/p/?linkid=258394) for an example of using ProtectionManager.
+See the [PlayReady sample](https://github.com/microsoft/Windows-universal-samples/tree/master/archived/PlayReady) for an example of using ProtectionManager.
 
 ## -examples
 

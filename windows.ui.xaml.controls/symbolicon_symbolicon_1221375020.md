@@ -12,6 +12,7 @@ public SymbolIcon()
 ## -description
 Initializes a new instance of the [SymbolIcon](symbolicon.md) class.
 
+
 ## -remarks
 
 ## -examples

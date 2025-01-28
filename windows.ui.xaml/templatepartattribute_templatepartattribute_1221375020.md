@@ -12,6 +12,7 @@ public TemplatePartAttribute()
 ## -description
 Initializes a new instance of the [TemplatePartAttribute](templatepartattribute.md) class.
 
+
 ## -remarks
 
 ## -examples

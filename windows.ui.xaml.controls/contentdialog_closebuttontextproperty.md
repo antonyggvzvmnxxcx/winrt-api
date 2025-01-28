@@ -12,6 +12,8 @@ public DependencyProperty CloseButtonTextProperty { get; }
 ## -description
 Gets the identifier of the CloseButtonText dependency property.
 
+
+
 ## -property-value
 The identifier of the CloseButtonText dependency property.
 

@@ -12,6 +12,8 @@ public string Author { get; }
 ## -description
 Gets the name of the annotation author.
 
+
+
 ## -property-value
 The name of the annotation author.
 

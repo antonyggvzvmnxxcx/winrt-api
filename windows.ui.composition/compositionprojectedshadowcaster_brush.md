@@ -14,6 +14,8 @@ public CompositionBrush Brush { get;  set; }
 
 Gets or sets the brush used to draw the shadow.
 
+
+
 ## -property-value
 
 The brush used to draw the shadow.

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Stretch Stretch { get;  set; }
 ## -description
 Gets or sets the [Stretch](../windows.ui.xaml.media/stretch.md) mode, which determines how content fits into the available space.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ViewBox Stretch="stretchMemberName"/>

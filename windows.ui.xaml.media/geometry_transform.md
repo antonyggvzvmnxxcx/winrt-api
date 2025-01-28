@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Transform Transform { get;  set; }
 ## -description
 Gets or sets the [Transform](transform.md) object applied to a [Geometry](geometry.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <geometry>

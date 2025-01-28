@@ -12,6 +12,8 @@ virtual protected void OnContentChanged(System.Object oldContent, System.Object 
 ## -description
 Invoked when the value of the [Content](contentcontrol_content.md) property changes.
 
+
+
 ## -parameters
 ### -param oldContent
 The old value of the [Content](contentcontrol_content.md) property.

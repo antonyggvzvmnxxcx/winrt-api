@@ -12,6 +12,8 @@ public double FontRenderingEmSize { get;  set; }
 ## -description
 Gets or sets the em size used for rendering the glyphs.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Glyphs FontRenderingEmSize="double"/>

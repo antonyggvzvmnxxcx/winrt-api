@@ -12,6 +12,7 @@ public Canvas()
 ## -description
 Initializes a new instance of the [Canvas](canvas.md) class.
 
+
 ## -remarks
 
 ## -examples

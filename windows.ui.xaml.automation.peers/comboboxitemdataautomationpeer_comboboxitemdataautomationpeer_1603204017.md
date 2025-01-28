@@ -12,6 +12,7 @@ public ComboBoxItemDataAutomationPeer(System.Object item, Windows.UI.Xaml.Automa
 ## -description
 Initializes a new instance of the [ComboBoxItemDataAutomationPeer](comboboxitemdataautomationpeer.md) class.
 
+
 ## -parameters
 ### -param item
 The item data.

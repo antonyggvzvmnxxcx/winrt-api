@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.ColumnDefinition GetAt(System.UInt32 index)
 ## -description
 Returns the [ColumnDefinition](columndefinition.md) located at the specified index.
 
+
+
 ## -parameters
 ### -param index
 The integer index for the value to retrieve.

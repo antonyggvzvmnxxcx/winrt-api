@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IIterator<Windows.UI.Composition.Visual> F
 ## -description
 Retrieves the first visual in the collection.
 
+
+
 ## -returns
 The first visual in the collection.
 

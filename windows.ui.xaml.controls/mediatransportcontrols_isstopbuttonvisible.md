@@ -12,6 +12,7 @@ public bool IsStopButtonVisible { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the stop button is shown.
 
+
 ## -xaml-syntax
 ```xaml
 

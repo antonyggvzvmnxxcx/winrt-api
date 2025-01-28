@@ -13,6 +13,8 @@ public event Windows.Foundation.TypedEventHandler CandidateWindowBoundsChanged<W
 
 Occurs when the Input Method Editor (IME) window open, updates, or closes.
 
+
+
 ## -xaml-syntax
 
 ```xaml

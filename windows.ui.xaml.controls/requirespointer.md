@@ -12,6 +12,7 @@ public enum Windows.UI.Xaml.Controls.RequiresPointer : int
 ## -description
 Defines constants that specify when an element requires a mouse-like pointer behavior from a game pad.
 
+
 ## -enum-fields
 ### -field Never:0
 The pointer never acts as a mouse.

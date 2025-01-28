@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ContentTemplateProperty { get; }
 ## -description
 Identifies the [ContentTemplate](contentpresenter_contenttemplate.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ContentTemplate](contentpresenter_contenttemplate.md) dependency property.
 

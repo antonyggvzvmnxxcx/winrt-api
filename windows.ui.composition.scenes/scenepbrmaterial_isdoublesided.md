@@ -14,6 +14,8 @@ public bool IsDoubleSided { get;  set; }
 
 Gets or sets a value that indicates whether the material has two sides.
 
+
+
 ## -property-value
 
 **true** if the material has two sides, **false** if the material has one side.

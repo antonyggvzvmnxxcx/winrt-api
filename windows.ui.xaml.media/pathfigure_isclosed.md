@@ -12,6 +12,8 @@ public bool IsClosed { get;  set; }
 ## -description
 Gets or sets a value that indicates whether this figure's first and last segments are connected.
 
+
+
 ## -xaml-syntax
 ```xaml
 <PathFigure IsClosed="bool"/>

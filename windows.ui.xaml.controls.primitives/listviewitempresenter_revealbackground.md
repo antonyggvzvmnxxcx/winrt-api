@@ -13,13 +13,15 @@ public Brush RevealBackground { get;  set; }
 
 Gets or sets the brush used to render the background of the reveal effect.
 
+
+
 ## -property-value
 
 The brush used to render the background of the reveal effect.
 
 ## -remarks
 
-For more info, see [Reveal](https://docs.microsoft.com/windows/uwp/style/reveal).
+For more info, see [Reveal](/windows/uwp/style/reveal).
 
 ## -see-also
 

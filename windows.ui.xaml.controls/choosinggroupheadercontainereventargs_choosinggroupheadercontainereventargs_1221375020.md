@@ -12,6 +12,7 @@ public ChoosingGroupHeaderContainerEventArgs()
 ## -description
 Initializes a new instance of the [ChoosingGroupHeaderContainerEventArgs](choosinggroupheadercontainereventargs.md) class.
 
+
 ## -remarks
 
 ## -examples

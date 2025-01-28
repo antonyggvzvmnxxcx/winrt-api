@@ -12,6 +12,8 @@ public class TickBar : Windows.UI.Xaml.FrameworkElement, Windows.UI.Xaml.Control
 ## -description
 Represents a tick mark on a [Slider](../windows.ui.xaml.controls/slider.md) control. Not intended for general use.
 
+
+
 ## -xaml-syntax
 ```xaml
 <TickBar .../>

@@ -12,6 +12,8 @@ public void Remove(Windows.UI.Composition.Visual child)
 ## -description
 Removes the specified visual instance from the collection.
 
+
+
 ## -parameters
 ### -param child
 The specified visual instance from the collection.

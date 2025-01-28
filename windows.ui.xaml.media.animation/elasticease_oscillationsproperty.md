@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty OscillationsProperty { get; }
 ## -description
 Identifies the [Oscillations](elasticease_oscillations.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Oscillations](elasticease_oscillations.md) dependency property.
 

@@ -12,6 +12,7 @@ public ToolTip()
 ## -description
 Initializes a new instance of the [ToolTip](tooltip.md) class.
 
+
 ## -remarks
 
 ## -examples

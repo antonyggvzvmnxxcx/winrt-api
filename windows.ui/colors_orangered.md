@@ -13,6 +13,8 @@ public Windows.UI.Color OrangeRed { get; }
 
 Gets the system-defined color that has an ARGB value of #FFFF4500.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFFF4500.

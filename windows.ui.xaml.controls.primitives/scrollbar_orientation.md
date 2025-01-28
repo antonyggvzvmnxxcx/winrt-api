@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.Orientation Orientation { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the [ScrollBar](scrollbar.md) is displayed horizontally or vertically.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ScrollBar Orientation="Horizontal"/>

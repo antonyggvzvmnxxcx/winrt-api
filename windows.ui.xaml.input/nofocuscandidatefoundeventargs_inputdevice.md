@@ -12,6 +12,8 @@ public FocusInputDeviceKind InputDevice { get; }
 ## -description
 Gets the input device type from which input events are received.
 
+
+
 ## -property-value
 The input device type.
 

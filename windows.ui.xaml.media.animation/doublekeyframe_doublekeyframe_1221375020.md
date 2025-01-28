@@ -12,6 +12,7 @@ protected DoubleKeyFrame()
 ## -description
 Provides base class initialization behavior for [DoubleKeyFrame](doublekeyframe.md)-derived classes.
 
+
 ## -remarks
 
 ## -examples

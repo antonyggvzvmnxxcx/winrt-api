@@ -12,6 +12,8 @@ public IAsyncOperation<bool> ListViewBase.TryStartConnectedAnimationAsync(Connec
 ## -description
 Attempts to start the animation.
 
+
+
 ## -parameters
 ## -param animation
 The animation to start.

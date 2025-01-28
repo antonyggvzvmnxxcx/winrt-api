@@ -12,6 +12,8 @@ public class ScrollContentPresenter : Windows.UI.Xaml.Controls.ContentPresenter,
 ## -description
 Displays the content of a [ScrollViewer](scrollviewer.md) control.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ScrollContentPresenter .../>

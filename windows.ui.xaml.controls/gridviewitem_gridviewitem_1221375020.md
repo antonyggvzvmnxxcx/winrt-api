@@ -12,6 +12,7 @@ public GridViewItem()
 ## -description
 Initializes a new instance of the [GridViewItem](gridviewitem.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,7 @@ public VisualState()
 ## -description
 Initializes a new instance of the [VisualState](visualstate.md) class.
 
+
 ## -remarks
 
 ## -examples

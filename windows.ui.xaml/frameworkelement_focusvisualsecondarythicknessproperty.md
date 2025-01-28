@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty FocusVisualSecondaryThicknessProperty 
 ## -description
 Identifies the [FocusVisualSecondaryThickness](frameworkelement_focusvisualsecondarythickness.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [FocusVisualSecondaryThickness](frameworkelement_focusvisualsecondarythickness.md)  dependency property.
 

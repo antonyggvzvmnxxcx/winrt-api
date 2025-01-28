@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty LocalOffsetZProperty { get; }
 ## -description
 Identifies the [LocalOffsetZ](planeprojection_localoffsetz.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [LocalOffsetZ](planeprojection_localoffsetz.md)  dependency property.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IndicesProperty { get; }
 ## -description
 Identifies the [Indices](glyphs_indices.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Indices](glyphs_indices.md) dependency property.
 

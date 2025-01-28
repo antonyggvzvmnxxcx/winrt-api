@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty GroupStyleSelectorProperty { get; }
 ## -description
 Identifies the [GroupStyleSelector](itemscontrol_groupstyleselector.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [GroupStyleSelector](itemscontrol_groupstyleselector.md) dependency property.
 

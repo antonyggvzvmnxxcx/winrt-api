@@ -12,14 +12,16 @@ public uint Size { get; }
 ## -description
 Gets the number of elements contained in the collection.
 
+
+
 ## -property-value
 The number of elements contained in the collection.
 
 ## -remarks
 > [!NOTE]
-> The equivalent Microsoft .NET  API is [Count](resourcedictionary_count.md).
+> The equivalent Microsoft .NET API is [Count](/dotnet/api/system.windows.resourcedictionary.count).
 
 ## -examples
 
 ## -see-also
-[Count](resourcedictionary_count.md), [ResourceDictionary and XAML resource references](https://docs.microsoft.com/windows/uwp/controls-and-patterns/resourcedictionary-and-xaml-resource-references)
+[Count](/dotnet/api/system.windows.resourcedictionary.count), [ResourceDictionary and XAML resource references](/windows/apps/design/style/xaml-resource-dictionary)

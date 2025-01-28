@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ItemsProperty { get; }
 ## -description
 Identifies the [Items](loopingselector_items.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Items](loopingselector_items.md) dependency property.
 

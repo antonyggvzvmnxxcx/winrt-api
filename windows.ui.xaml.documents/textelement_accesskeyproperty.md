@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty AccessKeyProperty { get; }
 ## -description
 Identifies the [AccessKey](textelement_accesskey.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [AccessKey](textelement_accesskey.md) dependency property.
 

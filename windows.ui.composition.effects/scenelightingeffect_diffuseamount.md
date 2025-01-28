@@ -12,6 +12,8 @@ public float DiffuseAmount { get;  set; }
 ## -description
 Intensity of the diffuse light.
 
+
+
 ## -property-value
 Intensity of the diffuse light.
 

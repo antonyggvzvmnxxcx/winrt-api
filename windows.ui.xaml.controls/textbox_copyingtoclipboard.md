@@ -13,6 +13,8 @@ public event TypedEventHandler CopyingToClipboard<TextBox, TextControlCopyingToC
 
 Occurs before copied text is moved to the clipboard.
 
+
+
 ## -xaml-syntax
 
 ```xaml

@@ -12,6 +12,8 @@ public void SetIsScrollInertiaEnabled(Windows.UI.Xaml.DependencyObject element, 
 ## -description
 Sets the value of the [IsScrollInertiaEnabled](scrollviewer_isscrollinertiaenabled.md) dependency property / `ScrollViewer.IsScrollInertiaEnabled` XAML attached property on a specified element.
 
+
+
 ## -parameters
 ### -param element
 The element on which to set the property value.

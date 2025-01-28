@@ -12,6 +12,8 @@ public int Interval { get;  set; }
 ## -description
 Gets or sets the time, in milliseconds, between repetitions of the click action, as soon as repeating starts.
 
+
+
 ## -xaml-syntax
 ```xaml
 <RepeatButton Interval="int"/>

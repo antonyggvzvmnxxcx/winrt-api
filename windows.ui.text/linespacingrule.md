@@ -12,6 +12,8 @@ public enum Windows.UI.Text.LineSpacingRule : int
 ## -description
 Specifies options for line-spacing rules.
 
+
+
 ## -enum-fields
 ### -field Undefined:0
 The line spacing is undefined.

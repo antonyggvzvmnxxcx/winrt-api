@@ -12,6 +12,8 @@ public bool IsSelected { get; }
 ## -description
 Gets a value that indicates whether an item is selected.
 
+
+
 ## -property-value
 **true** if the element is selected; otherwise, **false**.
 

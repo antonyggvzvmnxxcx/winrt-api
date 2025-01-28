@@ -12,6 +12,7 @@ public EllipseGeometry()
 ## -description
 Initializes a new instance of the [EllipseGeometry](ellipsegeometry.md) class.
 
+
 ## -remarks
 
 ## -examples

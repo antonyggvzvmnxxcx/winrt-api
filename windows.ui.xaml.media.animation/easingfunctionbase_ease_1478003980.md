@@ -12,6 +12,8 @@ public double Ease(System.Double normalizedTime)
 ## -description
 Transforms normalized time to control the pace of an animation.
 
+
+
 ## -parameters
 ### -param normalizedTime
 Normalized time (progress) of the animation.

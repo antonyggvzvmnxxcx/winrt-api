@@ -12,6 +12,7 @@ public VirtualizingStackPanel()
 ## -description
 Initializes a new instance of the [VirtualizingStackPanel](virtualizingstackpanel.md) class.
 
+
 ## -remarks
 
 ## -examples

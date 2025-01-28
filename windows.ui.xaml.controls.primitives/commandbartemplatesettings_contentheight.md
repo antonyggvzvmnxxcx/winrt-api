@@ -12,6 +12,8 @@ public double ContentHeight { get; }
 ## -description
 Gets the height of the [CommandBar](../windows.ui.xaml.controls/commandbar.md) content.
 
+
+
 ## -property-value
 The height of the [CommandBar](../windows.ui.xaml.controls/commandbar.md) content.
 

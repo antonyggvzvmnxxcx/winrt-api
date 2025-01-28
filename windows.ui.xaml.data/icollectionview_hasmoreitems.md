@@ -12,6 +12,8 @@ public bool HasMoreItems { get; }
 ## -description
 Gets a sentinel value that supports incremental loading implementations. See also [LoadMoreItemsAsync](icollectionview_loadmoreitemsasync_928705393.md).
 
+
+
 ## -property-value
 **true** if additional unloaded items remain in the view; otherwise, **false**.
 

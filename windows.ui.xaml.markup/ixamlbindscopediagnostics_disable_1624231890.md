@@ -14,6 +14,8 @@ public void IXamlBindScopeDiagnostics.Disable(Int32 lineNumber, Int32 columnNumb
 
 Disables a binding while running in a debugger.
 
+
+
 ## -parameters
 ### -param lineNumber
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.Primitives.ListViewItemPresenterCheckMode CheckM
 ## -description
 Gets or sets the style of checkbox shown for selecting an item.
 
+
+
 ## -xaml-syntax
 ```xaml
 <listViewItemPresenter CheckMode="checkModeMemberName"/>
@@ -29,4 +31,4 @@ A value of the enumeration that specifies the style of checkbox to show. The def
 ## -examples
 
 ## -see-also
-[XAML theme resources](https://docs.microsoft.com/windows/uwp/controls-and-patterns/xaml-theme-resources)
+[XAML theme resources](/windows/apps/design/style/xaml-theme-resources)

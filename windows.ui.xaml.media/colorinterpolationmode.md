@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Media.ColorInterpolationMode : int
 ## -description
 Determines how the colors in a gradient are interpolated.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object property="enumMemberName"/>

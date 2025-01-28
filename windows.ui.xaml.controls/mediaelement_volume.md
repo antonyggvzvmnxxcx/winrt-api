@@ -12,6 +12,7 @@ public double Volume { get;  set; }
 ## -description
 Gets or sets the media's volume.
 
+
 ## -xaml-syntax
 ```xaml
 <MediaElement Volume="double"/>

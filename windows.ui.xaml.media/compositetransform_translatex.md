@@ -12,6 +12,8 @@ public double TranslateX { get;  set; }
 ## -description
 Gets or sets the distance to translate along the x-axis.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CompositeTransform TranslateX="double"/>

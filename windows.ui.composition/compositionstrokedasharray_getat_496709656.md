@@ -13,6 +13,8 @@ public float CompositionStrokeDashArray.GetAt(UInt32 index)
 
 Returns the value located at the specified index.
 
+
+
 ## -parameters
 ### -param index
 

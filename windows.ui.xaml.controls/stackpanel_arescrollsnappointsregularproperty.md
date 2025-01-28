@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty AreScrollSnapPointsRegularProperty { g
 ## -description
 Identifies the AreScrollSnapPointsRegular dependency property.
 
+
+
 ## -property-value
 The identifier for the AreScrollSnapPointsRegular dependency property.
 

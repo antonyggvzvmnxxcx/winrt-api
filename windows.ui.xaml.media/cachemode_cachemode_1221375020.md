@@ -12,6 +12,7 @@ protected CacheMode()
 ## -description
 Provides base class initialization behavior for [CacheMode](cachemode.md) derived classes.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public bool Handled { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the failure event has been handled.
 
+
+
 ## -property-value
 **true** if the failure event is handled; **false** if the failure event is not yet handled.
 

@@ -12,6 +12,8 @@ public event Windows.Foundation.EventHandler VerticalSnapPointsChanged<object>
 ## -description
 Fires when the measurements for vertical snap points change.
 
+
+
 ## -xaml-syntax
 ```xaml
 <orientedVirtualizingPanel VerticalSnapPointsChanged="eventhandler" />

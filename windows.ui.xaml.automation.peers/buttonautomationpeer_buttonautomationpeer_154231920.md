@@ -12,6 +12,7 @@ public ButtonAutomationPeer(Windows.UI.Xaml.Controls.Button owner)
 ## -description
 Initializes a new instance of the [ButtonAutomationPeer](buttonautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The owner element to create for.

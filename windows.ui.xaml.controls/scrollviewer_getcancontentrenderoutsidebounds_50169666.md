@@ -14,6 +14,8 @@ public bool ScrollViewer.GetCanContentRenderOutsideBounds(DependencyObject eleme
 
 Gets the value of the [CanContentRenderOutsideBounds](scrollviewer_cancontentrenderoutsidebounds.md) dependency property / `ScrollViewer.CanContentRenderOutsideBounds` XAML attached property on a specified element.
 
+
+
 ## -parameters
 
 ### -param element

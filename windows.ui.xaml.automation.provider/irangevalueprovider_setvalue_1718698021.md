@@ -12,6 +12,8 @@ public void SetValue(System.Double value)
 ## -description
 Sets the value of the control.
 
+
+
 ## -parameters
 ### -param value
 The value to set.

@@ -12,6 +12,8 @@ public Windows.UI.Composition.LinearEasingFunction CreateLinearEasingFunction()
 ## -description
 Creates an instance of [LinearEasingFunction](lineareasingfunction.md).
 
+
+
 ## -returns
 Returns the created [LinearEasingFunction](lineareasingfunction.md) object.
 

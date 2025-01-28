@@ -12,6 +12,8 @@ public Windows.UI.Text.FontStretch FontStretch { get;  set; }
 ## -description
 Gets or sets the font stretch for the text content presented by the [ContentPresenter](contentpresenter.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentPresenter FontStretch="fontStretchMemberName"/>

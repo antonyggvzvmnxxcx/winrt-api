@@ -12,6 +12,8 @@ public void InvalidateScrollInfo()
 ## -description
 Called when the value of properties that describe the size and location of the scroll area change.
 
+
+
 ## -remarks
 
 ## -examples

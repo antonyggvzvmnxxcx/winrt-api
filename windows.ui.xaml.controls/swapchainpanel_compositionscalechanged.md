@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler CompositionScaleChanged<Window
 ## -description
 Occurs when the composition scale factor of the [SwapChainPanel](swapchainpanel.md) has changed.
 
+
+
 ## -xaml-syntax
 ```xaml
 <SwapChainPanel CompositionScaleChanged="eventhandler"/>

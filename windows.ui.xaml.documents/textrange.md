@@ -16,6 +16,8 @@ public struct TextRange  {
 
 Represents a selection of text content.
 
+
+
 ## -struct-fields
 
 ### -field Length

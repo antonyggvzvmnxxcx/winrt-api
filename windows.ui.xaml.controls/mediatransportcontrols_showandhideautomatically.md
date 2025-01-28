@@ -13,6 +13,7 @@ public bool ShowAndHideAutomatically { get;  set; }
 
 Gets or sets a value that indicates whether the controls are shown and hidden automatically.
 
+
 ## -xaml-syntax
 
 ```xaml

@@ -14,6 +14,8 @@ public DependencyProperty PlacementRectProperty { get; }
 
 Identifies the PlacementRect dependency property.
 
+
+
 ## -property-value
 
 The identifier for the PlacementRect dependency property.

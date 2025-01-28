@@ -12,6 +12,8 @@ public bool IsHitTestVisible { get;  set; }
 ## -description
 Gets or sets whether the contained area of this [UIElement](uielement.md) can return true values for hit testing.
 
+
+
 ## -xaml-syntax
 ```xaml
 <uiElement IsHitTestVisible="bool"/>
