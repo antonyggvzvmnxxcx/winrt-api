@@ -12,6 +12,8 @@ public object NewValue { get; }
 ## -description
 Gets the new [DataContext](frameworkelement_datacontext.md) value for the element where the [DataContextChanged](frameworkelement_datacontextchanged.md) event fired.
 
+
+
 ## -property-value
 An object representing the new [DataContext](frameworkelement_datacontext.md) value for the element where the [DataContextChanged](frameworkelement_datacontextchanged.md) event fired.
 

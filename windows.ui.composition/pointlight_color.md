@@ -12,6 +12,8 @@ public Windows.UI.Color Color { get;  set; }
 ## -description
 Color of the light.
 
+
+
 ## -property-value
 Color of the light.
 

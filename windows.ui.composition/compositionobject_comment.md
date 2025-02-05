@@ -12,6 +12,8 @@ public string Comment { get;  set; }
 ## -description
 A string to associate with the CompositionObject.
 
+
+
 ## -property-value
 A string to associate with the CompositionObject. Note that for Visual Studio's Live Visual Tree debugging tool, the name displayed for a particular visual will be pulled from its Comment property
 

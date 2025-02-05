@@ -13,6 +13,8 @@ public Windows.UI.Color White { get; }
 
 Gets the system-defined color that has the ARGB value of #FFFFFFFF.
 
+
+
 ## -property-value
 
 The system-defined color that has the ARGB value of #FFFFFFFF.

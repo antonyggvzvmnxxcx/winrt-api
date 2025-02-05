@@ -12,6 +12,8 @@ public int CharacterSpacing { get;  set; }
 ## -description
 Gets or sets the uniform spacing between characters, in units of 1/1000 of an em.
 
+
+
 ## -xaml-syntax
 ```xaml
 <control CharacterSpacing="int"/>

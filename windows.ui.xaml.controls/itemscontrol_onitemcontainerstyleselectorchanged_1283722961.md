@@ -12,6 +12,8 @@ virtual protected void OnItemContainerStyleSelectorChanged(Windows.UI.Xaml.Contr
 ## -description
 Invoked when the value of the [ItemContainerStyleSelector](itemscontrol_itemcontainerstyleselector.md) property changes.
 
+
+
 ## -parameters
 ### -param oldItemContainerStyleSelector
 The previous value of the [ItemContainerStyleSelector](itemscontrol_itemcontainerstyleselector.md) property.

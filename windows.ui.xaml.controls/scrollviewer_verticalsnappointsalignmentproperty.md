@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty VerticalSnapPointsAlignmentProperty { 
 ## -description
 Identifies the [VerticalSnapPointsAlignment](scrollviewer_verticalsnappointsalignment.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [VerticalSnapPointsAlignment](scrollviewer_verticalsnappointsalignment.md) dependency property.
 
@@ -20,3 +22,5 @@ The identifier for the [VerticalSnapPointsAlignment](scrollviewer_verticalsnappo
 ## -examples
 
 ## -see-also
+
+[Scroll viewer controls](/windows/uwp/design/controls-and-patterns/scroll-controls), [Guidelines for panning](/windows/uwp/design/input/guidelines-for-panning)

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty CanMaximizeProperty { get; 
 ## -description
 Identifies the [Maximizable](../windows.ui.xaml.automation.provider/iwindowprovider_maximizable.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

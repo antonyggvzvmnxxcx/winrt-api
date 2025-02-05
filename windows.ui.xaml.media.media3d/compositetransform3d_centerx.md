@@ -12,6 +12,8 @@ public double CenterX { get;  set; }
 ## -description
 Gets the x-coordinate of the center point in pixels for all transforms specified by the [CompositeTransform3D](compositetransform3d.md).
 
+
+
 ## -property-value
 The x-coordinate of the center point for all transforms specified by the [CompositeTransform3D](compositetransform3d.md). The default value is 0.
 

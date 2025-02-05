@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Input.Pointer Pointer { get; }
 ## -description
 Gets a reference to a pointer token.
 
+
+
 ## -property-value
 A pointer token.
 

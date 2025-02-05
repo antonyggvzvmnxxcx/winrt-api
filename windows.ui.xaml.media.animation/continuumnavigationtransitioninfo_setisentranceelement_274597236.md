@@ -12,6 +12,8 @@ public void SetIsEntranceElement(Windows.UI.Xaml.UIElement element, System.Boole
 ## -description
 Sets a Boolean value indicating if the specified **UIElement** is the entrance element for the continuum navigation.
 
+
+
 ## -parameters
 ### -param element
 The **UIElement** about which to set the entrance element indicator.
@@ -20,9 +22,10 @@ The **UIElement** about which to set the entrance element indicator.
 Set this value to **true** if *element* is the entrance element; otherwise set it to **false**.
 
 ## -remarks
-This method supports XAML usage of the [ContinuumNavigationTransitionInfo.IsEntranceElement](/uwp/api/windows.ui.xaml.media.animation.continuumnavigationtransitioninfo#xaml-attached-properties) attached property.
+This method supports XAML usage of the [ContinuumNavigationTransitionInfo.IsEntranceElement](continuumnavigationtransitioninfo_isentranceelement.md) attached property.
 
 ## -examples
 
 ## -see-also
-[ContinuumNavigationTransitionInfo.IsEntranceElement](/uwp/api/windows.ui.xaml.media.animation.continuumnavigationtransitioninfo#xaml-attached-properties)
+
+[ContinuumNavigationTransitionInfo.IsEntranceElement](continuumnavigationtransitioninfo_isentranceelement.md), [XAML attached properties](/windows/uwp/xaml-platform/attached-properties-overview)

@@ -12,6 +12,8 @@ public string GetTitle(Windows.UI.Xaml.DependencyObject element)
 ## -description
 Gets the title displayed on the picker control.
 
+
+
 ## -parameters
 ### -param element
 The dependency object for which to get the title.

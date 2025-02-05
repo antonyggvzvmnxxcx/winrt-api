@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty FontStretchProperty { get; }
 ## -description
 Identifies the [FontStretch](control_fontstretch.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [FontStretch](control_fontstretch.md) dependency property.
 

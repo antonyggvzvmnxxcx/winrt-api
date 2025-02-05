@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.ToggleState ToggleState { get; }
 ## -description
 Gets the toggle state of the control.
 
+
+
 ## -property-value
 The toggle state of the control.
 

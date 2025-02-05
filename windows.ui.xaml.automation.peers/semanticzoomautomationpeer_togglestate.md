@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.ToggleState ToggleState { get; }
 ## -description
 Gets a value that indicates whether the [Toggle](semanticzoomautomationpeer_toggle_7432421.md) method can be called and result in a toggled view.
 
+
+
 ## -property-value
 **true** if calling [Toggle](semanticzoomautomationpeer_toggle_7432421.md) will result in a toggled view; otherwise, **false**.
 

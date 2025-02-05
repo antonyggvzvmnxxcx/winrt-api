@@ -12,6 +12,8 @@ public DependencyProperty IsAccessKeyScopeProperty { get; }
 ## -description
 Identifies the **IsAccessKeyScope** dependency property.
 
+
+
 ## -property-value
 The identifier for the **IsAccessKeyScope** dependency property.
 

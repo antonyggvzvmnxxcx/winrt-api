@@ -12,6 +12,8 @@ public class PivotHeaderItem : Windows.UI.Xaml.Controls.ContentControl, Windows.
 ## -description
 Represents a header item in the specialized pivot header items control.
 
+
+
 ## -remarks
 
 ## -examples

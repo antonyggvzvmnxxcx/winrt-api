@@ -13,6 +13,8 @@ public class CompositionRoundedRectangleGeometry : CompositionGeometry, Composit
 
 Represents a rectangle shape of the specified size with rounded corners.
 
+
+
 ## -remarks
 
 ## -see-also

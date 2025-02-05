@@ -12,6 +12,7 @@ public GridViewHeaderItem()
 ## -description
 Initializes a new instance of the [GridViewHeaderItem](gridviewheaderitem.md) class.
 
+
 ## -remarks
 
 ## -examples

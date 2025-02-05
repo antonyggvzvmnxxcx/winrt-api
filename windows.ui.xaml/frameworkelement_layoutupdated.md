@@ -12,6 +12,8 @@ public event Windows.Foundation.EventHandler LayoutUpdated<object>
 ## -description
 Occurs when the layout of the visual tree changes, due to layout-relevant properties changing value or some other action that refreshes the layout.
 
+
+
 ## -xaml-syntax
 ```xaml
 <frameworkElement LayoutUpdated="eventhandler"/>

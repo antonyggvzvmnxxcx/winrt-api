@@ -12,6 +12,7 @@ public int NaturalVideoWidth { get; }
 ## -description
 Gets the width of the video associated with the media.
 
+
 ## -property-value
 The width of the video associated with the media. The default is 0.
 

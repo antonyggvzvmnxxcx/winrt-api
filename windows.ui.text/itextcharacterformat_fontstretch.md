@@ -12,6 +12,8 @@ public Windows.UI.Text.FontStretch FontStretch { get;  set; }
 ## -description
 Gets or sets the degree to which the font is stretched, compared to the normal aspect ratio of the font.
 
+
+
 ## -property-value
 The degree to which the font is stretched.
 

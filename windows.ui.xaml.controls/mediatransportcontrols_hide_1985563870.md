@@ -13,6 +13,7 @@ public void MediaTransportControls.Hide()
 
 Hides the transport controls if they're shown.
 
+
 ## -remarks
 
 ## -see-also

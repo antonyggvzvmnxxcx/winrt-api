@@ -12,6 +12,8 @@ public Windows.UI.Xaml.HorizontalAlignment HorizontalFirstOfMonthLabelAlignment 
 ## -description
 Gets or sets the horizontal alignment of the first-of-month banner text.
 
+
+
 ## -xaml-syntax
 ```xaml
 

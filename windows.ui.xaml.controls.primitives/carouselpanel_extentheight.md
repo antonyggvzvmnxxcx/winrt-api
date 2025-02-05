@@ -12,6 +12,8 @@ public double ExtentHeight { get; }
 ## -description
 Gets the vertical size of the panel extent.
 
+
+
 ## -property-value
 A value in pixels.
 

@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.FontEastAsianLanguage : int
 ## -description
 Provides a mechanism for selecting font-specific versions of glyphs for a specified East Asian writing system or language.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object property="enumMemberName"/>
@@ -52,7 +54,7 @@ Replaces simplified Kanji forms with their corresponding traditional forms. This
 
 
 ## -remarks
-This enumeration is used by the [Typography.EastAsianLanguage](/uwp/api/windows.ui.xaml.documents.typography#xaml-attached-properties) attached property.
+This enumeration is used by the [Typography.EastAsianLanguage](/uwp/api/windows.ui.xaml.documents.typography.eastasianlanguage) attached property.
 
 ## -examples
 

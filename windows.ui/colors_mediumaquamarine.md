@@ -13,6 +13,8 @@ public Windows.UI.Color MediumAquamarine { get; }
 
 Gets the system-defined color that has an ARGB value of #FF66CDAA.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FF66CDAA.

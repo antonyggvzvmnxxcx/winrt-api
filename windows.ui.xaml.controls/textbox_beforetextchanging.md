@@ -13,6 +13,8 @@ public event TypedEventHandler BeforeTextChanging<TextBox, TextBoxBeforeTextChan
 
 Occurs synchronously when the text in the text box starts to change, but before the **Text** property is updated.
 
+
+
 ## -xaml-syntax
 
 ```xaml

@@ -12,6 +12,7 @@ public ContentDialog()
 ## -description
 Initializes a new instance of the [ContentDialog](contentdialog.md) class.
 
+
 ## -remarks
 
 ## -examples

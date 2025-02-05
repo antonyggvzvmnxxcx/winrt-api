@@ -14,6 +14,8 @@ public DependencyProperty BackgroundSizingProperty { get; }
 
 Identifies the [BackgroundSizing](control_backgroundsizing.md) dependency property.
 
+
+
 ## -property-value
 
 The identifier for the [BackgroundSizing](control_backgroundsizing.md) dependency property.

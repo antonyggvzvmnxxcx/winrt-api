@@ -12,13 +12,12 @@ public object Header { get;  set; }
 ## -description
 Gets or sets the content for the hub header.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Hub Header="headerString"/>
-
-```
-
-```xaml
+- or -
 <Hub>
   <Hub.Header>
     headerObject

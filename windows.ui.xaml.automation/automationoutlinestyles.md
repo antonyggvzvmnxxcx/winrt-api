@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Automation.AutomationOutlineStyles : int
 ## -description
 Defines the outline style.
 
+
+
 ## -enum-fields
 ### -field None:0
 No outline.

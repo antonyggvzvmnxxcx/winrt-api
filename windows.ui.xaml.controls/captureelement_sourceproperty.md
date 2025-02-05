@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty SourceProperty { get; }
 ## -description
 Identifies the [Source](captureelement_source.md) dependency property.
 
+
 ## -property-value
 The identifier for the [Source](captureelement_source.md) dependency property.
 

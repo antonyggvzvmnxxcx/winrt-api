@@ -12,6 +12,7 @@ public bool IsNextTrackButtonVisible { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the next track button is shown.
 
+
 ## -xaml-syntax
 ```xaml
 

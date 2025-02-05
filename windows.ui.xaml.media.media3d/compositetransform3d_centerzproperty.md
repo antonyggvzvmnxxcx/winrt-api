@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty CenterZProperty { get; }
 ## -description
 Identifies the [CenterZ](compositetransform3d_centerz.md) dependency property.
 
+
+
 ## -property-value
 The [CenterZ](compositetransform3d_centerz.md) dependency property identifier.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.AlignmentX AlignmentX { get;  set; }
 ## -description
 Gets or sets the horizontal alignment of content in the [TileBrush](tilebrush.md) base tile.
 
+
+
 ## -xaml-syntax
 ```xaml
 <brush AlignmentX="Left"/>

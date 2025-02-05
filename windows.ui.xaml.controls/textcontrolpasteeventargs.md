@@ -12,6 +12,8 @@ public class TextControlPasteEventArgs : Windows.UI.Xaml.Controls.ITextControlPa
 ## -description
 Provides data for the text control **Paste** event.
 
+
+
 ## -remarks
 For more info, see the [Paste](textbox_paste.md) event.
 

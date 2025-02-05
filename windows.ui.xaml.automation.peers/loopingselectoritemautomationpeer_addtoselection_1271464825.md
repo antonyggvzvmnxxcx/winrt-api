@@ -12,6 +12,8 @@ public void AddToSelection()
 ## -description
 Adds the current element to the collection of selected items.
 
+
+
 ## -remarks
 
 ## -examples

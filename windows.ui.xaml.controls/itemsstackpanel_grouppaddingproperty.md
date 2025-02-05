@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty GroupPaddingProperty { get; }
 ## -description
 Identifies the [GroupPadding](itemsstackpanel_grouppadding.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [GroupPadding](itemsstackpanel_grouppadding.md) dependency property.
 

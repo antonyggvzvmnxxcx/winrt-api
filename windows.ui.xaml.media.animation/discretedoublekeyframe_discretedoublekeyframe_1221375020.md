@@ -12,6 +12,7 @@ public DiscreteDoubleKeyFrame()
 ## -description
 Initializes a new instance of the [DiscreteDoubleKeyFrame](discretedoublekeyframe.md) class.
 
+
 ## -remarks
 
 ## -examples

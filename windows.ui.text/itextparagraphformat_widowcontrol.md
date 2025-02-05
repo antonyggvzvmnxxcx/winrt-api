@@ -12,6 +12,8 @@ public Windows.UI.Text.FormatEffect WidowControl { get;  set; }
 ## -description
 Gets or sets whether widow and orphan suppression is on or off.
 
+
+
 ## -property-value
 The state of widow and orphan suppression.
 

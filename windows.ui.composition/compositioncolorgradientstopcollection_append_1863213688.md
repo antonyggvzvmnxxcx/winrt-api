@@ -13,6 +13,8 @@ public void CompositionColorGradientStopCollection.Append(CompositionColorGradie
 
 Adds a new item to the collection.
 
+
+
 ## -parameters
 ### -param value
 

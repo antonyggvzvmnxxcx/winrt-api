@@ -12,6 +12,8 @@ public void InsertAt(System.UInt32 index, Windows.UI.Xaml.TriggerAction value)
 ## -description
 Inserts the specified item at the specified index.
 
+
+
 ## -parameters
 ### -param index
 The index at which to set the value.
@@ -21,7 +23,7 @@ The value to set.
 
 ## -remarks
 > [!NOTE]
-> The equivalent Microsoft .NET  API is [Insert](triggeractioncollection_insert.md).
+> The equivalent Microsoft .NET API is [Insert](/dotnet/api/system.windows.triggeractioncollection.insert).
 
 ## -examples
 

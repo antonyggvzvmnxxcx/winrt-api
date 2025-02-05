@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ContentTargetNameProperty { get; }
 ## -description
 Identifies the [ContentTargetName](splitopenthemeanimation_contenttargetname.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ContentTargetName](splitopenthemeanimation_contenttargetname.md) dependency property.
 

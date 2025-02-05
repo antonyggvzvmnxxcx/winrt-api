@@ -13,6 +13,8 @@ public void CompositionColorGradientStopCollection.RemoveAtEnd()
 
 Removes the last item in the collection.
 
+
+
 ## -remarks
 
 ## -see-also

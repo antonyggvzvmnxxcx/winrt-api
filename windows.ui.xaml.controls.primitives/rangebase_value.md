@@ -12,6 +12,8 @@ public double Value { get;  set; }
 ## -description
 Gets or sets the current setting of the range control, which may be coerced.
 
+
+
 ## -xaml-syntax
 ```xaml
 <rangeBase Value="double"/>

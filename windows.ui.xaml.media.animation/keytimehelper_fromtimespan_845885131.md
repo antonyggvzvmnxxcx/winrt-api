@@ -10,7 +10,9 @@ public Windows.UI.Xaml.Media.Animation.KeyTime FromTimeSpan(Windows.Foundation.T
 # Windows.UI.Xaml.Media.Animation.KeyTimeHelper.FromTimeSpan
 
 ## -description
-Generates a new [KeyTime](keytime.md) with initial data based on the specified [TimeSpan](../windows.foundation/timespan.md). C# and Microsoft Visual Basic code should use [FromTimeSpan](keytime_fromtimespan.md) instead.
+Generates a new [KeyTime](keytime.md) with initial data based on the specified [TimeSpan](../windows.foundation/timespan.md).
+
+
 
 ## -parameters
 ### -param timeSpan

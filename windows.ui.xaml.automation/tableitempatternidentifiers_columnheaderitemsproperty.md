@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty ColumnHeaderItemsProperty {
 ## -description
 Identifies the automation property that retrieves all the column headers associated with a table item or cell.
 
+
+
 ## -property-value
 The automation property identifier.
 

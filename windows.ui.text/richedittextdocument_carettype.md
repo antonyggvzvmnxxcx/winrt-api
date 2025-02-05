@@ -12,6 +12,8 @@ public CaretType CaretType { get;  set; }
 ## -description
 Gets or sets the caret type.
 
+
+
 ## -property-value
 The caret type.
 

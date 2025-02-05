@@ -12,6 +12,8 @@ virtual protected void OnGroupStyleSelectorChanged(Windows.UI.Xaml.Controls.Grou
 ## -description
 Invoked when the value of the [GroupStyleSelector](itemscontrol_groupstyleselectorproperty.md) property changes.
 
+
+
 ## -parameters
 ### -param oldGroupStyleSelector
 The previous value of the [GroupStyleSelector](itemscontrol_groupstyleselectorproperty.md) property.

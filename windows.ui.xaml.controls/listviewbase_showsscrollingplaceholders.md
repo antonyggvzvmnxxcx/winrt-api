@@ -12,6 +12,8 @@ public bool ShowsScrollingPlaceholders { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the view shows placeholder UI for items during scrolling.
 
+
+
 ## -xaml-syntax
 ```xaml
 <listViewBase ShowsScrollingPlaceholders="bool" />

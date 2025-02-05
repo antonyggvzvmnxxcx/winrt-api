@@ -12,6 +12,8 @@ public bool CanResize { get; }
 ## -description
 Gets a value that indicates whether the element can be resized.
 
+
+
 ## -property-value
 **true** if the element can be resized; otherwise, **false**.
 

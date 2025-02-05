@@ -12,6 +12,7 @@ public VisualStateGroup()
 ## -description
 Initializes a new instance of the [VisualStateGroup](visualstategroup.md) class.
 
+
 ## -remarks
 
 ## -examples

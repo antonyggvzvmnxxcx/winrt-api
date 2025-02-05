@@ -12,6 +12,8 @@ public DependencyProperty KeyTipHorizontalOffsetProperty { get; }
 ## -description
 Identifies the [KeyTipHorizontalOffset](uielement_keytiphorizontaloffset.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [KeyTipHorizontalOffset](uielement_keytiphorizontaloffset.md) dependency property.
 

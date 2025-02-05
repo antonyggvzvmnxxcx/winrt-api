@@ -12,6 +12,8 @@ public Windows.UI.Text.FontStyle FontStyle { get;  set; }
 ## -description
 Gets or sets the style in which the text is rendered.
 
+
+
 ## -xaml-syntax
 ```xaml
 <control FontStyle="fontStyleMemberName" />

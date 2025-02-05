@@ -12,6 +12,8 @@ public void RaisePropertyChangedEvent(Windows.UI.Xaml.Automation.AutomationPrope
 ## -description
 Raises an event to notify the automation client of a changed property value.
 
+
+
 ## -parameters
 ### -param automationProperty
 The property that changed.

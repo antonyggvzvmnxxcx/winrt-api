@@ -12,6 +12,8 @@ public uint GetMany(System.UInt32 startIndex, System.Object[] items)
 ## -description
 Retrieves multiple elements in a single pass through the iterator.
 
+
+
 ## -parameters
 ### -param startIndex
 The index from which to start retrieval.

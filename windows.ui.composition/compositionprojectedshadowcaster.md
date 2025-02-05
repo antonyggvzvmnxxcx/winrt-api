@@ -14,6 +14,8 @@ public class CompositionProjectedShadowCaster : CompositionObject, CompositionOb
 
 Represents an object that casts a projected shadow.
 
+
+
 ## -remarks
 
 ## -see-also

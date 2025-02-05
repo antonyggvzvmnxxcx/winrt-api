@@ -12,6 +12,8 @@ public Windows.UI.Text.LineSpacingRule LineSpacingRule { get; }
 ## -description
 Gets the paragraph line-spacing rule.
 
+
+
 ## -property-value
 The paragraph line-spacing rule.
 

@@ -12,6 +12,8 @@ public Windows.Foundation.TimeSpan RenderingTime { get; }
 ## -description
 Gets the time when the frame rendered, for timing purposes
 
+
+
 ## -property-value
 The time when the frame rendered.
 

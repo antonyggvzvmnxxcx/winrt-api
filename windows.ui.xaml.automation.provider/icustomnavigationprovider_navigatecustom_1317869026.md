@@ -12,6 +12,8 @@ public object NavigateCustom(Windows.UI.Xaml.Automation.Peers.AutomationNavigati
 ## -description
 Gets the next element in the specified direction within the logical UI tree.
 
+
+
 ## -parameters
 ### -param direction
 The specified direction.

@@ -14,6 +14,8 @@ public DependencyProperty SelectionFlyoutProperty { get; }
 
 Identifies the [SelectionFlyout](richeditbox_selectionflyout.md) dependency property.
 
+
+
 ## -property-value
 
 The identifier for the [SelectionFlyout](richeditbox_selectionflyout.md) dependency property.

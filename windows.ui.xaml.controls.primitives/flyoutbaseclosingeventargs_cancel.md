@@ -12,6 +12,8 @@ public bool Cancel { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the flyout should be prevented from closing.
 
+
+
 ## -property-value
 **true** to prevent the flyout from closing; otherwise, **false**.
 

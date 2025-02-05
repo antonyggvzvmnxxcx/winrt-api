@@ -14,6 +14,8 @@ public SceneComponentType ComponentType { get; }
 
 Gets a value that indicates what kind of component this is.
 
+
+
 ## -property-value
 
 A value of the enumeration that indicates what kind of component this is.

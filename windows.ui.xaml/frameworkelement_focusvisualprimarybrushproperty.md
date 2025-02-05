@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty FocusVisualPrimaryBrushProperty { get;
 ## -description
 Identifies the [FocusVisualPrimaryBrush](frameworkelement_focusvisualprimarybrush.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [FocusVisualPrimaryBrush](frameworkelement_focusvisualprimarybrush.md)  dependency property.
 

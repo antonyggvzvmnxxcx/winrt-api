@@ -13,6 +13,8 @@ public event Windows.Foundation.TypedEventHandler TextChanging<Windows.UI.Xaml.C
 
 Occurs synchronously when the text in the text box starts to change, but before it is rendered.
 
+
+
 ## -xaml-syntax
 
 ```xaml

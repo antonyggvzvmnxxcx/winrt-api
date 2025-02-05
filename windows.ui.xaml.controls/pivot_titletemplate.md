@@ -12,12 +12,12 @@ public Windows.UI.Xaml.DataTemplate TitleTemplate { get;  set; }
 ## -description
 Gets or sets the title template used for displaying the title above the headers area.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Pivot TitleTemplate="resourceReferenceToDataTemplate"/>
-```
-
-```xaml
+- or -
 <Pivot>
   <Pivot.TitleTemplate>
      <DataTemplate>

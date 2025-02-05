@@ -13,6 +13,8 @@ public class SpringScalarNaturalMotionAnimation : ScalarNaturalMotionAnimation, 
 
 A spring physics-based animation that targets any Scalar-based property.
 
+
+
 ## -remarks
 
 ## -see-also

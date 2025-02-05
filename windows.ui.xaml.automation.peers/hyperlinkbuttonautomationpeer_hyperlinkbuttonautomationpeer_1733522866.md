@@ -12,6 +12,7 @@ public HyperlinkButtonAutomationPeer(Windows.UI.Xaml.Controls.HyperlinkButton ow
 ## -description
 Initializes a new instance of the [HyperlinkButtonAutomationPeer](hyperlinkbuttonautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The owner element to create for.

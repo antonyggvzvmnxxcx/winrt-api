@@ -12,6 +12,7 @@ public ToggleSwitch()
 ## -description
 Initializes a new instance of the ToggleSwitch class.
 
+
 ## -remarks
 
 ## -examples

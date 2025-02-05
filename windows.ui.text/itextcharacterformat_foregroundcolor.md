@@ -12,6 +12,8 @@ public Windows.UI.Color ForegroundColor { get;  set; }
 ## -description
 Gets or sets the foreground, or text, color.
 
+
+
 ## -property-value
 The foreground color.
 

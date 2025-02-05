@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler RenderingDeviceReplaced<Window
 ## -description
 Event triggered when the rendering device has been replaced.
 
+
+
 ## -remarks
 
 ## -examples

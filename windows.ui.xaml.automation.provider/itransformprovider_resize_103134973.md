@@ -12,6 +12,8 @@ public void Resize(System.Double width, System.Double height)
 ## -description
 Resizes the control.
 
+
+
 ## -parameters
 ### -param width
 The new width of the window, in pixels.

@@ -13,13 +13,13 @@ public object Header { get;  set; }
 
 Gets or sets the header content.
 
+Equivalent **WinUI 2 API for UWP**: [Microsoft.UI.Xaml.Controls.NavigationView.Header](/windows/winui/api/microsoft.ui.xaml.controls.navigationview.header) (for WinUI in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -xaml-syntax
 
 ```xaml
 <NavigationView Header="headerString"/>
-```
-
-```xaml
+- or -
 <NavigationView>
   <NavigationView.Header>
     headerObject

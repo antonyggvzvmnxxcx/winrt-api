@@ -10,33 +10,13 @@ public class DownloadOperation : Windows.Networking.BackgroundTransfer.IBackgrou
 # Windows.Networking.BackgroundTransfer.DownloadOperation
 
 ## -description
-Performs an asynchronous download operation. The [Background Transfer sample](https://go.microsoft.com/fwlink/p/?linkid=245064) demonstrates this functionality. For an overview of Background Transfer capabilities, see [Transferring data in the background](https://docs.microsoft.com/previous-versions/windows/apps/hh452979(v=win.10)). Download the [Background Transfer sample](https://go.microsoft.com/fwlink/p/?linkid=245064) for examples in JavaScript, C#, and C++/CX.
+Performs an asynchronous download operation. The [Background transfer sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/BackgroundTransfer) demonstrates this functionality. For an overview of Background Transfer capabilities, see [Transferring data in the background](/previous-versions/windows/apps/hh452979(v=win.10)).
 
 ## -examples
-The following example demonstrates how to configure and begin a basic download operation, and is based on the [Background Transfer sample](https://go.microsoft.com/fwlink/p/?linkid=245064) offered in the Windows Sample Gallery.
 
-```javascript
-var download = null;
-var promise = null;
+Sample applications that use this class include the [Background transfer sample](/samples/microsoft/windows-universal-samples/backgroundtransfer/).
 
-function DownloadFile (uriString, fileName) {
-    try {
-        // Asynchronously create the file in the pictures folder.
-        Windows.Storage.KnownFolders.picturesLibrary.createFileAsync(fileName, Windows.Storage.CreationCollisionOption.generateUniqueName).done(function (newFile) {
-            var uri = Windows.Foundation.Uri(uriString);
-            var downloader = new Windows.Networking.BackgroundTransfer.BackgroundDownloader();
-
-            // Create a new download operation.
-            download = downloader.createDownload(uri, newFile);
-
-            // Start the download and persist the promise to be able to cancel the download.
-            promise = download.startAsync().then(complete, error, progress);
-        }, error);
-    } catch (err) {
-        displayException(err);
-    }
-};
-```
+The following example demonstrates how to configure and begin a basic download operation.
 
 ```csharp
 using Windows.Foundation;
@@ -69,7 +49,7 @@ private async void StartDownload_Click(object sender, RoutedEventArgs e)
 ## -remarks
 At next start-up after application termination, your application should enumerate all existing DownloadOperation instances using [GetCurrentDownloadsAsync](backgrounddownloader_getcurrentdownloadsasync_1101292265.md). When a UWP application using Background Transfer is terminated, incomplete downloads persist in the background. If your application is restarted after termination and these incomplete operations are not enumerated and re-introduced to the current session, then they will go stale and continue to occupy device resources.
 
-Background transfer doesn't support concurrent downloads of the same [Uri](../windows.foundation/uri.md). So an app can download *http://example.com/myfile.wmv* once, or download it again after a previous download completed. An app shouldn't start two downloads of the same [Uri](../windows.foundation/uri.md) concurrently, since this may result in truncated files.
+Background transfer doesn't support concurrent downloads of the same [Uri](../windows.foundation/uri.md). So an app can download *`http://example.com/myfile.wmv`* once, or download it again after a previous download completed. An app shouldn't start two downloads of the same [Uri](../windows.foundation/uri.md) concurrently, since this may result in truncated files.
 
 > [!NOTE]
 > Paused or incomplete download operations can only be resumed if the server accepts range-requests.
@@ -97,9 +77,11 @@ However, if Microsoft Visual Studio project updates, like changes to the app man
 | 1709 | 16299 | RangesDownloaded |
 | 1709 | 16299 | RecoverableWebErrorStatuses |
 | 1803 | 17134 | MakeCurrentInTransferGroup |
+| 2004 | 19041 | RemoveRequestHeader |
+| 2004 | 19041 | SetRequestHeader |
 
 ## -see-also
-[Quickstart: Download a file](https://docs.microsoft.com/previous-versions/windows/apps/hh700370(v=win.10)), [Background Transfer sample](https://go.microsoft.com/fwlink/p/?linkid=245064)
+[Quickstart: Download a file](/previous-versions/windows/apps/hh700370(v=win.10)), [Background transfer sample](/samples/microsoft/windows-universal-samples/backgroundtransfer/), [Background transfer sample (Windows 8.x)](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Background%20Transfer%20sample)
 
 ## -capabilities
 internetClient, internetClientServer, privateNetworkClientServer

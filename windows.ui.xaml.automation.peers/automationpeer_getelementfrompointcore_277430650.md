@@ -12,6 +12,8 @@ virtual protected object GetElementFromPointCore(Windows.Foundation.Point pointI
 ## -description
 Provides the behavior of the peer when a Microsoft UI Automation client calls [GetElementFromPoint](automationpeer_getelementfrompoint_1217124515.md) or an equivalent Microsoft UI Automation client API.
 
+
+
 ## -parameters
 ### -param pointInWindowCoordinates
 The specified point.

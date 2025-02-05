@@ -12,6 +12,8 @@ public Windows.UI.Xaml.VisualState OldState { get;  set; }
 ## -description
 Gets the state the [Control](../windows.ui.xaml.controls/control.md) is changing from or has changed from.
 
+
+
 ## -property-value
 The state the [Control](../windows.ui.xaml.controls/control.md) is changing from or has changed from.
 

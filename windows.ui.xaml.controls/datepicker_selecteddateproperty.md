@@ -14,6 +14,8 @@ public DependencyProperty SelectedDateProperty { get; }
 
 Identifies the [SelectedDate](datepicker_selecteddate.md) dependency property.
 
+
+
 ## -property-value
 
 The identifier for the [SelectedDate](datepicker_selecteddate.md) dependency property.

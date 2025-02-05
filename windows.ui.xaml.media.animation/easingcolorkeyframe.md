@@ -12,6 +12,8 @@ public class EasingColorKeyFrame : Windows.UI.Xaml.Media.Animation.ColorKeyFrame
 ## -description
 Associates easing functions with a [ColorAnimationUsingKeyFrames](coloranimationusingkeyframes.md) key-frame animation.
 
+
+
 ## -xaml-syntax
 ```xaml
 <EasingColorKeyFrame .../>

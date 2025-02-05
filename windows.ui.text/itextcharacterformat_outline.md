@@ -12,6 +12,8 @@ public Windows.UI.Text.FormatEffect Outline { get;  set; }
 ## -description
 Gets or sets whether characters are displayed as outlined characters.
 
+
+
 ## -property-value
 The outlined state.
 

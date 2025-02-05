@@ -12,6 +12,8 @@ public int MaxLength { get;  set; }
 ## -description
 Gets or sets the maximum length for passwords to be handled by this [PasswordBox](passwordbox.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <PasswordBox MaxLength="int"/>

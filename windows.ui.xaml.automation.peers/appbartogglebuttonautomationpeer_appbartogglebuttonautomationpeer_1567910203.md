@@ -12,6 +12,7 @@ public AppBarToggleButtonAutomationPeer(Windows.UI.Xaml.Controls.AppBarToggleBut
 ## -description
 Initializes a new instance of the [AppBarToggleButtonAutomationPeer](appbartogglebuttonautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [AppBarToggleButton](../windows.ui.xaml.controls/appbartogglebutton.md) to create the peer for.

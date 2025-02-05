@@ -12,6 +12,8 @@ public double MinWindowHeight { get;  set; }
 ## -description
 Gets or sets the minimum window height at which the [VisualState](visualstate.md) should be applied.
 
+
+
 ## -xaml-syntax
 ```xaml
 <AdaptiveTrigger MinWindowHeight="double" .../>

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty HorizontalSnapPointsTypeProperty { get
 ## -description
 Identifies the [HorizontalSnapPointsType](scrollviewer_horizontalsnappointstype.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [HorizontalSnapPointsType](scrollviewer_horizontalsnappointstype.md) dependency property.
 

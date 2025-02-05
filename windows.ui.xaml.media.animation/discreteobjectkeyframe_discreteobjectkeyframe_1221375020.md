@@ -12,6 +12,7 @@ public DiscreteObjectKeyFrame()
 ## -description
 Initializes a new instance of the [DiscreteObjectKeyFrame](discreteobjectkeyframe.md) class.
 
+
 ## -remarks
 
 ## -examples

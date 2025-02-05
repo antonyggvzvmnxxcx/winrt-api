@@ -12,6 +12,7 @@ public RectangleGeometry()
 ## -description
 Initializes a new instance of the [RectangleGeometry](rectanglegeometry.md) class and creates a rectangle with zero area.
 
+
 ## -remarks
 
 ## -examples

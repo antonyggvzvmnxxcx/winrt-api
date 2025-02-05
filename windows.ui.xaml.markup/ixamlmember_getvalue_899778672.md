@@ -12,6 +12,8 @@ public object GetValue(System.Object instance)
 ## -description
 Provides a get-value utility for this [IXamlMember](ixamlmember.md).
 
+
+
 ## -parameters
 ### -param instance
 The object instance to get the member value from.

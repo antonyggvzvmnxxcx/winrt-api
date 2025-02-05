@@ -12,6 +12,8 @@ public object PrimaryButtonCommandParameter { get;  set; }
 ## -description
 Gets or sets the parameter to pass to the command for the primary button.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentDialog>
@@ -19,9 +21,7 @@ Gets or sets the parameter to pass to the command for the primary button.
     object
   </ContentDialog.PrimaryButtonCommandParameter>
 </ContentDialog>
-```
-
-```xaml
+- or -
 <ContentDialog PrimaryButtonCommandParameter="objectAsString"/>
 ```
 

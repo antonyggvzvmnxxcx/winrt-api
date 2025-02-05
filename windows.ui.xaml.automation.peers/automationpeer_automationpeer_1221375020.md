@@ -12,6 +12,7 @@ protected AutomationPeer()
 ## -description
 Provides base class initialization behavior for [AutomationPeer](automationpeer.md) derived classes.
 
+
 ## -remarks
 
 ## -examples

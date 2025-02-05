@@ -12,6 +12,8 @@ public double RotationAngle { get;  set; }
 ## -description
 Gets or sets the amount (in degrees) by which the ellipse is rotated about the x-axis.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ArcSegment RotationAngle="double"/>

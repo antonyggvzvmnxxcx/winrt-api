@@ -12,6 +12,8 @@ public Windows.UI.Text.FontStyle FirstOfMonthLabelFontStyle { get;  set; }
 ## -description
 Gets or sets the font style used to display the first-of-month banner in the calendar.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarView FirstOfMonthLabelFontStyle="fontStyleMemberName" />

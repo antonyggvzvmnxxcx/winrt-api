@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Documents.TextPointer ContentStart { get; }
 ## -description
 Gets a [TextPointer](../windows.ui.xaml.documents/textpointer.md) object for the start of text content in the [TextBlock](textblock.md).
 
+
+
 ## -property-value
 A [TextPointer](../windows.ui.xaml.documents/textpointer.md) object for the start of text content in the [TextBlock](textblock.md).
 

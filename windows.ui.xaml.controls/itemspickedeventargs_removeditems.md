@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IVector<object> RemovedItems { get; }
 ## -description
 Gets the collection of items that were unselected.
 
+
+
 ## -property-value
 The collection of items that were unselected.
 

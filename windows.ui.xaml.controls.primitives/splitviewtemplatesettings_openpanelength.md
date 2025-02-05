@@ -12,6 +12,8 @@ public double OpenPaneLength { get; }
 ## -description
 Gets the [OpenPaneLength](../windows.ui.xaml.controls/splitview_openpanelength.md) value.
 
+
+
 ## -property-value
 The [OpenPaneLength](../windows.ui.xaml.controls/splitview_openpanelength.md) value.
 

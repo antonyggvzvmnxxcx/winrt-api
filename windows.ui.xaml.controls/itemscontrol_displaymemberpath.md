@@ -12,6 +12,8 @@ public string DisplayMemberPath { get;  set; }
 ## -description
 Gets or sets the name or path of the property that is displayed for each data item.
 
+
+
 ## -xaml-syntax
 ```xaml
 <itemsControl DisplayMemberPath="propertyPath"/>

@@ -12,6 +12,7 @@ public ListViewItemAutomationPeer(Windows.UI.Xaml.Controls.ListViewItem owner)
 ## -description
 Initializes a new instance of the [ListViewItemAutomationPeer](listviewitemautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [ListViewItem](../windows.ui.xaml.controls/listviewitem.md) to create a peer for.

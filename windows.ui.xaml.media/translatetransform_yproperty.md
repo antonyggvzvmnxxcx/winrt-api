@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty YProperty { get; }
 ## -description
 Identifies the [Y](translatetransform_y.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Y](translatetransform_y.md) dependency property.
 

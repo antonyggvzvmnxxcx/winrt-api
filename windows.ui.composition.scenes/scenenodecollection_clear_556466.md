@@ -14,6 +14,8 @@ public void SceneNodeCollection.Clear()
 
 Removes all items from the collection.
 
+
+
 ## -remarks
 
 ## -see-also

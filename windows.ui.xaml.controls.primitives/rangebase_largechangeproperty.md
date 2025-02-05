@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty LargeChangeProperty { get; }
 ## -description
 Identifies the [LargeChange](rangebase_largechange.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [LargeChange](rangebase_largechange.md) dependency property.
 

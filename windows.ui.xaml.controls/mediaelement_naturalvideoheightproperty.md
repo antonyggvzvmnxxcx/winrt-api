@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty NaturalVideoHeightProperty { get; }
 ## -description
 Identifies the [NaturalVideoHeight](mediaelement_naturalvideoheight.md) dependency property.
 
+
 ## -property-value
 The identifier for the [NaturalVideoHeight](mediaelement_naturalvideoheight.md) dependency property.
 

@@ -12,6 +12,8 @@ public enum Windows.UI.Composition.CompositionBackfaceVisibility : int
 ## -description
 Specifies whether the back face of a visual is visible during a 3D transform.
 
+
+
 ## -enum-fields
 ### -field Inherit:0
 Inherit the back face visibility value.

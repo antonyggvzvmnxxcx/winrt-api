@@ -13,6 +13,8 @@ public DependencyProperty DisabledFormattingAcceleratorsProperty { get; }
 
 Identifies the DisabledFormattingAccelerators dependency property.
 
+
+
 ## -property-value
 
 The identifier for the DisabledFormattingAccelerators dependency property.

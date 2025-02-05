@@ -12,6 +12,8 @@ public DependencyProperty CloseButtonStyleProperty { get; }
 ## -description
 Gets the identifier of the CloseButtonStyle dependency property.
 
+
+
 ## -property-value
 The identifier of the CloseButtonStyle dependency property.
 

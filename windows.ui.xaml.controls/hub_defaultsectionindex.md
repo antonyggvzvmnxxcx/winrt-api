@@ -12,6 +12,8 @@ public int DefaultSectionIndex { get;  set; }
 ## -description
 Gets or sets the index of the hub section to show first when the [Hub](hub.md) is initialized.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Hub DefaultSectionIndex=int/>

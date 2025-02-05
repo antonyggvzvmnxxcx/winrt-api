@@ -12,6 +12,8 @@ public string TextMemberPath { get;  set; }
 ## -description
 Gets or sets the property path that is used to get the value for display in the text box portion of the [AutoSuggestBox](autosuggestbox.md) control, when an item is selected.
 
+
+
 ## -xaml-syntax
 ```xaml
 <AutoSuggestBox TextMemberPath="propertyName"/>

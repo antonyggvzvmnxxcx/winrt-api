@@ -12,6 +12,7 @@ public TriggerActionCollection()
 ## -description
 Initializes a new instance of the [TriggerActionCollection](triggeractioncollection.md) class.
 
+
 ## -remarks
 
 ## -examples

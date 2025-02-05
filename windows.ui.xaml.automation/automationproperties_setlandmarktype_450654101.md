@@ -12,6 +12,8 @@ public void SetLandmarkType(Windows.UI.Xaml.DependencyObject element, Windows.UI
 ## -description
 Sets the value of the landmark type attached property for the specified [DependencyObject](../windows.ui.xaml/dependencyobject.md).
 
+
+
 ## -parameters
 ### -param element
 The specified [DependencyObject](../windows.ui.xaml/dependencyobject.md).
@@ -24,3 +26,5 @@ The value of the landmark type property.
 ## -examples
 
 ## -see-also
+
+[AutomationProperties.LandmarkType](automationproperties_landmarktype.md), [XAML attached properties](/windows/uwp/xaml-platform/attached-properties-overview)

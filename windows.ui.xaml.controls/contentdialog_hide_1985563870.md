@@ -12,6 +12,8 @@ public void Hide()
 ## -description
 Hides the dialog.
 
+
+
 ## -remarks
 
 ## -examples

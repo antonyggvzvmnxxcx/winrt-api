@@ -12,6 +12,8 @@ public void Close()
 ## -description
 Closes the app bar.
 
+
+
 ## -remarks
 
 ## -examples

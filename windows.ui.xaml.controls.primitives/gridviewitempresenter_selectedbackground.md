@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Brush SelectedBackground { get;  set; }
 ## -description
 Gets or sets the brush used to render the background of an item that's selected.
 
+
+
 ## -xaml-syntax
 ```xaml
 <GridViewItemPresenter SelectedBackground="themeResourceReference"/>
@@ -35,4 +37,4 @@ If you're setting this property as an attribute on a custom [GridViewItemPresent
 ## -examples
 
 ## -see-also
-[XAML theme resources](https://docs.microsoft.com/windows/uwp/controls-and-patterns/xaml-theme-resources)
+[XAML theme resources](/windows/apps/design/style/xaml-theme-resources)

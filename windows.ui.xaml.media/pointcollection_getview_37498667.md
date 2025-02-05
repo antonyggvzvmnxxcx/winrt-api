@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IVectorView<Windows.Foundation.Point> GetV
 ## -description
 Gets an immutable view into the collection.
 
+
+
 ## -returns
 An object representing the immutable collection view.
 

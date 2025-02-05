@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty IsFastForwardButtonVisibleProperty { g
 ## -description
 Identifies the [IsFastForwardButtonVisible](mediatransportcontrols_isfastforwardbuttonvisible.md) dependency property.
 
+
 ## -property-value
 The identifier for the [IsFastForwardButtonVisible](mediatransportcontrols_isfastforwardbuttonvisible.md) dependency property.
 

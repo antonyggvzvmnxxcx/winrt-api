@@ -12,6 +12,8 @@ public Windows.Foundation.TimeSpan GetCurrentTime()
 ## -description
 Gets the current animation clock time of the [Storyboard](storyboard.md).
 
+
+
 ## -returns
 The current animation time of the [Storyboard](storyboard.md) per the running animation clock, or **null** if the animation clock is **Stopped**.
 
@@ -20,4 +22,4 @@ The current animation time of the [Storyboard](storyboard.md) per the running an
 ## -examples
 
 ## -see-also
-[GetCurrentState](storyboard_getcurrentstate_114562419.md), [Storyboarded animations](https://docs.microsoft.com/windows/uwp/graphics/storyboarded-animations)
+[GetCurrentState](storyboard_getcurrentstate_114562419.md), [Storyboarded animations](/windows/uwp/graphics/storyboarded-animations)

@@ -13,6 +13,8 @@ public CharacterCasing CharacterCasing { get;  set; }
 
 Gets or sets a value that indicates how the control modifies the case of characters as they are typed.
 
+
+
 ## -xaml-syntax
 
 ```xaml

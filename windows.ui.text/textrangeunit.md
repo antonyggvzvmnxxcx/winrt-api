@@ -12,6 +12,8 @@ public enum Windows.UI.Text.TextRangeUnit : int
 ## -description
 Specifies the units to use when navigating a text range.
 
+
+
 ## -enum-fields
 ### -field Character:0
 A single character.

@@ -12,6 +12,8 @@ public XYFocusNavigationStrategy XYFocusUpNavigationStrategy { get;  set; }
 ## -description
 Gets or sets a value that specifies the strategy used to determine the target element of an up navigation.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Hyperlink XYFocusUpNavigationStrategy="xyFocusNavigationStrategyMemberName"/>

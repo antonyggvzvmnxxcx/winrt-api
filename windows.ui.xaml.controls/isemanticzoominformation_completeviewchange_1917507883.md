@@ -12,6 +12,8 @@ public void CompleteViewChange()
 ## -description
 Changes related aspects of presentation (such as scrolling UI or state) when the overall view for a [SemanticZoom](isemanticzoominformation.md) changes.
 
+
+
 ## -remarks
 
 ## -examples

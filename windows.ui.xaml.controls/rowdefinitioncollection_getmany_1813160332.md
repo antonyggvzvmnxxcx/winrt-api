@@ -12,6 +12,8 @@ public uint GetMany(System.UInt32 startIndex, Windows.UI.Xaml.Controls.RowDefini
 ## -description
 Retrieves multiple elements in a single pass through the iterator.
 
+
+
 ## -parameters
 ### -param startIndex
 The index from which to start retrieval.

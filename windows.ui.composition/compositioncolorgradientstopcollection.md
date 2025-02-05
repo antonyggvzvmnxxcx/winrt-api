@@ -13,6 +13,8 @@ public class CompositionColorGradientStopCollection : IIterable<CompositionColor
 
 Represents a collection of [CompositionColorGradientStop](compositioncolorgradientstop.md) objects that can be individually accessed by index.
 
+
+
 ## -remarks
 
 ## -see-also

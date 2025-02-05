@@ -13,6 +13,8 @@ public void RichEditTextRange.Copy()
 
 Copies the text of the text range to the Clipboard.
 
+
+
 ## -remarks
 
 ## -see-also

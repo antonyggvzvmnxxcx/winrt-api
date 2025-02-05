@@ -13,6 +13,8 @@ public class CompositionDebugHeatMaps
 
 Represents heatmaps that show overdrawn areas of a composition UI.
 
+
+
 ## -remarks
 
 ## -see-also

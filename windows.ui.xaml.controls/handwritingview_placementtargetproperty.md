@@ -11,17 +11,17 @@ public DependencyProperty PlacementTargetProperty { get; }
 
 ## -description
 
-Identifies the PlacementTarget dependency property.
+Identifies the [PlacementTarget](handwritingview_placementtarget.md) dependency property.
 
 ## -property-value
 
-The identifier for the PlacementTarget dependency property.
+The identifier for the [PlacementTarget](handwritingview_placementtarget.md) dependency property.
 
 ## -remarks
 
 ## -see-also
 
-[Text input with the handwriting view](https://docs.microsoft.com/windows/uwp/design/controls-and-patterns/text-handwriting-view)
+[Text input with the handwriting view](/windows/uwp/design/controls-and-patterns/text-handwriting-view)
 
 ## -examples
 

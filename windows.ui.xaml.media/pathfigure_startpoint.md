@@ -12,6 +12,8 @@ public Windows.Foundation.Point StartPoint { get;  set; }
 ## -description
 Gets or sets the [Point](../windows.foundation/point.md) where the [PathFigure](pathfigure.md) begins.
 
+
+
 ## -xaml-syntax
 ```xaml
 <PathFigure StartPoint="x,y"/>

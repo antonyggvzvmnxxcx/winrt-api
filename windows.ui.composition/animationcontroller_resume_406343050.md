@@ -13,6 +13,8 @@ public void AnimationController.Resume()
 
 Starts playback of an animation that was previously paused.
 
+
+
 ## -remarks
 
 ## -see-also

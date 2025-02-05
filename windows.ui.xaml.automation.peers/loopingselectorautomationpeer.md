@@ -12,6 +12,8 @@ public class LoopingSelectorAutomationPeer : Windows.UI.Xaml.Automation.Peers.Fr
 ## -description
 Exposes [LoopingSelector](../windows.ui.xaml.controls.primitives/loopingselector.md) types to Microsoft UI Automation.
 
+
+
 ## -remarks
 
 

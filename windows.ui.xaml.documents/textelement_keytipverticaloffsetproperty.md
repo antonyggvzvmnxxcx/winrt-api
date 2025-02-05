@@ -12,6 +12,8 @@ public DependencyProperty KeyTipVerticalOffsetProperty { get; }
 ## -description
 Identifies the **KeyTipVerticalOffset** dependency property.
 
+
+
 ## -property-value
 The identifier for the **KeyTipVerticalOffset** dependency property.
 

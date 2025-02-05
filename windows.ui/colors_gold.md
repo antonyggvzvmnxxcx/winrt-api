@@ -13,6 +13,8 @@ public Windows.UI.Color Gold { get; }
 
 Gets the system-defined color that has an ARGB value of #FFFFD700.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFFFD700.

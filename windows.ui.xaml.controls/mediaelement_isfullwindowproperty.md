@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty IsFullWindowProperty { get; }
 ## -description
 Identifies the [IsFullWindow](mediaelement_isfullwindow.md) dependency property.
 
+
 ## -property-value
 The identifier for the [IsFullWindow](mediaelement_isfullwindow.md) dependency property.
 

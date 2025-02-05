@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Navigation.NavigationMode NavigationMode { get; }
 ## -description
 Gets the value of the *mode* parameter from the originating [Navigate](/uwp/api/windows.ui.xaml.controls.frame.navigate) call.
 
+
+
 ## -property-value
 The value of the *mode* parameter from the originating [Navigate](/uwp/api/windows.ui.xaml.controls.frame.navigate) call.
 

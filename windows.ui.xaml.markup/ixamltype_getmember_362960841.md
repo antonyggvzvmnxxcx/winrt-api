@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Markup.IXamlMember GetMember(System.String name)
 ## -description
 Returns the [IXamlMember](ixamlmember.md) information for a specific named member from this [IXamlType](ixamltype.md).
 
+
+
 ## -parameters
 ### -param name
 The name of the member to get (as a string).

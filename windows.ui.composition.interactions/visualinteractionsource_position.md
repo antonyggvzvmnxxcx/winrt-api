@@ -12,6 +12,8 @@ public Vector3 Position { get; }
 ## -description
 The total amount of position change since the start of the interaction. Defaults to 0. Readable only via expression/animation.
 
+
+
 ## -property-value
 The position of the interaction source.
 

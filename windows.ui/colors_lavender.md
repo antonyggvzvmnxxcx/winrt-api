@@ -13,6 +13,8 @@ public Windows.UI.Color Lavender { get; }
 
 Gets the system-defined color that has an ARGB value of #FFE6E6FA.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFE6E6FA.

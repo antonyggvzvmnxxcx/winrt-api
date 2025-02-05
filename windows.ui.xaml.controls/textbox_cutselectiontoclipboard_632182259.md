@@ -14,6 +14,8 @@ public void TextBox.CutSelectionToClipboard()
 
 Moves the selected content to the Windows clipboard and removes it from the text control.
 
+
+
 ## -remarks
 
 ## -see-also

@@ -10,11 +10,13 @@ public void SetStylisticSet8(Windows.UI.Xaml.DependencyObject element, System.Bo
 # Windows.UI.Xaml.Documents.Typography.SetStylisticSet8
 
 ## -description
-Sets the value of the [StylisticSet8](/uwp/api/windows.ui.xaml.documents.typography#xaml-attached-properties) attached property for a specified dependency object.
+Sets the value of the [StylisticSet8](typography_stylisticset8.md) attached property for a specified dependency object.
+
+
 
 ## -parameters
 ### -param element
-The dependency object for which to set the value of the [StylisticSet8](/uwp/api/windows.ui.xaml.documents.typography#xaml-attached-properties) property.
+The dependency object for which to set the value of the [StylisticSet8](typography_stylisticset8.md) property.
 
 ### -param value
 The new value to set the property to.
@@ -24,3 +26,5 @@ The new value to set the property to.
 ## -examples
 
 ## -see-also
+
+[Typography.StylisticSet8](typography_stylisticset8.md), [Attached properties overview](/windows/uwp/xaml-platform/attached-properties-overview)

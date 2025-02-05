@@ -12,6 +12,8 @@ public double HorizontalScrollPercent { get; }
 ## -description
 Gets the current horizontal scroll position.
 
+
+
 ## -property-value
 The horizontal scroll position as a percentage of the total content area within the control.
 

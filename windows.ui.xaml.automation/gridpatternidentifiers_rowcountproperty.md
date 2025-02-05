@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty RowCountProperty { get; }
 ## -description
 Identifies the [RowCount](../windows.ui.xaml.automation.provider/igridprovider_rowcount.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

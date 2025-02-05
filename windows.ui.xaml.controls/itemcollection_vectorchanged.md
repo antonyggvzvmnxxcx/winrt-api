@@ -12,6 +12,8 @@ public event Windows.Foundation.Collections.VectorChangedEventHandler VectorChan
 ## -description
 Occurs when the items list of the collection has changed, or the collection is reset.
 
+
+
 ## -remarks
 
 ## -examples

@@ -13,6 +13,8 @@ public VisualUnorderedCollection ExclusionsFromTargets { get; }
 
 Gets a collection of Visuals that are not targeted by the light.
 
+
+
 ## -property-value
 
 The collection of Visuals that are not targeted by the light.

@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.Controls.Primitives.DragDeltaEventHandler DragDelta
 ## -description
 Fires one or more times as the mouse pointer is moved when a [Thumb](thumb.md) control has logical focus and mouse capture.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Thumb DragDelta="eventhandler"/>

@@ -12,6 +12,7 @@ public DoubleCollection()
 ## -description
 Initializes a new instance of the [DoubleCollection](doublecollection.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public class DragItemsCompletedEventArgs : Windows.UI.Xaml.Controls.IDragItemsCo
 ## -description
 Provides event data for the [DragItemsCompleted](listviewbase_dragitemscompleted.md) event.
 
+
+
 ## -remarks
 
 ## -examples

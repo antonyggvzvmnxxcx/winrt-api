@@ -14,6 +14,8 @@ public object Parameter { get; }
 
 Gets the command parameter passed into the [Execute](icommand_execute_171295283.md) method that raised this event.
 
+
+
 ## -property-value
 
 ## -remarks

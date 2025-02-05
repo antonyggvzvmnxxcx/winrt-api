@@ -12,6 +12,8 @@ public int Expand(Windows.UI.Text.TextRangeUnit unit)
 ## -description
 Expands a text range to completely contain any partial text units.
 
+
+
 ## -parameters
 ### -param unit
 The text unit to use to expand the range. The default value is **Word**.

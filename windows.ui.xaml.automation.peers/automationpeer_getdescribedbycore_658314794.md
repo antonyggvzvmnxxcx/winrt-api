@@ -12,6 +12,8 @@ virtual protected Windows.Foundation.Collections.IIterable<Windows.UI.Xaml.Autom
 ## -description
 Gets a collection of elements that provide more information about the automation element.
 
+
+
 ## -returns
 A collection of elements that provide more information about the automation element.
 

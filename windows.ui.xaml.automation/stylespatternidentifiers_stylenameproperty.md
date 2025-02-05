@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty StyleNameProperty { get; }
 ## -description
 Identifies the [StyleName](../windows.ui.xaml.automation.provider/istylesprovider_stylename.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

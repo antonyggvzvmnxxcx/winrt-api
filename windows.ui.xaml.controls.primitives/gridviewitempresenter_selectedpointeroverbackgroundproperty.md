@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty SelectedPointerOverBackgroundProperty 
 ## -description
 Identifies the [SelectedPointerOverBackground](gridviewitempresenter_selectedpointeroverbackground.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [SelectedPointerOverBackground](gridviewitempresenter_selectedpointeroverbackground.md) dependency property.
 

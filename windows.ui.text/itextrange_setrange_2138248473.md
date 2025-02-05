@@ -12,6 +12,8 @@ public void SetRange(System.Int32 startPosition, System.Int32 endPosition)
 ## -description
 Sets the endpoints of the text range to the specified values.
 
+
+
 ## -parameters
 ### -param startPosition
 The character position for the start of the text range. This parameter must be less than *endPosition*.

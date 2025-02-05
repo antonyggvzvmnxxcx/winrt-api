@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Automation.AutomationTextDecorationLineStyle : int
 ## -description
 Defines the line style of text decorations.
 
+
+
 ## -enum-fields
 ### -field None:0
 No text decoration.

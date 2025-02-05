@@ -14,6 +14,8 @@ Occurs when
 <!--the StopLoading method is called, or when -->
 a new navigation is requested while a current navigation is in progress.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Frame NavigationStopped="eventhandler" />

@@ -10,7 +10,10 @@ public string GetFullDescription(Windows.UI.Xaml.DependencyObject element)
 # Windows.UI.Xaml.Automation.AutomationProperties.GetFullDescription
 
 ## -description
-Gets a localized string that describes the visual appearance or contents of the specified [DependencyObject](../windows.ui.xaml/dependencyobject.md).
+
+Gets the value of the [AutomationProperties.FullDescription](automationproperties_fulldescription.md) property for the specified [DependencyObject](../windows.ui.xaml/dependencyobject.md).
+
+
 
 ## -parameters
 ### -param element
@@ -24,3 +27,5 @@ A localized string that describes the visual appearance or contents of the objec
 ## -examples
 
 ## -see-also
+
+[AutomationProperties.FullDescription](automationproperties_fulldescription.md), [XAML attached properties](/windows/uwp/xaml-platform/attached-properties-overview)

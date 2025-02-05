@@ -12,13 +12,12 @@ public double DragOpacity { get;  set; }
 ## -description
 Gets or sets the opacity of an item that's being dragged.
 
+
+
 ## -xaml-syntax
 ```xaml
 <listViewItemPresenterDragOpacity="themeResourceReference"/>
-
-```
-
-```xaml
+- or -
 <listViewItemPresenter DragOpacity="double"/>
 ```
 

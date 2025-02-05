@@ -12,6 +12,8 @@ public void InsertAtTop(Windows.UI.Composition.Visual newChild)
 ## -description
 Inserts a new visual at the top of the visual collection.
 
+
+
 ## -parameters
 ### -param newChild
 The new visual to insert.

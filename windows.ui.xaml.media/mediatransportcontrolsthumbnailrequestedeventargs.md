@@ -12,6 +12,7 @@ public class MediaTransportControlsThumbnailRequestedEventArgs : Windows.UI.Xaml
 ## -description
 Provides data for the MediaTransportControls.ThumbnailRequested event.
 
+
 ## -remarks
 
 ## -examples

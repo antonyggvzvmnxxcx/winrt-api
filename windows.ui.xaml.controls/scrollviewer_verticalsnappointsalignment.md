@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.Primitives.SnapPointsAlignment VerticalSnapPoint
 ## -description
 Gets or sets a value that indicates how the existing snap points are vertically aligned versus the initial viewport.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ScrollViewer VerticalSnapPointsAlignment="snapPointsAlignmentMemberName" />

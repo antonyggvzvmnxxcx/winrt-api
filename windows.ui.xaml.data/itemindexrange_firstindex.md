@@ -12,6 +12,8 @@ public int FirstIndex { get; }
 ## -description
 Gets the index of the first item in the instance of the [ItemIndexRange](itemindexrange.md) class.
 
+
+
 ## -property-value
 The index of the first item in the instance of the [ItemIndexRange](itemindexrange.md) class.
 

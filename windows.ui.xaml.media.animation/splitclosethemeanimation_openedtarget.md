@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyObject OpenedTarget { get;  set; }
 ## -description
 Gets or sets the UI element that will be clipped.
 
+
+
 ## -property-value
 The UI element that will be clipped.
 

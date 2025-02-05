@@ -13,6 +13,8 @@ public DependencyProperty XYFocusDownNavigationStrategyProperty { get; }
 
 Identifies the [XYFocusDownNavigationStrategy](uielement_xyfocusdownnavigationstrategy.md) dependency property.
 
+
+
 ## -property-value
 
 The identifier for the [XYFocusDownNavigationStrategy](uielement_xyfocusdownnavigationstrategy.md) dependency property.

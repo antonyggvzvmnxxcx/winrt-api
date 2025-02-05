@@ -12,8 +12,12 @@ public string Target { get;  set; }
 ## -description
 The target of the animation.
 
+
+
 ## -property-value
 The target of the animation.
+
+For a list of animatable properties, see the remarks on [CompostionObject.StartAnimation](compositionobject_startanimation_709050842.md).
 
 ## -remarks
 

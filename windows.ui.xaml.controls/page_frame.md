@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.Frame Frame { get; }
 ## -description
 Gets the controlling [Frame](frame.md) for the [Page](page.md) content.
 
+
+
 ## -property-value
 The controlling [Frame](frame.md) for the [Page](page.md) content.
 

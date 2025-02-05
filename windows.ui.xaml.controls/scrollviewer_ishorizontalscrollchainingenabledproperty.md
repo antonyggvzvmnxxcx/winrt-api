@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsHorizontalScrollChainingEnabledPrope
 ## -description
 Identifies the [IsHorizontalScrollChainingEnabled](scrollviewer_ishorizontalscrollchainingenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsHorizontalScrollChainingEnabled](scrollviewer_ishorizontalscrollchainingenabled.md) dependency property.
 

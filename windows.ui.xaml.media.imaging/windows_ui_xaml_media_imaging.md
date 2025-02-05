@@ -9,6 +9,8 @@
 
 Provides types related to imaging and obtaining resources and source files for bitmap images.
 
+
+
 ## -remarks
 
 ## -examples

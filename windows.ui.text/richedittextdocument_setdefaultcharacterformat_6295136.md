@@ -12,6 +12,8 @@ public void RichEditTextDocument.SetDefaultCharacterFormat(ITextCharacterFormat 
 ## -description
 Sets the default character formatting attributes of the document.
 
+
+
 ## -parameters
 
 ### -param value

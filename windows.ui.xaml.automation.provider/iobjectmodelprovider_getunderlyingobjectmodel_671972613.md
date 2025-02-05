@@ -12,6 +12,8 @@ public object GetUnderlyingObjectModel()
 ## -description
 Returns an interface used to access the underlying object model of the provider.
 
+
+
 ## -returns
 An untyped interface for accessing the underlying object model.
 

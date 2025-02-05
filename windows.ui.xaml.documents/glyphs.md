@@ -12,6 +12,8 @@ public class Glyphs : Windows.UI.Xaml.FrameworkElement, Windows.UI.Xaml.Document
 ## -description
 Provides a visual representation of letters, characters, or symbols, in a specific font and style.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Glyphs><Fill>singleBrush</Fill></Glyphs>

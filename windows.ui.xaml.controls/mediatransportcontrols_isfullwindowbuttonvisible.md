@@ -12,6 +12,7 @@ public bool IsFullWindowButtonVisible { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the full screen button is shown.
 
+
 ## -xaml-syntax
 ```xaml
 

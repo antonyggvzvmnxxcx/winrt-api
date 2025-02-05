@@ -14,6 +14,8 @@ public void SelectAll()
 
 Selects the entire contents in the [TextBlock](textblock.md).
 
+
+
 ## -remarks
 
 > [!IMPORTANT]

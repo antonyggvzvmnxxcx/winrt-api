@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty IsLoopingProperty { get; }
 ## -description
 Identifies the [IsLooping](mediaelement_islooping.md) dependency property.
 
+
 ## -property-value
 The identifier for the [IsLooping](mediaelement_islooping.md) dependency property.
 

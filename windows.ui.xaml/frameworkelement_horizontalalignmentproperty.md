@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty HorizontalAlignmentProperty { get; }
 ## -description
 Identifies the [HorizontalAlignment](frameworkelement_horizontalalignment.md)  dependency property.
 
+
+
 ## -property-value
 The [HorizontalAlignment](frameworkelement_horizontalalignment.md)  dependency property identifier.
 

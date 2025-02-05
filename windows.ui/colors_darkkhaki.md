@@ -13,6 +13,8 @@ public Windows.UI.Color DarkKhaki { get; }
 
 Gets the system-defined color that has an ARGB value of #FFBDB76B.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFBDB76B.

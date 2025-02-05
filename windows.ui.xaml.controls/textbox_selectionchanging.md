@@ -14,6 +14,8 @@ public event TypedEventHandler SelectionChanging<TextBox, TextBoxSelectionChangi
 
 Occurs when the text selection starts to change.
 
+
+
 ## -xaml-syntax
 
 ```xaml

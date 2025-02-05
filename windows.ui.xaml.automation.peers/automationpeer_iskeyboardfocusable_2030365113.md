@@ -12,6 +12,7 @@ public bool IsKeyboardFocusable()
 ## -description
 Gets a value that indicates whether the element can accept keyboard focus.
 
+
 ## -returns
 **true** if the element can accept keyboard focus; otherwise, **false**.
 

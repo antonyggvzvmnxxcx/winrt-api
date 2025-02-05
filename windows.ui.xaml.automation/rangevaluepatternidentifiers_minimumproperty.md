@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty MinimumProperty { get; }
 ## -description
 Identifies the [Minimum](../windows.ui.xaml.automation.provider/irangevalueprovider_minimum.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

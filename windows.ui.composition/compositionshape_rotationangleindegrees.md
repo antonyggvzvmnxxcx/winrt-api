@@ -13,6 +13,8 @@ public float RotationAngleInDegrees { get;  set; }
 
 Gets or sets the rotation angle of the shape in degrees.
 
+
+
 ## -property-value
 
 The rotation angle of the shape in degrees.

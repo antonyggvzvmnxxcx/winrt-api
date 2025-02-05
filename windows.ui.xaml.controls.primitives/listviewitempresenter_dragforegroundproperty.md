@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty DragForegroundProperty { get; }
 ## -description
 Identifies the [DragForeground](listviewitempresenter_dragforeground.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [DragForeground](listviewitempresenter_dragforeground.md) dependency property.
 

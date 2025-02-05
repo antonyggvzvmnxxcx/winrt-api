@@ -13,6 +13,8 @@ public void RichEditTextRange.MatchSelection()
 
 Sets the start and end positions of this range to match the active selection.
 
+
+
 ## -remarks
 
 ## -see-also

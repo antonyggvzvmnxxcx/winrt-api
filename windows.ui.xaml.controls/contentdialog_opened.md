@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler Opened<Windows.UI.Xaml.Control
 ## -description
 Occurs after the dialog is opened.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentDialog Opened="eventhandler"/>

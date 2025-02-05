@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TextTrimmingProperty { get; }
 ## -description
 Identifies the [TextTrimming](textblock_texttrimming.md) dependency property.
 
+
+
 ## -property-value
 The identifier of the [TextTrimming](textblock_texttrimming.md) dependency property.
 

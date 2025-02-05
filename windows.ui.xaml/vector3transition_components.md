@@ -13,6 +13,8 @@ public Vector3TransitionComponents Components { get;  set; }
 ## -description
 Gets or sets a value that specifies whether to animate changes in the three subchannels of the Vector3.
 
+
+
 ## -property-value
 
 A value that specifies whether to animate changes in the subchannels of the Vector3.

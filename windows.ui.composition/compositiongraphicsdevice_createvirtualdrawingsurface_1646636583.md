@@ -12,6 +12,8 @@ public CompositionVirtualDrawingSurface CompositionGraphicsDevice.CreateVirtualD
 ## -description
 Creates an instance of CompositionVirtualDrawingSurface.
 
+
+
 ## -parameters
 
 ### -param sizePixels

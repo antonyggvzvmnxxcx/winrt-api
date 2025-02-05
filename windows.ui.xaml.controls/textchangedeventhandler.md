@@ -12,6 +12,8 @@ public delegate void TextChangedEventHandler(System.Object sender, Windows.UI.Xa
 
 Represents the method that will handle the [TextChanged](textbox_textchanged.md) event.
 
+
+
 ## -parameters
 
 ### -param sender

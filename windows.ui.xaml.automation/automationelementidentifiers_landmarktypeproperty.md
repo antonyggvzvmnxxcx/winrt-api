@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty LandmarkTypeProperty { get;
 ## -description
 Gets the identifier for the landmark type automation property.
 
+
+
 ## -property-value
 The identifier for the landmark type automation property.
 

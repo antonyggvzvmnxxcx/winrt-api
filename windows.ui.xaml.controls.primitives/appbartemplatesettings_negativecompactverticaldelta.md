@@ -14,6 +14,8 @@ public double NegativeCompactVerticalDelta { get; }
 
 Gets the negative vertical delta of the [AppBar](../windows.ui.xaml.controls/appbar.md) in the compact state.
 
+
+
 ## -property-value
 
 The negative vertical delta of the [AppBar](../windows.ui.xaml.controls/appbar.md) in the compact state.

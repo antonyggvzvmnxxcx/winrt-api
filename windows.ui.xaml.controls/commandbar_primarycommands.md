@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IObservableVector<Windows.UI.Xaml.Controls
 ## -description
 Gets the collection of primary command elements for the [CommandBar](commandbar.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <CommandBar>

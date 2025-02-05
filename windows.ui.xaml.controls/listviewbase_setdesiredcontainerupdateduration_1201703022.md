@@ -12,6 +12,8 @@ public void SetDesiredContainerUpdateDuration(Windows.Foundation.TimeSpan durati
 ## -description
 Sets the maximum target time between two render passes when a [ListViewBase](listviewbase.md) is updating its UI with data items during initial load or scrolling.
 
+
+
 ## -parameters
 ### -param duration
 The maximum target time between two render passes.

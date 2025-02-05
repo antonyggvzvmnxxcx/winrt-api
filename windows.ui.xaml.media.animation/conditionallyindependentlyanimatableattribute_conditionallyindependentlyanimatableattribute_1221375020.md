@@ -12,6 +12,7 @@ public ConditionallyIndependentlyAnimatableAttribute()
 ## -description
 Initializes a new instance of the [ConditionallyIndependentlyAnimatableAttribute](conditionallyindependentlyanimatableattribute.md) class.
 
+
 ## -remarks
 
 ## -examples

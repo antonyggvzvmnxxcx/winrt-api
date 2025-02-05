@@ -13,6 +13,8 @@ public Windows.UI.Color MidnightBlue { get; }
 
 Gets the system-defined color that has an ARGB value of #FF191970.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FF191970.

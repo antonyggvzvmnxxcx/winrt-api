@@ -12,6 +12,8 @@ public Windows.UI.Composition.ImplicitAnimationCollection ImplicitAnimations { g
 ## -description
 The collection of implicit animations attached to this object.
 
+
+
 ## -property-value
 The collection of implicit animations attached to this object.
 

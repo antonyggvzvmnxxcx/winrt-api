@@ -13,6 +13,7 @@ public int XamlDirect.GetInt32Property(IXamlDirectObject xamlDirectObject, XamlP
 ## -description
 Gets the value of an _Int32_ property for a specific [IXamlDirectObject](ixamldirectobject.md).
 
+
 ## -parameters
 ### -param xamlDirectObject
 A reference to the specific [IXamlDirectObject](ixamldirectobject.md).

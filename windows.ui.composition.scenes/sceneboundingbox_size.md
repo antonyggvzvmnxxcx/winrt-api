@@ -14,6 +14,8 @@ public Vector3 Size { get; }
 
 Gets the size of the bounding box.
 
+
+
 ## -property-value
 
 The size of the bounding box.

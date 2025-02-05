@@ -12,6 +12,7 @@ public TimelineCollection()
 ## -description
 Initializes a new instance of the [TimelineCollection](timelinecollection.md) class.
 
+
 ## -remarks
 
 ## -examples

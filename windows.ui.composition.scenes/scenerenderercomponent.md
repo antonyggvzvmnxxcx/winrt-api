@@ -14,6 +14,8 @@ public class SceneRendererComponent : SceneComponent, SceneComponent
 
 Represents the base class for scene rendering components.
 
+
+
 ## -remarks
 
 ## -see-also

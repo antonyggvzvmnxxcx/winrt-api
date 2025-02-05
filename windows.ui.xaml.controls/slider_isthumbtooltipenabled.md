@@ -12,6 +12,8 @@ public bool IsThumbToolTipEnabled { get;  set; }
 ## -description
 Gets or sets a value that determines whether the slider value is shown in a tool tip for the [Thumb](../windows.ui.xaml.controls.primitives/thumb.md) component of the [Slider](slider.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <Slider IsThumbToolTipEnabled="bool" />

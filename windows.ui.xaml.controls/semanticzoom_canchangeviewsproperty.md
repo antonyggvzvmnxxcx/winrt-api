@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty CanChangeViewsProperty { get; }
 ## -description
 Identifies the [CanChangeViews](semanticzoom_canchangeviews.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [CanChangeViews](semanticzoom_canchangeviews.md) dependency property.
 

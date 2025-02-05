@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty SweepDirectionProperty { get; }
 ## -description
 Identifies the [SweepDirection](arcsegment_sweepdirection.md) dependency property.
 
+
+
 ## -property-value
 The [SweepDirection](arcsegment_sweepdirection.md) dependency property identifier.
 

@@ -13,6 +13,8 @@ public ScalarTransition OpacityTransition { get;  set; }
 ## -description
 Gets or sets the ScalarTransition that animates changes to the Opacity property.
 
+
+
 ## -property-value
 
 ## -remarks

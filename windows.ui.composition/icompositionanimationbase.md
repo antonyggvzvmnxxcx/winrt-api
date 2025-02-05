@@ -12,6 +12,8 @@ public interface ICompositionAnimationBase :
 ## -description
 Base class for composition animations.
 
+
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,7 @@ protected RangeBase()
 ## -description
 Provides base class initialization behavior for [RangeBase](rangebase.md)-derived classes.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsDirectionReversedProperty { get; }
 ## -description
 Identifies the [IsDirectionReversed](slider_isdirectionreversed.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsDirectionReversed](slider_isdirectionreversed.md) dependency property.
 

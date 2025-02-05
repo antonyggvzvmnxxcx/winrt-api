@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Automation.AutomationBulletStyle : int
 ## -description
 Defines the style of bullets used by the automation.
 
+
+
 ## -enum-fields
 ### -field None:0
 No bullets.

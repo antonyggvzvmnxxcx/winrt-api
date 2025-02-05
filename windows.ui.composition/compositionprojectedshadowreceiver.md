@@ -14,6 +14,8 @@ public class CompositionProjectedShadowReceiver : CompositionObject, Composition
 
 Represents an object that can have a projected shadow cast on it.
 
+
+
 ## -remarks
 
 ## -see-also

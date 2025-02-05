@@ -18,6 +18,8 @@ Defines how interactions are processed for an [VisualInteractionSource](visualin
     **EnabledWithoutInertia**
   . This property must be enabled to allow the [VisualInteractionSource](visualinteractionsource.md) to send scale data to [InteractionTracker](interactiontracker.md).
 
+
+
 ## -property-value
 Source mode for the scale axis.
 

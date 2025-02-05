@@ -12,6 +12,8 @@ public class ToggleSwitchTemplateSettings : Windows.UI.Xaml.DependencyObject, Wi
 ## -description
 Provides calculated values that can be referenced as **TemplatedParent** sources when defining templates for a [ToggleSwitch](../windows.ui.xaml.controls/toggleswitch.md) control. Not intended for general use.
 
+
+
 ## -remarks
 
 ## -examples

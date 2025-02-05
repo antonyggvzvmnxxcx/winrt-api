@@ -12,6 +12,8 @@ public double TranslateY { get;  set; }
 ## -description
 Gets or sets the distance to translate (move) an object along the y-axis.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CompositeTransform TranslateY="double"/>

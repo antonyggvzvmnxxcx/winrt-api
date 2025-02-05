@@ -12,6 +12,8 @@ public class LineBreak : Windows.UI.Xaml.Documents.Inline, Windows.UI.Xaml.Docum
 ## -description
 Represents an inline element that causes a new line to begin in content when rendered in a text container.
 
+
+
 ## -xaml-syntax
 ```xaml
 <LineBreak />

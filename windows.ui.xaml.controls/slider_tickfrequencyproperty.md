@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TickFrequencyProperty { get; }
 ## -description
 Identifies the [TickFrequency](slider_tickfrequency.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [TickFrequency](slider_tickfrequency.md) dependency property.
 

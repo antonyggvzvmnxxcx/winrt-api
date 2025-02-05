@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty CharacterSpacingProperty { get; }
 ## -description
 Identifies the [CharacterSpacing](richtextblock_characterspacing.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [CharacterSpacing](richtextblock_characterspacing.md) dependency property.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TopAppBarProperty { get; }
 ## -description
 Identifies the [TopAppBar](page_topappbar.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [TopAppBar](page_topappbar.md) dependency property.
 

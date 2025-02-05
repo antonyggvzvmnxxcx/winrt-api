@@ -12,6 +12,8 @@ public Windows.UI.Xaml.TextAlignment TextAlignment { get;  set; }
 ## -description
 Gets or sets how the text should be horizontally aligned in the text box.
 
+
+
 ## -xaml-syntax
 ```xaml
 <TextBox TextAlignment="textAlignmentMemberName"/>

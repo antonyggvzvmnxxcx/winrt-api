@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty SupportedViewsProperty { ge
 ## -description
 Identifies the automation property that gets the control-specific collection of views.
 
+
+
 ## -property-value
 The automation property identifier.
 

@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IVector<Windows.Foundation.DateTime> Selec
 ## -description
 Gets a collection of selected dates.
 
+
+
 ## -property-value
 A collection that contains the currently selected dates. The default is an empty collection.
 

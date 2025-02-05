@@ -14,6 +14,8 @@ public Visual ReceivingVisual { get;  set; }
 
 Gets or sets the Visual that the shadow is cast on.
 
+
+
 ## -property-value
 
 The Visual that the shadow is cast on.

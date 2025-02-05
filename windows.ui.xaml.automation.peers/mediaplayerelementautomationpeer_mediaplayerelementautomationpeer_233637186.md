@@ -12,6 +12,7 @@ public MediaPlayerElementAutomationPeer(Windows.UI.Xaml.Controls.MediaPlayerElem
 ## -description
 Initializes a new instance of the [MediaPlayerElementAutomationPeer](mediaplayerelementautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [MediaPlayerElement](../windows.ui.xaml.controls/mediaplayerelement.md) to create a peer for.

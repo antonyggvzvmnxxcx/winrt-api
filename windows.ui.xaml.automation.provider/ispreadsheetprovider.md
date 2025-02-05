@@ -12,9 +12,11 @@ public interface ISpreadsheetProvider :
 ## -description
 Provides access to items (cells) in a spreadsheet.
 
+
+
 ## -remarks
 
 ## -examples
 
 ## -see-also
-[ISpreadsheetItemProvider](ispreadsheetitemprovider.md), [ISpreadsheetProvider (COM interface)](https://docs.microsoft.com/windows/desktop/api/uiautomationcore/nn-uiautomationcore-ispreadsheetprovider)
+[ISpreadsheetItemProvider](ispreadsheetitemprovider.md), [ISpreadsheetProvider (COM interface)](/windows/desktop/api/uiautomationcore/nn-uiautomationcore-ispreadsheetprovider)

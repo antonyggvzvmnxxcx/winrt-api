@@ -13,6 +13,8 @@ public Color Color { get;  set; }
 
 Gets or sets the color of the gradient stop.
 
+
+
 ## -property-value
 
 The color of the gradient stop. The default is Transparent.

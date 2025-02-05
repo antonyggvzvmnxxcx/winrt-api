@@ -12,6 +12,7 @@ public ContentPropertyAttribute()
 ## -description
 Initializes a new instance of the [ContentPropertyAttribute](contentpropertyattribute.md) class.
 
+
 ## -remarks
 
 ## -examples

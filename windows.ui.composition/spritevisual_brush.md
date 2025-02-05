@@ -12,6 +12,8 @@ public Windows.UI.Composition.CompositionBrush Brush { get;  set; }
 ## -description
 A [CompositionBrush](compositionbrush.md) describing how the [SpriteVisual](spritevisual.md) is painted.
 
+
+
 ## -property-value
 A [CompositionBrush](compositionbrush.md) describing how the [SpriteVisual](spritevisual.md) is painted.
 

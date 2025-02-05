@@ -12,6 +12,8 @@ public Windows.UI.Composition.InsetClip CreateInsetClip(System.Single leftInset,
 ## -description
 Creates an instance of [InsetClip](insetclip.md).
 
+
+
 ## -parameters
 ### -param leftInset
 Inset from the left of the visual.

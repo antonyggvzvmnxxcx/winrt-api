@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty LanguageProperty { get; }
 ## -description
 Identifies the [Language](textelement_language.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Language](textelement_language.md) dependency property.
 

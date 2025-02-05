@@ -25,12 +25,12 @@ The usage identifier for the eye-tracking device.
 
 ## -returns
 
-A vector of [HidNumericControlDescription](hidnumericcontroldescription.md) objects.
+A vector of [HidNumericControlDescription](../windows.devices.humaninterfacedevice/hidnumericcontroldescription.md) objects.
 
 ## -remarks
 
 ## -see-also
 
-[Gaze interactions and eye tracking in UWP apps](https://docs.microsoft.com/windows/uwp/design/input/gaze-interactions), [Gaze input sample (basic)](https://github.com/MicrosoftDocs/windows-topic-specific-samples/archive/uwp-gazeinput-basic.zip), [Windows Community Toolkit Gaze library](https://docs.microsoft.com/windows/uwpcommunitytoolkit/gaze/gazeinteractionlibrary)
+[Gaze interactions and eye tracking in UWP apps](/windows/uwp/design/input/gaze-interactions), [Gaze input sample (basic)](https://github.com/MicrosoftDocs/windows-topic-specific-samples/archive/uwp-gazeinput-basic.zip), [Windows Community Toolkit Gaze library](/windows/uwpcommunitytoolkit/gaze/gazeinteractionlibrary)
 
 ## -examples

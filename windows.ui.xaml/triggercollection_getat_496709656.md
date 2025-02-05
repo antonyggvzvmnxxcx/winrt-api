@@ -12,6 +12,8 @@ public Windows.UI.Xaml.TriggerBase GetAt(System.UInt32 index)
 ## -description
 Returns the item located at the specified index.
 
+
+
 ## -parameters
 ### -param index
 The integer index for the value to retrieve.
@@ -21,7 +23,7 @@ The value at the specified index.
 
 ## -remarks
 > [!NOTE]
-> The equivalent Microsoft .NET  API is [Item](triggercollection_item.md) (the indexer).
+> The equivalent Microsoft .NET API is [Item](/dotnet/api/system.collections.objectmodel.collection-1.item) (the indexer).
 
 ## -examples
 

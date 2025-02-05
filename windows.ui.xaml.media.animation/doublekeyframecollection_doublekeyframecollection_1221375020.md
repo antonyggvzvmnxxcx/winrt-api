@@ -12,6 +12,7 @@ public DoubleKeyFrameCollection()
 ## -description
 Initializes a new instance of the [DoubleKeyFrameCollection](doublekeyframecollection.md) class.
 
+
 ## -remarks
 
 ## -examples

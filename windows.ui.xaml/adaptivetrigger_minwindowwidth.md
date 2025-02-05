@@ -12,6 +12,8 @@ public double MinWindowWidth { get;  set; }
 ## -description
 Gets or sets the minimum window width at which the [VisualState](visualstate.md) should be applied.
 
+
+
 ## -xaml-syntax
 ```xaml
 <AdaptiveTrigger MinWindowWidth="double" .../>

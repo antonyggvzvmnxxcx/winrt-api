@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty PlaceholderBackgroundProperty { get; }
 ## -description
 Identifies the [PlaceholderBackground](gridviewitempresenter_placeholderbackground.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [PlaceholderBackground](gridviewitempresenter_placeholderbackground.md) dependency property.
 

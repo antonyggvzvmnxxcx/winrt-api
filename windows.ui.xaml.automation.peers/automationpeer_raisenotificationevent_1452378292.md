@@ -12,6 +12,8 @@ public void AutomationPeer.RaiseNotificationEvent(AutomationNotificationKind not
 ## -description
 Initiates a notification event.
 
+
+
 ## -parameters
 ### -param notificationKind
 Specifies the type of the notification.

@@ -12,6 +12,8 @@ public double MaxZoom { get; }
 ## -description
 Gets the maximum zoom level of the element.
 
+
+
 ## -property-value
 The maximum zoom level, as a percentage.
 

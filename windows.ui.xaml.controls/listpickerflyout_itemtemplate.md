@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DataTemplate ItemTemplate { get;  set; }
 ## -description
 Gets or sets the DataTemplate used to display each item.
 
+
+
 ## -property-value
 The template that specifies the visualization of the data objects. The default is null.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Animation.KeySpline KeySpline { get;  set; }
 ## -description
 Gets or sets the two control points that define animation progress for this key frame.
 
+
+
 ## -xaml-syntax
 ```xaml
 <SplineDoubleKeyFrame KeySpline="keySplineValue"/>

@@ -12,6 +12,8 @@ public int ItemIndex { get; }
 ## -description
 Gets the index in the [ItemsSource](itemscontrol_itemssource.md) of the data item associated with this container.
 
+
+
 ## -property-value
 The index in the [ItemsSource](itemscontrol_itemssource.md) of the data item associated with this container. The default is -1.
 

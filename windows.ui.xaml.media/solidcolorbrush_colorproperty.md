@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ColorProperty { get; }
 ## -description
 Identifies the [Color](solidcolorbrush_color.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Color](solidcolorbrush_color.md) dependency property.
 

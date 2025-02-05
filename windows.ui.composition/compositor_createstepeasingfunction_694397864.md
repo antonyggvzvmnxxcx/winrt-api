@@ -12,6 +12,8 @@ public Windows.UI.Composition.StepEasingFunction CreateStepEasingFunction(System
 ## -description
 Creates an instance of [StepEasingFunction](stepeasingfunction.md) with the specified step count.
 
+
+
 ## -parameters
 ### -param stepCount
 The step count for the [StepEasingFunction](stepeasingfunction.md).

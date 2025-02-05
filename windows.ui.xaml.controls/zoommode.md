@@ -12,6 +12,7 @@ public enum Windows.UI.Xaml.Controls.ZoomMode : int
 ## -description
 Defines constants that specify the current mode for zoom behavior in the [ScrollViewer](scrollviewer.md) content.
 
+
 ## -xaml-syntax
 ```xaml
 <objectproperty="enumMemberName" />

@@ -12,6 +12,8 @@ public Windows.UI.Color Color { get;  set; }
 ## -description
 Gets or sets the color of this [SolidColorBrush](solidcolorbrush.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <SolidColorBrush Color="predefinedColorName"/>

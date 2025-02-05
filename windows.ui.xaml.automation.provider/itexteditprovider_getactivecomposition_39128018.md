@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Provider.ITextRangeProvider GetActiveCompositi
 ## -description
 Gets the active composition.
 
+
+
 ## -returns
 The active composition.
 

@@ -12,6 +12,7 @@ public bool CanSeek { get; }
 ## -description
 Gets a value that indicates whether media can be repositioned by setting the value of the [Position](mediaelement_position.md) property.
 
+
 ## -property-value
 **true** if the media can be repositioned; otherwise, **false**.
 

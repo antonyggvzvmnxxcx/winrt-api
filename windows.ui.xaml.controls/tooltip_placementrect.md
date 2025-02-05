@@ -13,6 +13,8 @@ public Rect PlacementRect { get;  set; }
 ## -description
 Gets or sets the rectangular area that the tooltip should be positioned in relation to when opened by the [ToolTipService](tooltipservice.md). If space allows, the open tooltip will not occlude the area defined by its PlacementRect. 
 
+
+
 ## -property-value
 The rectangular area that the tooltip is positioned in relation to when opened by the [ToolTipService](tooltipservice.md). The default is **null**.
 

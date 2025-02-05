@@ -12,6 +12,8 @@ public int LastVisibleIndex { get; }
 ## -description
 Gets the index in the data collection of the last item on the screen. Partially visible items are considered to be on screen.
 
+
+
 ## -property-value
 The index in the data collection of the last item on the screen. The default is -1.
 

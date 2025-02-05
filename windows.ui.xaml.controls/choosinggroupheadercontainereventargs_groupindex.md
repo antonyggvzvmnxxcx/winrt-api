@@ -12,6 +12,8 @@ public int GroupIndex { get; }
 ## -description
 Gets the index in the [ItemsSource](itemscontrol_itemssource.md) of the data group for which a container is being selected.
 
+
+
 ## -property-value
 The index in the [ItemsSource](itemscontrol_itemssource.md) of the data group for which a container is being selected.
 

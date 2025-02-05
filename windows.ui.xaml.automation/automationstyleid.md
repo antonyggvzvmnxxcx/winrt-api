@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Automation.AutomationStyleId : int
 ## -description
 Defines the style of the text.
 
+
+
 ## -enum-fields
 ### -field Heading1:70001
 Text styled as Heading 1.

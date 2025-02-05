@@ -12,6 +12,8 @@ public bool GetIsVerticalRailEnabled(Windows.UI.Xaml.DependencyObject element)
 ## -description
 Gets the value of the [IsVerticalRailEnabled](scrollviewer_isverticalrailenabled.md) dependency property / `ScrollViewer.IsVerticalRailEnabled` XAML attached property from a specified element.
 
+
+
 ## -parameters
 ### -param element
 The element from which the property value is read.

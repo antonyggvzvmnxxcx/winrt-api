@@ -12,6 +12,8 @@ public double StrokeThickness { get;  set; }
 ## -description
 Gets or sets the width of the [Shape](shape.md) stroke outline.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object StrokeThickness="double"/>

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty FontStyleProperty { get; }
 ## -description
 Identifies the [FontStyle](richtextblock_fontstyle.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [FontStyle](richtextblock_fontstyle.md) dependency property.
 

@@ -12,6 +12,7 @@ public DoubleTappedRoutedEventArgs()
 ## -description
 Initializes a new instance of the [DoubleTappedRoutedEventArgs](doubletappedroutedeventargs.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,7 @@ public ScaleTransform()
 ## -description
 Initializes a new instance of the [ScaleTransform](scaletransform.md) class.
 
+
 ## -remarks
 
 ## -examples

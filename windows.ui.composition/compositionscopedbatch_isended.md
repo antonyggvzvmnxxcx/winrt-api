@@ -12,6 +12,8 @@ public bool IsEnded { get; }
 ## -description
 Indicates whether the [CompositionScopedBatch](compositionscopedbatch.md) has been closed and can no longer accept changes.
 
+
+
 ## -property-value
 Boolean indicating whether the [CompositionScopedBatch](compositionscopedbatch.md) has been closed and can no longer accept changes.
 

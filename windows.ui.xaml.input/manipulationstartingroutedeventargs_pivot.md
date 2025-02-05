@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Input.ManipulationPivot Pivot { get;  set; }
 ## -description
 Gets or sets an object that describes the pivot for a single-point manipulation.
 
+
+
 ## -property-value
 An object that describes the pivot for a single-point manipulation.
 

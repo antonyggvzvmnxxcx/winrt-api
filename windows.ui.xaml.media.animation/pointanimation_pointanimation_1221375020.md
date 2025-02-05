@@ -12,6 +12,7 @@ public PointAnimation()
 ## -description
 Initializes a new instance of the [PointAnimation](pointanimation.md) class.
 
+
 ## -remarks
 
 ## -examples

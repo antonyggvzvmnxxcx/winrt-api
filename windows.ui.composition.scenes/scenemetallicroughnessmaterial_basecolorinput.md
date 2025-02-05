@@ -14,6 +14,8 @@ public SceneMaterialInput BaseColorInput { get;  set; }
 
 Gets or sets the input for material's base color.
 
+
+
 ## -property-value
 
 The input for for material's base color.

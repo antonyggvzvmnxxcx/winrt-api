@@ -12,6 +12,7 @@ public ListViewHeaderItem()
 ## -description
 Initializes a new instance of the [ListViewHeaderItem](listviewheaderitem.md) class.
 
+
 ## -remarks
 
 ## -examples

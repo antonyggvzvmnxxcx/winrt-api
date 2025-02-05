@@ -12,6 +12,7 @@ public ManipulationDeltaRoutedEventArgs()
 ## -description
 Initializes a new instance of the [ManipulationDeltaRoutedEventArgs](manipulationdeltaroutedeventargs.md) class.
 
+
 ## -remarks
 
 ## -examples

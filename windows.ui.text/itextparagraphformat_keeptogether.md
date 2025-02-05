@@ -12,6 +12,8 @@ public Windows.UI.Text.FormatEffect KeepTogether { get;  set; }
 ## -description
 Gets or sets whether page breaks are allowed in paragraphs.
 
+
+
 ## -property-value
 A value that indicates whether page breaks are allowed.
 

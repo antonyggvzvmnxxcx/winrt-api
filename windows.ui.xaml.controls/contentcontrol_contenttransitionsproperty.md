@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ContentTransitionsProperty { get; }
 ## -description
 Identifies the [ContentTransitions](contentcontrol_contenttransitions.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ContentTransitions](contentcontrol_contenttransitions.md) dependency property.
 

@@ -12,6 +12,7 @@ public void SetThumbnailImage(Windows.Storage.Streams.IInputStream source)
 ## -description
 Sets the source of the thumbnail image.
 
+
 ## -parameters
 ### -param source
 The source of the thumbnail image.

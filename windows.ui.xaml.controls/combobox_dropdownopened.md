@@ -12,6 +12,8 @@ public event Windows.Foundation.EventHandler DropDownOpened<object>
 ## -description
 Occurs when the drop-down portion of the [ComboBox](combobox.md) opens.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ComboBox DropDownOpened="eventhandler"/>

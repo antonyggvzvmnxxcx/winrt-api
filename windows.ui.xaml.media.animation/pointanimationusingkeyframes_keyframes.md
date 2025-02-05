@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Animation.PointKeyFrameCollection KeyFrames { get; 
 ## -description
 Gets the collection of [PointKeyFrame](pointkeyframe.md) objects that define the animation.
 
+
+
 ## -xaml-syntax
 ```xaml
 <PointAnimationUsingKeyFrames>

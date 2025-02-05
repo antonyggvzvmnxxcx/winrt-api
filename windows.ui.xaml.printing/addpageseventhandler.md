@@ -10,6 +10,8 @@ public delegate void AddPagesEventHandler(System.Object sender, Windows.UI.Xaml.
 ## -description
 Represents the method that will handle the [AddPages](printdocument_addpages.md) event.
 
+
+
 ## -parameters
 ### -param sender
 The object where the handler is attached.

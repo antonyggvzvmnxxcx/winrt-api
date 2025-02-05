@@ -13,6 +13,8 @@ public class CompositionDebugSettings
 
 Hosts diagnostic and debugging features such as heatmaps.
 
+
+
 ## -remarks
 
 ## -see-also

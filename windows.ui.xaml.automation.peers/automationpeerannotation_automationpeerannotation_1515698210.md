@@ -12,6 +12,7 @@ public AutomationPeerAnnotation(Windows.UI.Xaml.Automation.AnnotationType type, 
 ## -description
 Initializes a new instance of the  class using the defined parameters.
 
+
 ## -parameters
 ### -param type
 The type of annotation.

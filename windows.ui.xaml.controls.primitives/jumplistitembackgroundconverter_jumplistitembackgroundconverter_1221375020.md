@@ -12,6 +12,7 @@ public JumpListItemBackgroundConverter()
 ## -description
 Initializes a new instance of the [JumpListItemBackgroundConverter](jumplistitembackgroundconverter.md) class.
 
+
 ## -remarks
 
 ## -examples

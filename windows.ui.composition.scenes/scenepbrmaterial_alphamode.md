@@ -14,6 +14,8 @@ public SceneAlphaMode AlphaMode { get;  set; }
 
 Gets or sets the alpha mode for the material.
 
+
+
 ## -property-value
 
 The alpha mode for the material.

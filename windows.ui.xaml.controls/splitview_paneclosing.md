@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler PaneClosing<Windows.UI.Xaml.Co
 ## -description
 Occurs when the [SplitView](splitview.md) pane is closing.
 
+
+
 ## -xaml-syntax
 ```xaml
 

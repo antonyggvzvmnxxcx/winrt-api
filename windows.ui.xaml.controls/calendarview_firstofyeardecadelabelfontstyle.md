@@ -12,6 +12,8 @@ public Windows.UI.Text.FontStyle FirstOfYearDecadeLabelFontStyle { get;  set; }
 ## -description
 Gets or sets the font style used to display the first-of-year banner in the calendar.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarView FirstOfYearDecadeLabelFontStyle="fontStyleMemberName" />

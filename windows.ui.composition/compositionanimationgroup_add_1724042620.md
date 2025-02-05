@@ -12,6 +12,8 @@ public void Add(Windows.UI.Composition.CompositionAnimation value)
 ## -description
 Adds an animation to the animation group.
 
+
+
 ## -parameters
 ### -param value
 The animation to add to the group.

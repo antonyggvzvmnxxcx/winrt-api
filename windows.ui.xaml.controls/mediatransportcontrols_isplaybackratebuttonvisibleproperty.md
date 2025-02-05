@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty IsPlaybackRateButtonVisibleProperty { 
 ## -description
 Identifies the [IsPlaybackRateButtonVisible](mediatransportcontrols_isplaybackratebuttonvisible.md) dependency property.
 
+
 ## -property-value
 The identifier for the [IsPlaybackRateButtonVisible](mediatransportcontrols_isplaybackratebuttonvisible.md) dependency property.
 

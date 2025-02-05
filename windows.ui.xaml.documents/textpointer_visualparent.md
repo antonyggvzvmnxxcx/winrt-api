@@ -12,6 +12,8 @@ public Windows.UI.Xaml.FrameworkElement VisualParent { get; }
 ## -description
 Gets the user interface (UI) element that "owns" this [TextPointer](textpointer.md).
 
+
+
 ## -property-value
 The UI element that "owns" this [TextPointer](textpointer.md).
 

@@ -12,6 +12,8 @@ public bool IsSecondaryButtonEnabled { get;  set; }
 ## -description
 Gets or sets whether the dialog's secondary button is enabled.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentDialog IsSecondaryButtonEnabled="bool"/>

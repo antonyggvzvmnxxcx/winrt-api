@@ -12,6 +12,8 @@ public bool IsDragging { get; }
 ## -description
 Gets whether the [Thumb](thumb.md) control has focus and mouse capture.
 
+
+
 ## -property-value
 **true** if the [Thumb](thumb.md) control has focus and mouse capture; otherwise, **false**. The default is **false**.
 

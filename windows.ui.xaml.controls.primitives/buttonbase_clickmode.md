@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.ClickMode ClickMode { get;  set; }
 ## -description
 Gets or sets a value that indicates when the [Click](buttonbase_click.md) event occurs, in terms of device behavior.
 
+
+
 ## -xaml-syntax
 ```xaml
 <button ClickMode="clickModeMemberName"/>

@@ -12,6 +12,8 @@ public Windows.UI.Composition.Interactions.CompositionInteractionSourceCollectio
 ## -description
 A collection of objects that generate interactions.
 
+
+
 ## -property-value
 A collection of objects that generate interactions.
 

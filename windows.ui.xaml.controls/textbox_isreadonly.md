@@ -12,6 +12,8 @@ public bool IsReadOnly { get;  set; }
 ## -description
 Gets or sets the value that determines if the user can change the text in the text box.
 
+
+
 ## -xaml-syntax
 ```xaml
 <TextBox IsReadOnly="bool"/>

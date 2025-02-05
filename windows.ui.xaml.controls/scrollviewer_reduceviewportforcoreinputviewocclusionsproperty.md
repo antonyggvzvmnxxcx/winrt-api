@@ -14,6 +14,8 @@ public DependencyProperty ReduceViewportForCoreInputViewOcclusionsProperty { get
 
 Identifies the [ReduceViewportForCoreInputViewOcclusions](scrollviewer_reduceviewportforcoreinputviewocclusions.md) dependency property.
 
+
+
 ## -property-value
 
 The identifier for the [ReduceViewportForCoreInputViewOcclusions](scrollviewer_reduceviewportforcoreinputviewocclusions.md) dependency property.

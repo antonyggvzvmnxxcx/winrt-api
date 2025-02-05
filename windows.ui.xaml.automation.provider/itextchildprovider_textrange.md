@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Provider.ITextRangeProvider TextRange { get; }
 ## -description
 Gets a text range that encloses this child element.
 
+
+
 ## -property-value
 A text range that encloses this child element.
 

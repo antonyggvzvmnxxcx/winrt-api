@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty TimeProperty { get; }
 ## -description
 Identifies the [Time](timelinemarker_time.md) dependency property.
 
+
 ## -property-value
 The identifier for the [Time](timelinemarker_time.md) dependency property.
 

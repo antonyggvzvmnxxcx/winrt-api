@@ -12,6 +12,8 @@ public string SecondaryButtonText { get;  set; }
 ## -description
 Gets or sets the text to be displayed on the secondary button.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentDialog SecondaryButtonText="string"/>

@@ -12,6 +12,7 @@ public ManipulationCompletedRoutedEventArgs()
 ## -description
 Initializes a new instance of the [ManipulationCompletedRoutedEventArgs](manipulationcompletedroutedeventargs.md) class.
 
+
 ## -remarks
 
 ## -examples

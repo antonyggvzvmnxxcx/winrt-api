@@ -12,6 +12,8 @@ public bool CanHorizontallyScroll { get;  set; }
 ## -description
 Not intended for general use. Gets or sets a value that indicates whether scrolling on the horizontal axis is possible.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CarouselPanel CanHorizontallyScroll="bool" />

@@ -13,6 +13,8 @@ public DependencyProperty EffectProperty { get; }
 ## -description
 Identifies the Effect dependency property.
 
+
+
 ## -property-value
 The identifier for the Effect dependency property.
 

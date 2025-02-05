@@ -13,6 +13,8 @@ public class PasswordBoxPasswordChangingEventArgs
 
 Provides event data for the [PasswordBox.PasswordChanging](passwordbox_passwordchanging.md) event.
 
+
+
 ## -remarks
 
 An instance of this class is passed as a parameter to the [PasswordBox.PasswordChanging](passwordbox_passwordchanging.md) event handler.

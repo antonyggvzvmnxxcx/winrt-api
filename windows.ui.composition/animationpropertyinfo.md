@@ -14,6 +14,8 @@ public class AnimationPropertyInfo : CompositionObject, CompositionObject
 
 Represents information about a property that can be animated.
 
+
+
 ## -remarks
 
 ## -see-also

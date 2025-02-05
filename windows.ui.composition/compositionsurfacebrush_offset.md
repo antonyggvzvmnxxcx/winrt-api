@@ -12,6 +12,8 @@ public Windows.Foundation.Numerics.Vector2 Offset { get;  set; }
 ## -description
 The offset of the brush relative to its [SpriteVisual](spritevisual.md).
 
+
+
 ## -property-value
 The offset of the brush relative to its [SpriteVisual](spritevisual.md).
 

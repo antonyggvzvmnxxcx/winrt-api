@@ -16,10 +16,11 @@ Gets the package for the current app.
 The package.
 
 ## -remarks
+
 > [!IMPORTANT]
-> Although [Package](package.md) is supported in desktop apps, this member is supported only in UWP apps. To access a package object from a desktop app, use [Windows.Management.Deployment.PackageManager](../windows.management.deployment/packagemanager.md).
+> Although the [Package](package.md) class is supported in an unpackaged process (that is, a process belonging to an app that lacks package identity), the **Package.Current** property is supported only in a *packaged* process (that is, a process belonging to an app that *has* package identity). To access a package object from an unpackaged process, use [Windows.Management.Deployment.PackageManager](../windows.management.deployment/packagemanager.md). And for more info about packaging, see [Package a desktop or UWP app in Visual Studio](/windows/msix/package/packaging-uwp-apps).
 
 ## -examples
 
 ## -see-also
-[App package information sample](https://code.msdn.microsoft.com/windowsapps/Package-sample-46e239fa)
+[App package information sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/Package)

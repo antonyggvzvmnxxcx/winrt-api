@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty IsReadOnlyProperty { get; }
 ## -description
 Identifies the [IsReadOnly](../windows.ui.xaml.automation.provider/irangevalueprovider_isreadonly.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

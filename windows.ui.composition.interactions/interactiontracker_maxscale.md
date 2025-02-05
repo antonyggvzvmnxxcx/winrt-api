@@ -12,6 +12,8 @@ public float MaxScale { get;  set; }
 ## -description
 The maximum scale for the [InteractionTracker](interactiontracker.md).
 
+
+
 ## -property-value
 The maximum scale for the [InteractionTracker](interactiontracker.md).
 

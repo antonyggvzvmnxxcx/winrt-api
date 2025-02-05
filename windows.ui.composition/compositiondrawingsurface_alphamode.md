@@ -12,6 +12,8 @@ public Windows.Graphics.DirectX.DirectXAlphaMode AlphaMode { get; }
 ## -description
 The alpha mode of the drawing surface.
 
+
+
 ## -property-value
 The alpha mode of the drawing surface.
 

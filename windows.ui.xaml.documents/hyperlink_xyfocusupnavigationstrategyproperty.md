@@ -12,6 +12,8 @@ public DependencyProperty XYFocusUpNavigationStrategyProperty { get; }
 ## -description
 Identifies the [XYFocusUpNavigationStrategy](hyperlink_xyfocusupnavigationstrategy.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [XYFocusUpNavigationStrategy](hyperlink_xyfocusupnavigationstrategy.md) dependency property.
 

@@ -12,6 +12,7 @@ public bool IsPlaybackRateEnabled { get;  set; }
 ## -description
 Gets or sets a value that indicates whether a user can adjust the playback rate of the media.
 
+
 ## -xaml-syntax
 ```xaml
 

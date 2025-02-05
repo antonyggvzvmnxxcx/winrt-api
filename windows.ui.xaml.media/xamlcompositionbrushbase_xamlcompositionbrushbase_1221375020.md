@@ -12,6 +12,7 @@ protected XamlCompositionBrushBase.XamlCompositionBrushBase()
 ## -description
 Provides base class initialization behavior for **XamlCompositionBrushBase** derived classes.
 
+
 ## -remarks
 
 ## -see-also

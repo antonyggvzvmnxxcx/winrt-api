@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty ProtectionManagerProperty { get; }
 ## -description
 Identifies the [ProtectionManager](mediaelement_protectionmanager.md) dependency property.
 
+
 ## -property-value
 The identifier for the [ProtectionManager](mediaelement_protectionmanager.md) dependency property.
 

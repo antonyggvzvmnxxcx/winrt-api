@@ -12,6 +12,8 @@ public double CenterY { get;  set; }
 ## -description
 Gets or sets the y-coordinate of the center point of this [ScaleTransform](scaletransform.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <ScaleTransform CenterY="double"/>

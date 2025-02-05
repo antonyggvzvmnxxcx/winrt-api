@@ -14,6 +14,8 @@ public object Parameter { get; }
 
 Gets the command parameter passed into the [CanExecute](icommand_canexecute_508446764.md) method that raised this event.
 
+
+
 ## -property-value
 
 ## -remarks

@@ -12,6 +12,8 @@ public Windows.Globalization.DayOfWeek FirstDayOfWeek { get;  set; }
 ## -description
 Gets or sets a value that indicates which day is shown as the first day of the week.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarView FirstDayOfWeek="dayOfWeekMemberName"/>

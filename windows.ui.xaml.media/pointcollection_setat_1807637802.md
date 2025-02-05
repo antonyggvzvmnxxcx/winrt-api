@@ -12,6 +12,8 @@ public void SetAt(System.UInt32 index, Windows.Foundation.Point value)
 ## -description
 Sets the value at the specified index to the [Point](../windows.foundation/point.md) value specified.
 
+
+
 ## -parameters
 ### -param index
 The index at which to set the value.

@@ -14,10 +14,12 @@ public void XamlUICommand.NotifyCanExecuteChanged()
 
 Notifies the system that the command state has changed.
 
+
+
 ## -remarks
 
 ## -see-also
 
-[CanExecuteChanged](xamluicommand_canexecutechanged.md), [StandardUICommand](standarduicommand.md), [Command design basics](https://docs.microsoft.com/windows/uwp/layout/commanding-basics), [Commanding in Universal Windows Platform apps using StandardUICommand, XamlUICommand, and ICommand](https://docs.microsoft.com/windows/uwp/design/controls-and-patterns/commanding)
+[CanExecuteChanged](xamluicommand_canexecutechanged.md), [StandardUICommand](standarduicommand.md), [Command design basics](/windows/uwp/layout/commanding-basics), [Commanding in Universal Windows Platform apps using StandardUICommand, XamlUICommand, and ICommand](/windows/uwp/design/controls-and-patterns/commanding)
 
 ## -examples

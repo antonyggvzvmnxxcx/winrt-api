@@ -12,6 +12,7 @@ public PowerEase()
 ## -description
 Initializes a new instance of the [PowerEase](powerease.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty OnContentProperty { get; }
 ## -description
 Identifies the [OnContent](toggleswitch_oncontent.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [OnContent](toggleswitch_oncontent.md) dependency property.
 

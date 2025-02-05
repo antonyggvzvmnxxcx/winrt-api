@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty OffsetFromCenterProperty { get; }
 ## -description
 Identifies the [OffsetFromCenter](splitopenthemeanimation_offsetfromcenter.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [OffsetFromCenter](splitopenthemeanimation_offsetfromcenter.md) dependency property.
 

@@ -12,6 +12,8 @@ public bool IsMultiSelectCheckBoxEnabled { get;  set; }
 ## -description
 Gets or sets a value that indicates whether a check box is shown to enable multi-selection.
 
+
+
 ## -property-value
 **true** if a check box is shown to enable multi-selection; otherwise, **false**.
 

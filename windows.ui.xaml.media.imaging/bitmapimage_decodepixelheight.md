@@ -12,6 +12,8 @@ public int DecodePixelHeight { get;  set; }
 ## -description
 Gets or sets the height to use for image decoding operations.
 
+
+
 ## -xaml-syntax
 ```xaml
 <BitmapImage DecodePixelHeight="int" />

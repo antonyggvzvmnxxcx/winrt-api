@@ -12,6 +12,8 @@ public bool IsPasswordRevealButtonEnabled { get;  set; }
 ## -description
 Gets or sets a value that specifies whether the visual UI of the [PasswordBox](passwordbox.md) includes a button element that toggles showing or hiding the typed characters. In Windows 10 and later, use [PasswordRevealMode](passwordbox_passwordrevealmode.md) instead.
 
+
+
 ## -xaml-syntax
 ```xaml
 <PasswordBox IsPasswordRevealButtonEnabled="bool" />

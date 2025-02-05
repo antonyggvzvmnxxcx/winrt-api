@@ -12,6 +12,7 @@ public DirectConnectedAnimationConfiguration.DirectConnectedAnimationConfigurati
 ## -description
 Initializes a new instance of the DirectConnectedAnimationConfiguration class.
 
+
 ## -remarks
 
 ## -see-also

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Provider.ITextRangeProvider[] GetSelection()
 ## -description
 Retrieves a collection of disjoint text ranges that are associated with the current text selection or selections.
 
+
+
 ## -returns
 A collection of disjoint text ranges.
 

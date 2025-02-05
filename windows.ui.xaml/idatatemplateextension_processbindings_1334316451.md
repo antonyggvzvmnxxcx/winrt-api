@@ -12,6 +12,8 @@ public int ProcessBindings(Windows.UI.Xaml.Controls.ContainerContentChangingEven
 ## -description
 Updates a list item container element with bound data.
 
+
+
 ## -parameters
 ### -param arg
 Information about the item, item index, and rendering phase.

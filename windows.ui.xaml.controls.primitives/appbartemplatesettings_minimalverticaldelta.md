@@ -12,6 +12,8 @@ public double MinimalVerticalDelta { get; }
 ## -description
 Gets the vertical delta of the [AppBar](../windows.ui.xaml.controls/appbar.md) in the minimal state.
 
+
+
 ## -property-value
 The vertical delta of the [AppBar](../windows.ui.xaml.controls/appbar.md) in the minimal state.
 

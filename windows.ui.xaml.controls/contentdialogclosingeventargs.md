@@ -12,6 +12,8 @@ public class ContentDialogClosingEventArgs : Windows.UI.Xaml.Controls.IContentDi
 ## -description
 Provides data for the closing event.
 
+
+
 ## -remarks
 
 ## -examples

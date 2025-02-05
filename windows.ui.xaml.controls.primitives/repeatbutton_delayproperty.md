@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty DelayProperty { get; }
 ## -description
 Identifies the [Delay](repeatbutton_delay.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Delay](repeatbutton_delay.md) dependency property.
 

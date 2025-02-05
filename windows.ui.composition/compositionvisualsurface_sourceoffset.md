@@ -14,6 +14,8 @@ public Vector2 SourceOffset { get;  set; }
 
 Gets or sets the coordinates of the top-left corner of the part of the visual surface used for rendering.
 
+
+
 ## -property-value
 
 The coordinates of the top-left corner of the part of the visual surface used for rendering.

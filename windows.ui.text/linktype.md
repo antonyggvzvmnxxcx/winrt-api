@@ -12,6 +12,8 @@ public enum Windows.UI.Text.LinkType : int
 ## -description
 Indicates the link type of a range of text.
 
+
+
 ## -enum-fields
 ### -field Undefined:0
 A mix of link and nonlink attributes.

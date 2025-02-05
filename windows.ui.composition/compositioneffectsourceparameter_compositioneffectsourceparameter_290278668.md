@@ -12,6 +12,7 @@ public CompositionEffectSourceParameter(System.String name)
 ## -description
 Creates an instance of [CompositionEffectSourceParameter](compositioneffectsourceparameter.md).
 
+
 ## -parameters
 ### -param name
 The name for the [CompositionEffectSourceParameter](compositioneffectsourceparameter.md) instance.

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.UIElementCollection Children { get; }
 ## -description
 Gets the collection of child elements of the panel.
 
+
+
 ## -xaml-syntax
 ```xaml
 <panel>

@@ -13,6 +13,8 @@ public IIterator<IKeyValuePair<string, string>> InitialValueExpressionCollection
 
 Retrieves the first item in the collection.
 
+
+
 ## -returns
 
 The first item in the collection.

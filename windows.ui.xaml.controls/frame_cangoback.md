@@ -12,6 +12,8 @@ public bool CanGoBack { get; }
 ## -description
 Gets a value that indicates whether there is at least one entry in back navigation history.
 
+
+
 ## -property-value
 **true** if there is at least one entry in back navigation history; **false** if there are no entries in back navigation history or the [Frame](frame.md) does not own its own navigation history.
 

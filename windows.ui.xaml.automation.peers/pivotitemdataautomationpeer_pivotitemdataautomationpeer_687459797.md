@@ -12,6 +12,7 @@ public PivotItemDataAutomationPeer(System.Object item, Windows.UI.Xaml.Automatio
 ## -description
 Initializes a new instance of the [PivotItemDataAutomationPeer](pivotitemdataautomationpeer.md) class.
 
+
 ## -parameters
 ### -param item
 The specific data item.

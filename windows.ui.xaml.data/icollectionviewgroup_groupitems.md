@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IObservableVector<object> GroupItems { get
 ## -description
 Gets the collection of grouped items that this [ICollectionViewGroup](icollectionviewgroup.md) implementation represents.
 
+
+
 ## -property-value
 A collection of items for the group.
 

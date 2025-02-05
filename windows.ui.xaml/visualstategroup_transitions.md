@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IVector<Windows.UI.Xaml.VisualTransition> 
 ## -description
 Gets the collection of [VisualTransition](visualtransition.md) objects.
 
+
+
 ## -xaml-syntax
 ```xaml
 <VisualStateGroup>

@@ -13,6 +13,8 @@ public Windows.UI.Color LavenderBlush { get; }
 
 Gets the system-defined color that has an ARGB value of #FFFFF0F5.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFFFF0F5.

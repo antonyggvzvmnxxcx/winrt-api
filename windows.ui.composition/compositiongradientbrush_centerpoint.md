@@ -13,6 +13,8 @@ public Vector2 CenterPoint { get;  set; }
 
 Gets or sets the point about which the brush is rotated and scaled.
 
+
+
 ## -property-value
 
 The point about which the brush is rotated and scaled.

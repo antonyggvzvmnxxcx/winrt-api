@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.Control Control { get;  set; }
 ## -description
 Gets the [Control](../windows.ui.xaml.controls/control.md) that is changing states.
 
+
+
 ## -property-value
 The [Control](../windows.ui.xaml.controls/control.md) that is changing states.
 

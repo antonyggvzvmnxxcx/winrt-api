@@ -12,6 +12,8 @@ public Windows.UI.Color FillColor { get; }
 ## -description
 Gets the fill color of an element in a document.
 
+
+
 ## -property-value
 The fill color, represented as a Windows Runtime  [Color](../windows.ui/color.md) value.
 

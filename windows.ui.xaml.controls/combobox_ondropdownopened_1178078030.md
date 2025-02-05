@@ -12,6 +12,8 @@ virtual protected void OnDropDownOpened(System.Object e)
 ## -description
 Invoked when the [DropDownOpened](combobox_dropdownopened.md) event is raised.
 
+
+
 ## -parameters
 ### -param e
 Event data for the event. 

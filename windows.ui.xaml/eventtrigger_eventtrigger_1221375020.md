@@ -12,6 +12,7 @@ public EventTrigger()
 ## -description
 Initializes a new instance of the [EventTrigger](eventtrigger.md) class.
 
+
 ## -remarks
 
 ## -examples

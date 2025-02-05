@@ -12,6 +12,7 @@ public SemanticZoomLocation()
 ## -description
 Initializes a new instance of the [SemanticZoomLocation](semanticzoomlocation.md) class.
 
+
 ## -remarks
 
 ## -examples

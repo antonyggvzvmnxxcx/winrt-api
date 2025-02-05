@@ -12,6 +12,8 @@ public double FromVerticalOffset { get; }
 ## -description
 Gets the offset that is appropriate as a value for **FromVerticalOffset** in theme animations.
 
+
+
 ## -property-value
 A value in pixels.
 

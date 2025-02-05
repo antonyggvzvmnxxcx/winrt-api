@@ -12,6 +12,8 @@ public class ScrollViewerView : Windows.UI.Xaml.Controls.IScrollViewerView
 ## -description
 Provides a view for a [ScrollViewer](scrollviewer.md) when its view is changing.
 
+
+
 ## -remarks
 
 

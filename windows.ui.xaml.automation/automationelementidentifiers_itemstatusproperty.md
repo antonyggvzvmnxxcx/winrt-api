@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty ItemStatusProperty { get; }
 ## -description
 Identifies the item status automation property. The current item status is returned by the [GetItemStatus](../windows.ui.xaml.automation.peers/automationpeer_getitemstatus_341251311.md) method.
 
+
+
 ## -property-value
 The automation property identifier.
 

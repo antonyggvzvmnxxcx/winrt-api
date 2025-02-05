@@ -12,6 +12,8 @@ public Windows.UI.Composition.CompositionSurfaceBrush CreateSurfaceBrush()
 ## -description
 Creates an instance of [CompositionSurfaceBrush](compositionsurfacebrush.md).
 
+
+
 ## -returns
 Returns the created [CompositionSurfaceBrush](compositionsurfacebrush.md) object.
 

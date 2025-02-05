@@ -14,6 +14,8 @@ public IMapView<SceneAttributeSemantic> SceneMeshMaterialAttributeMap.GetView()
 
 Returns an immutable view of the map.
 
+
+
 ## -returns
 
 The view of the map.

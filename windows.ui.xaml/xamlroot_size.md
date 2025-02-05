@@ -14,6 +14,8 @@ public Size Size { get; }
 
 Gets the width and height of the content area.
 
+
+
 ## -property-value
 
 The width and height of the content area.

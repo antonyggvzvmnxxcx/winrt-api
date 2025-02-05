@@ -12,6 +12,7 @@ public BrushCollection()
 ## -description
 Initializes a new instance of the [BrushCollection](brushcollection.md) class.
 
+
 ## -remarks
 
 ## -examples

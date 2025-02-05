@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty IsFastRewindEnabledProperty { get; }
 ## -description
 Identifies the [IsFastRewindEnabled](mediatransportcontrols_isfastrewindenabled.md) dependency property.
 
+
 ## -property-value
 The identifier for the [IsFastRewindEnabled](mediatransportcontrols_isfastrewindenabled.md) dependency property.
 

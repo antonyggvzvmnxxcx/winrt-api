@@ -13,6 +13,8 @@ public Windows.UI.Color Crimson { get; }
 
 Gets the system-defined color that has an ARGB value of #FFDC143C.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFDC143C.

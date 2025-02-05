@@ -14,6 +14,8 @@ public enum AnimationPropertyAccessMode : int
 
 Defines constants that specify how an animated property can be accessed.
 
+
+
 ## -enum-fields
 ### -field WriteOnly:2
 

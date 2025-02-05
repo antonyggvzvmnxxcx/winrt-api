@@ -12,6 +12,7 @@ protected GeneralTransform()
 ## -description
 Provides base class initialization behavior for [GeneralTransform](generaltransform.md)-derived classes.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty ColumnSpanProperty { get; }
 ## -description
 Identifies the [ColumnSpan](../windows.ui.xaml.automation.provider/igriditemprovider_columnspan.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

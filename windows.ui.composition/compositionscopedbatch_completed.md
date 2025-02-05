@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler Completed<object,  Windows.UI.
 ## -description
 Event triggered once all animations and effects in the [CompositionScopedBatch](compositionscopedbatch.md) have completed.
 
+
+
 ## -remarks
 
 ## -examples

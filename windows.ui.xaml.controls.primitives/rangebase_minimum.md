@@ -12,6 +12,8 @@ public double Minimum { get;  set; }
 ## -description
 Gets or sets the Minimum possible [Value](rangebase_value.md) of the range element.
 
+
+
 ## -xaml-syntax
 ```xaml
 <rangeBase Minimum="double"/>

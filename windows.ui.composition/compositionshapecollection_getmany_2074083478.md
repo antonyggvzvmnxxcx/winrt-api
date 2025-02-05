@@ -13,6 +13,8 @@ public uint CompositionShapeCollection.GetMany(UInt32 startIndex, CompositionSha
 
 Retrieves multiple elements in a single pass through the iterator.
 
+
+
 ## -parameters
 ### -param startIndex
 

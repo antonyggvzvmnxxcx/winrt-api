@@ -14,6 +14,8 @@ public class InteractionSourceConfiguration : CompositionObject, CompositionObje
 
 Represents the configuration of a VisualInteractionSource input.
 
+
+
 ## -remarks
 
 By default, [VisualInteractionSource](visualinteractionsource.md) uses the same configuration for all types of input. InteractionSourceConfiguration lets you override the default configuration for a specific type of input.
@@ -39,4 +41,3 @@ interactionSource.PointerWheelConfig.PositionYSourceMode =
 [VisualInteractionSource.PointerWheelConfig](visualinteractionsource_pointerwheelconfig.md)
 
 ## -examples
-

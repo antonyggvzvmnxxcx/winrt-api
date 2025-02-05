@@ -12,6 +12,7 @@ public bool AutoPlay { get;  set; }
 ## -description
 Gets or sets a value that indicates whether media will begin playback automatically when the [Source](mediaplayerelement_source.md) property is set.
 
+
 ## -xaml-syntax
 ```xaml
 <MediaPlayerElement AutoPlay="bool" .../>
@@ -19,7 +20,7 @@ Gets or sets a value that indicates whether media will begin playback automatica
 
 
 ## -property-value
-**true** if playback is automatic; otherwise, **false**. The default is **true**.
+**true** if playback is automatic; otherwise, **false**. The default is **false**.
 
 ## -remarks
 

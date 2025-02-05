@@ -12,6 +12,8 @@ public double MaxDropDownHeight { get;  set; }
 ## -description
  Gets or sets the maximum height for a combo box drop-down. 
 
+
+
 ## -xaml-syntax
 ```xaml
 <ComboBox MaxDropDownHeight="double"/>

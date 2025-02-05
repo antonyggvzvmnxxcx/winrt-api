@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ExitDisplayModeOnAccessKeyInvokedPrope
 ## -description
 Identifies the [ExitDisplayModeOnAccessKeyInvoked](textelement_exitdisplaymodeonaccesskeyinvoked.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ExitDisplayModeOnAccessKeyInvoked](textelement_exitdisplaymodeonaccesskeyinvoked.md) dependency property.
 

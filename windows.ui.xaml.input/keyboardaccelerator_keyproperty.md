@@ -12,13 +12,15 @@ public DependencyProperty KeyProperty { get; }
 ## -description
 Identifies the [Key](keyboardaccelerator_key.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Key](keyboardaccelerator_key.md) dependency property.
 
 ## -remarks
 
 ## -see-also
-[Keyboard Accelerators](https://docs.microsoft.com/windows/uwp/design/input/keyboard-accelerators)
+[Keyboard Accelerators](/windows/uwp/design/input/keyboard-accelerators)
 
 ## -examples
 

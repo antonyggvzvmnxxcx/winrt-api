@@ -12,6 +12,7 @@ public bool IsSkipBackwardButtonVisible { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the skip backward button is shown.
 
+
 ## -xaml-syntax
 ```xaml
 

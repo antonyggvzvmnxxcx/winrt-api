@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Thickness BorderThickness { get;  set; }
 ## -description
 Gets or sets the thickness of the border.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Border BorderThickness="uniform"/>

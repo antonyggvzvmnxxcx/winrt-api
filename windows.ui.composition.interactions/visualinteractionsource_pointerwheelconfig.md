@@ -14,6 +14,8 @@ public InteractionSourceConfiguration PointerWheelConfig { get; }
 
 Gets the configuration for pointer wheel input.
 
+
+
 ## -property-value
 
 The configuration for pointer wheel input.

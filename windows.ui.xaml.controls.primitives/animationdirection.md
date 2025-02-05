@@ -12,6 +12,7 @@ public enum Windows.UI.Xaml.Controls.Primitives.AnimationDirection : int
 ## -description
 Defines constants that specify the direction in which an animation translates from start to end.
 
+
 ## -xaml-syntax
 ```xaml
 <object property="enumMemberName"/>

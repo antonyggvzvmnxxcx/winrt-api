@@ -12,6 +12,8 @@ public int EndOf(Windows.UI.Text.TextRangeUnit unit, System.Boolean extend)
 ## -description
 Moves or extends the text range to the end of the nearest specified text unit. The text range is moved or extended forward in the document.
 
+
+
 ## -parameters
 ### -param unit
 The unit by which to move the end position of the text range.

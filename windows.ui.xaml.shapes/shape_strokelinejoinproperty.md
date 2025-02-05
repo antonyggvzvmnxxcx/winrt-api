@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty StrokeLineJoinProperty { get; }
 ## -description
 Identifies the [StrokeLineJoin](shape_strokelinejoin.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [StrokeLineJoin](shape_strokelinejoin.md) dependency property.
 

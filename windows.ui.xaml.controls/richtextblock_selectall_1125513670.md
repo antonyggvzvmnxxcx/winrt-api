@@ -12,6 +12,8 @@ public void SelectAll()
 ## -description
 Selects the entire contents in the [RichTextBlock](richtextblock.md).
 
+
+
 ## -remarks
 
 ## -examples

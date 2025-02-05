@@ -12,6 +12,7 @@ public double PlaybackRate { get;  set; }
 ## -description
 Gets or sets the playback rate ratio for the media engine.
 
+
 ## -xaml-syntax
 ```xaml
 <MediaElement PlaybackRate="double"/>

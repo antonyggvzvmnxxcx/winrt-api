@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty SelectionProperty { get; }
 ## -description
 Identifies the property that gets the selected items in a container.
 
+
+
 ## -property-value
 The automation property identifier.
 

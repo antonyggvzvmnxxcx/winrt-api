@@ -14,6 +14,8 @@ public InteractionSourceRedirectionMode PositionXSourceMode { get;  set; }
 
 Gets or sets a value that indicates how interactions are processed for this [VisualInteractionSource](visualinteractionsource.md) input on the X axis.
 
+
+
 ## -property-value
 
 The source mode for the X axis. By default, it takes the value of [VisualInteractionTracker.PositionXSourceMode](visualinteractionsource_positionxsourcemode.md).
@@ -26,8 +28,6 @@ For more info, see [VisualInteractionSource.PointerWheelConfig](visualinteractio
 
 ## -see-also
 
-[VisualInteractionSource.PointerWheelConfig](visualinteractionsource_pointerwheelconfig.md)
-[VisualInteractionSource.PositionXSourceMode](visualinteractionsource_positionxsourcemode.md)
+[VisualInteractionSource.PointerWheelConfig](visualinteractionsource_pointerwheelconfig.md), [VisualInteractionSource.PositionXSourceMode](visualinteractionsource_positionxsourcemode.md)
 
 ## -examples
-

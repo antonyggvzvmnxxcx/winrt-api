@@ -12,6 +12,8 @@ public double ContentTranslationOffset { get;  set; }
 ## -description
 Gets or sets the pixels to translate by when the animation runs.
 
+
+
 ## -xaml-syntax
 ```xaml
 <SplitCloseThemeAnimation ContentTranslationOffset="double" />

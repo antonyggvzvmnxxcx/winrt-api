@@ -12,6 +12,7 @@ public bool IsFastForwardButtonVisible { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the fast forward button is shown.
 
+
 ## -xaml-syntax
 ```xaml
 

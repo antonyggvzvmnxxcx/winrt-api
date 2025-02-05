@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty EndPointProperty { get; }
 ## -description
 Identifies the [EndPoint](lineargradientbrush_endpoint.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [EndPoint](lineargradientbrush_endpoint.md) dependency property.
 

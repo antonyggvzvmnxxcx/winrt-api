@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty LargeChangeProperty { get; 
 ## -description
 Identifies the [LargeChange](../windows.ui.xaml.automation.provider/irangevalueprovider_largechange.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

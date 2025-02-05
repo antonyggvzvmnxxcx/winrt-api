@@ -12,6 +12,7 @@ public bool IsPassword()
 ## -description
 Gets a value that indicates whether the element contains sensitive content.
 
+
 ## -returns
 **true** if the element contains sensitive content such as a password; otherwise, **false**.
 

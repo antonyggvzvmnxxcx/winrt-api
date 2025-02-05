@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.StyleSimulations StyleSimulations { get;  set; }
 ## -description
 Gets or sets the style simulations applied to the glyphs.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Glyphs StyleSimulation="styleSimulationsMemberName"/>

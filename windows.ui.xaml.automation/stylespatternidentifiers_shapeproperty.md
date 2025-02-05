@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty ShapeProperty { get; }
 ## -description
 Identifies the [Shape](../windows.ui.xaml.automation.provider/istylesprovider_shape.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

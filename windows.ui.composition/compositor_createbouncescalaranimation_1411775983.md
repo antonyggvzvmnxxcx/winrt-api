@@ -13,6 +13,8 @@ public BounceScalarNaturalMotionAnimation Compositor.CreateBounceScalarAnimation
 
 Creates an instance of [BounceScalarNaturalMotionAnimation](bouncescalarnaturalmotionanimation.md).
 
+
+
 ## -returns
 
 The created [BounceScalarNaturalMotionAnimation](bouncescalarnaturalmotionanimation.md) object.

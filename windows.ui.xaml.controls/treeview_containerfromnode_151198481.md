@@ -14,6 +14,8 @@ public DependencyObject TreeView.ContainerFromNode(TreeViewNode node)
 
 Returns the container corresponding to the specified node.
 
+Equivalent **WinUI 2 API for UWP**: [Microsoft.UI.Xaml.Controls.TreeView.ContainerFromNode](/windows/winui/api/microsoft.ui.xaml.controls.treeview.containerfromnode) (for WinUI in the [Windows App SDK](/windows/apps/windows-app-sdk/), see the **[Windows App SDK namespaces](/windows/windows-app-sdk/api/winrt/)**).
+
 ## -parameters
 
 ### -param node

@@ -12,6 +12,8 @@ public Compositor Compositor { get; }
 ## -description
 Gets the [Compositor](../windows.ui.composition/compositor.md) for this window.
 
+
+
 ## -property-value
 The [Compositor](../windows.ui.composition/compositor.md) for this window.
 

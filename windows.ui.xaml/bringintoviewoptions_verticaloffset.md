@@ -12,6 +12,8 @@ public double VerticalOffset { get;  set; }
 ## -description
 Gets or sets the vertical distance to add to the viewport-relative position of the TargetRect after satisfying the requested [VerticalAlignmentRatio](bringintoviewoptions_verticalalignmentratio.md).
 
+
+
 ## -property-value
 
 The vertical distance to add to the viewport-relative position of the TargetRect after satisfying the requested [VerticalAlignmentRatio](bringintoviewoptions_verticalalignmentratio.md).

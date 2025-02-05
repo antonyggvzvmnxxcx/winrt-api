@@ -12,6 +12,8 @@ public double TextIndent { get;  set; }
 ## -description
 Gets or sets the indentation of the first line of text in each paragraph in the [RichTextBlock](richtextblock.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <RichTextBlock TextIndent="double"/>

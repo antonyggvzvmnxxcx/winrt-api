@@ -14,6 +14,8 @@ public DependencyProperty DescriptionProperty { get; }
 
 Identifies the Description dependency property.
 
+
+
 ## -property-value
 
 The identifier for the Description dependency property.

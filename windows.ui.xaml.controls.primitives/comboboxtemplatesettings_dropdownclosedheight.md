@@ -12,6 +12,8 @@ public double DropDownClosedHeight { get; }
 ## -description
 Gets a value that reports the run-time layout slot height of the "Popup" part of a [ComboBox](../windows.ui.xaml.controls/combobox.md) in the "Closed" state.
 
+
+
 ## -property-value
 The run-time layout slot height, in pixels.
 

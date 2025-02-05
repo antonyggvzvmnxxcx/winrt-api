@@ -12,6 +12,8 @@ public float RightInsetScale { get;  set; }
 ## -description
 Scale to be applied to RightInset. Defaults to 1.0f.
 
+
+
 ## -property-value
 Scale to be applied to RightInset. Defaults to 1.0f.
 

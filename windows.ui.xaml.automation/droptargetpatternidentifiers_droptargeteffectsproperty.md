@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty DropTargetEffectsProperty {
 ## -description
 Gets the identifier for the [DropEffects](../windows.ui.xaml.automation.provider/idroptargetprovider_dropeffects.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

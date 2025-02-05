@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty VerticalChildrenAlignmentProperty { ge
 ## -description
 Identifies the [VerticalChildrenAlignment](wrapgrid_verticalchildrenalignment.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [VerticalChildrenAlignment](wrapgrid_verticalchildrenalignment.md) dependency property.
 

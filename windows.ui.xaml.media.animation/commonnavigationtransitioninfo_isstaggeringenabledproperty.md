@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsStaggeringEnabledProperty { get; }
 ## -description
 Identifies the [IsStaggeringEnabled](commonnavigationtransitioninfo_isstaggeringenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsStaggeringEnabled](commonnavigationtransitioninfo_isstaggeringenabled.md) dependency property.
 

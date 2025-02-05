@@ -12,6 +12,8 @@ public enum Windows.UI.Text.LetterCase : int
 ## -description
 Represents the character case formatting.
 
+
+
 ## -enum-fields
 ### -field Lower:0
 Lowercase characters.

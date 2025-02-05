@@ -12,6 +12,8 @@ public DependencyProperty CloseButtonCommandProperty { get; }
 ## -description
 Gets the identifier of the CloseButtonCommand dependency property.
 
+
+
 ## -property-value
 The identifier of the CloseButtonCommand dependency property.
 

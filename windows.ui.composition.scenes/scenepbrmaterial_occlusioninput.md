@@ -14,6 +14,8 @@ public SceneMaterialInput OcclusionInput { get;  set; }
 
 Gets or sets the input for the material's occlusion.
 
+
+
 ## -property-value
 
 The input for the material's occlusion.

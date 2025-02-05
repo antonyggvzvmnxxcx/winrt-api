@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.VerticalAlignment : int
 ## -description
 Describes how a child element is vertically positioned or stretched within a parent's layout slot.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object property="enumerationvalue"/>

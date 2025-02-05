@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty Stereo3DVideoPackingModeProperty { get
 ## -description
 Identifies the [Stereo3DVideoPackingMode](mediaelement_stereo3dvideopackingmode.md) dependency property.
 
+
 ## -property-value
 The identifier for the [Stereo3DVideoPackingMode](mediaelement_stereo3dvideopackingmode.md) dependency property.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsZoomChainingEnabledProperty { get; }
 ## -description
 Identifies the [IsZoomChainingEnabled](scrollviewer_iszoomchainingenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsZoomChainingEnabled](scrollviewer_iszoomchainingenabled.md) dependency property.
 

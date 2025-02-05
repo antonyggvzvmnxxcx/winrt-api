@@ -12,6 +12,8 @@ public int LastCacheIndex { get; }
 ## -description
 Gets the index in the data collection of the last item in the cache.
 
+
+
 ## -property-value
 The index in the data collection of the last item in the cache. The default is -1.
 

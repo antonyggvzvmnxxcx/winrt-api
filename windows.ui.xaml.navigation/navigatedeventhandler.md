@@ -10,6 +10,8 @@ public delegate void NavigatedEventHandler(System.Object sender, Windows.UI.Xaml
 ## -description
 Represents the method that will handle the [Navigated](../windows.ui.xaml.controls/frame_navigated.md) event.
 
+
+
 ## -parameters
 ### -param sender
 The object where the handler is attached.

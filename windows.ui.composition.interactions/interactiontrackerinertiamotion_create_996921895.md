@@ -12,6 +12,8 @@ public Windows.UI.Composition.Interactions.InteractionTrackerInertiaMotion Creat
 ## -description
 Creates an instance of [InteractionTrackerInertiaMotion](interactiontrackerinertiamotion.md).
 
+
+
 ## -parameters
 ### -param compositor
 The compositor to use when creating the [InteractionTrackerInertiaMotion](interactiontrackerinertiamotion.md) object.

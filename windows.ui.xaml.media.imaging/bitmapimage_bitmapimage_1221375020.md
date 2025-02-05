@@ -12,6 +12,7 @@ public BitmapImage()
 ## -description
 Initializes a new instance of the [BitmapImage](bitmapimage.md) class.
 
+
 ## -remarks
 
 ## -examples

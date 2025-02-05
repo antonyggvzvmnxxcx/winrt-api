@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Provider.IRawElementProviderSimple TextContain
 ## -description
 Gets this element's nearest ancestor provider that supports the **Text** ([ITextProvider](itextprovider.md)) control pattern.
 
+
+
 ## -property-value
 The nearest ancestor provider that supports the **Text** ([ITextProvider](itextprovider.md)) control pattern.
 

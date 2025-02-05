@@ -13,6 +13,7 @@ public enum CharacterCasing : int
 
 Defines constants that specify how a control modifies the case of characters as they are typed.
 
+
 ## -enum-fields
 
 ### -field Upper:2

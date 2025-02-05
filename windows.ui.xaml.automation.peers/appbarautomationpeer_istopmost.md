@@ -12,6 +12,8 @@ public bool IsTopmost { get; }
 ## -description
 Gets a Boolean value indicating if the app bar is the topmost element in the z-order of layout.
 
+
+
 ## -property-value
 **true** if the app bar is topmost; otherwise, **false**.
 

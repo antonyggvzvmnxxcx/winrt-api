@@ -12,6 +12,7 @@ public SliderAutomationPeer(Windows.UI.Xaml.Controls.Slider owner)
 ## -description
 Initializes a new instance of the [SliderAutomationPeer](sliderautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [Slider](../windows.ui.xaml.controls/slider.md) to create a peer for.

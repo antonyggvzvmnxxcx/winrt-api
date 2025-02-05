@@ -29,19 +29,19 @@ A **Windows.Networking.VpnRouteAssignment** object that represents the routes th
 A **Windows.Networking.DomainNameAssignment** object that represents the list of name prefixes that are associated with the VPN channel, including its DNS and proxy servers.
 
 ### -param mtuSize
-A UINT16 value specifying the MTU size of the VPN L3 network interface. This is also the size of the **IVpnPacketBuffers** in the Receive pool.
+A UINT16 value specifying the MTU size of the VPN L3 network interface. This is also the size of the **IVpnPacketBuffers** in the Receive pool. This value should be configured to be at most 1400.
 
 ### -param maxFrameSize
-A UINT16 value specifying the max size of the frame defined by the VPN protocol encapsulation without counting the outerTunnelTransport. This is also the size of the **IVpnPacketBuffers** in the Send pool.
+A UINT16 value specifying the max size of the frame defined by the VPN protocol encapsulation without counting the outerTunnelTransport. This is also the size of the **IVpnPacketBuffers** in the Send pool. This value should be configured as mtuSize + [size of encapsulation headers], and should be <=1500. If it would be greater than 1500 either mtuSize or encapsulation header size should be reduced as the platform limits the framesize to 1500.
 
 ### -param reserved
 Reserved.
 
 ### -param mainOuterTunnelTransport
-An **IInspectable** object for socket transport. This object can be a **Windows.Networking.StreamSocket**, a **Windows.Networking.WebStreamSocket**, or a **Windows.NetworkingDatagramSocket**. This socket will control the connection to the VPN server and will be used to send encapsulated IP packets and receive encapsulated data. The socket must be unconnected at the point of the call.
+An **IInspectable** object for socket transport. This object can be a [Windows.Networking.Sockets.DatagramSocket](/uwp/api/windows.networking.sockets.datagramsocket) or a [Windows.Networking.Sockets.StreamSocket](/uwp/api/windows.networking.sockets.streamsocket). This socket will control the connection to the VPN server and will be used to send encapsulated IP packets and receive encapsulated data. The socket must be unconnected at the point of the call.
 
 ### -param optionalOuterTunnelTransport
-An optional **IInspectable** object for socket transport. This object can be a **Windows.Networking.StreamSocket**, a **Windows.Networking.WebStreamSocket**, or a **Windows.NetworkingDatagramSocket**. This socket will control the connection to the VPN server and will be used to send encapsulated IP packets and receive encapsulated data.
+An optional **IInspectable** object for socket transport. This object can be a [Windows.Networking.Sockets.DatagramSocket](/uwp/api/windows.networking.sockets.datagramsocket) or a [Windows.Networking.Sockets.StreamSocket](/uwp/api/windows.networking.sockets.streamsocket). This socket will control the connection to the VPN server and will be used to send encapsulated IP packets and receive encapsulated data.
 
 ### -param assignedTrafficFilters
 A **VpnTrafficFilterAssignment** object, which allows the specification of traffic filters to a VPN channel.

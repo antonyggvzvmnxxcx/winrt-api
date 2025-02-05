@@ -12,6 +12,8 @@ public double Amplitude { get;  set; }
 ## -description
 Gets or sets the amplitude of retraction associated with a [BackEase](backease.md) animation.
 
+
+
 ## -xaml-syntax
 ```xaml
 <BackEase Amplitude="double" .../>

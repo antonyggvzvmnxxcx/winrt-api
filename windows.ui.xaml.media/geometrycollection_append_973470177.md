@@ -12,6 +12,8 @@ public void Append(Windows.UI.Xaml.Media.Geometry value)
 ## -description
 Adds a new item to the collection.
 
+
+
 ## -parameters
 ### -param value
 The new item to add.

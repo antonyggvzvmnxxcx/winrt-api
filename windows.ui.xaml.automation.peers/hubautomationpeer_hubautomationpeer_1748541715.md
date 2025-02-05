@@ -12,6 +12,7 @@ public HubAutomationPeer(Windows.UI.Xaml.Controls.Hub owner)
 ## -description
 Initializes a new instance of the [HubAutomationPeer](hubautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [Hub](../windows.ui.xaml.controls/hub.md) to create the peer for.

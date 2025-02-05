@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Peers.AutomationControlType GetAutomationContr
 ## -description
 Gets the control type for the element that is associated with the UI Automation peer.
 
+
+
 ## -returns
 The control type.
 

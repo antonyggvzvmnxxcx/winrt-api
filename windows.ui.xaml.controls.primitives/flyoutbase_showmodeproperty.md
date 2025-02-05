@@ -14,6 +14,8 @@ public DependencyProperty ShowModeProperty { get; }
 
 Identifies the [ShowMode](flyoutbase_showmode.md) dependency property.
 
+
+
 ## -property-value
 
 The identifier for the [ShowMode](flyoutbase_showmode.md) dependency property.

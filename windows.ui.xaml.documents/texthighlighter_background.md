@@ -13,6 +13,8 @@ public Brush Background { get;  set; }
 
 Gets or sets the brush used to highlight the text.
 
+
+
 ## -property-value
 
 The brush used to highlight the text.

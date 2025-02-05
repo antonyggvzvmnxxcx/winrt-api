@@ -13,6 +13,8 @@ public Windows.UI.Color LightSeaGreen { get; }
 
 Gets the system-defined color that has an ARGB value of #FF20B2AA.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FF20B2AA.

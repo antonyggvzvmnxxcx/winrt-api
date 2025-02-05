@@ -14,6 +14,8 @@ public SceneMaterialInput MetallicRoughnessInput { get;  set; }
 
 Gets or sets the input for how rough or smooth the material is.
 
+
+
 ## -property-value
 
 The input for how rough or smooth the material is.

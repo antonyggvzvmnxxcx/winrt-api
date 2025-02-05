@@ -12,6 +12,7 @@ protected Timeline()
 ## -description
 Provides base class initialization behavior for [Timeline](timeline.md)-derived classes.
 
+
 ## -remarks
 
 ## -examples

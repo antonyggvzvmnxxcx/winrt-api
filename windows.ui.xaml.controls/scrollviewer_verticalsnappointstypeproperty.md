@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty VerticalSnapPointsTypeProperty { get; 
 ## -description
 Identifies the [VerticalSnapPointsType](scrollviewer_verticalsnappointstype.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [VerticalSnapPointsType](scrollviewer_verticalsnappointstype.md) dependency property.
 

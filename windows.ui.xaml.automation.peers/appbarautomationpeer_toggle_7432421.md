@@ -12,6 +12,8 @@ public void Toggle()
 ## -description
 Cycles through the toggle states of an [AppBarAutomationPeer](appbarautomationpeer.md).
 
+
+
 ## -remarks
 
 ## -examples

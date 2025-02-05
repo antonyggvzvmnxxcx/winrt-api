@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Markup.IXamlMember ContentProperty { get; }
 ## -description
 Gets the [IXamlMember](ixamlmember.md) information for the XAML content property of this [IXamlType](ixamltype.md).
 
+
+
 ## -property-value
 [IXamlMember](ixamlmember.md) information for the XAML content property of the [IXamlType](ixamltype.md). May be null if no XAML content property exists.
 

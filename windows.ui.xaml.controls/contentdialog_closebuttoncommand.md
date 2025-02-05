@@ -12,6 +12,8 @@ public ICommand CloseButtonCommand { get;  set; }
 ## -description
 Gets or sets the command to invoke when the close button is tapped.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentDialog CloseButtonCommand="commandReference"/>

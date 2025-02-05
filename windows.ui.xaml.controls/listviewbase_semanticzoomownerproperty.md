@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty SemanticZoomOwnerProperty { get; }
 ## -description
 Identifies the [SemanticZoomOwner](listviewbase_semanticzoomowner.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [SemanticZoomOwner](listviewbase_semanticzoomowner.md) dependency property.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty FooterProperty { get; }
 ## -description
 Identifies the [Footer](listviewbase_footer.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Footer](listviewbase_footer.md) dependency property.
 

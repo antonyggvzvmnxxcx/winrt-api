@@ -13,6 +13,8 @@ public Windows.UI.Text.FontWeight Normal { get; }
 
 Specifies a font weight value of 400.
 
+
+
 ## -property-value
 
 A [FontWeight](fontweight.md) with a Weight value of 400.

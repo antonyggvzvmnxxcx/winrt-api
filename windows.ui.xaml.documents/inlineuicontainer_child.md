@@ -12,6 +12,8 @@ public Windows.UI.Xaml.UIElement Child { get;  set; }
 ## -description
 Gets or sets the [UIElement](../windows.ui.xaml/uielement.md) hosted by the [InlineUIContainer](inlineuicontainer.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <InlineUIContainer ...>

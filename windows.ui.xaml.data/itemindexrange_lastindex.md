@@ -12,6 +12,8 @@ public int LastIndex { get; }
 ## -description
 Gets the index of the last item in the instance of the [ItemIndexRange](itemindexrange.md) class.
 
+
+
 ## -property-value
 The index of the last item in the instance of the [ItemIndexRange](itemindexrange.md) class.
 

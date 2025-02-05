@@ -12,6 +12,8 @@ public bool IndexOf(Windows.UI.Xaml.Controls.HubSection value, System.UInt32 ind
 ## -description
 Retrieves the index of the specified item.
 
+
+
 ## -parameters
 ### -param value
 The value to find in the collection.

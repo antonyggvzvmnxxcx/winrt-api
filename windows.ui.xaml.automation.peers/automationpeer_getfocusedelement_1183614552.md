@@ -12,6 +12,8 @@ public object GetFocusedElement()
 ## -description
 Gets the element that currently has the focus.
 
+
+
 ## -returns
 The element that currently has the focus.
 

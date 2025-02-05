@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty UseLayoutRoundingProperty { get; }
 ## -description
 Identifies the [UseLayoutRounding](uielement_uselayoutrounding.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [UseLayoutRounding](uielement_uselayoutrounding.md) dependency property.
 

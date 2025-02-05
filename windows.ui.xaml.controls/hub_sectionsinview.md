@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IVector<Windows.UI.Xaml.Controls.HubSectio
 ## -description
 Gets the hub sections currently on the screen.
 
+
+
 ## -property-value
 The hub sections currently on the screen.
 

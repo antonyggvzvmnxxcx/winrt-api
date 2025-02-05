@@ -12,6 +12,8 @@ public Windows.Foundation.IAsyncOperation<Windows.UI.Xaml.Data.LoadMoreItemsResu
 ## -description
 Initializes incremental loading from the view.
 
+
+
 ## -parameters
 ### -param count
 The number of items to load.

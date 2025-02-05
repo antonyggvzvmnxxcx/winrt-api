@@ -12,6 +12,8 @@ public interface ITextRange :
 ## -description
 Represents a span of continuous text in a document, and provides powerful editing and data-binding properties and methods that allow an app to select, examine, and change document text.
 
+
+
 ## -remarks
 
 ## -examples

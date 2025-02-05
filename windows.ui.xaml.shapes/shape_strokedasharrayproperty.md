@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty StrokeDashArrayProperty { get; }
 ## -description
 Identifies the [StrokeDashArray](shape_strokedasharray.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [StrokeDashArray](shape_strokedasharray.md) dependency property.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty MaximumProperty { get; }
 ## -description
 Identifies the [Maximum](../windows.ui.xaml.automation.provider/irangevalueprovider_maximum.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

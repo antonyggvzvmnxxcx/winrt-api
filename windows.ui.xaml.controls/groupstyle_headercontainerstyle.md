@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Style HeaderContainerStyle { get;  set; }
 ## -description
 Gets or sets the style that is applied to the header for each item.
 
+
+
 ## -xaml-syntax
 ```xaml
 <GroupStyle ...>

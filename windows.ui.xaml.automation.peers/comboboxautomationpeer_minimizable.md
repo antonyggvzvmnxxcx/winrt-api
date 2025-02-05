@@ -12,6 +12,8 @@ public bool Minimizable { get; }
 ## -description
 Gets a Boolean value indicating if the [ComboBox](../windows.ui.xaml.controls/combobox.md) control can be minimized.
 
+
+
 ## -property-value
 A Boolean value indicating if the [ComboBox](../windows.ui.xaml.controls/combobox.md) control can be minimized.
 

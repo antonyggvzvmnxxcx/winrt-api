@@ -12,6 +12,7 @@ public SoftwareBitmapSource()
 ## -description
 Initializes a new instance of the [SoftwareBitmapSource](softwarebitmapsource.md) class.
 
+
 ## -remarks
 
 ## -examples

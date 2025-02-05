@@ -13,6 +13,8 @@ public class DirectConnectedAnimationConfiguration : ConnectedAnimationConfigura
 ## -description
 An object that configures the connected animation to play a quick linear animation between source and destination.
 
+
+
 ## -remarks
 
 ## -see-also

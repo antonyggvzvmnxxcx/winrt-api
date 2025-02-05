@@ -12,9 +12,10 @@ public AccessKeyDisplayRequestedEventArgs()
 ## -description
 Initializes a new instance of the [AccessKeyDisplayRequestedEventArgs](accesskeydisplayrequestedeventargs.md) class.
 
+
 ## -remarks
 
 ## -examples
 
 ## -see-also
-[Access keys](https://docs.microsoft.com/windows/uwp/design/input/access-keys)
+[Access keys](/windows/uwp/design/input/access-keys)

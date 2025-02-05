@@ -12,6 +12,7 @@ public AppBarToggleButton()
 ## -description
 Initializes a new instance of the [AppBarToggleButton](appbartogglebutton.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public void AddToSelection()
 ## -description
 Adds to the collection of highlighted text in a text container that supports multiple disjoint selections.
 
+
+
 ## -remarks
 
 ## -examples

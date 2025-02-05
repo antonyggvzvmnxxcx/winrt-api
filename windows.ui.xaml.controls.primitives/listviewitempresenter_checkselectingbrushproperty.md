@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty CheckSelectingBrushProperty { get; }
 ## -description
 Identifies the [CheckSelectingBrush](listviewitempresenter_checkselectingbrush.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [CheckSelectingBrush](listviewitempresenter_checkselectingbrush.md) dependency property.
 

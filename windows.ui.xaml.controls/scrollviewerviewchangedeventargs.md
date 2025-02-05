@@ -12,6 +12,8 @@ public class ScrollViewerViewChangedEventArgs : Windows.UI.Xaml.Controls.IScroll
 ## -description
 Provides event data for the [ViewChanged](scrollviewer_viewchanged.md) event and similar control-specific events.
 
+
+
 ## -remarks
 
 ## -examples

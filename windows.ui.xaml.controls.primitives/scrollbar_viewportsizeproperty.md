@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ViewportSizeProperty { get; }
 ## -description
 Identifies the [ViewportSize](scrollbar_viewportsize.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ViewportSize](scrollbar_viewportsize.md) dependency property.
 

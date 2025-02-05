@@ -12,6 +12,7 @@ public bool AreTransportControlsEnabled { get;  set; }
 ## -description
 Gets or sets a value that determines whether the standard transport controls are enabled.
 
+
 ## -xaml-syntax
 ```xaml
 <MediaPlayerElement AreTransportControlsEnabled="bool"/>

@@ -12,6 +12,7 @@ public bool IsSkipBackwardEnabled { get;  set; }
 ## -description
 Gets or sets a value that indicates whether a user can skip backward in the media.
 
+
 ## -xaml-syntax
 ```xaml
 

@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.Data.PropertyChangedEventHandler PropertyChanged
 ## -description
 Occurs when a property value changes.
 
+
+
 ## -xaml-syntax
 ```xaml
 <GroupStyle PropertyChanged="eventhandler"/>

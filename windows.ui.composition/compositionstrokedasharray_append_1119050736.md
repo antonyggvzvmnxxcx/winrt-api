@@ -13,6 +13,8 @@ public void CompositionStrokeDashArray.Append(Single value)
 
 Adds a new item to the collection.
 
+
+
 ## -parameters
 ### -param value
 

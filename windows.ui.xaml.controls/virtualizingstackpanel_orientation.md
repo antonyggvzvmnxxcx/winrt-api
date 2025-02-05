@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.Orientation Orientation { get;  set; }
 ## -description
 Gets or sets a value that describes the horizontal or vertical orientation of stacked content.
 
+
+
 ## -xaml-syntax
 ```xaml
 <VirtualizingStackPanel Orientation="Horizontal"/>

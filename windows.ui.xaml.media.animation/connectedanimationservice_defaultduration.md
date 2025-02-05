@@ -12,6 +12,8 @@ public Windows.Foundation.TimeSpan DefaultDuration { get;  set; }
 ## -description
 Gets or sets the default time that the animation runs.
 
+
+
 ## -property-value
 The default time that the animation runs.
 

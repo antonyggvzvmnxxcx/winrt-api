@@ -12,6 +12,8 @@ public int Column { get; }
 ## -description
 Gets the ordinal number of the column that contains the cell or item.
 
+
+
 ## -property-value
 A zero-based ordinal number that identifies the column that contains the cell or item.
 

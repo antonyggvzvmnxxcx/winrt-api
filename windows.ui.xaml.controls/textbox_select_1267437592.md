@@ -12,6 +12,8 @@ public void Select(System.Int32 start, System.Int32 length)
 ## -description
 Selects a range of text in the text box.
 
+
+
 ## -parameters
 ### -param start
 The zero-based index of the first character in the selection.

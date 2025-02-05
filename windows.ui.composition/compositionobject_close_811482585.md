@@ -12,6 +12,8 @@ public void Close()
 ## -description
 Closes the CompositionObject and releases system resources.
 
+
+
 ## -remarks
 
 ## -examples

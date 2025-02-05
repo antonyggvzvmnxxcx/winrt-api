@@ -10,11 +10,13 @@ public void SetCapitals(Windows.UI.Xaml.DependencyObject element, Windows.UI.Xam
 # Windows.UI.Xaml.Documents.Typography.SetCapitals
 
 ## -description
-Sets the value of the [Capitals](/uwp/api/windows.ui.xaml.documents.typography#xaml-attached-properties) attached property for a specified dependency object.
+Sets the value of the [Capitals](typography_capitals.md) attached property for a specified dependency object.
+
+
 
 ## -parameters
 ### -param element
-The dependency object for which to set the value of the [Capitals](/uwp/api/windows.ui.xaml.documents.typography#xaml-attached-properties) property.
+The dependency object for which to set the value of the [Capitals](typography_capitals.md) property.
 
 ### -param value
 The new value to set the property to.
@@ -24,3 +26,5 @@ The new value to set the property to.
 ## -examples
 
 ## -see-also
+
+[Capitals](typography_capitals.md), [XAML attached properties](/windows/uwp/xaml-platform/attached-properties-overview)

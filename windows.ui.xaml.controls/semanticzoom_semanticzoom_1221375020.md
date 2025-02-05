@@ -12,6 +12,7 @@ public SemanticZoom()
 ## -description
 Initializes a new instance of the [SemanticZoom](semanticzoom.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsReadOnlyProperty { get; }
 ## -description
 Identifies the [IsReadOnly](richeditbox_isreadonly.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsReadOnly](richeditbox_isreadonly.md) dependency property.
 

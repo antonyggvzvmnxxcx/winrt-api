@@ -12,6 +12,8 @@ public bool HasMoreItems { get; }
 ## -description
 Gets a sentinel value that supports incremental loading implementations.
 
+
+
 ## -property-value
 **true** if additional unloaded items remain in the view; otherwise, **false**.
 

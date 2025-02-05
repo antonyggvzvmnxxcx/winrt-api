@@ -12,6 +12,8 @@ public float SpaceBefore { get;  set; }
 ## -description
 Gets or sets the amount of vertical space above a paragraph.
 
+
+
 ## -property-value
 The amount of vertical space, in floating-point points.
 

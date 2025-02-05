@@ -12,6 +12,8 @@ public class Thumb : Windows.UI.Xaml.Controls.Control, Windows.UI.Xaml.Controls.
 ## -description
 Represents a control that can be dragged by the user.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Thumb .../>

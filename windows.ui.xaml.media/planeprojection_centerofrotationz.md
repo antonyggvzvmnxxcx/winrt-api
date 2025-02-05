@@ -12,6 +12,8 @@ public double CenterOfRotationZ { get;  set; }
 ## -description
 Gets or sets the z-coordinate of the center of rotation of the object that you rotate.
 
+
+
 ## -xaml-syntax
 ```xaml
 <PlaneProjection CenterOfRotationZ="double"/>

@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.RoutedEventHandler Opened
 ## -description
 Occurs when a [ToolTip](tooltip.md) becomes visible.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ToolTip Opened="eventhandler"/>

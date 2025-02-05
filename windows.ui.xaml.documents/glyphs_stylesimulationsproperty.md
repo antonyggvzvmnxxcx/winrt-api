@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty StyleSimulationsProperty { get; }
 ## -description
 Identifies the [StyleSimulations](glyphs_stylesimulations.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [StyleSimulations](glyphs_stylesimulations.md) dependency property.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty PointsProperty { get; }
 ## -description
 Identifies the [Points](polylinesegment_points.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [Points](polylinesegment_points.md)  dependency property.
 

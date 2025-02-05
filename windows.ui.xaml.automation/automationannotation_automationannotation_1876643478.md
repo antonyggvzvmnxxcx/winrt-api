@@ -12,6 +12,7 @@ public AutomationAnnotation(Windows.UI.Xaml.Automation.AnnotationType type, Wind
 ## -description
 Initializes a new instance of the  class using the supplied parameters.
 
+
 ## -parameters
 ### -param type
 Specifies the type of the annotation.

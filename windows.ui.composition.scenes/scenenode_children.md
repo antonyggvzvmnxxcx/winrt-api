@@ -14,6 +14,8 @@ public SceneNodeCollection Children { get; }
 
 Gets the collection of children of this node.
 
+
+
 ## -property-value
 
 The collection of children of this node.

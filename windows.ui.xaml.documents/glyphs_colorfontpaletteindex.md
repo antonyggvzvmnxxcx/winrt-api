@@ -12,6 +12,8 @@ public int ColorFontPaletteIndex { get;  set; }
 ## -description
 Gets or sets the index of the palette to use for the color font.
 
+
+
 ## -property-value
 The index of the palette to use for the color font.
 

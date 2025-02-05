@@ -13,6 +13,8 @@ public CompositionLineGeometry Compositor.CreateLineGeometry()
 
 Creates an instance of [CompositionLineGeometry](compositionlinegeometry.md).
 
+
+
 ## -returns
 
 Returns the created [CompositionLineGeometry](compositionlinegeometry.md) object.

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty CanGoForwardProperty { get; }
 ## -description
 Identifies the [CanGoForward](frame_cangoforward.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [CanGoForward](frame_cangoforward.md) dependency property.
 

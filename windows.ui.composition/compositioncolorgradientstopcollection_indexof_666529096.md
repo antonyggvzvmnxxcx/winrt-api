@@ -13,6 +13,8 @@ public bool CompositionColorGradientStopCollection.IndexOf(CompositionColorGradi
 
 Retrieves the index of the specified item.
 
+
+
 ## -parameters
 ### -param value
 

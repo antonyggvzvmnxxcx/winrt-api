@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Navigation.NavigationCacheMode : int
 ## -description
 Specifies caching characteristics for a page involved in a navigation.
 
+
+
 ## -enum-fields
 ### -field Disabled:0
 The page is never cached and a new instance of the page is created on each visit.

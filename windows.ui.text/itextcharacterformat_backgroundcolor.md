@@ -12,6 +12,8 @@ public Windows.UI.Color BackgroundColor { get;  set; }
 ## -description
 Gets or sets the text background (highlight) color.
 
+
+
 ## -property-value
 The text background color.
 

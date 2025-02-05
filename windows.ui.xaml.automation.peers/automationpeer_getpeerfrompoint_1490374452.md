@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Peers.AutomationPeer GetPeerFromPoint(Windows.
 ## -description
 Gets an [AutomationPeer](automationpeer.md) from the specified point.
 
+
+
 ## -parameters
 ### -param point
 The relative position of the target UI element in the UI.

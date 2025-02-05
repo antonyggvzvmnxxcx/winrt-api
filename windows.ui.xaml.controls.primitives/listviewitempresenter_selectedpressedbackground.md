@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Brush SelectedPressedBackground { get;  set; }
 ## -description
 In a [ListView](../windows.ui.xaml.controls/listview.md), gets or sets the brush used to render the background of a selected item while the user is pressing it. In a [GridView](../windows.ui.xaml.controls/gridview.md), the item's border is set rather than the background.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ListViewItemPresenter SelectedPressedBackground="themeResourceReference"/>
@@ -35,4 +37,4 @@ If you're setting this property as an attribute on a custom [ListViewItemPresent
 ## -examples
 
 ## -see-also
-[XAML theme resources](https://docs.microsoft.com/windows/uwp/controls-and-patterns/xaml-theme-resources)
+[XAML theme resources](/windows/apps/design/style/xaml-theme-resources)

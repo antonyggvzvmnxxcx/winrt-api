@@ -12,6 +12,8 @@ public object Group { get; }
 ## -description
 Gets or sets the grouping context used for grouping the data, which sets the data context for the default [HeaderTemplate](../windows.ui.xaml.controls/groupstyle_headertemplate.md).
 
+
+
 ## -property-value
 The grouping context used for grouping the data.
 

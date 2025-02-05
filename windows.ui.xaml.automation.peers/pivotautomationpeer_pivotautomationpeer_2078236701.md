@@ -12,6 +12,7 @@ public PivotAutomationPeer(Windows.UI.Xaml.Controls.Pivot owner)
 ## -description
 Initializes a new instance of the [PivotAutomationPeer](pivotautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [Pivot](../windows.ui.xaml.controls/pivot.md) to create a peer for.

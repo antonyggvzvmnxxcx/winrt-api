@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ClosedTargetProperty { get; }
 ## -description
 Identifies the [ClosedTarget](splitclosethemeanimation_closedtarget.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ClosedTarget](splitclosethemeanimation_closedtarget.md) dependency property.
 

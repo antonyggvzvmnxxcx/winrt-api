@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty OnContentTemplateProperty { get; }
 ## -description
 Identifies the [OnContentTemplate](toggleswitch_oncontenttemplate.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [OnContentTemplate](toggleswitch_oncontenttemplate.md) dependency property.
 

@@ -12,6 +12,8 @@ public float GetRegularSnapPoints(Windows.UI.Xaml.Controls.Orientation orientati
 ## -description
 Gets the distance between regular snap points for a specified orientation and alignment.
 
+
+
 ## -parameters
 ### -param orientation
 The orientation/dimension for the desired snap point set.

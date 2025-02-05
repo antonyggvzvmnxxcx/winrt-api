@@ -12,6 +12,8 @@ public class SemanticZoomViewChangedEventArgs : Windows.UI.Xaml.Controls.ISemant
 ## -description
 Provides event data for the [ViewChangeStarted](semanticzoom_viewchangestarted.md) and [ViewChangeCompleted](semanticzoom_viewchangecompleted.md) events.
 
+
+
 ## -remarks
 
 ## -examples

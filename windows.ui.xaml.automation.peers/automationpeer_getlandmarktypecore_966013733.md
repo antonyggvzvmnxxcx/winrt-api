@@ -12,6 +12,8 @@ virtual protected Windows.UI.Xaml.Automation.Peers.AutomationLandmarkType GetLan
 ## -description
 Provides the peer's behavior when a Microsoft UI Automation client calls [GetLandmarkType](automationpeer_getlandmarktype_897276768.md) or an equivalent Microsoft UI Automation client API.
 
+
+
 ## -returns
 The landmark type.
 

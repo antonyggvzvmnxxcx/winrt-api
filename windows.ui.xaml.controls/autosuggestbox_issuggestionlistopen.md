@@ -12,6 +12,8 @@ public bool IsSuggestionListOpen { get;  set; }
 ## -description
 Gets or sets a Boolean value indicating whether the drop-down portion of the [AutoSuggestBox](autosuggestbox.md) is open.
 
+
+
 ## -property-value
 A Boolean value indicating whether the drop-down portion of the [AutoSuggestBox](autosuggestbox.md) is open.
 

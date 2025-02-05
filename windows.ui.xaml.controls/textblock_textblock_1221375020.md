@@ -12,6 +12,7 @@ public TextBlock()
 ## -description
 Initializes a new instance of the [TextBlock](textblock.md) class.
 
+
 ## -remarks
 
 ## -examples

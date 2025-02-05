@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.RoutedEventHandler Indeterminate
 ## -description
 Fires when the state of a [ToggleButton](togglebutton.md) is switched to the indeterminate state.
 
+
+
 ## -xaml-syntax
 ```xaml
 <togglebutton Indeterminate="eventhandler"/>

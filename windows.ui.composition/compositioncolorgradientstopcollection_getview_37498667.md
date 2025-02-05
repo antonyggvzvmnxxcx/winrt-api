@@ -13,6 +13,8 @@ public IVectorView<CompositionColorGradientStop> CompositionColorGradientStopCol
 
 Gets an immutable view into the collection.
 
+
+
 ## -returns
 
 An object representing the immutable collection view.

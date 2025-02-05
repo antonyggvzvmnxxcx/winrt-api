@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ReorderHintOffsetProperty { get; }
 ## -description
 Identifies the [ReorderHintOffset](listviewitempresenter_reorderhintoffset.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ReorderHintOffset](listviewitempresenter_reorderhintoffset.md) dependency property.
 

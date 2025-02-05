@@ -12,6 +12,7 @@ public SurfaceImageSource(System.Int32 pixelWidth, System.Int32 pixelHeight)
 ## -description
 Initializes a new instance of the [SurfaceImageSource](surfaceimagesource.md) class, specifying the size of the drawing area.
 
+
 ## -parameters
 ### -param pixelWidth
 Width of the drawing area in pixels.

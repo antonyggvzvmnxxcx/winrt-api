@@ -12,6 +12,8 @@ public Windows.Foundation.DateTime Date { get;  set; }
 ## -description
 Gets or sets the date currently set in the date picker.
 
+
+
 ## -property-value
 The date currently set in the picker.
 

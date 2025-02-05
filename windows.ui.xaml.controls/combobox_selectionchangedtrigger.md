@@ -12,6 +12,8 @@ public ComboBoxSelectionChangedTrigger SelectionChangedTrigger { get;  set; }
 ## -description
 Gets or sets a value that indicates what action causes a SelectionChanged event to occur.
 
+
+
 ## -property-value
 A value of the enumeration. The default is **Committed**.
 

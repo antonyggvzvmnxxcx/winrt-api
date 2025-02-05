@@ -12,6 +12,7 @@ public void AddAudioEffect(System.String effectID, System.Boolean effectOptional
 ## -description
 Applies an audio effect to playback. Takes effect for the next source that is set on this [MediaElement](mediaelement.md).
 
+
 ## -parameters
 ### -param effectID
 The identifier for the desired effect.

@@ -13,6 +13,8 @@ public char Character { get;  set; }
 
 Gets or sets the first character of the text range; that is, the character associated with the StartPosition property.
 
+
+
 ## -property-value
 
 The value of the first character in the text range.

@@ -14,6 +14,8 @@ public float AlphaCutoff { get;  set; }
 
 Gets or sets the alpha cutoff for the material.
 
+
+
 ## -property-value
 
 The alpha cutoff for the material.

@@ -12,6 +12,8 @@ public Windows.Foundation.IReference<double> From { get;  set; }
 ## -description
 Gets or sets the animation's starting value.
 
+
+
 ## -xaml-syntax
 ```xaml
 <DoubleAnimation From="double"/>

@@ -12,6 +12,8 @@ public enum Windows.UI.Text.PointOptions : uint
 ## -description
 Defines options for specifying or retrieving a point.
 
+
+
 ## -enum-fields
 ### -field None:0
 No options.

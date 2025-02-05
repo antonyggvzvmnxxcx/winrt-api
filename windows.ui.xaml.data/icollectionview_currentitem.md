@@ -12,6 +12,8 @@ public object CurrentItem { get; }
 ## -description
 Gets the current item in the view.
 
+
+
 ## -property-value
 The current item in the view or null if there is no current item.
 

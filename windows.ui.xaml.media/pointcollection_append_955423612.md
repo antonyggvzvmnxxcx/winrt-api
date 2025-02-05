@@ -12,6 +12,8 @@ public void Append(Windows.Foundation.Point value)
 ## -description
 Adds a new item to the collection.
 
+
+
 ## -parameters
 ### -param value
 Adds a new item to the collection.

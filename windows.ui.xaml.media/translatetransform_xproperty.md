@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty XProperty { get; }
 ## -description
 Identifies the [X](translatetransform_x.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [X](translatetransform_x.md) dependency property.
 

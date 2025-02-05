@@ -12,6 +12,7 @@ public bool IsEnabled()
 ## -description
 Gets a value that indicates whether the element associated with this automation peer supports interaction.
 
+
 ## -returns
 **true** if the element supports interaction; otherwise, **false**.
 

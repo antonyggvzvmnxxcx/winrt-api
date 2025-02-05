@@ -12,6 +12,7 @@ public CarouselPanel()
 ## -description
 Initializes a new instance of the [CarouselPanel](carouselpanel.md) class.
 
+
 ## -remarks
 
 ## -examples

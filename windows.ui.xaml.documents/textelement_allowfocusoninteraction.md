@@ -12,6 +12,8 @@ public bool AllowFocusOnInteraction { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the element automatically gets focus when the user interacts with it.
 
+
+
 ## -xaml-syntax
 ```xaml
 <textElementAllowFocusOnInteraction="bool"/>

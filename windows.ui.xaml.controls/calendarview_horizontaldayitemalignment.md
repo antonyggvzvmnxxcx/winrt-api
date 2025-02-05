@@ -12,6 +12,8 @@ public Windows.UI.Xaml.HorizontalAlignment HorizontalDayItemAlignment { get;  se
 ## -description
 Gets or sets the horizontal alignment of day items in the calendar.
 
+
+
 ## -xaml-syntax
 ```xaml
 

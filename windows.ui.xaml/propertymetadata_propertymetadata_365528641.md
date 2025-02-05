@@ -12,6 +12,7 @@ public PropertyMetadata(System.Object defaultValue)
 ## -description
 Initializes a new instance of the [PropertyMetadata](propertymetadata.md) class, using a property default value.
 
+
 ## -parameters
 ### -param defaultValue
 A default value for the property where this [PropertyMetadata](propertymetadata.md) is applied.

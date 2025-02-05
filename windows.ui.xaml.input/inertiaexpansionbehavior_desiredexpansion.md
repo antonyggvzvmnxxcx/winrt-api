@@ -12,6 +12,8 @@ public double DesiredExpansion { get;  set; }
 ## -description
 Gets or sets the amount the element resizes at the end of inertia.
 
+
+
 ## -property-value
 The amount the element resizes at the end of inertia.
 

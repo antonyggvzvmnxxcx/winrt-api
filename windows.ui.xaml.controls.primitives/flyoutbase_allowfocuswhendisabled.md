@@ -12,6 +12,8 @@ public bool AllowFocusWhenDisabled { get;  set; }
 ## -description
 Gets or sets a value that specifies whether the control can receive focus when it's disabled.
 
+
+
 ## -property-value
 **true** if the control can receive focus when it's disabled; otherwise, **false**.
 

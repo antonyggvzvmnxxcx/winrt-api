@@ -22,15 +22,15 @@ When this method completes successfully, it returns an [IStorageItem](istorageit
 To work with the returned item, call the [IsOfType](istorageitem_isoftype_1417811226.md) method of the [IStorageItem](istorageitem.md) interface to determine whether the item is a file or a folder. Then cast the item to a [StorageFolder](storagefolder.md) or [StorageFile](storagefile.md).
 
 ## -exceptions
-### System.IO.FileNotFoundException
+### T:System.IO.FileNotFoundException
 
 The specified item does not exist. Check the value of *name*.
 
-### System.UnauthorizedAccessException
+### T:System.UnauthorizedAccessException
 
-You don't have permission to access the specified item. For more information, see [File access permissions](https://docs.microsoft.com/windows/uwp/files/file-access-permissions).
+You don't have permission to access the specified item. For more information, see [File access permissions](/windows/uwp/files/file-access-permissions).
 
-### System.ArgumentException
+### T:System.ArgumentException
 
 The path cannot be in Uri format (for example, /image.jpg). Check the value of *name*.
 
@@ -74,7 +74,7 @@ IAsyncAction MainPage::ExampleCoroutineAsync()
 }
 ```
 
-```cpp
+```cppcx
 // Get the app's installation folder
 StorageFolder^ appFolder = Windows::ApplicationModel::Package::Current->InstalledLocation;
 
@@ -85,23 +85,5 @@ create_task(appFolder->GetItemAsync(name)).then([=](IStorageItem^ manifest){
 });
 ```
 
-```javascript
-// Get the app's installation folder.
-var appFolder = Windows.ApplicationModel.Package.current.installedLocation;
-
-// Get the app's manifest file.
-var name = "AppxManifest.xml";
-var manifestFilePromise = appFolder.getItemAsync(name);
-manifestFilePromise.done(function getItemSuccess(manifestFile) {
-});
-
-// Get a file from a subfolder of the current folder
-// by providing a relative path.
-var image = "Assets\\Logo.scale-100.png";
-var logoImagePromise = appFolder.getItemAsync(image);
-logoImagePromise.done(function getItemSuccess(logoImage) {
-});
-```
-
 ## -see-also
-[File access permissions](https://docs.microsoft.com/windows/uwp/files/file-access-permissions), [GetFileAsync](storagefolder_getfileasync_703762627.md), [GetFolderAsync](storagefolder_getfolderasync_761626819.md), [TryGetItemAsync](storagefolder_trygetitemasync_1863649689.md)
+[File access permissions](/windows/uwp/files/file-access-permissions), [GetFileAsync](storagefolder_getfileasync_703762627.md), [GetFolderAsync](storagefolder_getfolderasync_761626819.md), [TryGetItemAsync](storagefolder_trygetitemasync_1863649689.md)

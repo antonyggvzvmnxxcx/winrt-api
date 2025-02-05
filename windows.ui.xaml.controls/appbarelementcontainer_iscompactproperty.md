@@ -14,6 +14,8 @@ public DependencyProperty IsCompactProperty { get; }
 
 Identifies the IsCompact dependency property.
 
+
+
 ## -property-value
 
 The identifier for the IsCompact dependency property.

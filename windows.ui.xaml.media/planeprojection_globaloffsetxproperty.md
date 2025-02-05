@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty GlobalOffsetXProperty { get; }
 ## -description
 Identifies the [GlobalOffsetX](planeprojection_globaloffsetx.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [GlobalOffsetX](planeprojection_globaloffsetx.md)  dependency property.
 

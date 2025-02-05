@@ -12,6 +12,8 @@ public class ContextMenuEventArgs : Windows.UI.Xaml.RoutedEventArgs, Windows.UI.
 ## -description
 Provides event data for the **ContextMenuOpening** event that exists on several text-related UI elements.
 
+
+
 ## -remarks
 
 ## -examples

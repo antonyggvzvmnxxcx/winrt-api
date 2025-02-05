@@ -12,6 +12,8 @@ public enum Windows.UI.Composition.CompositionGetValueStatus : int
 ## -description
 Indicates the outcome of an attempt to retrieve the value of a key-value pair.
 
+
+
 ## -enum-fields
 ### -field Succeeded:0
 The value successfully retrieved.

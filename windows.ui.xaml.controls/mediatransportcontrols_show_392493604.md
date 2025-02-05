@@ -13,6 +13,7 @@ public void MediaTransportControls.Show()
 
 Shows the tranport controls if they're hidden.
 
+
 ## -remarks
 
 ## -see-also

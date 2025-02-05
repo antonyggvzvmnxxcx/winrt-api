@@ -12,6 +12,7 @@ protected GradientBrush()
 ## -description
 Provides base class initialization behavior for [GradientBrush](gradientbrush.md)-derived classes.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty HasOverflowContentProperty { get; }
 ## -description
 Identifies the [HasOverflowContent](richtextblockoverflow_hasoverflowcontent.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [HasOverflowContent](richtextblockoverflow_hasoverflowcontent.md) dependency property.
 

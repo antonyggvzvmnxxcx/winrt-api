@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ClosedDisplayModeProperty { get; }
 ## -description
 Identifies the [ClosedDisplayMode](appbar_closeddisplaymode.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ClosedDisplayMode](appbar_closeddisplaymode.md) dependency property.
 

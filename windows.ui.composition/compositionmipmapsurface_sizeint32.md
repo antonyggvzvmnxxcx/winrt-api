@@ -14,6 +14,8 @@ public SizeInt32 SizeInt32 { get; }
 
 Gets the size of the mipmap surface.
 
+
+
 ## -property-value
 
 The size of the mipmap surface.

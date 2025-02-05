@@ -12,6 +12,7 @@ public PointAnimationUsingKeyFrames()
 ## -description
 Initializes a new instance of the [PointAnimationUsingKeyFrames](pointanimationusingkeyframes.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public int CompareEndpoints(Windows.UI.Xaml.Automation.Text.TextPatternRangeEndp
 ## -description
 Returns a value that indicates whether two text ranges have identical endpoints.
 
+
+
 ## -parameters
 ### -param endpoint
 The **Start** or **End** endpoint of the caller.

@@ -12,6 +12,8 @@ public Windows.Foundation.DateTime MaxDate { get;  set; }
 ## -description
 Gets or sets the last date to be displayed.
 
+
+
 ## -property-value
 The last date to display.
 

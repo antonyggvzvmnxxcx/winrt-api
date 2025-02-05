@@ -12,6 +12,8 @@ public bool HidesIfEmpty { get;  set; }
 ## -description
 Gets or sets a value that indicates whether items corresponding to empty groups should be displayed.
 
+
+
 ## -xaml-syntax
 ```xaml
 <GroupStyle HidesIfEmpty="bool" .../>
@@ -26,4 +28,3 @@ Gets or sets a value that indicates whether items corresponding to empty groups 
 ## -examples
 
 ## -see-also
-[How to group items in a list or grid](https://docs.microsoft.com/previous-versions/windows/apps/hh780627(v=win.10))

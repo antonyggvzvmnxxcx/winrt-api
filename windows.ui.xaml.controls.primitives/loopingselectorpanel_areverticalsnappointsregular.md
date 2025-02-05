@@ -12,6 +12,8 @@ public bool AreVerticalSnapPointsRegular { get; }
 ## -description
 Gets a value that determines whether the vertical snap points for the [LoopingSelectorPanel](loopingselectorpanel.md) are equidistant from each other.
 
+
+
 ## -property-value
 **True** if the vertical snap points are regular equidistant from each other; otherwise, **false**.
 

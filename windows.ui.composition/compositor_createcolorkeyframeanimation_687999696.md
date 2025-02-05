@@ -12,6 +12,8 @@ public Windows.UI.Composition.ColorKeyFrameAnimation CreateColorKeyFrameAnimatio
 ## -description
 Creates an instance of [ColorKeyFrameAnimation](colorkeyframeanimation.md).
 
+
+
 ## -returns
 Returns the created [ColorKeyFrameAnimation](colorkeyframeanimation.md) object.
 

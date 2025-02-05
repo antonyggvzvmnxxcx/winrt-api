@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty X2Property { get; }
 ## -description
 Identifies the [X2](line_x2.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [X2](line_x2.md) dependency property.
 

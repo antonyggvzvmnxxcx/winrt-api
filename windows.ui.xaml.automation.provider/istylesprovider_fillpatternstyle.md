@@ -12,6 +12,8 @@ public string FillPatternStyle { get; }
 ## -description
 Gets a string that represents the fill pattern style of an element in a document.
 
+
+
 ## -property-value
 A localized string that indicates the fill pattern style, such as "Vertical Stripe".
 

@@ -13,6 +13,8 @@ public event TypedEventHandler CopyingToClipboard<RichEditBox, TextControlCopyin
 
 Occurs before copied text is moved to the clipboard.
 
+
+
 ## -xaml-syntax
 
 ```xaml

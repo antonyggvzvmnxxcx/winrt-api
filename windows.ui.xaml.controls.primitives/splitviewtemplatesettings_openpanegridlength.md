@@ -12,6 +12,8 @@ public Windows.UI.Xaml.GridLength OpenPaneGridLength { get; }
 ## -description
 Gets the [OpenPaneLength](../windows.ui.xaml.controls/splitview_openpanelength.md) value as a [GridLength](../windows.ui.xaml/gridlength.md).
 
+
+
 ## -property-value
 The [OpenPaneLength](../windows.ui.xaml.controls/splitview_openpanelength.md) value as a [GridLength](../windows.ui.xaml/gridlength.md).
 

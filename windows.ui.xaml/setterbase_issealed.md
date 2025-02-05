@@ -12,6 +12,8 @@ public bool IsSealed { get; }
 ## -description
 Gets a value that indicates whether this object is in an immutable state.
 
+
+
 ## -property-value
 **true** if this object is in an immutable state; otherwise, **false**.
 

@@ -13,6 +13,8 @@ public void RichEditTextRange.Paste(Int32 format)
 
 Pastes text from the Clipboard into the text range.
 
+
+
 ## -parameters
 ### -param format
 

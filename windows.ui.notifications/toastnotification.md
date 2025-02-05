@@ -14,7 +14,15 @@ public class ToastNotification : Windows.UI.Notifications.IToastNotification, Wi
 Defines the content, associated metadata and events, and expiration time of a toast notification.
 
 ## -remarks
-A desktop app must subscribe to at least the [Activated](toastnotification_activated.md) event to handle activation.
+
+For how-to guidance for implementing toast notifications in your app, see [Send a local toast notification from C# apps](/windows/apps/design/shell/tiles-and-notifications/send-local-toast).
+
+Guidance for handling app activation for toast notifications:
+
+- UWP Applications should use the [OnActivated](../windows.ui.xaml/application_onactivated_603737819.md) for handling toast activations.
+- Starting with WinRT Build 19041, packaged apps (including packaged apps with external location) are able to use [ToastNotificationActionTrigger](../windows.applicationmodel.background/toastnotificationactiontrigger.md) for handling activations [for more details](/windows/uwp/launch-resume/create-and-register-a-winmain-background-task#add-the-support-code-to-instantiate-the-com-class).
+- Desktop apps can use COM activation by following [Desktop - Send Local Toast](/windows/uwp/design/shell/tiles-and-notifications/send-local-toast-desktop?tabs=msix-sparse#step-1-install-the-notifications-library).
+- If none of the activation options fit your application, follow the example in this document for properly using event handlers.
 
 ### Version history
 
@@ -26,64 +34,5 @@ A desktop app must subscribe to at least the [Activated](toastnotification_activ
 | 1703 | 15063 | Priority |
 | 1903 | 18362 | ExpiresOnReboot |
 
-## -examples
-The following example shows how to create and send a toast notification that includes text and images, including use of the [ToastNotification](toastnotification_toastnotification_93177318.md) constructor.
-
-```javascript
-
-var notifications = Windows.UI.Notifications;
-
-// Get the toast notification manager for the current app.
-var notificationManager = notifications.ToastNotificationManager;
-
-// The getTemplateContent method returns a Windows.Data.Xml.Dom.XmlDocument object
-// that contains the toast notification XML content.
-var template = notifications.toastTemplateType.toastImageAndText01;
-var toastXml = notificationManager.getTemplateContent(notifications.ToastTemplateType[template]);
-
-// You can use the methods from the XML document to specify the required elements for the toast.
-var images = toastXml.getElementsByTagName("image");
-images[0].setAttribute("src", "images/toastImageAndText.png");
-
-var textNodes = toastXml.getElementsByTagName("text");
-textNodes.forEach(function (value, index) {
-    var textNumber = index + 1;
-    var text = "";
-    for (var j = 0; j < 10; j++) {
-        text += "Text input " + /*@static_cast(String)*/textNumber + " ";
-    }
-    value.appendChild(toastXml.createTextNode(text));
-});
-
-// Create a toast notification from the XML, then create a ToastNotifier object
-// to send the toast.
-var toast = new notifications.ToastNotification(toastXml);
-
-notificationManager.createToastNotifier().show(toast);
-```
-
-The following example shows how to listen for and handle the [Dismissed](toastnotification_dismissed.md) event.
-
-```javascript
-
-var notifications = Windows.UI.Notifications;
-
-yourToastNotification.addEventListener("dismissed", function (e) {
-    switch (e.reason) {
-        case notifications.ToastDismissalReason.applicationHidden:
-            // The application hid the toast using ToastNotifier.hide.
-            break;
-        case notifications.ToastDismissalReason.userCanceled:
-            // The user dismissed the toast.
-            break;
-        case notifications.ToastDismissalReason.timedOut:
-            // The toast has expired.
-            break;
-    }
-}
-```
-
-
-
 ## -see-also
-[Toast notifications sample](https://go.microsoft.com/fwlink/p/?linkid=231503), [Sending toast notifications from desktop apps sample](https://go.microsoft.com/fwlink/p/?linkid=231503), [Toast XML schema](https://docs.microsoft.com/uwp/schemas/tiles/toastschema/schema-root), [Tiles, badges, and notifications](https://docs.microsoft.com/windows/uwp/controls-and-patterns/tiles-badges-notifications), [Quickstart: Sending a toast notification](https://docs.microsoft.com/previous-versions/windows/apps/hh465448(v=win.10)), [Quickstart: Sending a toast push notification](https://docs.microsoft.com/previous-versions/windows/apps/hh465450(v=win.10)), [Quickstart: Sending a toast notification from the desktop](https://docs.microsoft.com/previous-versions/windows/desktop/legacy/hh802768(v=vs.85)), [Guidelines and checklist for toast notifications](https://docs.microsoft.com/windows/uwp/controls-and-patterns/tiles-badges-notifications), [How to handle activation from a toast notification](https://docs.microsoft.com/previous-versions/windows/apps/hh761468(v=win.10)), [How to opt in for toast notifications](https://docs.microsoft.com/previous-versions/windows/apps/hh781238(v=win.10)), [How to schedule a toast notification](https://docs.microsoft.com/previous-versions/windows/apps/hh465417(v=win.10)), [How to enable desktop toast notifications through an AppUserModelID](https://docs.microsoft.com/previous-versions/windows/desktop/legacy/hh802762(v=vs.85)), [The toast template catalog](https://docs.microsoft.com/previous-versions/windows/apps/hh761494(v=win.10)), [Toast audio options](https://docs.microsoft.com/previous-versions/windows/apps/hh761492(v=win.10))
+[Toast notifications sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Windows%208.1%20Store%20app%20samples/99866-Windows%208.1%20Store%20app%20samples/Toast%20notifications%20sample), [Sending toast notifications from desktop apps sample](https://github.com/microsoftarchive/msdn-code-gallery-microsoft/tree/master/Official%20Windows%20Platform%20Sample/Windows%208.1%20Store%20app%20samples/99866-Windows%208.1%20Store%20app%20samples/Toast%20notifications%20sample), [Toast XML schema](/uwp/schemas/tiles/toastschema/schema-root), [Tiles, badges, and notifications](/windows/uwp/controls-and-patterns/tiles-badges-notifications), [Quickstart: Sending a toast notification](/previous-versions/windows/apps/hh465448(v=win.10)), [Quickstart: Sending a toast push notification](/previous-versions/windows/apps/hh465450(v=win.10)), [Quickstart: Sending a toast notification from the desktop](/previous-versions/windows/desktop/legacy/hh802768(v=vs.85)), [Guidelines and checklist for toast notifications](/windows/uwp/controls-and-patterns/tiles-badges-notifications), [How to handle activation from a toast notification](/previous-versions/windows/apps/hh761468(v=win.10)), [How to opt in for toast notifications](/previous-versions/windows/apps/hh781238(v=win.10)), [How to schedule a toast notification](/previous-versions/windows/apps/hh465417(v=win.10)), [How to enable desktop toast notifications through an AppUserModelID](/previous-versions/windows/desktop/legacy/hh802762(v=vs.85)), [The toast template catalog](/previous-versions/windows/apps/hh761494(v=win.10)), [Toast audio options](/previous-versions/windows/apps/hh761492(v=win.10))

@@ -12,6 +12,7 @@ public BitmapCache()
 ## -description
 Initializes a new instance of the [BitmapCache](bitmapcache.md) class.
 
+
 ## -remarks
 
 ## -examples

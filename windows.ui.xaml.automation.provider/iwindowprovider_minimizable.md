@@ -12,6 +12,8 @@ public bool Minimizable { get; }
 ## -description
 Gets a value that specifies whether the window can be minimized.
 
+
+
 ## -property-value
 **true** if the window can be minimized; otherwise, **false**.
 

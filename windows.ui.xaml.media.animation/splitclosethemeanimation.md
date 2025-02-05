@@ -12,6 +12,8 @@ public class SplitCloseThemeAnimation : Windows.UI.Xaml.Media.Animation.Timeline
 ## -description
 Represents the preconfigured animation that conceals a target UI using a *split* animation.
 
+
+
 ## -xaml-syntax
 ```xaml
 <SplitCloseThemeAnimation .../>

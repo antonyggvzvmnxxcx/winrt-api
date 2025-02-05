@@ -13,6 +13,8 @@ public enum CompositionStrokeCap : int
 
 Defines constants that specify the shape at the end of a line or segment.
 
+
+
 ## -enum-fields
 
 ### -field Triangle:3

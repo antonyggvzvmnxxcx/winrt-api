@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty DecodePixelHeightProperty { get; }
 ## -description
 Identifies the [DecodePixelHeight](bitmapimage_decodepixelheight.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [DecodePixelHeight](bitmapimage_decodepixelheight.md) dependency property.
 

@@ -12,6 +12,8 @@ public bool IsChecked { get;  set; }
 ## -description
 Gets or sets whether the [ToggleMenuFlyoutItem](togglemenuflyoutitem.md) is checked.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ToggleMenuFlyoutItem IsChecked="bool" />

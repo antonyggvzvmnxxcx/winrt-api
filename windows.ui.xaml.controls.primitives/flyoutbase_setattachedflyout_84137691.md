@@ -12,6 +12,8 @@ public void SetAttachedFlyout(Windows.UI.Xaml.FrameworkElement element, Windows.
 ## -description
 Associates the specified flyout with the specified [FrameworkElement](../windows.ui.xaml/frameworkelement.md).
 
+
+
 ## -parameters
 ### -param element
 The element to associate the flyout with.
@@ -24,4 +26,6 @@ The flyout to associate with the specified element.
 ## -examples
 
 ## -see-also
-[FlyoutBase.AttachedFlyout](/uwp/api/windows.ui.xaml.controls.primitives.flyoutbase#xaml-attached-properties)
+
+[FlyoutBase.AttachedFlyout](flyoutbase_attachedflyout.md), [Attached properties overview](/windows/uwp/xaml-platform/attached-properties-overview)
+

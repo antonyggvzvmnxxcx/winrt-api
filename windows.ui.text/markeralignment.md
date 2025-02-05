@@ -12,6 +12,8 @@ public enum Windows.UI.Text.MarkerAlignment : int
 ## -description
 Defines bullet and numbering alignment.
 
+
+
 ## -enum-fields
 ### -field Undefined:0
 The value is undefined.

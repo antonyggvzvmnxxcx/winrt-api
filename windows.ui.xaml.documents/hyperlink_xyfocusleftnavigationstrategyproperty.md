@@ -12,6 +12,8 @@ public DependencyProperty XYFocusLeftNavigationStrategyProperty { get; }
 ## -description
 Identifies the [XYFocusLeftNavigationStrategy](hyperlink_xyfocusleftnavigationstrategy.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [XYFocusLeftNavigationStrategy](hyperlink_xyfocusleftnavigationstrategy.md) dependency property.
 

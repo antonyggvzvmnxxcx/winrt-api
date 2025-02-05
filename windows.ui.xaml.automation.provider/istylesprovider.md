@@ -12,6 +12,8 @@ public interface IStylesProvider :
 ## -description
 Provides access to the visual styles associated with the content of a document.
 
+
+
 ## -remarks
 
 ## -examples

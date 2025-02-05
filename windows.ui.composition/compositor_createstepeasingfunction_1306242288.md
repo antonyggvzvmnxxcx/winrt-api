@@ -12,6 +12,8 @@ public Windows.UI.Composition.StepEasingFunction CreateStepEasingFunction()
 ## -description
 Creates an instance of [StepEasingFunction](stepeasingfunction.md).
 
+
+
 ## -returns
 Returns the created [StepEasingFunction](stepeasingfunction.md) object.
 

@@ -12,6 +12,7 @@ public VisualStateManager()
 ## -description
 Initializes a new instance of the [VisualStateManager](visualstatemanager.md) class.
 
+
 ## -remarks
 
 ## -examples

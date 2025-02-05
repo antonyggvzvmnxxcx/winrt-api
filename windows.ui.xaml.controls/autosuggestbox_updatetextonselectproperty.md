@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty UpdateTextOnSelectProperty { get; }
 ## -description
 Identifies the [UpdateTextOnSelect](autosuggestbox_updatetextonselect.md) dependency property.
 
+
+
 ## -property-value
 Identifier for the [UpdateTextOnSelect](autosuggestbox_updatetextonselect.md) dependency property.
 

@@ -12,6 +12,8 @@ public double StandardFlatteningTolerance { get; }
 ## -description
 Gets the standard tolerance used for polygonal approximation.
 
+
+
 ## -property-value
 The standard tolerance. The default value is 0.25.
 

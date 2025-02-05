@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ItemHeightProperty { get; }
 ## -description
 Identifies the [ItemHeight](itemswrapgrid_itemheight.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ItemHeight](itemswrapgrid_itemheight.md) dependency property.
 

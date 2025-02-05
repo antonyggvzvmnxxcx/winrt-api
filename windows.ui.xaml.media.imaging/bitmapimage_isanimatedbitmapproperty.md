@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsAnimatedBitmapProperty { get; }
 ## -description
 Identifies the [IsAnimatedBitmap](bitmapimage_isanimatedbitmap.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsAnimatedBitmap](bitmapimage_isanimatedbitmap.md) dependency property.
 

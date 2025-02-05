@@ -12,13 +12,12 @@ public object Title { get;  set; }
 ## -description
 Gets or sets the title of the dialog.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentDialog Title="string"/>
-
-```
-
-```xaml
+- or -
 <ContentDialog>
   <ContentDialog.Title>
     singleObject

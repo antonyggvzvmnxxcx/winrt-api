@@ -12,6 +12,8 @@ public double ViewportWidth { get; }
 ## -description
 Gets the horizontal size of the viewport/content area.
 
+
+
 ## -property-value
 A value in pixels.
 

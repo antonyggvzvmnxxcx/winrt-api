@@ -14,6 +14,8 @@ public void RichEditTextDocument.ClearUndoRedoHistory()
 
 Empties the undo and redo buffers.
 
+
+
 ## -remarks
 
 ## -see-also

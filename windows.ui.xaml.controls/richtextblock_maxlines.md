@@ -12,6 +12,8 @@ public int MaxLines { get;  set; }
 ## -description
 Gets or sets the maximum lines of text shown in the [RichTextBlock](richtextblock.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <RichTextBlock MaxLines="int"/>

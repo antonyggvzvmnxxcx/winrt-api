@@ -12,6 +12,8 @@ public double Opacity { get;  set; }
 ## -description
 Gets or sets the degree of opacity of a [Brush](brush.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <brush Opacity="double"/>

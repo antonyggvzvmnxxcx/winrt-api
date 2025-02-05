@@ -13,6 +13,8 @@ public Windows.UI.Color Linen { get; }
 
 Gets the system-defined color that has an ARGB value of #FFFAF0E6.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFFAF0E6.

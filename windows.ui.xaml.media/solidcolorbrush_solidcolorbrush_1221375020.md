@@ -12,6 +12,7 @@ public SolidColorBrush()
 ## -description
 Initializes a new instance of the [SolidColorBrush](solidcolorbrush.md) class with no color.
 
+
 ## -remarks
 
 ## -examples

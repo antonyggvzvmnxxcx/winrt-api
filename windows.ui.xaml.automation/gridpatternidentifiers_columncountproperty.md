@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty ColumnCountProperty { get; 
 ## -description
 Identifies the [ColumnCount](../windows.ui.xaml.automation.provider/igridprovider_columncount.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

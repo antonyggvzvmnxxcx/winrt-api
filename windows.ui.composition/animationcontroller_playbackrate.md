@@ -13,6 +13,8 @@ public float PlaybackRate { get;  set; }
 
 Gets or sets the rate at which the animation plays.
 
+
+
 ## -property-value
 
 The rate at which the animation plays. The default is 1.0.

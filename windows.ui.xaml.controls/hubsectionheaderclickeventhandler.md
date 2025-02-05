@@ -10,6 +10,8 @@ public delegate void HubSectionHeaderClickEventHandler(System.Object sender, Win
 ## -description
 Represents the method that will handle a [Hub.SectionHeaderClick](hub_sectionheaderclick.md) event.
 
+
+
 ## -parameters
 ### -param sender
 The object where the handler is attached.

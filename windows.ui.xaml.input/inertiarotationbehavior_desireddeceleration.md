@@ -12,6 +12,8 @@ public double DesiredDeceleration { get;  set; }
 ## -description
 Gets or sets the rate the rotation slows in degrees per squared millisecond.
 
+
+
 ## -property-value
 The rate the rotation slows in degrees per squared millisecond.
 

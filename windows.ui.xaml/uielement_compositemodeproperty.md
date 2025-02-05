@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty CompositeModeProperty { get; }
 ## -description
 Identifies the [CompositeMode](uielement_compositemode.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [CompositeMode](uielement_compositemode.md) dependency property.
 

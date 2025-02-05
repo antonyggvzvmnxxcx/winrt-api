@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty PrimaryButtonCommandProperty { get; }
 ## -description
 Gets the identifier of the PrimaryButtonCommand dependency property.
 
+
+
 ## -property-value
 The identifier of the PrimaryButtonCommand dependency property.
 

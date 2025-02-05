@@ -12,6 +12,7 @@ public SuppressNavigationTransitionInfo()
 ## -description
 Initializes a new instance of the [SuppressNavigationTransitionInfo](suppressnavigationtransitioninfo.md) class.
 
+
 ## -remarks
 
 ## -examples

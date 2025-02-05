@@ -12,6 +12,7 @@ public Windows.UI.Xaml.Media.Stretch Stretch { get;  set; }
 ## -description
 Gets or sets how content from [Source](captureelement_source.md) is resized to fill its allocated space, as declared by the [Height](../windows.ui.xaml/frameworkelement_height.md) and [Width](../windows.ui.xaml/frameworkelement_width.md) properties of the [CaptureElement](captureelement.md).
 
+
 ## -xaml-syntax
 ```xaml
 <CaptureElement Stretch="stretchMemberName" />

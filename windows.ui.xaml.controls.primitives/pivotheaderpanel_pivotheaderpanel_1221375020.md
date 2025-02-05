@@ -12,6 +12,7 @@ public PivotHeaderPanel()
 ## -description
 Initializes a new instance of the [PivotHeaderPanel](pivotheaderpanel.md) class.
 
+
 ## -remarks
 
 ## -examples

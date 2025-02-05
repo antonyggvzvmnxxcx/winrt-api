@@ -13,6 +13,8 @@ public class CompositionSpriteShape : CompositionShape, CompositionShape
 
 A CompositionShape that draws Stroked and Filled [CompositionGeometry](compositiongeometry.md).
 
+
+
 ## -remarks
 
 ## -see-also

@@ -12,6 +12,8 @@ public string Text { get;  set; }
 ## -description
 Gets or sets the text contents of the text box.
 
+
+
 ## -xaml-syntax
 ```xaml
 <TextBox Text="string"/>

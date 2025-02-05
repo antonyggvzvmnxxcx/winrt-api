@@ -12,6 +12,8 @@ public double HorizontalViewSize { get; }
 ## -description
 Gets the current horizontal view size.
 
+
+
 ## -property-value
 The horizontal size of the viewable region as a percentage of the total content area within the control.
 

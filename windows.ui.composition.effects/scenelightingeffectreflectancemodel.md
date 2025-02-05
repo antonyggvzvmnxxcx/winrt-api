@@ -13,6 +13,8 @@ public enum SceneLightingEffectReflectanceModel : int
 
 Defines constants that specify how the reflectance of a [SceneLightingEffect](scenelightingeffect.md) is modeled.
 
+
+
 ## -enum-fields
 
 ### -field PhysicallyBasedBlinnPhong:1

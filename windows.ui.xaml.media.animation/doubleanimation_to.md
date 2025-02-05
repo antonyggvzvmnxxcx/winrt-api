@@ -12,6 +12,8 @@ public Windows.Foundation.IReference<double> To { get;  set; }
 ## -description
 Gets or sets the animation's ending value.
 
+
+
 ## -xaml-syntax
 ```xaml
 <DoubleAnimation To="double"/>

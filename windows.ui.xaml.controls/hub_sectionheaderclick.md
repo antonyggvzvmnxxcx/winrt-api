@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.Controls.HubSectionHeaderClickEventHandler SectionH
 ## -description
 Occurs when a section header is clicked and the section's [IsHeaderInteractive](hubsection_isheaderinteractive.md) property is **true**.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Hub SectionHeaderClick="eventhandler" />

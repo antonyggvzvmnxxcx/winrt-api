@@ -13,6 +13,8 @@ public Windows.UI.Color BlueViolet { get; }
 
 Gets the system-defined color that has an ARGB value of #FF8A2BE2.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FF8A2BE2.

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsSecondaryButtonEnabledProperty { get
 ## -description
 Gets the identifier of the [IsSecondaryButtonEnabled](contentdialog_issecondarybuttonenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier of the [IsSecondaryButtonEnabled](contentdialog_issecondarybuttonenabled.md) dependency property.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty FocusBorderBrushProperty { get; }
 ## -description
 Identifies the [FocusBorderBrush](gridviewitempresenter_focusborderbrush.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [FocusBorderBrush](gridviewitempresenter_focusborderbrush.md) dependency property.
 

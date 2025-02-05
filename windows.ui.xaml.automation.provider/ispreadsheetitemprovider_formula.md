@@ -12,6 +12,8 @@ public string Formula { get; }
 ## -description
 Gets the formula for this spreadsheet cell, as a string.
 
+
+
 ## -property-value
 The formula for this cell, as a string.
 

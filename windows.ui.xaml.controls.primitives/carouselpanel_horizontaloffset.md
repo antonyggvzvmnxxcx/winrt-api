@@ -12,6 +12,8 @@ public double HorizontalOffset { get; }
 ## -description
 Gets the horizontal offset of the scrolled content.
 
+
+
 ## -property-value
 A value in pixels.
 

@@ -13,6 +13,8 @@ public enum CompositionStrokeLineJoin : int
 
 Defines constants that specify the shape used to join two lines or segments.
 
+
+
 ## -enum-fields
 ### -field Round:2
 

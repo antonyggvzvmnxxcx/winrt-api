@@ -12,6 +12,8 @@ public bool IsArray { get; }
 ## -description
 Gets a value that indicates whether the [IXamlType](ixamltype.md) represents an array.
 
+
+
 ## -property-value
 **true** if the [IXamlType](ixamltype.md) represents an array; otherwise, **false**.
 
@@ -20,4 +22,4 @@ Gets a value that indicates whether the [IXamlType](ixamltype.md) represents an 
 ## -examples
 
 ## -see-also
-[XAML overview](https://docs.microsoft.com/windows/uwp/xaml-platform/xaml-overview)
+[XAML overview](/windows/uwp/xaml-platform/xaml-overview)

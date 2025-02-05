@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty FontRenderingEmSizeProperty { get; }
 ## -description
 Identifies the [FontRenderingEmSize](glyphs_fontrenderingemsize.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [FontRenderingEmSize](glyphs_fontrenderingemsize.md) dependency property.
 

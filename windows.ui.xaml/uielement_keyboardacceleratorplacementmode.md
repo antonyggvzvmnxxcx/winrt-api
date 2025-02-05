@@ -11,7 +11,9 @@ public KeyboardAcceleratorPlacementMode KeyboardAcceleratorPlacementMode { get; 
 
 ## -description
 
-Gets or sets a value that indicates whether the control tooltip displays the key combination for it's associated keyboard accelerator.
+Gets or sets a value that indicates whether the control [tooltip](../windows.ui.xaml.controls/tooltip.md) displays the key combination for its associated keyboard accelerator.
+
+
 
 ## -xaml-syntax
 
@@ -29,4 +31,4 @@ A value of the enumeration. The default is **Auto**.
 
 ## -see-also
 
-[Keyboard Accelerators](https://docs.microsoft.com/windows/uwp/design/input/keyboard-accelerators)
+[Keyboard Accelerators](/windows/uwp/design/input/keyboard-accelerators)

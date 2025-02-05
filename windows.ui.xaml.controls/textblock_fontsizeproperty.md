@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty FontSizeProperty { get; }
 ## -description
 Identifies the [FontSize](textblock_fontsize.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [FontSize](textblock_fontsize.md) dependency property.
 

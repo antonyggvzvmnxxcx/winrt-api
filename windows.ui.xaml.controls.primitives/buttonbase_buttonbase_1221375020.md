@@ -12,6 +12,7 @@ protected ButtonBase()
 ## -description
 Provides base class initialization behavior for [ButtonBase](buttonbase.md) derived classes.
 
+
 ## -remarks
 
 ## -examples

@@ -13,6 +13,8 @@ public event Windows.UI.Xaml.RoutedEventHandler SelectionChanged
 
 Occurs when the text selection has changed.
 
+
+
 ## -xaml-syntax
 
 ```xaml
@@ -25,4 +27,4 @@ Occurs when the text selection has changed.
 
 ## -see-also
 
-[RoutedEventHandler](../windows.ui.xaml/routedeventhandler.md), [Events and routed events overview](../../windows/uwp/xaml-platform/events-and-routed-events-overview)
+[RoutedEventHandler](../windows.ui.xaml/routedeventhandler.md), [Events and routed events overview](/windows/uwp/xaml-platform/events-and-routed-events-overview)

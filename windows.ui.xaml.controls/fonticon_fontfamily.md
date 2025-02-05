@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.FontFamily FontFamily { get;  set; }
 ## -description
 Gets or sets the font used to display the icon glyph.
 
+
+
 ## -xaml-syntax
 ```xaml
 <FontIcon FontFamily="fontFamilyValue"/>

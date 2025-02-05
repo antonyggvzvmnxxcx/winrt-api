@@ -12,6 +12,8 @@ public void Cancel()
 ## -description
 Stops the connected animation.
 
+
+
 ## -remarks
 
 ## -examples

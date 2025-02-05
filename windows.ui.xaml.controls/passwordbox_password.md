@@ -12,6 +12,8 @@ public string Password { get;  set; }
 ## -description
 Gets or sets the password currently held by the [PasswordBox](passwordbox.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <PasswordBox Password="string"/>

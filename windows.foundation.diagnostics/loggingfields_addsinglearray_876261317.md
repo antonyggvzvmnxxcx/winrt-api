@@ -10,7 +10,7 @@ public void AddSingleArray(System.String name, System.Single[] value, Windows.Fo
 # Windows.Foundation.Diagnostics.LoggingFields.AddSingleArray
 
 ## -description
-Adds a [Single](https://docs.microsoft.com/dotnet/api/system.single?redirectedfrom=MSDN) array field with the specified field name, format, and tags.
+Adds a [Single](/dotnet/api/system.single?view=dotnet-uwp-10.0&preserve-view=true) array field with the specified field name, format, and tags.
 
 ## -parameters
 ### -param name
@@ -30,4 +30,4 @@ The user-defined tag for the event field. Specifies up to twenty-eight bits of u
 ## -examples
 
 ## -see-also
-[AddSingleArray(String, Single[])](loggingfields_addsinglearray_1587701985.md), [AddSingleArray(String, Single[], LoggingFieldFormat)](loggingfields_addsinglearray_301635067.md)
+[AddSingleArray(String, Single\[\])](/uwp/api/windows.foundation.diagnostics.loggingfields.addsinglearray#windows-foundation-diagnostics-loggingfields-addsinglearray(system-string-system-single())), [AddSingleArray(String, Single\[\], LoggingFieldFormat)](/uwp/api/windows.foundation.diagnostics.loggingfields.addsinglearray#windows-foundation-diagnostics-loggingfields-addsinglearray(system-string-system-single()-windows-foundation-diagnostics-loggingfieldformat))

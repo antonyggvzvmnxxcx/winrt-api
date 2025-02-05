@@ -14,6 +14,7 @@ public UIElementWeakCollection.UIElementWeakCollection()
 
 Initializes a new instance of the [UIElementWeakCollection](uielementweakcollection.md) class.
 
+
 ## -remarks
 
 ## -see-also

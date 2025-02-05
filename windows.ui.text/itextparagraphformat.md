@@ -12,6 +12,8 @@ public interface ITextParagraphFormat :
 ## -description
 Defines the default paragraph formatting attributes of a document, or the current paragraph formatting attributes of a text range.
 
+
+
 ## -remarks
 
 ## -examples

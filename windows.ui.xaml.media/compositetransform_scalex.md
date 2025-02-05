@@ -12,6 +12,8 @@ public double ScaleX { get;  set; }
 ## -description
 Gets or sets the x-axis scale factor. You can use this property to stretch or shrink an object horizontally.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CompositeTransform ScaleX="double"/>

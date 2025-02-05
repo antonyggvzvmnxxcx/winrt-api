@@ -12,6 +12,8 @@ public double LineHeight { get;  set; }
 ## -description
 Gets or sets the height of each line of text content presented by the [ContentPresenter](contentpresenter.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentPresenter LineHeight="double"/>

@@ -12,6 +12,7 @@ public ContinuumNavigationTransitionInfo()
 ## -description
 Initializes a new instance of the [ContinuumNavigationTransitionInfo](continuumnavigationtransitioninfo.md) class.
 
+
 ## -remarks
 
 ## -examples

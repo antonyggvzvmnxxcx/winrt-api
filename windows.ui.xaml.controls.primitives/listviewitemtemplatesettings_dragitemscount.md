@@ -12,6 +12,8 @@ public int DragItemsCount { get; }
 ## -description
 Gets the number of items for a drag payload that contains this item as an origin.
 
+
+
 ## -property-value
 The number of items for a drag payload.
 

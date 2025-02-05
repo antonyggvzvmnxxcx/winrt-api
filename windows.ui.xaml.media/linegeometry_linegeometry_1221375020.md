@@ -12,6 +12,7 @@ public LineGeometry()
 ## -description
 Initializes a new instance of the [LineGeometry](linegeometry.md) class that has no length.
 
+
 ## -remarks
 
 ## -examples

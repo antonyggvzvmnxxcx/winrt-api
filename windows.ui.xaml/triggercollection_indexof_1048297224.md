@@ -12,6 +12,8 @@ public bool IndexOf(Windows.UI.Xaml.TriggerBase value, System.UInt32 index)
 ## -description
 Retrieves the index of the specified item.
 
+
+
 ## -parameters
 ### -param value
 The value to find in the collection.
@@ -24,7 +26,7 @@ The index of the item to find, if found.
 
 ## -remarks
 > [!NOTE]
-> The equivalent Microsoft .NET  API is [IndexOf](triggercollection_indexof_1.md).
+> The equivalent Microsoft .NET API is [IndexOf](/dotnet/api/system.collections.objectmodel.collection-1.indexof).
 
 ## -examples
 

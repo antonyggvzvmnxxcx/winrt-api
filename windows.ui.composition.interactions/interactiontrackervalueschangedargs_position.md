@@ -12,6 +12,8 @@ public Windows.Foundation.Numerics.Vector3 Position { get; }
 ## -description
 The current position of the [InteractionTracker](interactiontracker.md).
 
+
+
 ## -property-value
 The current position of the [InteractionTracker](interactiontracker.md).
 

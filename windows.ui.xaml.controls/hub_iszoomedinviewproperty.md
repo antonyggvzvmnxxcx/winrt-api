@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsZoomedInViewProperty { get; }
 ## -description
 Identifies the [IsZoomedInView](hub_iszoomedinview.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsZoomedInView](hub_iszoomedinview.md) dependency property.
 

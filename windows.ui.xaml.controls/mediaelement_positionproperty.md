@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty PositionProperty { get; }
 ## -description
 Identifies the [Position](mediaelement_position.md) dependency property.
 
+
 ## -property-value
 The identifier the [Position](mediaelement_position.md) dependency property.
 

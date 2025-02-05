@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty AcceptsReturnProperty { get; }
 ## -description
 Identifies the [AcceptsReturn](textbox_acceptsreturn.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [AcceptsReturn](textbox_acceptsreturn.md) dependency property.
 

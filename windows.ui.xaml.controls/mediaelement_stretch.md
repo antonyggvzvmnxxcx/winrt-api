@@ -12,6 +12,7 @@ public Windows.UI.Xaml.Media.Stretch Stretch { get;  set; }
 ## -description
 Gets or sets a value that describes how an [MediaElement](mediaelement.md) should be stretched to fill the destination rectangle.
 
+
 ## -xaml-syntax
 ```xaml
 <MediaElement Stretch="stretchMemberName" />

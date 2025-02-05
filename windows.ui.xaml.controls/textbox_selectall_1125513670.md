@@ -12,6 +12,8 @@ public void SelectAll()
 ## -description
 Selects the entire contents of the text box.
 
+
+
 ## -remarks
 
 ## -examples

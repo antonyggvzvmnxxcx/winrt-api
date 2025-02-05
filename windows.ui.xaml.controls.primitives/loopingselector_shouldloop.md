@@ -12,6 +12,8 @@ public bool ShouldLoop { get;  set; }
 ## -description
 Gets or sets a value that determines whether the [LoopingSelector](loopingselector.md) loops indefinitely.
 
+
+
 ## -property-value
 **True** if the [LoopingSelector](loopingselector.md) loops through all [LoopingSelectorItem](loopingselectoritem.md) items indefinitely; otherwise, **false**.
 

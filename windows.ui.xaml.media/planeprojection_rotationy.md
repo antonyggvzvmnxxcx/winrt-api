@@ -12,6 +12,8 @@ public double RotationY { get;  set; }
 ## -description
 Gets or sets the number of degrees to rotate the object around the y-axis of rotation.
 
+
+
 ## -xaml-syntax
 ```xaml
 <PlaneProjection RotationY="double"/>

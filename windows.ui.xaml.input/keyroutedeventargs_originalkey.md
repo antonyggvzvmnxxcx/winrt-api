@@ -15,6 +15,8 @@ Gets the original, unmapped [virtual key](../windows.system/virtualkey.md) assoc
 
 Depending on the input device, the input button might be mapped to a different key value. For the mapped event value, see the [Key](keyroutedeventargs_key.md) property.
 
+
+
 ## -property-value
 
 A system value that indicates the code for the key referenced by the event.

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty AccessKeyProperty { get; }
 ## -description
 Identifies for the [AccessKey](uielement_accesskey.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [AccessKey](uielement_accesskey.md) dependency property.
 
@@ -20,4 +22,4 @@ The identifier for the [AccessKey](uielement_accesskey.md) dependency property.
 ## -examples
 
 ## -see-also
-[Access keys](https://docs.microsoft.com/windows/uwp/design/input/access-keys)
+[Access keys](/windows/uwp/design/input/access-keys)

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsLargeArcProperty { get; }
 ## -description
 Identifies the [IsLargeArc](arcsegment_islargearc.md) dependency property.
 
+
+
 ## -property-value
 The [IsLargeArc](arcsegment_islargearc.md) dependency property identifier.
 

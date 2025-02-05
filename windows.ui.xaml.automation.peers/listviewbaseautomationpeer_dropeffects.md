@@ -12,6 +12,8 @@ public string[] DropEffects { get; }
 ## -description
 Gets an array of strings that enumerates possible drop effects when this item is dropped.
 
+
+
 ## -property-value
 An array of strings that enumerates possible drop effects when this item is dropped.
 

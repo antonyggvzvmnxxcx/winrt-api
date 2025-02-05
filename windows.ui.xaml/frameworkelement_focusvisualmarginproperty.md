@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty FocusVisualMarginProperty { get; }
 ## -description
 Identifies the [FocusVisualMargin](frameworkelement_focusvisualmargin.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [FocusVisualMargin](frameworkelement_focusvisualmargin.md)  dependency property.
 

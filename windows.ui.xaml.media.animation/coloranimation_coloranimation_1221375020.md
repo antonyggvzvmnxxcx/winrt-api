@@ -12,6 +12,7 @@ public ColorAnimation()
 ## -description
 Initializes a new instance of the [ColorAnimation](coloranimation.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public double KeyTipHorizontalOffset { get;  set; }
 ## -description
 Gets or sets a value that indicates how far left or right the Key Tip is placed in relation to the UIElement.
 
+
+
 ## -xaml-syntax
 ```xaml
 <uiElement KeyTipHorizontalOffset="double"/>

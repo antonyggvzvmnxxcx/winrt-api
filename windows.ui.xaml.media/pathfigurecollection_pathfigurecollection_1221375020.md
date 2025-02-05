@@ -12,6 +12,7 @@ public PathFigureCollection()
 ## -description
 Initializes a new instance of the [PathFigureCollection](pathfigurecollection.md) class.
 
+
 ## -remarks
 
 ## -examples

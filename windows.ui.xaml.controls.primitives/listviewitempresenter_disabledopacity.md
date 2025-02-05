@@ -12,13 +12,12 @@ public double DisabledOpacity { get;  set; }
 ## -description
 Gets or sets the opacity of an item that is disabled.
 
+
+
 ## -xaml-syntax
 ```xaml
 <listViewItemPresenterDisabledOpacity="themeResourceReference"/>
-
-```
-
-```xaml
+- or -
 <listViewItemPresenter Opacity="double"/>
 ```
 

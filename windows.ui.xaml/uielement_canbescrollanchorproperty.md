@@ -14,6 +14,8 @@ public DependencyProperty CanBeScrollAnchorProperty { get; }
 
 Identifies the [CanBeScrollAnchor](uielement_canbescrollanchor.md) dependency property.
 
+
+
 ## -property-value
 
 The identifier for the [CanBeScrollAnchor](uielement_canbescrollanchor.md) dependency property.

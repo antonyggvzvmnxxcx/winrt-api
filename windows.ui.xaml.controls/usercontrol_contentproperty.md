@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ContentProperty { get; }
 ## -description
 Identifies the [Content](usercontrol_content.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Content](usercontrol_content.md) dependency property.
 

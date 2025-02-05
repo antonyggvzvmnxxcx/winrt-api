@@ -12,6 +12,7 @@ public Italic()
 ## -description
 Initializes a new instance of the [Italic](italic.md) class.
 
+
 ## -remarks
 
 ## -examples

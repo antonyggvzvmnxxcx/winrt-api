@@ -12,6 +12,8 @@ public bool ApplyTemplate()
 ## -description
 Loads the relevant control template so that its parts can be referenced.
 
+
+
 ## -returns
 A value that indicates whether the visual tree was rebuilt by this call. **True** if the tree was rebuilt; **false** if the previous visual tree was retained.
 

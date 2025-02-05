@@ -12,6 +12,8 @@ public string From { get;  set; }
 ## -description
 Gets or sets the name of the [VisualState](visualstate.md) to transition from.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object From="stateName"/>

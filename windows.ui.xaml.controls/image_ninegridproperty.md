@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty NineGridProperty { get; }
 ## -description
 Identifies the [NineGrid](image_ninegrid.md) dependency property.
 
+
 ## -property-value
 The identifier for the [NineGrid](image_ninegrid.md) dependency property.
 

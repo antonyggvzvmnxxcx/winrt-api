@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Input.InertiaTranslationBehavior TranslationBehavior { ge
 ## -description
 Gets information about the translation information associated with the manipulation for this event occurrence.
 
+
+
 ## -property-value
 Manipulation translation information.
 

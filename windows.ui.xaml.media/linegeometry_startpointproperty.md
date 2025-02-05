@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty StartPointProperty { get; }
 ## -description
 Identifies the [StartPoint](linegeometry_startpoint.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [StartPoint](linegeometry_startpoint.md) dependency property.
 

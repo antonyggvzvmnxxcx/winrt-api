@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.TransformCollection Children { get;  set; }
 ## -description
 Gets or sets the collection of child [Transform](transform.md) objects.
 
+
+
 ## -xaml-syntax
 ```xaml
 <TransformGroup>

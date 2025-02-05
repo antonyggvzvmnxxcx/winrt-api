@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty CornerRadiusProperty { get; }
 ## -description
 Identifies the [CornerRadius](border_cornerradius.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [CornerRadius](border_cornerradius.md) dependency property.
 

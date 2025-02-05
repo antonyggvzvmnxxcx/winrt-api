@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty MaxDropDownHeightProperty { get; }
 ## -description
 Identifies the [MaxDropDownHeight](combobox_maxdropdownheight.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [MaxDropDownHeight](combobox_maxdropdownheight.md) dependency property.
 

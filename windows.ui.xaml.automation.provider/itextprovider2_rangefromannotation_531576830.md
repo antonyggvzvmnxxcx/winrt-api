@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Provider.ITextRangeProvider RangeFromAnnotatio
 ## -description
 Exposes a text range that contains the text that is the target of the annotation associated with the specified annotation element.
 
+
+
 ## -parameters
 ### -param annotationElement
 The provider for an element that implements the [IAnnotationProvider](iannotationprovider.md) interface. The annotation element is a sibling of the element that implements the [ITextProvider2](itextprovider2.md) interface for the document. 

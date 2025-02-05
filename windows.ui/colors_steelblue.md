@@ -13,6 +13,8 @@ public Windows.UI.Color SteelBlue { get; }
 
 Gets the system-defined color that has an ARGB value of #FF4682B4.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FF4682B4.

@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IVector<Windows.UI.Xaml.Navigation.PageSta
 ## -description
 Gets a collection of [PageStackEntry](../windows.ui.xaml.navigation/pagestackentry.md) instances representing the forward navigation history of the [Frame](frame.md).
 
+
+
 ## -property-value
 The forward navigation stack.
 

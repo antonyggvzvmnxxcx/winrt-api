@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.RichTextBlock ContentSource { get; }
 ## -description
 Gets the [RichTextBlock](richtextblock.md) content source of this [RichTextBlockOverflow](richtextblockoverflow.md).
 
+
+
 ## -property-value
 The content source for this [RichTextBlockOverflow](richtextblockoverflow.md).
 

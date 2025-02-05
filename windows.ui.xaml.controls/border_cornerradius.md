@@ -12,6 +12,8 @@ public Windows.UI.Xaml.CornerRadius CornerRadius { get;  set; }
 ## -description
 Gets or sets the radius for the corners of the border.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Border CornerRadius="uniformRadius"/>

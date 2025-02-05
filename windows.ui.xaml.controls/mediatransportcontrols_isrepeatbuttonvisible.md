@@ -13,6 +13,7 @@ public bool IsRepeatButtonVisible { get;  set; }
 
 Gets or sets a value that indicates whether the repeat button is shown.
 
+
 ## -xaml-syntax
 
 ```xaml

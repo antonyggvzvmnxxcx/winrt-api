@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ChildrenTransitionsProperty { get; }
 ## -description
 Identifies the [ChildrenTransitions](panel_childrentransitions.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ChildrenTransitions](panel_childrentransitions.md) dependency property.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DataTemplate ItemTemplate { get;  set; }
 ## -description
 Gets or sets the [DataTemplate](../windows.ui.xaml/datatemplate.md) used to display each [LoopingSelectorItem](loopingselectoritem.md).
 
+
+
 ## -property-value
 The template that specifies the visualization of the [LoopingSelectorItem](loopingselectoritem.md) items.
 

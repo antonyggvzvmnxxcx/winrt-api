@@ -12,6 +12,8 @@ public double NegativeOpenPaneLength { get; }
 ## -description
 Gets the negative of the [OpenPaneLength](../windows.ui.xaml.controls/splitview_openpanelength.md) value.
 
+
+
 ## -property-value
 The negative of the [OpenPaneLength](../windows.ui.xaml.controls/splitview_openpanelength.md) value.
 

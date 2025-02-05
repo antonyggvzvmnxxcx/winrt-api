@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Data.ICustomProperty GetCustomProperty(System.String name
 ## -description
 Gets a custom property's [ICustomProperty](icustomproperty.md) support object by specifying a property name.
 
+
+
 ## -parameters
 ### -param name
 The name of the property to get the support object for.

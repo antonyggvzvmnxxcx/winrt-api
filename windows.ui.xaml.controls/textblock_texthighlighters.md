@@ -13,6 +13,8 @@ public IVector<TextHighlighter> TextHighlighters { get; }
 
 Gets the collection of text highlights. 
 
+
+
 ## -property-value
 
 The collection of text highlights. 

@@ -13,6 +13,7 @@ public BrushTransition.BrushTransition()
 ## -description
 Initializes a new instance of the BrushTransition class.
 
+
 ## -remarks
 
 ## -see-also

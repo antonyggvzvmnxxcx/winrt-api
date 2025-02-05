@@ -12,6 +12,8 @@ public float OuterConeAngleInDegrees { get;  set; }
 ## -description
 The semi-vertical angle, in degrees, of the SpotLight's outer cone. Animatable.
 
+
+
 ## -property-value
 The semi-vertical angle, in degrees, of the SpotLight's outer cone.
 

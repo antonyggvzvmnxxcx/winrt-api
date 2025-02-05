@@ -14,6 +14,8 @@ public uint UIElementWeakCollection.GetMany(UInt32 startIndex, UIElement[] items
 
 Retrieves multiple elements in a single pass through the iterator.
 
+
+
 ## -parameters
 ### -param startIndex
 

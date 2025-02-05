@@ -12,6 +12,8 @@ public class LayoutInformation : Windows.UI.Xaml.Controls.Primitives.ILayoutInfo
 ## -description
 Defines methods that provide additional information about the layout of an element.
 
+
+
 ## -remarks
 
 ### Version history

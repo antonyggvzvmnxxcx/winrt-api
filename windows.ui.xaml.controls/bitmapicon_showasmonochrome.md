@@ -13,6 +13,8 @@ public bool ShowAsMonochrome { get;  set; }
 
 Gets or sets a value that indicates whether the bitmap is shown in a single color.
 
+
+
 ## -xaml-syntax
 
 ```xaml

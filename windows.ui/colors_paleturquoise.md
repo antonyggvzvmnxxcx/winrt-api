@@ -13,6 +13,8 @@ public Windows.UI.Color PaleTurquoise { get; }
 
 Gets the system-defined color that has an ARGB value of #FFAFEEEE.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFAFEEEE.

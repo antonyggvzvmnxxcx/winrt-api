@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.Controls.Primitives.DragStartedEventHandler DragSta
 ## -description
 Fires when a [Thumb](thumb.md) control receives logical focus and mouse capture.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Thumb DragStarted="eventhandler"/>

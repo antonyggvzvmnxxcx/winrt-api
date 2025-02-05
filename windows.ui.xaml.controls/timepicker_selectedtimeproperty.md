@@ -14,6 +14,8 @@ public DependencyProperty SelectedTimeProperty { get; }
 
 Identifies the [SelectedTime](timepicker_selectedtime.md) dependency property.
 
+
+
 ## -property-value
 
 The identifier for the [SelectedTime](timepicker_selectedtime.md) dependency property.

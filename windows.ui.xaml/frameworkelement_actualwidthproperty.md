@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ActualWidthProperty { get; }
 ## -description
 Identifies the [ActualWidth](frameworkelement_actualwidth.md)  dependency property. See Remarks.
 
+
+
 ## -property-value
 The identifier for the [ActualWidth](frameworkelement_actualwidth.md)  dependency property.
 

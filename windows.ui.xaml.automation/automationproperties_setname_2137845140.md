@@ -10,7 +10,9 @@ public void SetName(Windows.UI.Xaml.DependencyObject element, System.String valu
 # Windows.UI.Xaml.Automation.AutomationProperties.SetName
 
 ## -description
-Sets the value of the [AutomationProperties.Name](/uwp/api/windows.ui.xaml.automation.automationproperties#xaml-attached-properties) attached property for the specified [DependencyObject](../windows.ui.xaml/dependencyobject.md).
+Sets the value of the [AutomationProperties.Name](automationproperties_name.md) attached property for the specified [DependencyObject](../windows.ui.xaml/dependencyobject.md).
+
+
 
 ## -parameters
 ### -param element
@@ -24,3 +26,5 @@ The object name.
 ## -examples
 
 ## -see-also
+
+[AutomationProperties.Name](automationproperties_name.md), [Attached properties overview](/windows/uwp/xaml-platform/attached-properties-overview)

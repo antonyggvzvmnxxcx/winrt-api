@@ -12,6 +12,8 @@ public bool IsZoomedInViewActive { get;  set; }
 ## -description
 Gets or sets a value that determines whether the [ZoomedInView](semanticzoom_zoomedinview.md) is the active view.
 
+
+
 ## -xaml-syntax
 ```xaml
 <SemanticZoom IsZoomedInViewActive="bool" />

@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Media.Animation.ClockState : int
 ## -description
 Describes the potential states of an animation.
 
+
+
 ## -enum-fields
 ### -field Active:0
 The current animation changes in direct relation to the animation of its parent.

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.Primitives.ScrollingIndicatorMode IndicatorMode 
 ## -description
 Gets or sets a value that results in different input indicator modes for the [ScrollBar](scrollbar.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <ScrollBar IndicatorMode="scrollingIndicatorModeMemberName"/>

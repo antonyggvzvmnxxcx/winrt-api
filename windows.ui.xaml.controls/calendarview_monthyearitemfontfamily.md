@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.FontFamily MonthYearItemFontFamily { get;  set; }
 ## -description
 Gets or sets the font used to display the month and year items in the calendar.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarView MonthYearItemFontFamily="fontFamilyValue"/>

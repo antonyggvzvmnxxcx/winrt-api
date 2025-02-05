@@ -12,6 +12,8 @@ public Windows.Graphics.DirectX.DirectXPixelFormat PixelFormat { get; }
 ## -description
 The pixel format of the drawing surface.
 
+
+
 ## -property-value
 The pixel format of the drawing surface.
 

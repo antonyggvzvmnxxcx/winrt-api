@@ -12,6 +12,8 @@ public Windows.UI.Composition.CompositionGraphicsDevice GraphicsDevice { get; }
 ## -description
 The new graphics device.
 
+
+
 ## -property-value
 The new graphics device.
 

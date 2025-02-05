@@ -12,6 +12,8 @@ public Windows.Foundation.Point EndPoint { get;  set; }
 ## -description
 Gets or sets the ending two-dimensional coordinates of the linear gradient.
 
+
+
 ## -xaml-syntax
 ```xaml
 <LinearGradientBrush EndPoint="x,y"/>

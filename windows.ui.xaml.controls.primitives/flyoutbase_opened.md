@@ -12,6 +12,8 @@ public event Windows.Foundation.EventHandler Opened<object>
 ## -description
 Occurs when the flyout is shown.
 
+
+
 ## -xaml-syntax
 ```xaml
 <flyout Opened="eventhandler"/>

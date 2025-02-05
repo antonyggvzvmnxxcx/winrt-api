@@ -12,6 +12,8 @@ public void SetSourceParameter(System.String name, Windows.UI.Composition.Compos
 ## -description
 Associates a name declared using [CompositionEffectSourceParameter](compositioneffectsourceparameter.md) to an effect source.
 
+
+
 ## -parameters
 ### -param name
 The name of the source parameter.

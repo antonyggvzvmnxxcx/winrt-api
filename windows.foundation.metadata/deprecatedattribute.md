@@ -17,4 +17,6 @@ Indicates that a type or member should be marked in metadata as deprecated. Comp
 ## -examples
 
 ## -see-also
-[Attribute](https://docs.microsoft.com/dotnet/api/system.attribute?redirectedfrom=MSDN)
+
+- [ObsoleteAttribute remarks](/dotnet/api/system.obsoleteattribute#windows-8x-store-apps)
+- [Attribute](/dotnet/api/system.attribute?view=dotnet-uwp-10.0&preserve-view=true)

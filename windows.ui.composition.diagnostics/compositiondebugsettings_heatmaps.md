@@ -13,6 +13,8 @@ public CompositionDebugHeatMaps HeatMaps { get; }
 
 Gets the heatmaps for this debug settings instance.
 
+
+
 ## -property-value
 
 The heatmaps for this debug settings instance.

@@ -13,6 +13,8 @@ public enum CompositionGradientExtendMode : int
 
 Defines constants that specify how to draw the gradient outside the brush's gradient vector or space.
 
+
+
 ## -enum-fields
 ### -field Wrap:1
 

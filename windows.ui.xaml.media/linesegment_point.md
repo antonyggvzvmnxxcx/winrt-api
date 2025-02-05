@@ -12,6 +12,8 @@ public Windows.Foundation.Point Point { get;  set; }
 ## -description
 Gets or sets the end point of the line segment.
 
+
+
 ## -xaml-syntax
 ```xaml
 <LineSegment Point="x,y"/>

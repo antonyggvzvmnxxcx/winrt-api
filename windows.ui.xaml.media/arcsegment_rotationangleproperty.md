@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty RotationAngleProperty { get; }
 ## -description
 Identifies the [RotationAngle](arcsegment_rotationangle.md) dependency property.
 
+
+
 ## -property-value
 The [RotationAngle](arcsegment_rotationangle.md) dependency property identifier.
 

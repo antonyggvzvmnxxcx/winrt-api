@@ -12,6 +12,7 @@ public bool IsFullWindow { get;  set; }
 ## -description
 Gets a value that specifies if the [MediaElement](mediaelement.md) is rendering in full window mode. Setting this property enables or disables full window rendering.
 
+
 ## -xaml-syntax
 ```xaml
 <MediaElement IsFullWindow="bool" />

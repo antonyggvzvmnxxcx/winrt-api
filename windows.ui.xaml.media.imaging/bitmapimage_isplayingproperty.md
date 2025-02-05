@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsPlayingProperty { get; }
 ## -description
 Identifies the [IsPlaying](bitmapimage_isplaying.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsPlaying](bitmapimage_isplaying.md) dependency property.
 

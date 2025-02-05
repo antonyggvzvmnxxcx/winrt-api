@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Controls.StretchDirection : int
 ## -description
 Defines constants that specify the direction that content is scaled.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object property="enumMemberName"/>

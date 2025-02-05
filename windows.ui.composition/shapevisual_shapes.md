@@ -13,6 +13,8 @@ public CompositionShapeCollection Shapes { get; }
 
 Gets the collection of CompositionShapes that this shape visual tree is composed of.
 
+
+
 ## -property-value
 
 The collection of CompositionShapes that this shape visual tree is composed of.

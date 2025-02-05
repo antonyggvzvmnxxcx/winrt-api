@@ -12,6 +12,8 @@ public ExpressionAnimation Condition { get;  set; }
 ## -description
 The condition expression that determines when to apply modifiers to the visual interaction source.
 
+
+
 ## -property-value
 The condition expression that determines when to apply modifiers to the visual interaction source.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty HeaderTemplateProperty { get; }
 ## -description
 Identifies the [HeaderTemplate](timepicker_headertemplate.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [HeaderTemplate](timepicker_headertemplate.md) dependency property.
 

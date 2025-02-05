@@ -12,6 +12,8 @@ public void SuspendRendering(Windows.UI.Xaml.UIElement target)
 ## -description
 Suspends rendering of the specified element.
 
+
+
 ## -parameters
 ### -param target
 The element for which to suspend rendering.

@@ -14,6 +14,8 @@ virtual protected void Brush.PopulatePropertyInfoOverride(String propertyName, A
 
 When overridden in a derived class, defines a property that can be animated.
 
+
+
 ## -parameters
 ### -param propertyName
 

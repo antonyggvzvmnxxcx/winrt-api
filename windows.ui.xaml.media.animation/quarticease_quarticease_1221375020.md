@@ -12,6 +12,7 @@ public QuarticEase()
 ## -description
 Initializes a new instance of the [QuarticEase](quarticease.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,7 @@ public PathSegmentCollection()
 ## -description
 Initializes a new instance of the [PathSegmentCollection](pathsegmentcollection.md) class.
 
+
 ## -remarks
 
 ## -examples

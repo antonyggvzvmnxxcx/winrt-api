@@ -12,6 +12,8 @@ public bool IsBlackout { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the date is unavailable.
 
+
+
 ## -xaml-syntax
 ```xaml
 
@@ -25,6 +27,10 @@ Gets or sets a value that indicates whether the date is unavailable.
 
 ## -remarks
 
+To mark a date as not selectable, set this property to `true`. For more information, see [Updating calendar day items](/uwp/api/windows.ui.xaml.controls.calendarview#updating-calendar-day-items).
+
 ## -examples
 
 ## -see-also
+
+[CalendarView.BlackoutForeground](calendarview_blackoutforeground.md), [CalendarView.BlackoutBackground](calendarview_blackoutbackground.md), [Updating calendar day items](/uwp/api/windows.ui.xaml.controls.calendarview#updating-calendar-day-items)

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty PointsProperty { get; }
 ## -description
 Identifies the [Points](polygon_points.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Points](polygon_points.md) dependency property.
 

@@ -14,6 +14,7 @@ public enum BackgroundSizing : int
 
 Defines constants that specify how far an element's background extends in relation to the element's border.
 
+
 ## -enum-fields
 
 ### -field OuterBorderEdge:1

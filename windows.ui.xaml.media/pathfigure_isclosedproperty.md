@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsClosedProperty { get; }
 ## -description
 Identifies the [IsClosed](pathfigure_isclosed.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsClosed](pathfigure_isclosed.md) dependency property.
 

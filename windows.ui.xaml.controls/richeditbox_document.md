@@ -12,6 +12,8 @@ public Windows.UI.Text.ITextDocument Document { get; }
 ## -description
 Gets an object that enables access to the text object model for the text contained in a [RichEditBox](richeditbox.md).
 
+
+
 ## -property-value
 An object that enables access to the text object model.
 

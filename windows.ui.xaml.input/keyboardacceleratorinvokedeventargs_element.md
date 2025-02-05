@@ -12,13 +12,15 @@ public DependencyObject Element { get; }
 ## -description
 Gets the object associated with the [keyboard shortcut (or accelerator)](keyboardaccelerator.md).
 
+
+
 ## -property-value
 A reference to the object associated with the [keyboard shortcut (or accelerator)](keyboardaccelerator.md).
 
 ## -remarks
 
 ## -see-also
-[Keyboard Accelerators](https://docs.microsoft.com/windows/uwp/design/input/keyboard-accelerators)
+[Keyboard Accelerators](/windows/uwp/design/input/keyboard-accelerators)
 
 ## -examples
 

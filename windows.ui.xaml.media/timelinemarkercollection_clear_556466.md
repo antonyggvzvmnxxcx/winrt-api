@@ -12,6 +12,7 @@ public void Clear()
 ## -description
 Removes all items from the collection.
 
+
 ## -remarks
 
 

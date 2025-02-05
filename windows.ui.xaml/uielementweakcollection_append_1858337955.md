@@ -14,6 +14,8 @@ public void UIElementWeakCollection.Append(UIElement value)
 
 Adds a new item to the collection.
 
+
+
 ## -parameters
 ### -param value
 

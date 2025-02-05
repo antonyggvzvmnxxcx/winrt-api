@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Provider.ITextRangeProvider FindText(System.St
 ## -description
 Returns a text range subset that contains the specified text.
 
+
+
 ## -parameters
 ### -param text
 The text string to search for.

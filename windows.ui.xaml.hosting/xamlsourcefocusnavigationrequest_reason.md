@@ -13,6 +13,7 @@ public XamlSourceFocusNavigationReason Reason { get; }
 ## -description
 Gets a [XamlSourceFocusNavigationReason](xamlsourcefocusnavigationreason.md) value that indicates the reason for the navigation request.
 
+
 ## -property-value
 A value that indicates the reason for the navigation request. 
 

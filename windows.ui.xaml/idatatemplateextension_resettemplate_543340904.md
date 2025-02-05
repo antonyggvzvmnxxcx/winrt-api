@@ -12,6 +12,8 @@ public void ResetTemplate()
 ## -description
 Disconnects any event listeners so the data template can be recycled.
 
+
+
 ## -remarks
 
 ## -examples

@@ -13,6 +13,8 @@ public float RotationAngle { get;  set; }
 
 Gets or sets the rotation angle of the brush in radians.
 
+
+
 ## -property-value
 
 The rotation angle of the brush in radians.

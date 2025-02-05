@@ -12,6 +12,8 @@ public DependencyProperty KeyTipVerticalOffsetProperty { get; }
 ## -description
 Identifies the [KeyTipVerticalOffset](uielement_keytipverticaloffset.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [KeyTipVerticalOffset](uielement_keytipverticaloffset.md) dependency property.
 

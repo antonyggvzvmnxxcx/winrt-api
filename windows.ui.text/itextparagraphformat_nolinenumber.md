@@ -12,6 +12,8 @@ public Windows.UI.Text.FormatEffect NoLineNumber { get;  set; }
 ## -description
 Gets or sets whether paragraph numbering is suppressed.
 
+
+
 ## -property-value
 A value that indicates whether line numbering is suppressed.
 

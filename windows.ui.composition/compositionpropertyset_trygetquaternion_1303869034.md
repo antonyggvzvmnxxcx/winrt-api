@@ -12,6 +12,8 @@ public Windows.UI.Composition.CompositionGetValueStatus TryGetQuaternion(System.
 ## -description
 Retrieves the specified quaternion property value.
 
+
+
 ## -parameters
 ### -param propertyName
 The name of the property to retrieve.

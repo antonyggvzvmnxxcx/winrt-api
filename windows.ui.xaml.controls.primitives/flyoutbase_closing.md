@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler Closing<Windows.UI.Xaml.Contro
 ## -description
 Occurs when the flyout starts to be hidden.
 
+
+
 ## -xaml-syntax
 ```xaml
 <flyout Closing="eventhandler"/>

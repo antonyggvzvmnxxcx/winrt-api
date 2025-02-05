@@ -12,6 +12,7 @@ public TextBlockAutomationPeer(Windows.UI.Xaml.Controls.TextBlock owner)
 ## -description
 Initializes a new instance of the [TextBlockAutomationPeer](textblockautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The [TextBlock](../windows.ui.xaml.controls/textblock.md) to create a peer for.

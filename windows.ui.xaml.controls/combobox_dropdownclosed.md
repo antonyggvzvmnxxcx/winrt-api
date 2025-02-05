@@ -12,6 +12,8 @@ public event Windows.Foundation.EventHandler DropDownClosed<object>
 ## -description
 Occurs when the drop-down portion of the [ComboBox](combobox.md) closes.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ComboBox DropDownClosed="eventhandler"/>

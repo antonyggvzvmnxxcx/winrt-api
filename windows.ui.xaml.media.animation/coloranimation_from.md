@@ -12,15 +12,14 @@ public Windows.Foundation.IReference<Windows.UI.Color> From { get;  set; }
 ## -description
 Gets or sets the animation's starting value.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ColorAnimation From="colorString"/>
 -or-
 <ColorAnimation From="referenceToColor"/>
-
-```
-
-```xaml
+- or -
 <ColorAnimation>
   <ColorAnimation.From>
     <Color>colorString</Color>

@@ -13,6 +13,8 @@ public void RichEditTextRange.GetTextViaStream(TextGetOptions options, IRandomAc
 
 Retrieves the text in the text range according to the specified conversion flags, as a random access stream.
 
+
+
 ## -parameters
 ### -param options
 

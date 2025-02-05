@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsScrollInertiaEnabledProperty { get; 
 ## -description
 Identifies the [IsScrollInertiaEnabled](scrollviewer_isscrollinertiaenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsScrollInertiaEnabled](scrollviewer_isscrollinertiaenabled.md) dependency property.
 

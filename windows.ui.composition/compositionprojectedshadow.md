@@ -14,6 +14,8 @@ public class CompositionProjectedShadow : CompositionObject, CompositionObject
 
 Represents a scene-based shadow calculated using the relationship between the light, the visual that casts the shadow,and the visual that receives the shadow, such that the shadow is drawn differently on each receiver.
 
+
+
 ## -remarks
 
 ## -see-also

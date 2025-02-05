@@ -12,6 +12,8 @@ public Windows.UI.Color OuterConeColor { get;  set; }
 ## -description
 The color of the spotlight's outer cone. Animatable.
 
+
+
 ## -property-value
 The color of the spotlight's outer cone.
 

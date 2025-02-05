@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty PaddingProperty { get; }
 ## -description
 Identifies the [Padding](control_padding.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Padding](control_padding.md) dependency property.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Documents.TextPointer ElementEnd { get; }
 ## -description
 Gets a [TextPointer](textpointer.md) that represents the position just after the end of the element.
 
+
+
 ## -property-value
 A [TextPointer](textpointer.md) that represents the position just after the end of the [TextElement](textelement.md).
 

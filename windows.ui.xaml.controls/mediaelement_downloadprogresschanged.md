@@ -12,6 +12,7 @@ public event Windows.UI.Xaml.RoutedEventHandler DownloadProgressChanged
 ## -description
 Occurs when the [DownloadProgress](mediaelement_downloadprogress.md) property has changed.
 
+
 ## -xaml-syntax
 ```xaml
 <MediaElement DownloadProgressChanged="eventhandler"/>

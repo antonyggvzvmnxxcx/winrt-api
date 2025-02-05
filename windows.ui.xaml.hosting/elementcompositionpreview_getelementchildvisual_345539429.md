@@ -12,9 +12,11 @@ public Windows.UI.Composition.Visual GetElementChildVisual(Windows.UI.Xaml.UIEle
 ## -description
 Retrieves a [Windows.UI.Composition.Visual](../windows.ui.composition/visual.md) object previously set by a call to [SetElementChildVisual](elementcompositionpreview_setelementchildvisual_151424769.md).
 
+
+
 ## -parameters
 ### -param element
-The element to retrieve the [Visual](../windows.ui.composition/visual.md) for.
+The element for which to retrieve the [Visual](../windows.ui.composition/visual.md).
 
 ## -returns
 A [Windows.UI.Composition.Visual](../windows.ui.composition/visual.md) object previously set by a call to [SetElementChildVisual](elementcompositionpreview_setelementchildvisual_151424769.md).

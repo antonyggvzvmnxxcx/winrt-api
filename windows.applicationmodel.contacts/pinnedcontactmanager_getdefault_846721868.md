@@ -10,21 +10,24 @@ public PinnedContactManager PinnedContactManager.GetDefault()
 # Windows.ApplicationModel.Contacts.PinnedContactManager.GetDefault
 
 ## -description
-Gets the default an instance of a [PinnedContactManager](pinnedcontactmanager.md).
 
-## -params
+Gets the default instance of a [PinnedContactManager](pinnedcontactmanager.md).
+
+In a desktop app, before using an instance of this class in a way that displays UI, you'll need to associate the object with its owner's window handle. For more info, and code examples, see [Display WinRT UI objects that depend on CoreWindow](/windows/apps/develop/ui-input/display-ui-objects#winui-3-with-c).
 
 ## -returns
+
 the default [PinnedContactManager](pinnedcontactmanager.md).
 
 ## -remarks
-This method must be called from the main UI thread.
 
-To use this object from a desktop app, use [the IInitializeWithWindow::Initialize method](https://docs.microsoft.com/en-us/windows/desktop/api/shobjidl_core/nf-shobjidl_core-iinitializewithwindow-initialize) to associate the object with a window handle.
+This method must be called from the main UI thread.
 
 ## -see-also
 
 ## -examples
 
 ## -capabilities
+
 contactsSystem
+

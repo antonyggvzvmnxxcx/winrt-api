@@ -14,6 +14,8 @@ public double RasterizationScale { get; }
 
 Gets a value that represents the number of raw (physical) pixels for each view pixel.
 
+
+
 ## -property-value
 
 A value that represents the number of raw (physical) pixels for each view pixel.

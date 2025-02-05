@@ -12,6 +12,8 @@ public bool IsSpellCheckEnabled { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the text input should interact with a spell check engine.
 
+
+
 ## -xaml-syntax
 ```xaml
 <RichEditBox IsSpellCheckEnabled="bool" />

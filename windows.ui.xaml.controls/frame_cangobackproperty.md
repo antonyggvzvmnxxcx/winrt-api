@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty CanGoBackProperty { get; }
 ## -description
 Identifies the [CanGoBack](frame_cangoback.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [CanGoBack](frame_cangoback.md) dependency property.
 

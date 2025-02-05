@@ -12,6 +12,7 @@ public PaginateEventArgs()
 ## -description
 Initializes a new instance of the [PaginateEventArgs](paginateeventargs.md) class.
 
+
 ## -remarks
 
 ## -examples

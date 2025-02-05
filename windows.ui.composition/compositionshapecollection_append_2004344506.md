@@ -13,6 +13,8 @@ public void CompositionShapeCollection.Append(CompositionShape value)
 
 Adds a new item to the collection.
 
+
+
 ## -parameters
 ### -param value
 

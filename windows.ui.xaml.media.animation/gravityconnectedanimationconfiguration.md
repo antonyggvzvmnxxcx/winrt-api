@@ -13,6 +13,8 @@ public class GravityConnectedAnimationConfiguration : ConnectedAnimationConfigur
 ## -description
 An object that configures the connected animation to play using the gravity configuration. 
 
+
+
 ## -remarks
 
 ### Version history

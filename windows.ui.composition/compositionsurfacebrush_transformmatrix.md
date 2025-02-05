@@ -12,6 +12,8 @@ public Windows.Foundation.Numerics.Matrix3x2 TransformMatrix { get;  set; }
 ## -description
 The transformation matrix to apply to the brush.
 
+
+
 ## -property-value
 The transformation matrix to apply to the brush.
 

@@ -14,6 +14,8 @@ public double OverflowContentCompactYTranslation { get; }
 
 Gets the translation of the overflow content on the Y-axis in the compact state.
 
+
+
 ## -property-value
 
 The translation of the overflow content on the Y-axis in the compact state.

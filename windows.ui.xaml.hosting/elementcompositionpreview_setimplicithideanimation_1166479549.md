@@ -13,6 +13,8 @@ public void ElementCompositionPreview.SetImplicitHideAnimation(UIElement element
 
 Associates the specified hide animation with a UIElement.
 
+
+
 ## -parameters
 
 ### -param element

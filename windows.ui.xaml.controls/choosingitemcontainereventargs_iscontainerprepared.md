@@ -12,6 +12,8 @@ public bool IsContainerPrepared { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the container is ready for use.
 
+
+
 ## -property-value
 **true** if the container is ready for use; otherwise, **false**.
 

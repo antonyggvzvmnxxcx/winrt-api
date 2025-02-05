@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty ContainingGridProperty { ge
 ## -description
 Identifies the [ContainingGrid](../windows.ui.xaml.automation.provider/igriditemprovider_containinggrid.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

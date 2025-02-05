@@ -14,6 +14,8 @@ public NavigationTransitionInfo TransitionInfoOverride { get;  set; }
 
 Gets or sets a value that indicates the animated transition associated with the navigation.
 
+
+
 ## -property-value
 
 Info about the animated transition.

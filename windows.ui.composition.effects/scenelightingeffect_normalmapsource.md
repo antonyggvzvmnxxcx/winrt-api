@@ -12,6 +12,8 @@ public Windows.Graphics.Effects.IGraphicsEffectSource NormalMapSource { get;  se
 ## -description
 The normal map for the effect.
 
+
+
 ## -property-value
 The normal map for the effect.
 

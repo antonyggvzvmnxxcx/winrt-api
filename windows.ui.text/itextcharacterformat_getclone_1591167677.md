@@ -12,6 +12,8 @@ public Windows.UI.Text.ITextCharacterFormat GetClone()
 ## -description
 Creates a new object that is identical to this character format object.
 
+
+
 ## -returns
 The duplicate character format object.
 

@@ -12,6 +12,8 @@ public double CenterX { get;  set; }
 ## -description
 Gets or sets the x-coordinate of the transform center.
 
+
+
 ## -xaml-syntax
 ```xaml
 <SkewTransform CenterX="double"/>

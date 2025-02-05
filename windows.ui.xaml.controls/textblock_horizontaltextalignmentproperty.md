@@ -13,6 +13,8 @@ public DependencyProperty HorizontalTextAlignmentProperty { get; }
 
 Identifies the HorizontalTextAlignment dependency property.
 
+
+
 ## -property-value
 
 The identifier for the HorizontalTextAlignment dependency property.

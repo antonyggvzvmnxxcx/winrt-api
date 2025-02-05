@@ -12,6 +12,7 @@ public bool IsStereo3DVideo { get; }
 ## -description
 Gets a value that reports whether the current source media is a stereo 3-D video media file.
 
+
 ## -property-value
 **true** if the current source media is stereo 3-D video, otherwise, **false**.
 

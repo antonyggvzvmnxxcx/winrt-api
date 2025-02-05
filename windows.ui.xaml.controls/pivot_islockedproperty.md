@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsLockedProperty { get; }
 ## -description
 Identifies the [IsLocked](pivot_islocked.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsLocked](pivot_islocked.md) dependency property.
 

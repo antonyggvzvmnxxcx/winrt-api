@@ -13,6 +13,8 @@ public CompositionStrokeCap StrokeStartCap { get;  set; }
 
 Gets or sets a [CompositionStrokeCap](compositionstrokecap.md) enumeration value that specifies how the start of a line is drawn.
 
+
+
 ## -property-value
 
 An enumeration value that specifies how the start of a line is drawn. The default is **Flat**.

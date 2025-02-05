@@ -12,6 +12,8 @@ public Windows.UI.Composition.CompositionBrush Source { get;  set; }
 ## -description
 A brush whose content is to be masked by the opacity mask. Can be of type CompositionSurfaceBrush, CompositionColorBrush, or CompositionNineGridBrush.
 
+
+
 ## -property-value
 A brush whose content is to be masked by the opacity mask. Can be of type CompositionSurfaceBrush, CompositionColorBrush, or CompositionNineGridBrush.
 

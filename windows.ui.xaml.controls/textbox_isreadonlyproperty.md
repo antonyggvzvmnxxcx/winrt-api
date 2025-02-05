@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsReadOnlyProperty { get; }
 ## -description
 Identifies the [IsReadOnly](textbox_isreadonly.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsReadOnly](textbox_isreadonly.md) dependency property.
 

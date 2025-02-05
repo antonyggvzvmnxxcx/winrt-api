@@ -17,6 +17,8 @@ public enum SvgImageSourceLoadStatus : int {
 ## -description
 Defines constants that specify the result of loading an [SvgImageSource](svgimagesource.md).
 
+
+
 ## -enum-fields
 ### -field Success:0
 The SVG loaded.

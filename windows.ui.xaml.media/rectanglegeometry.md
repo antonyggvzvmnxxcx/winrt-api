@@ -12,6 +12,8 @@ public class RectangleGeometry : Windows.UI.Xaml.Media.Geometry, Windows.UI.Xaml
 ## -description
 Describes a two-dimensional rectangular geometry.
 
+
+
 ## -xaml-syntax
 ```xaml
 <RectangleGeometry .../>

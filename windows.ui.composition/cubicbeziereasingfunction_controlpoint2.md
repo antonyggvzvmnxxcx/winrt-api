@@ -12,6 +12,8 @@ public Windows.Foundation.Numerics.Vector2 ControlPoint2 { get; }
 ## -description
 The second control point for the cubic-bezier interpolation function.
 
+
+
 ## -property-value
 The second control point for the cubic-bezier interpolation function.
 

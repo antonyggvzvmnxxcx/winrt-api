@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TabNavigationProperty { get; }
 ## -description
 Identifies the [TabNavigation](control_tabnavigation.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [TabNavigation](control_tabnavigation.md)  dependency property.
 

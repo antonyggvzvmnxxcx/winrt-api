@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty DefaultNavigationTransitionInfoPropert
 ## -description
 Identifies the [DefaultNavigationTransitionInfo](navigationthemetransition_defaultnavigationtransitioninfo.md) dependency property.
 
+
+
 ## -property-value
 Identifier for the [DefaultNavigationTransitionInfo](navigationthemetransition_defaultnavigationtransitioninfo.md) dependency property.
 

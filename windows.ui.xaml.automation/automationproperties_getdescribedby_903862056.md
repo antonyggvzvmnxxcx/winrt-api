@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IVector<Windows.UI.Xaml.DependencyObject> 
 ## -description
 Gets a collection of elements that provide more information about the specified automation element.
 
+
+
 ## -parameters
 ### -param element
 The automation element for which to get the described by collection.
@@ -25,3 +27,5 @@ The described by collection is used when an automation element is explained by a
 ## -examples
 
 ## -see-also
+
+[AutomationProperties.DescribedBy](automationproperties_describedby.md)

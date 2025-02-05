@@ -12,6 +12,8 @@ public double TranslateX { get;  set; }
 ## -description
 Gets or sets the distance to translate along the x-axis in pixels.
 
+
+
 ## -property-value
 The distance to translate (move) an object along the x-axis, in pixels. The default value is 0.
 

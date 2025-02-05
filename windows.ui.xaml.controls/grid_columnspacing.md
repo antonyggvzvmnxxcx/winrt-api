@@ -13,6 +13,8 @@ public double ColumnSpacing { get;  set; }
 
 Gets or sets the uniform distance (in pixels) between grid columns.
 
+
+
 ## -xaml-syntax
 
 ```xaml

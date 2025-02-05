@@ -13,6 +13,8 @@ public class ConnectedAnimationConfiguration
 ## -description
 An object that describes the type of animation to play during a connected animation.
 
+
+
 ## -remarks
 
 ## -see-also

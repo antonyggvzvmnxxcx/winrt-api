@@ -13,6 +13,8 @@ public void UIElement.StopAnimation(ICompositionAnimationBase animation)
 ## -description
 Stops the specified animation on the element.
 
+
+
 ## -parameters
 ### -param animation
 

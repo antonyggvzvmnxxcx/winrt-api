@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.Primitives.GridViewItemTemplateSettings Template
 ## -description
 Gets an object that provides calculated values that can be referenced as **TemplateBinding** sources when defining templates for a [GridViewItem](gridviewitem.md).
 
+
+
 ## -property-value
 An object that provides calculated values for templates.
 

@@ -13,6 +13,7 @@ public void DesktopWindowXamlSource.Close()
 ## -description
 Closes and releases any resources used by this [DesktopWindowXamlSource](desktopwindowxamlsource.md).
 
+
 ## -remarks
 
 ## -see-also

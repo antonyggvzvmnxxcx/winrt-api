@@ -12,6 +12,7 @@ public FrameworkViewSource()
 ## -description
 Initializes a new instance of the [FrameworkViewSource](frameworkviewsource.md) class.
 
+
 ## -remarks
 
 ## -examples

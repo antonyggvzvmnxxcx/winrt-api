@@ -12,6 +12,8 @@ public string WeekDay2 { get; }
 ## -description
 Gets the second day of the week.
 
+
+
 ## -property-value
 The second day of the week.
 

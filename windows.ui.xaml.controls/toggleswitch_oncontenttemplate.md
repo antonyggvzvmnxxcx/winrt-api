@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DataTemplate OnContentTemplate { get;  set; }
 ## -description
 Gets or sets the [DataTemplate](../windows.ui.xaml/datatemplate.md) used to display the control's content while in "On" state.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ToggleSwitch>
@@ -19,9 +21,7 @@ Gets or sets the [DataTemplate](../windows.ui.xaml/datatemplate.md) used to disp
     singleDataTemplate
   </ToggleSwitch.OnContentTemplate>
 </ToggleSwitch>
-```
-
-```xaml
+- or -
 <ToggleSwitch OnContentTemplate="resourceReferenceToDataTemplate"/>
 ```
 

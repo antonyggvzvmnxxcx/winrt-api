@@ -12,6 +12,8 @@ public int Bounces { get;  set; }
 ## -description
 Gets or sets the number of bounces.
 
+
+
 ## -xaml-syntax
 ```xaml
 <BounceEase Bounces="int" .../>

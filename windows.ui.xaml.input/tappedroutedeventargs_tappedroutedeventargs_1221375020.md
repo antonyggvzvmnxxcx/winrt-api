@@ -12,6 +12,7 @@ public TappedRoutedEventArgs()
 ## -description
 Initializes a new instance of the [TappedRoutedEventArgs](tappedroutedeventargs.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.LightDismissOverlayMode LightDismissOverlayMode 
 ## -description
 Gets or sets a value that specifies whether the area outside of a *light-dismiss* UI is darkened.
 
+
+
 ## -property-value
 A value of the enumeration that specifies whether the area outside of a light-dismiss UI is darkened. The default is **Auto**.
 

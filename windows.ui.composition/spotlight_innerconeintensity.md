@@ -13,6 +13,8 @@ public float InnerConeIntensity { get;  set; }
 
 Gets or sets the intensity of the light in the spotlight's inner cone.
 
+
+
 ## -property-value
 
 The intensity of the light.

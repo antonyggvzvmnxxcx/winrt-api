@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsColorFontEnabledProperty { get; }
 ## -description
 Identifies the [IsColorFontEnabled](richeditbox_iscolorfontenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsColorFontEnabled](richeditbox_iscolorfontenabled.md) dependency property.
 

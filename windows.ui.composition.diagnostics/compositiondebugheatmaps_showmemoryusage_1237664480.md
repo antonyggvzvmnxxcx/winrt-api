@@ -13,6 +13,8 @@ public void CompositionDebugHeatMaps.ShowMemoryUsage(Visual subtree)
 
 Shows a graphical representation of the GPU memory used by the app.
 
+
+
 ## -parameters
 ### -param subtree
 

@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Media.GradientSpreadMethod : int
 ## -description
 Specifies how to draw the gradient outside a gradient brush's gradient vector or space.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object property="enumMemberName"/>

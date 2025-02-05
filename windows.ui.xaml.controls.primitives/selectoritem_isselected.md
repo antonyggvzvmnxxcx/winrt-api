@@ -12,6 +12,8 @@ public bool IsSelected { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the item is selected in a selector.
 
+
+
 ## -xaml-syntax
 ```xaml
 <selectorItem IsSelected="bool" />

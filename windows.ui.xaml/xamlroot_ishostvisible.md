@@ -14,6 +14,8 @@ public bool IsHostVisible { get; }
 
 Gets a value that indicates whether the XamlRoot is visible.
 
+
+
 ## -property-value
 
 **true** if the XamlRoot is visible; otherwise, **false**.

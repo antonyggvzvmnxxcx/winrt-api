@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ForegroundProperty { get; }
 ## -description
 Identifies the [Foreground](textelement_foreground.md) dependency property.
 
+
+
 ## -property-value
 Identifier for the [Foreground](textelement_foreground.md) dependency property.
 

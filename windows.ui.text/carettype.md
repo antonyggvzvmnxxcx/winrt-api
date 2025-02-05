@@ -12,6 +12,8 @@ public enum Windows.UI.Text.CaretType : int
 ## -description
 Specifies the caret type.
 
+
+
 ## -enum-fields
 ### -field Normal:0
 The insertion point for a sequenced language; that is, characters that are typed with one key stroke.

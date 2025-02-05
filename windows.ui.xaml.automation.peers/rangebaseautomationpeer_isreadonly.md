@@ -12,6 +12,8 @@ public bool IsReadOnly { get; }
 ## -description
 Gets a value that indicates whether the value of a control is read-only.
 
+
+
 ## -property-value
 **true** if the value is read-only; **false** if it can be modified.
 

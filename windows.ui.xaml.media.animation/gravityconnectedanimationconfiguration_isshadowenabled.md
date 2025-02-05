@@ -14,6 +14,8 @@ public bool IsShadowEnabled { get;  set; }
 
 Gets or sets a value that indicates whether a shadow effect is shown.
 
+
+
 ## -property-value
 
 **true** if a shadow effect is shown; otherwise, **false**.

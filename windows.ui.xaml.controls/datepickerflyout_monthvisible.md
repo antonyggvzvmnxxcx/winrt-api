@@ -12,6 +12,8 @@ public bool MonthVisible { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the month selector is shown.
 
+
+
 ## -property-value
 True if the month selector is shown; otherwise, false. The default is true.
 

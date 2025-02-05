@@ -12,12 +12,12 @@ public string Text { get;  set; }
 ## -description
 Gets or sets the text contents of a [TextBlock](textblock.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <TextBlock Text="string"/>
-```
-
-```xaml
+- or -
 <TextBlock>string</TextBlock>
 ```
 

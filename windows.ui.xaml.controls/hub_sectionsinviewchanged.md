@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.Controls.SectionsInViewChangedEventHandler Sections
 ## -description
 Occurs when the [SectionsInView](hub_sectionsinview.md) collection changes.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Hub SectionsInViewChanged="eventhandler" />

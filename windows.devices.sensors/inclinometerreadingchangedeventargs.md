@@ -10,7 +10,7 @@ public class InclinometerReadingChangedEventArgs : Windows.Devices.Sensors.IIncl
 # Windows.Devices.Sensors.InclinometerReadingChangedEventArgs
 
 ## -description
-Provides data for the inclinometer reading– changed event.
+Provides data for the inclinometer reading-changed event.
 
 ## -remarks
 This object is accessed when your app supports the [ReadingChanged](inclinometer_readingchanged.md) event.
@@ -18,4 +18,4 @@ This object is accessed when your app supports the [ReadingChanged](inclinometer
 ## -examples
 
 ## -see-also
-[Sensor data and display orientation](https://docs.microsoft.com/previous-versions/windows/apps/dn440593(v=win.10))
+[Sensor data and display orientation](/previous-versions/windows/apps/dn440593(v=win.10))

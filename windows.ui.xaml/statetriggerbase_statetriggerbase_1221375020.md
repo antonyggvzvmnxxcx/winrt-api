@@ -12,6 +12,7 @@ protected StateTriggerBase()
 ## -description
 Initializes a new instance of the [StateTriggerBase](statetriggerbase.md) class.
 
+
 ## -remarks
 
 ## -examples

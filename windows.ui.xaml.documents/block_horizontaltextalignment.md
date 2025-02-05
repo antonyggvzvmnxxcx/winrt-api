@@ -13,6 +13,8 @@ public TextAlignment HorizontalTextAlignment { get;  set; }
 
 Gets or sets a value that indicates how text is aligned in the Block.
 
+
+
 ## -xaml-syntax
 
 ```xaml

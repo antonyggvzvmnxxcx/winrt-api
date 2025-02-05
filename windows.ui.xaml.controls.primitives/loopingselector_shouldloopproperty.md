@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ShouldLoopProperty { get; }
 ## -description
 Identifies the [ShouldLoop](loopingselector_shouldloop.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ShouldLoop](loopingselector_shouldloop.md) dependency property.
 

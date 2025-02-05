@@ -12,6 +12,8 @@ public bool IsCompact { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the button is shown with no label and reduced padding.
 
+
+
 ## -xaml-syntax
 ```xaml
 <AppBarToggleButton IsCompact="bool" .../>

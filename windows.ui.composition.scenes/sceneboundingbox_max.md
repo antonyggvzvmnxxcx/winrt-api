@@ -14,6 +14,8 @@ public Vector3 Max { get; }
 
 Gets the maximum coordinates of the bounding box.
 
+
+
 ## -property-value
 
 The maximum coordinates of the bounding box.

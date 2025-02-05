@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty CurrentStateProperty { get; }
 ## -description
 Identifies the [CurrentState](mediaelement_currentstate.md) dependency property.
 
+
 ## -property-value
 The identifier for the [CurrentState](mediaelement_currentstate.md) dependency property.
 

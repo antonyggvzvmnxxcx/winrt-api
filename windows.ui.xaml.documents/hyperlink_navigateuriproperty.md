@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty NavigateUriProperty { get; }
 ## -description
 Identifies the [NavigateUri](hyperlink_navigateuri.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [NavigateUri](hyperlink_navigateuri.md) dependency property.
 

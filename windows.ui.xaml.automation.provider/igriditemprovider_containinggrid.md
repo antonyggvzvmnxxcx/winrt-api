@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Provider.IRawElementProviderSimple ContainingG
 ## -description
 Gets a UI Automation provider that implements [IGridProvider](igridprovider.md) and that represents the container of the cell or item.
 
+
+
 ## -property-value
 A UI Automation provider that implements the **Grid** control pattern and that represents the cell or item container.
 

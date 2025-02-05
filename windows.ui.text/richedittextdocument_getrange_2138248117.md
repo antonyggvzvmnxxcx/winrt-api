@@ -12,6 +12,8 @@ public ITextRange RichEditTextDocument.GetRange(Int32 startPosition, Int32 endPo
 ## -description
 Retrieves a new text range for the active story of the document.
 
+
+
 ## -parameters
 
 ### -param startPosition

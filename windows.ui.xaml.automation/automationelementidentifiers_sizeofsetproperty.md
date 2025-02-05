@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty SizeOfSetProperty { get; }
 ## -description
 Gets the identification of the size of set automation property.
 
+
+
 ## -property-value
 The identification of the size of set automation property.
 

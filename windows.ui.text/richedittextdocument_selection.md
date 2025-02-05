@@ -12,6 +12,8 @@ public ITextSelection Selection { get; }
 ## -description
 Gets the active text selection.
 
+
+
 ## -property-value
 The active text selection.
 

@@ -12,6 +12,8 @@ public float Scale { get; }
 ## -description
 The current scale of the [InteractionTracker](interactiontracker.md).
 
+
+
 ## -property-value
 The current scale of the [InteractionTracker](interactiontracker.md).
 

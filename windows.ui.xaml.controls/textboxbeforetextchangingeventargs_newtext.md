@@ -13,6 +13,8 @@ public string NewText { get; }
 
 Gets the new text that is entered into the text box.
 
+
+
 ## -property-value
 
 The new text value that is entered into the text box.

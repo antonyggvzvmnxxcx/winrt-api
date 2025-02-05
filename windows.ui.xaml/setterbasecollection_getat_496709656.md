@@ -12,6 +12,8 @@ public Windows.UI.Xaml.SetterBase GetAt(System.UInt32 index)
 ## -description
 Returns the [SetterBase](setterbase.md) located at the specified index.
 
+
+
 ## -parameters
 ### -param index
 The integer index for the value to retrieve.
@@ -21,9 +23,9 @@ The [SetterBase](setterbase.md) value at the specified index.
 
 ## -remarks
 > [!NOTE]
-> The equivalent Microsoft .NET  API is [Item](setterbasecollection_item.md) (the indexer).
+> The equivalent Microsoft .NET API is [Item](/dotnet/api/system.collections.objectmodel.collection-1.item) (the indexer).
 
 ## -examples
 
 ## -see-also
-[Item](setterbasecollection_item.md)
+[Item](/dotnet/api/system.collections.objectmodel.collection-1.item)

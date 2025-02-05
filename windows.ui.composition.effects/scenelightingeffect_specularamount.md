@@ -12,6 +12,8 @@ public float SpecularAmount { get;  set; }
 ## -description
 Intensity of the specular light.
 
+
+
 ## -property-value
 Intensity of the specular light.
 

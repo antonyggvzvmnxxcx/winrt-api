@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty RequiresPointerProperty { get; }
 ## -description
 Identifies the [RequiresPointer](control_requirespointer.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [RequiresPointer](control_requirespointer.md) dependency property.
 

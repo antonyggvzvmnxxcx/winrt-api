@@ -12,6 +12,8 @@ public bool Cancel { get;  set; }
 ## -description
 Specifies whether a pending navigation should be canceled.
 
+
+
 ## -property-value
 **true** to cancel the pending cancelable navigation; **false** to continue with navigation.
 

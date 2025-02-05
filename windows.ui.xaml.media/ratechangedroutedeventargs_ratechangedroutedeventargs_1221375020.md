@@ -12,6 +12,7 @@ public RateChangedRoutedEventArgs()
 ## -description
 Initializes a new instance of the [RateChangedRoutedEventArgs](ratechangedroutedeventargs.md) class.
 
+
 ## -remarks
 
 ## -examples

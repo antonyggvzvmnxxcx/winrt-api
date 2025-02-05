@@ -13,6 +13,8 @@ public Size LayoutInformation.GetAvailableSize(UIElement element)
 
 Returns the Size value that was most recently used to measure the specified element.
 
+
+
 ## -parameters
 
 ### -param element

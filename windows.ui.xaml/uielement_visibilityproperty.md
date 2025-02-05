@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty VisibilityProperty { get; }
 ## -description
 Identifies the [Visibility](uielement_visibility.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Visibility](uielement_visibility.md) dependency property.
 

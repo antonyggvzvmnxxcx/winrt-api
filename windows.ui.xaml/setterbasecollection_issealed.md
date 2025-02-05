@@ -12,6 +12,8 @@ public bool IsSealed { get; }
 ## -description
 Gets a value that indicates whether the collection is in a read-only state.
 
+
+
 ## -property-value
 **true** if this object is in a read-only state and cannot be changed; otherwise, **false**.
 

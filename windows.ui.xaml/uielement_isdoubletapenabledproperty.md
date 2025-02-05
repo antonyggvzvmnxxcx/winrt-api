@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsDoubleTapEnabledProperty { get; }
 ## -description
 Identifies the [IsDoubleTapEnabled](uielement_isdoubletapenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsDoubleTapEnabled](uielement_isdoubletapenabled.md) dependency property.
 

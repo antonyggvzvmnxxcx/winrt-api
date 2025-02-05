@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty OrientationProperty { get; }
 ## -description
 Gets the identifier for the [Orientation](datepicker_orientation.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Orientation](datepicker_orientation.md) dependency property.
 

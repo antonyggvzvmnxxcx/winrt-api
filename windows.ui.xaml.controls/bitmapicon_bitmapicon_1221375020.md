@@ -12,6 +12,7 @@ public BitmapIcon()
 ## -description
 Initializes a new instance of the [BitmapIcon](bitmapicon.md) class.
 
+
 ## -remarks
 
 ## -examples

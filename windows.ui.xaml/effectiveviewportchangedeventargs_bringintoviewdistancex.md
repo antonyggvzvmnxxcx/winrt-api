@@ -14,6 +14,8 @@ public double BringIntoViewDistanceX { get; }
 
 Gets the sum of translation in the X-axis that is required to bring the [FrameworkElement](frameworkelement.md) into view of each viewport containing the element.
 
+
+
 ## -property-value
 
 The translation in the X-axis that is required to bring the [FrameworkElement](frameworkelement.md) into view of each viewport containing the element
@@ -24,6 +26,6 @@ The value does not account for the possibility of a scrolling control that has s
 
 ## -see-also
 
-* [EffectiveViewportChanged](frameworkelement_effectiveviewportchanged.md)
+[EffectiveViewportChanged](frameworkelement_effectiveviewportchanged.md)
 
 ## -examples

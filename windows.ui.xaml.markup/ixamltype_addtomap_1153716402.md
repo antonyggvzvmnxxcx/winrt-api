@@ -12,6 +12,8 @@ public void AddToMap(System.Object instance, System.Object key, System.Object va
 ## -description
 Adds an item to a custom map type.
 
+
+
 ## -parameters
 ### -param instance
 The type instance to set the map item to.

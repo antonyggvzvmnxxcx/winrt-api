@@ -12,6 +12,8 @@ public KeyTipPlacementMode KeyTipPlacementMode { get;  set; }
 ## -description
 Gets or sets a value that indicates where the KeyTip is placed in relation to the text element.
 
+
+
 ## -xaml-syntax
 ```xaml
 <textElement KeyTipPlacementMode="keyTipPlacementModeMemberName"/>

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty CharacterSpacingProperty { get; }
 ## -description
 Identifies the [CharacterSpacing](control_characterspacing.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [CharacterSpacing](control_characterspacing.md) dependency property.
 

@@ -12,13 +12,12 @@ public IconElement Icon { get;  set; }
 ## -description
 Gets or sets the graphic content of the menu flyout item.
 
+
+
 ## -xaml-syntax
 ```xaml
 <MenuFlyoutItem Icon="symbolName" .../>
-```
-
-```xaml
-
+- or -
 <MenuFlyoutItem>
     <MenuFlyoutItem.Icon>
         iconElement

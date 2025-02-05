@@ -12,6 +12,7 @@ public VisualStateChangedEventArgs()
 ## -description
 Initializes a new instance of the [VisualStateChangedEventArgs](visualstatechangedeventargs.md) class.
 
+
 ## -remarks
 
 ## -examples

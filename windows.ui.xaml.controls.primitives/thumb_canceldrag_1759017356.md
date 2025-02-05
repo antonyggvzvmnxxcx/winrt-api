@@ -12,6 +12,7 @@ public void CancelDrag()
 ## -description
 Cancels a drag operation for the [Thumb](thumb.md).
 
+
 ## -remarks
 
 ## -examples

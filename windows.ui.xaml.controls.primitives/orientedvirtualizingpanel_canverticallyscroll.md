@@ -12,6 +12,8 @@ public bool CanVerticallyScroll { get;  set; }
 ## -description
 Gets or sets a value that determines how the [OrientedVirtualizingPanel](orientedvirtualizingpanel.md) measures space for child elements for possible scrolling in the vertical dimension.
 
+
+
 ## -property-value
 **true** to support a potentially infinite vertical layout dimension. **false** to restrict to available size.
 

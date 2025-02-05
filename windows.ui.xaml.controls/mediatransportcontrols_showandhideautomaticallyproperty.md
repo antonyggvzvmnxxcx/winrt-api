@@ -13,6 +13,7 @@ public DependencyProperty ShowAndHideAutomaticallyProperty { get; }
 
 Identifies the ShowAndHideAutomatically dependency property.
 
+
 ## -property-value
 
 The identifier for the ShowAndHideAutomatically dependency property.

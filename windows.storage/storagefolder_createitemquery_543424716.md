@@ -18,7 +18,7 @@ A query result object. Call the [GetItemsAsync](../windows.storage.search/storag
 To work with the returned items, call the [IsOfType](istorageitem_isoftype_1417811226.md) method of the [IStorageItem](istorageitem.md) interface to determine whether each item is a file or a folder. Then cast the item to a [StorageFolder](storagefolder.md) or [StorageFile](storagefile.md).
 
 ## -exceptions
-### System.UnauthorizedAccessException
+### T:System.UnauthorizedAccessException
 
 You don't have permission to access the contents of the current folder.
 
@@ -87,7 +87,7 @@ IAsyncAction MainPage::ExampleCoroutineAsync()
 }
 ```
 
-```cpp
+```cppcx
 // Get the app's installation folder
 StorageFolder^ appFolder = Windows::ApplicationModel::Package::Current->InstalledLocation;
 
@@ -95,45 +95,23 @@ StorageItemQueryResult^ results = appFolder->CreateItemQuery();
 
 // Get the items in the current folder; 
 create_task(results->GetItemsAsync()).then([=](IVectorView<IStorageItem^>^ itemsInFolder) {
-		
+        
  //Iterate over the results and print the list of items
-	// to the visual studio output window
-	for (auto it = itemsInFolder->First(); it->HasCurrent; it->MoveNext())
-	{
-		IStorageItem^ item = it->Current;
-		if (item->IsOfType(StorageItemTypes::File))
-		{
-			String^ output = "File: " + item->Name + "\n";
-			OutputDebugString(output->Begin());
-		}
-		else
-		{
-			String^ output = "Folder: " + item->Name + "\n";
-			OutputDebugString(output->Begin());
-		}		
-	}
-});
-```
-
-```javascript
-// Get the app's installation folder.
-var appFolder = Windows.ApplicationModel.Package.current.installedLocation;
-
-// Get the items in the current folder.
-var itemsInFolder = appFolder.createItemQuery();
-
-// Iterate over the results and print the list of items
-// to the Visual Studio Output window.
-var itemsPromise = itemsInFolder.getItemsAsync();
-itemsPromise.done(function getItemsSuccess(items) {
-    items.forEach(function forEachItem(item) {
-        var StorageItemTypes = Windows.Storage.StorageItemTypes;
-        if (item.isOfType(StorageItemTypes.folder)) {
-            console.log("Folder:", item.name);
-        } else {
-            console.log("File:", item.name, item.dateCreated);
+    // to the visual studio output window
+    for (auto it = itemsInFolder->First(); it->HasCurrent; it->MoveNext())
+    {
+        IStorageItem^ item = it->Current;
+        if (item->IsOfType(StorageItemTypes::File))
+        {
+            String^ output = "File: " + item->Name + "\n";
+            OutputDebugString(output->Begin());
         }
-    });
+        else
+        {
+            String^ output = "Folder: " + item->Name + "\n";
+            OutputDebugString(output->Begin());
+        }        
+    }
 });
 ```
 

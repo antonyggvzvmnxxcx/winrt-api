@@ -12,6 +12,8 @@ public Windows.Foundation.Numerics.Vector2 CenterPoint { get;  set; }
 ## -description
 The point about which the brush is rotated and scaled.
 
+
+
 ## -property-value
 The point about which the brush is rotated and scaled.
 

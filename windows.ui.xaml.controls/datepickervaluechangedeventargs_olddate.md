@@ -12,6 +12,8 @@ public Windows.Foundation.DateTime OldDate { get; }
 ## -description
 Gets the date previously selected in the picker.
 
+
+
 ## -property-value
 The date previously selected in the picker.
 

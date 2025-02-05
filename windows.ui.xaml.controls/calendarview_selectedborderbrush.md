@@ -12,18 +12,14 @@ public Windows.UI.Xaml.Media.Brush SelectedBorderBrush { get;  set; }
 ## -description
 Gets or sets a brush that provides the border of the currently selected calendar item.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarView SelectedBorderBrush="{StaticResource resourceName}"/>
-
-```
-
-```xaml
+- or -
 <CalendarView SelectedBorderBrush="colorString"/>
-
-```
-
-```xaml
+- or -
 <CalendarView>
   CalendarView.SelectedBorderBrush>singleBrush</CalendarView.SelectedBorderBrush>
 </CalendarView>

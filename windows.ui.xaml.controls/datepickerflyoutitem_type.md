@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Interop.TypeName Type { get; }
 ## -description
 Gets the type of the item.
 
+
+
 ## -property-value
 The type of the item, specified as a [TypeName](../windows.ui.xaml.interop/typename.md) wrapper.
 

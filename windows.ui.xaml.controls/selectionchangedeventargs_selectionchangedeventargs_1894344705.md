@@ -12,6 +12,7 @@ public SelectionChangedEventArgs(Windows.Foundation.Collections.IVector<System.O
 ## -description
 Initializes a new instance of the [SelectionChangedEventArgs](selectionchangedeventargs.md) class.
 
+
 ## -parameters
 ### -param removedItems
 Sets the initial [AddedItems](selectionchangedeventargs_addeditems.md) value. May be null.

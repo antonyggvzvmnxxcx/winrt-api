@@ -12,6 +12,8 @@ public enum Windows.UI.Xaml.Controls.CalendarViewDisplayMode : int
 ## -description
 Defines constants that specify which view of the calendar is shown.
 
+
+
 ## -enum-fields
 ### -field Month:0
 The month view is shown.

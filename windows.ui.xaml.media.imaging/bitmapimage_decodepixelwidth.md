@@ -12,6 +12,8 @@ public int DecodePixelWidth { get;  set; }
 ## -description
 Gets or sets the width to use for image decoding operations.
 
+
+
 ## -xaml-syntax
 ```xaml
 <BitmapImage DecodePixelWidth="int" />

@@ -12,6 +12,8 @@ public Windows.UI.Composition.Vector3KeyFrameAnimation CreateVector3KeyFrameAnim
 ## -description
 Creates an instance of [Vector3KeyFrameAnimation](vector3keyframeanimation.md).
 
+
+
 ## -returns
 Returns the created [Vector3KeyFrameAnimation](vector3keyframeanimation.md) object.
 

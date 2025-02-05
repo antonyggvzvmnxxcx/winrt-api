@@ -12,6 +12,7 @@ public GroupStyle()
 ## -description
 Initializes a new instance of the [GroupStyle](groupstyle.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -10,6 +10,8 @@ public delegate void TextControlPasteEventHandler(System.Object sender, Windows.
 ## -description
 Represents the method that will handle a **Paste** event.
 
+
+
 ## -parameters
 ### -param sender
 The object where the handler is attached.

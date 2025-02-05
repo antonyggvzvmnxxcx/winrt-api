@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty IsVolumeEnabledProperty { get; }
 ## -description
 Identifies the [IsVolumeEnabled](mediatransportcontrols_isvolumeenabled.md) dependency property.
 
+
 ## -property-value
 The identifier for the [IsVolumeEnabled](mediatransportcontrols_isvolumeenabled.md) dependency property.
 

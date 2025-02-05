@@ -12,6 +12,8 @@ public void Invalidate()
 ## -description
 Requests a draw or redraw of the entire bitmap.
 
+
+
 ## -remarks
 
 ## -examples

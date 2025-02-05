@@ -12,6 +12,8 @@ public uint Length { get; }
 ## -description
 Gets the number of items in the instance of the [ItemIndexRange](itemindexrange.md) class.
 
+
+
 ## -property-value
 The number of items in the instance of the [ItemIndexRange](itemindexrange.md) class.
 

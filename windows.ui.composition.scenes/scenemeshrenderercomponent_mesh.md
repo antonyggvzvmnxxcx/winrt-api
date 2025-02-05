@@ -14,6 +14,8 @@ public SceneMesh Mesh { get;  set; }
 
 Gets or sets the SceneMesh to be rendered.
 
+
+
 ## -property-value
 
 The SceneMesh to be rendered.

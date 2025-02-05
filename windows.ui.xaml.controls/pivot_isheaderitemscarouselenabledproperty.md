@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsHeaderItemsCarouselEnabledProperty {
 ## -description
 Identifies the [IsHeaderItemsCarouselEnabled](pivot_isheaderitemscarouselenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsHeaderItemsCarouselEnabled](pivot_isheaderitemscarouselenabled.md) dependency property.
 

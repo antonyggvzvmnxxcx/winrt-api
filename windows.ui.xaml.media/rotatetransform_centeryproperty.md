@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty CenterYProperty { get; }
 ## -description
 Identifies the [CenterY](rotatetransform_centery.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [CenterY](rotatetransform_centery.md) dependency property.
 

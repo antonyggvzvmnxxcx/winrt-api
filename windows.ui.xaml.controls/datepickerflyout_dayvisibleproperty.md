@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty DayVisibleProperty { get; }
 ## -description
 Gets the identifier for the [DayVisible](datepickerflyout_dayvisible.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [DayVisible](datepickerflyout_dayvisible.md) dependency property.
 

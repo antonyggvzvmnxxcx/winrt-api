@@ -12,6 +12,7 @@ public ContentControl()
 ## -description
 Initializes a new instance of the [ContentControl](contentcontrol.md) class.
 
+
 ## -remarks
 
 ## -examples

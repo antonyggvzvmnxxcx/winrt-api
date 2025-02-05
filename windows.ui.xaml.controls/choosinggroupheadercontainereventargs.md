@@ -12,6 +12,8 @@ public class ChoosingGroupHeaderContainerEventArgs : Windows.UI.Xaml.Controls.IC
 ## -description
 Provides event data for the [ListViewBase.ChoosingGroupHeaderContainer](listviewbase_choosinggroupheadercontainer.md) event.
 
+
+
 ## -remarks
 
 ## -examples

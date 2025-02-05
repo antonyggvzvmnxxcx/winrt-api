@@ -12,6 +12,8 @@ public double LocalOffsetZ { get;  set; }
 ## -description
 Gets or sets the distance that the object is translated along the z-axis of the plane of the object.
 
+
+
 ## -xaml-syntax
 ```xaml
 <PlaneProjection LocalOffsetZ="double"/>

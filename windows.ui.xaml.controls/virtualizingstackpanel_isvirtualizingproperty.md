@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsVirtualizingProperty { get; }
 ## -description
 Identifies the **VirtualizingStackPanel.IsVirtualizing** attached property.
 
+
+
 ## -property-value
 The identifier for the **VirtualizingStackPanel.IsVirtualizing** attached property.
 

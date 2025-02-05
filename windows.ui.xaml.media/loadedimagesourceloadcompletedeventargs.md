@@ -12,6 +12,8 @@ public class LoadedImageSourceLoadCompletedEventArgs
 ## -description
 Provides event data for the [LoadedImageSurface.LoadCompleted](loadedimagesurface_loadcompleted.md) event.
 
+
+
 ## -remarks
 
 ## -see-also

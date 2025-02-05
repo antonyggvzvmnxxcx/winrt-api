@@ -12,6 +12,8 @@ public bool IsIntermediate { get; }
 ## -description
 Gets a value that indicates whether the underlying manipulation that raised the event is complete.
 
+
+
 ## -property-value
 **True** if the manipulation is at an intermediate stage and not yet final; **false** if the manipulation is final.
 

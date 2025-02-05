@@ -12,6 +12,7 @@ public PathGeometry()
 ## -description
 Initializes a new instance of the [PathGeometry](pathgeometry.md) class.
 
+
 ## -remarks
 
 ## -examples

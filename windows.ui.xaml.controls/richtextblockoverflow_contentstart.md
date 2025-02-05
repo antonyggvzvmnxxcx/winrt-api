@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Documents.TextPointer ContentStart { get; }
 ## -description
 Gets a [TextPointer](../windows.ui.xaml.documents/textpointer.md) that indicates the start of content in the [RichTextBlockOverflow](richtextblockoverflow.md).
 
+
+
 ## -property-value
 A [TextPointer](../windows.ui.xaml.documents/textpointer.md) that indicates the start of content in the [RichTextBlockOverflow](richtextblockoverflow.md).
 

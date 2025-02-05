@@ -14,6 +14,8 @@ public SceneSurfaceMaterialInput SceneSurfaceMaterialInput.Create(Compositor com
 
 Creates an instance of SceneSurfaceMaterialInput.
 
+
+
 ## -parameters
 ### -param compositor
 

@@ -12,6 +12,7 @@ public DataTemplateKey()
 ## -description
 Initializes a new instance of the [DataTemplateKey](datatemplatekey.md) class.
 
+
 ## -remarks
 
 ## -examples

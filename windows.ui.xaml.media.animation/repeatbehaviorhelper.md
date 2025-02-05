@@ -12,6 +12,8 @@ public class RepeatBehaviorHelper : Windows.UI.Xaml.Media.Animation.IRepeatBehav
 ## -description
 Provides basic utility methods for processing [RepeatBehavior](repeatbehavior.md) values. C# and Microsoft Visual Basic code should use members of [RepeatBehavior](repeatbehavior.md) instead.
 
+
+
 ## -remarks
 
 ## -examples

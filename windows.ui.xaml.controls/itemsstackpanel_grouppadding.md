@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Thickness GroupPadding { get;  set; }
 ## -description
 Gets or sets the amount of space around a group.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ItemsStackPanel GroupPadding="uniform"/>

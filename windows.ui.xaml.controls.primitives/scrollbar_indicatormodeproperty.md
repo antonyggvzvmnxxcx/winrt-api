@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IndicatorModeProperty { get; }
 ## -description
 Identifies the [IndicatorMode](scrollbar_indicatormode.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IndicatorMode](scrollbar_indicatormode.md) dependency property.
 

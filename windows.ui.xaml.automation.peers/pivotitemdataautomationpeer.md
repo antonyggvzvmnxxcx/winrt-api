@@ -12,6 +12,8 @@ public class PivotItemDataAutomationPeer : Windows.UI.Xaml.Automation.Peers.Item
 ## -description
 Exposes the data content of a [PivotItem](../windows.ui.xaml.controls/pivotitem.md) to Microsoft UI Automation.
 
+
+
 ## -remarks
 
 ## -examples

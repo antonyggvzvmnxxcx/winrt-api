@@ -12,6 +12,8 @@ public string GetAcceleratorKey()
 ## -description
 Gets the accelerator key combinations for the object that is associated with the UI Automation peer.
 
+
+
 ## -returns
 The accelerator key.
 

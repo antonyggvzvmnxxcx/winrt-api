@@ -12,6 +12,8 @@ public Windows.Foundation.Point GetClickablePoint()
 ## -description
 Gets a point on the element that is associated with the automation peer that responds to a mouse click.
 
+
+
 ## -returns
 A point in the clickable area of the element.
 

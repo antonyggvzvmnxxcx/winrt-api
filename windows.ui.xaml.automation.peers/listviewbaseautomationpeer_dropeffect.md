@@ -12,6 +12,8 @@ public string DropEffect { get; }
 ## -description
 Gets a string that indicates what will happen when the item is dropped.
 
+
+
 ## -property-value
 A string that indicates what will happen when the item is dropped.
 

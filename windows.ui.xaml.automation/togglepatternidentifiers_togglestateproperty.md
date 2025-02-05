@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty ToggleStateProperty { get; 
 ## -description
 Identifies the [ToggleState](togglestate.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

@@ -12,6 +12,8 @@ public int StoryLength { get; }
 ## -description
 Gets the count of characters in the story of the text range.
 
+
+
 ## -property-value
 The count of characters in the story.
 

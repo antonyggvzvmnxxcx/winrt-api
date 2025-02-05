@@ -13,6 +13,8 @@ public class CompositionLinearGradientBrush : CompositionGradientBrush, Composit
 
 Represents a brush that paints an area with a linear gradient.
 
+
+
 ## -remarks
 
 ## -see-also

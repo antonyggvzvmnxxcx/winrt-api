@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty DisabledOpacityProperty { get; }
 ## -description
 Identifies the [DisabledOpacity](listviewitempresenter_disabledopacity.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [DisabledOpacity](listviewitempresenter_disabledopacity.md) dependency property.
 

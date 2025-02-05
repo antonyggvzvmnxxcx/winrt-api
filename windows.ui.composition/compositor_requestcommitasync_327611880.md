@@ -13,6 +13,8 @@ public IAsyncAction Compositor.RequestCommitAsync()
 
 Attempts to initiate a commit cycle ansynchronously.
 
+
+
 ## -returns
 
 An ansynchronous action.

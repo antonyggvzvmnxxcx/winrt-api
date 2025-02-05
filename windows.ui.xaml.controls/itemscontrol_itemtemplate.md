@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DataTemplate ItemTemplate { get;  set; }
 ## -description
 Gets or sets the [DataTemplate](../windows.ui.xaml/datatemplate.md) used to display each item.
 
+
+
 ## -xaml-syntax
 ```xaml
 <itemsControl>
@@ -19,9 +21,7 @@ Gets or sets the [DataTemplate](../windows.ui.xaml/datatemplate.md) used to disp
     singleDataTemplate
   </itemsControl.ItemTemplate>
 </itemsControl>
-```
-
-```xaml
+- or -
 <itemsControl ItemTemplate="resourceReferenceToDataTemplate"/>
 ```
 

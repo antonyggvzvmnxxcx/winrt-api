@@ -12,6 +12,8 @@ public void GetBoundingRectangles(System.Double[] returnValue)
 ## -description
 Retrieves a collection of bounding rectangles for each fully or partially visible line of text in a text range.
 
+
+
 ## -parameters
 ### -param returnValue
 An array of bounding rectangles for each full or partial line of text in a text range. An empty array for a degenerate range. An empty array for a text range that has screen coordinates placing it completely off-screen, scrolled out of view, or obscured by an overlapping window. 

@@ -12,6 +12,7 @@ public ColumnDefinition()
 ## -description
 Initializes a new instance of the [ColumnDefinition](columndefinition.md) class.
 
+
 ## -remarks
 
 ## -examples

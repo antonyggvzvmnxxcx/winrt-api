@@ -12,6 +12,7 @@ public bool IsAudioOnly { get; }
 ## -description
 Gets a value that reports whether the current source media is an audio-only media file.
 
+
 ## -property-value
 **true** if the current source media is audio-only, otherwise, **false**.
 

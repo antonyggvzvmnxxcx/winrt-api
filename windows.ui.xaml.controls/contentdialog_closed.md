@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler Closed<Windows.UI.Xaml.Control
 ## -description
 Occurs after the dialog is closed.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentDialog Closed="eventhandler"/>

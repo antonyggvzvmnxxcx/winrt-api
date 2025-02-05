@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler PivotItemLoading<Windows.UI.Xa
 ## -description
 Event for offering an opportunity to dynamically load or change the content of a pivot item before it is displayed.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Pivot PivotItemLoading="eventhandler" />

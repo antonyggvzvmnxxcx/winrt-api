@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ManipulationModeProperty { get; }
 ## -description
 Identifies the [ManipulationMode](uielement_manipulationmode.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ManipulationMode](uielement_manipulationmode.md) dependency property.
 

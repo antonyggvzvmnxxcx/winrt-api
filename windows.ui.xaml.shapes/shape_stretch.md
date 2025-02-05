@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Stretch Stretch { get;  set; }
 ## -description
 Gets or sets a [Stretch](../windows.ui.xaml.media/stretch.md) enumeration value that describes how the shape fills its allocated space.
 
+
+
 ## -xaml-syntax
 ```xaml
 <object Stretch="stretchvalueName"/>

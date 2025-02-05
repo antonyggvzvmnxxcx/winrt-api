@@ -8,6 +8,8 @@
 ## -description
 Defines provider patterns that are implemented by automation peers and recognized by automation clients.
 
+
+
 ## -remarks
 
 ## -examples

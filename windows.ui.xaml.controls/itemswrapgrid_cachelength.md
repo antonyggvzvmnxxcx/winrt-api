@@ -12,6 +12,8 @@ public double CacheLength { get;  set; }
 ## -description
 Gets or sets the size of the buffers for items outside the viewport, in multiples of the viewport size.
 
+
+
 ## -xaml-syntax
 ```xaml
 ItemsWrapGrid CacheLength="double" />

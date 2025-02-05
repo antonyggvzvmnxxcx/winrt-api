@@ -12,6 +12,7 @@ public ControlTemplate()
 ## -description
 Initializes a new instance of the [ControlTemplate](controltemplate.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public void ProcessBindings(System.Object item, System.Int32 itemIndex, System.I
 ## -description
 Updates the compiled data bindings.
 
+
+
 ## -parameters
 ### -param item
 The data item.

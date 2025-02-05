@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty DateProperty { get; }
 ## -description
 Gets the identifier for the [Date](datepickerflyout_date.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Date](datepickerflyout_date.md) dependency property.
 

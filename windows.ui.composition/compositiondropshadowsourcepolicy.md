@@ -12,6 +12,8 @@ public enum CompositionDropShadowSourcePolicy : int
 ## -description
 Specifies the masking policy for a shadow.
 
+
+
 ## -enum-fields
 ### -field InheritFromVisualContent:1
 Shadow uses a mask using the alpha value of the visual's brush.

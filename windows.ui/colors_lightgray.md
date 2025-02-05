@@ -13,6 +13,8 @@ public Windows.UI.Color LightGray { get; }
 
 Gets the system-defined color that has the ARGB value of #FFD3D3D3.
 
+
+
 ## -property-value
 
 The system-defined color that has the ARGB value of #FFD3D3D3.

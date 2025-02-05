@@ -12,6 +12,7 @@ public PivotHeaderItem()
 ## -description
 Initializes a new instance of the [PivotHeaderItem](pivotheaderitem.md) control.
 
+
 ## -remarks
 
 ## -examples

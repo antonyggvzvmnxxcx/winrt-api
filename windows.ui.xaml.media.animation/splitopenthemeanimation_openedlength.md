@@ -12,6 +12,8 @@ public double OpenedLength { get;  set; }
 ## -description
 Gets or sets the final size of the target UI element.
 
+
+
 ## -xaml-syntax
 ```xaml
 <SplitOpenThemeAnimation OpenedLength="double" />

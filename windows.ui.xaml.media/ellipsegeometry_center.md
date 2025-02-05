@@ -12,6 +12,8 @@ public Windows.Foundation.Point Center { get;  set; }
 ## -description
 Gets or sets the center point of the [EllipseGeometry](ellipsegeometry.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <EllipseGeometry Center="x,y"/>

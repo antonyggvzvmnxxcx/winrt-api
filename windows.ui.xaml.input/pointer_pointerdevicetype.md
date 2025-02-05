@@ -12,6 +12,8 @@ public Windows.Devices.Input.PointerDeviceType PointerDeviceType { get; }
 ## -description
 Gets the [PointerDeviceType](../windows.devices.input/pointerdevicetype.md) for the pointer device.
 
+
+
 ## -property-value
 The [PointerDeviceType](../windows.devices.input/pointerdevicetype.md) for this pointer reference.
 

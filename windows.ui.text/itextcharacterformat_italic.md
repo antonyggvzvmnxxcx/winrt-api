@@ -12,6 +12,8 @@ public Windows.UI.Text.FormatEffect Italic { get;  set; }
 ## -description
 Gets or sets whether characters are in italics.
 
+
+
 ## -property-value
 The italicized state.
 

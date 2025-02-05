@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.Orientation Orientation { get;  set; }
 ## -description
 Gets or sets the dimension by which child elements are stacked.
 
+
+
 ## -xaml-syntax
 ```xaml
 ItemsStackPanel Orientation="orientationMemberName" />

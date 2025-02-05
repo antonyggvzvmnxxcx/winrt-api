@@ -12,6 +12,8 @@ public int KeyFrameCount { get; }
 ## -description
 The number of key frames in the [KeyFrameAnimation](keyframeanimation.md).
 
+
+
 ## -property-value
 The number of key frames in the [KeyFrameAnimation](keyframeanimation.md).
 

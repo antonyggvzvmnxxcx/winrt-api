@@ -10,31 +10,39 @@ public Windows.Foundation.IAsyncOperation<Windows.Storage.StorageFolder> GetFold
 # Windows.Storage.StorageFolder.GetFolderFromPathAsync
 
 ## -description
+
 Gets the folder that has the specified absolute path in the file system.
 
 ## -parameters
+
 ### -param path
+
 The absolute path in the file system (not the Uri) of the folder to get.
 
+If your path uses slashes, make sure you use backslashes (\\). Forward slashes (/) are not accepted by this method.
+
 ## -returns
+
 When this method completes successfully, it returns a [StorageFolder](storagefolder.md) that represents the specified folder.
 
 ## -exceptions
-### System.IO.FileNotFoundException
+
+### T:System.IO.FileNotFoundException
 
 The specified folder does not exist. Check the value of *path*.
 
-### System.UnauthorizedAccessException
+### T:System.UnauthorizedAccessException
 
-You don't have permission to access the specified folder. For more information, see [File access permissions](https://docs.microsoft.com/windows/uwp/files/file-access-permissions).
+You don't have permission to access the specified folder. For more information, see [File access permissions](/windows/uwp/files/file-access-permissions).
 
-### System.ArgumentException
+### T:System.ArgumentException
 
 The path cannot be a relative path or a Uri. Check the value of *path*.
 
 ## -remarks
 
 ## -examples
+
 The following example shows how to get the folder that has the specified absolute path in the file system by calling the GetFolderFromPathAsync method.
 
 ```csharp
@@ -53,7 +61,7 @@ StorageFolder folder = await StorageFolder.GetFolderFromPathAsync(path);
 IAsyncAction MainPage::ExampleCoroutineAsync()
 {
     // Get the path to the app's Assets folder.
-	std::wstring path{ Windows::ApplicationModel::Package::Current().InstalledLocation().Path() + L"\\Assets" };
+    std::wstring path{ Windows::ApplicationModel::Package::Current().InstalledLocation().Path() + L"\\Assets" };
 
     // Get the folder object that corresponds to this absolute path in the file system.
     Windows::Storage::StorageFolder folder{ co_await Windows::Storage::StorageFolder::GetFolderFromPathAsync(path) };
@@ -61,7 +69,7 @@ IAsyncAction MainPage::ExampleCoroutineAsync()
 }
 ```
 
-```cpp
+```cppcx
 // Get the path to the app's installation folder.
 String^ root = Windows::ApplicationModel::Package::Current->InstalledLocation->Path;
 
@@ -73,18 +81,6 @@ create_task(StorageFolder::GetFolderFromPathAsync(root)).then([=](StorageFolder^
 });
 ```
 
-```javascript
-// Get the path to the app's Assets folder.
-var root = Windows.ApplicationModel.Package.current.installedLocation.path;
-var path = root + "\\Assets";
-
-// Get the folder object that corresponds to
-// this absolute path in the file system.
-var StorageFolder = Windows.Storage.StorageFolder;
-var folderPromise = StorageFolder.getFolderFromPathAsync(path);
-folderPromise.done(function getFolderSuccess(folder) {
-});
-```
-
 ## -see-also
-[File access permissions](https://docs.microsoft.com/windows/uwp/files/file-access-permissions)
+
+[File access permissions](/windows/uwp/files/file-access-permissions)

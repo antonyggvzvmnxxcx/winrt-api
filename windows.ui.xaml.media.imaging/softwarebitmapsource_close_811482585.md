@@ -12,8 +12,10 @@ public void Close()
 ## -description
 Disposes of the object and associated resources.
 
+
+
 ## -remarks
-For Microsoft Visual Basic and C#, use the [Dispose](softwarebitmapsource_dispose.md) method.
+For Microsoft Visual Basic and C#, use the [Dispose](/uwp/api/windows.ui.xaml.media.imaging.softwarebitmapsource.dispose) method.
 
 ## -examples
 

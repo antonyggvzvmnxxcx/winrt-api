@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Provider.IRawElementProviderSimple SelectionCo
 ## -description
 Gets the UI Automation provider that implements [ISelectionProvider](iselectionprovider.md) and acts as the container for the calling object.
 
+
+
 ## -property-value
 The UI Automation provider.
 

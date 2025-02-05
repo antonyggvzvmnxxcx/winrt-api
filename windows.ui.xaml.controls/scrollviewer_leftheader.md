@@ -12,6 +12,8 @@ public Windows.UI.Xaml.UIElement LeftHeader { get;  set; }
 ## -description
 Gets or sets the content of the left header.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ScrollViewer>

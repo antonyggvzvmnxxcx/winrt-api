@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty PointProperty { get; }
 ## -description
 Identifies the [Point](arcsegment_point.md) dependency property.
 
+
+
 ## -property-value
 The [Point](arcsegment_point.md) dependency property identifier.
 

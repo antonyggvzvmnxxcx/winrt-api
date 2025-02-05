@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty OpenedLengthProperty { get; }
 ## -description
 Identifies the [OpenedLength](splitopenthemeanimation_openedlength.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [OpenedLength](splitopenthemeanimation_openedlength.md) dependency property.
 

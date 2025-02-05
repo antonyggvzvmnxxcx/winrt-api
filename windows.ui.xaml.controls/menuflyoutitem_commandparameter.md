@@ -12,6 +12,8 @@ public object CommandParameter { get;  set; }
 ## -description
 Gets or sets the parameter to pass to the [Command](menuflyoutitem_command.md) property.
 
+
+
 ## -xaml-syntax
 ```xaml
 <MenuFlyoutItem>

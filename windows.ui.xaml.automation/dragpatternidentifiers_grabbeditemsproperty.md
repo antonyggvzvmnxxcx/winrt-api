@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty GrabbedItemsProperty { get;
 ## -description
 Gets the identifier for the [GrabbedItems](../windows.ui.xaml.automation.provider/idragprovider_getgrabbeditems_46670767.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

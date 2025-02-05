@@ -12,6 +12,8 @@ public double VerticalOffset { get;  set; }
 ## -description
 Gets or sets the distance by which the target is translated in the vertical direction when the transition is active.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentThemeTransition VerticalOffset="double" />

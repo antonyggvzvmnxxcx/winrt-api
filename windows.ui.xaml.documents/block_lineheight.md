@@ -12,6 +12,8 @@ public double LineHeight { get;  set; }
 ## -description
 Gets or sets the height of each line of content.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Paragraph LineHeight="double"/>

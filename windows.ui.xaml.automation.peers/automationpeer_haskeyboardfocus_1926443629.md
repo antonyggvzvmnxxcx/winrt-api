@@ -12,6 +12,7 @@ public bool HasKeyboardFocus()
 ## -description
 Gets a value that indicates whether the element that is associated with this automation peer currently has keyboard focus.
 
+
 ## -returns
 **true** if the element has keyboard focus; otherwise, **false**.
 

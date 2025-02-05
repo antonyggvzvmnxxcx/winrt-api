@@ -12,6 +12,8 @@ public void Close()
 ## -description
 Closes the application window.
 
+
+
 ## -remarks
 UWP app typically use a single [Window](window.md) instance, and do not open and close additional [Window](window.md) instances. Additionally, you will not typically provide custom UI to enable users to close the app window.
 

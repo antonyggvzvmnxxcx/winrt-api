@@ -12,6 +12,8 @@ public int SelectionLength { get;  set; }
 ## -description
 Gets or sets the number of characters in the current selection in the text box.
 
+
+
 ## -xaml-syntax
 ```xaml
 <TextBox SelectionLength="int"/>

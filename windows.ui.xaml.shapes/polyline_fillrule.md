@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.FillRule FillRule { get;  set; }
 ## -description
 Gets or sets a value that specifies how the interior fill of the shape is determined.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Polyline FillRule="Nonzero"/>

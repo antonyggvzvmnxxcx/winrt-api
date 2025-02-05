@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty VerticalAlignmentProperty { get; }
 ## -description
 Identifies the [VerticalAlignment](frameworkelement_verticalalignment.md)  dependency property.
 
+
+
 ## -property-value
 The [VerticalAlignment](frameworkelement_verticalalignment.md)  dependency property identifier.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty MaxLinesProperty { get; }
 ## -description
 Identifies the [MaxLines](textblock_maxlines.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [MaxLines](textblock_maxlines.md) dependency property.
 

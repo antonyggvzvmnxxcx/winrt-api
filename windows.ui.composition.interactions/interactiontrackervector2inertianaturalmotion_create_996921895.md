@@ -13,6 +13,8 @@ public InteractionTrackerVector2InertiaNaturalMotion InteractionTrackerVector2In
 
 Creates an instance of [InteractionTrackerVector2InertiaNaturalMotion](interactiontrackervector2inertianaturalmotion.md).
 
+
+
 ## -parameters
 ### -param compositor
 

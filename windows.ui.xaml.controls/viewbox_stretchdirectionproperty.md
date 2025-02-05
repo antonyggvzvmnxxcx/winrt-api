@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty StretchDirectionProperty { get; }
 ## -description
 Identifies the [StretchDirection](viewbox_stretchdirection.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [StretchDirection](viewbox_stretchdirection.md) dependency property.
 

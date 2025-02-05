@@ -12,6 +12,7 @@ public SceneLightingEffect()
 ## -description
 Creates an instance of [SceneLightingEffect](scenelightingeffect.md).
 
+
 ## -remarks
 
 ## -examples

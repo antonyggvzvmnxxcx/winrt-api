@@ -12,6 +12,8 @@ public Size DecodedSize { get; }
 ## -description
 Gets the size of the decoded image in device independent pixels.
 
+
+
 ## -property-value
 The size of the decoded image in device independent pixels.
 

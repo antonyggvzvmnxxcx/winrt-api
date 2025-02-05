@@ -13,6 +13,8 @@ public float MaxPlaybackRate { get; }
 
 Gets the maximum allowed playback rate.
 
+
+
 ## -property-value
 
 The maximum allowed playback rate.

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty HorizontalScrollBarVisibilityProperty 
 ## -description
 Identifies the [HorizontalScrollBarVisibility](scrollviewer_horizontalscrollbarvisibility.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [HorizontalScrollBarVisibility](scrollviewer_horizontalscrollbarvisibility.md)  dependency property.
 

@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IObservableVector<object> SectionHeaders {
 ## -description
 Gets a collection of the headers of the hub sections.
 
+
+
 ## -property-value
 The headers of the hub sections. The default is an empty collection.
 

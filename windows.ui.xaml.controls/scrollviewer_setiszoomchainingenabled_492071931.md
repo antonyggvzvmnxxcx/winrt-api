@@ -12,6 +12,8 @@ public void SetIsZoomChainingEnabled(Windows.UI.Xaml.DependencyObject element, S
 ## -description
 Sets the value of the [IsZoomChainingEnabled](scrollviewer_iszoomchainingenabled.md) dependency property / `ScrollViewer.IsZoomChainingEnabled` XAML attached property on a specified element.
 
+
+
 ## -parameters
 ### -param element
 The element on which to set the property value.

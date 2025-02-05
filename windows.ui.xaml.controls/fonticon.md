@@ -13,6 +13,7 @@ public class FontIcon : Windows.UI.Xaml.Controls.IconElement, Windows.UI.Xaml.Co
 
 Represents an icon that uses a glyph from the specified font.
 
+
 ## -xaml-syntax
 
 ```xaml
@@ -31,22 +32,42 @@ You can set the [MirroredWhenRightToLeft](fonticon_mirroredwhenrighttoleft.md) p
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Command bar](/windows/uwp/controls-and-patterns/app-bars).
->
-> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the FontIcon in action](xamlcontrolsgallery:/item/AppBarButton).
-> + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
-> + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+> For more info, design guidance, and code examples, see [Command bar](/windows/apps/design/controls/command-bar).
+
+> [!div class="nextstepaction"]
+> [Open the WinUI 2 Gallery app and see the FontIcon in action](winui2gallery:/item/AppBarButton)
+
+> The **WinUI 2 Gallery** app includes interactive examples of most WinUI 2 controls, features, and functionality. Get the app from the [Microsoft Store](https://www.microsoft.com/store/productId/9MSVH128X2ZT) or get the source code on [GitHub](https://github.com/Microsoft/WinUI-Gallery/tree/winui2).
 
 This example shows an [AppBarToggleButton](appbartogglebutton.md) with a FontIcon.
 
 ```xaml
 <AppBarToggleButton Label="FontIcon" Click="AppBarButton_Click">
     <AppBarToggleButton.Icon>
-        <FontIcon FontFamily="Candara" Glyph="&#x03A3;"/>
+        <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE790;"/>
     </AppBarToggleButton.Icon>
 </AppBarToggleButton>
 ```
 
+```csharp
+var newAppBarButton = new AppBarButton();
+var fontIcon = new FontIcon();
+fontIcon.FontFamily = new FontFamily("Segoe MDL2 Assets");
+fontIcon.Glyph = "\xE790";
+newAppBarButton.Icon = fontIcon;
+```
+
+```cppwinrt
+using namespace winrt::Windows::UI::Xaml;
+...
+
+auto newAppBarButton = Controls::AppBarButton{};
+auto fontIcon = Controls::FontIcon{};
+fontIcon.FontFamily(Media::FontFamily{ L"Segoe MDL2 Assets" });
+fontIcon.Glyph(L"\xE790");
+newAppBarButton.Icon(fontIcon);
+```
+
 
 ## -see-also
-[IconElement](iconelement.md), [AppBarButton](appbarbutton.md), [Icons for UWP apps](https://docs.microsoft.com/windows/uwp/style/icons)
+[IconElement](iconelement.md), [AppBarButton](appbarbutton.md), [Icons for UWP apps](/windows/uwp/style/icons)

@@ -12,12 +12,12 @@ public Windows.UI.Xaml.DataTemplate FooterTemplate { get;  set; }
 ## -description
 Gets or sets the [DataTemplate](../windows.ui.xaml/datatemplate.md) used to display the content of the view footer.
 
+
+
 ## -xaml-syntax
 ```xaml
 <listViewBase FooterTemplate="resourceReferenceToDataTemplate"/>
-```
-
-```xaml
+- or -
 <listViewBase>
   <listViewBase.FooterTemplate>
      <DataTemplate>

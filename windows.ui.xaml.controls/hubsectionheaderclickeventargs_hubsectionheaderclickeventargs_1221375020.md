@@ -12,6 +12,7 @@ public HubSectionHeaderClickEventArgs()
 ## -description
 Initializes a new instance of the [HubSectionHeaderClickEventArgs](hubsectionheaderclickeventargs.md) class.
 
+
 ## -remarks
 
 ## -examples

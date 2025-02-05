@@ -12,6 +12,7 @@ public ItemsPanelTemplate()
 ## -description
 Initializes a new instance of the [ItemsPanelTemplate](itemspaneltemplate.md) class.
 
+
 ## -remarks
 
 ## -examples

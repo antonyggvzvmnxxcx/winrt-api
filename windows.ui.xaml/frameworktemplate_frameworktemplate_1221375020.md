@@ -12,6 +12,7 @@ protected FrameworkTemplate()
 ## -description
 Provides base class initialization behavior for [FrameworkTemplate](frameworktemplate.md)-derived classes.
 
+
 ## -remarks
 
 ## -examples

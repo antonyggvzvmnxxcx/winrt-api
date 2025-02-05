@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TextProperty { get; }
 ## -description
 Identifies the [Text](menuflyoutsubitem_text.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Text](menuflyoutsubitem_text.md) dependency property.
 

@@ -12,6 +12,8 @@ public double StepFrequency { get;  set; }
 ## -description
 Gets or sets the value part of a value range that steps should be created for.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Slider StepFrequency="double" />

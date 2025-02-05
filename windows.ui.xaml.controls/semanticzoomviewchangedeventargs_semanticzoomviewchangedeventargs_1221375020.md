@@ -12,6 +12,7 @@ public SemanticZoomViewChangedEventArgs()
 ## -description
 Initializes a new instance of the [SemanticZoomViewChangedEventArgs](semanticzoomviewchangedeventargs.md) class.
 
+
 ## -remarks
 
 ## -examples

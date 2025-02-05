@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.Controls.TextControlPasteEventHandler Paste
 ## -description
 Occurs when text is pasted into the control.
 
+
+
 ## -xaml-syntax
 ```xaml
 <TextBox Paste="eventhandler"/>

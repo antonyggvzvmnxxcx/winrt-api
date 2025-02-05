@@ -14,6 +14,8 @@ public SceneNode Root { get;  set; }
 
 Gets or sets the root node for scene.
 
+
+
 ## -property-value
 
 The root node for scene.

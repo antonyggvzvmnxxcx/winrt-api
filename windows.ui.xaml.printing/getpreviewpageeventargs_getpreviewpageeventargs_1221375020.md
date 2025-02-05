@@ -12,6 +12,7 @@ public GetPreviewPageEventArgs()
 ## -description
 Initializes a new instance of the [GetPreviewPageEventArgs](getpreviewpageeventargs.md) class.
 
+
 ## -remarks
 
 ## -examples

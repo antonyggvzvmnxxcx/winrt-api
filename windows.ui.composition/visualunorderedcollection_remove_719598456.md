@@ -12,6 +12,8 @@ public void Remove(Windows.UI.Composition.Visual visual)
 ## -description
 Removes a visual from the collection.
 
+
+
 ## -parameters
 ### -param visual
 Removes a visual from the collection.

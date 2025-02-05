@@ -12,6 +12,8 @@ public string GetNavigationState()
 ## -description
 Serializes the [Frame](frame.md) navigation history into a string.
 
+
+
 ## -returns
 The string-form serialized navigation history. See Remarks.
 

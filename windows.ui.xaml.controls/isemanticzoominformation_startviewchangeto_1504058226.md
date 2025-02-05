@@ -12,6 +12,8 @@ public void StartViewChangeTo(Windows.UI.Xaml.Controls.SemanticZoomLocation sour
 ## -description
 Initializes item-wise operations related to a view change when the source view is a different view and the pending destination view is the implementing view.
 
+
+
 ## -parameters
 ### -param source
 The view item as represented in the source view.

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TypeProperty { get; }
 ## -description
 Gets the identifier of the  property.
 
+
+
 ## -property-value
 The identifier of the  property.
 

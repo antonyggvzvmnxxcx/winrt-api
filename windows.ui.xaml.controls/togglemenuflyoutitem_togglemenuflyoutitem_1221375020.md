@@ -12,6 +12,7 @@ public ToggleMenuFlyoutItem()
 ## -description
 Initializes a new instance of the [ToggleMenuFlyoutItem](togglemenuflyoutitem.md) class.
 
+
 ## -remarks
 
 ## -examples

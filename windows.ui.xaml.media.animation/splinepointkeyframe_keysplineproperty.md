@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty KeySplineProperty { get; }
 ## -description
 Identifies the [KeySpline](splinepointkeyframe_keyspline.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [KeySpline](splinepointkeyframe_keyspline.md) dependency property.
 

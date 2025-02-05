@@ -12,6 +12,8 @@ public double DayItemFontSize { get;  set; }
 ## -description
 Gets or sets the font size used to display day values in the calendar.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarView DayItemFontSize="double"/>

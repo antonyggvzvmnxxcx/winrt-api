@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty AutoPlayProperty { get; }
 ## -description
 Identifies the [AutoPlay](mediaplayerelement_autoplay.md) dependency property.
 
+
 ## -property-value
 The identifier for the [AutoPlay](mediaplayerelement_autoplay.md) dependency property.
 

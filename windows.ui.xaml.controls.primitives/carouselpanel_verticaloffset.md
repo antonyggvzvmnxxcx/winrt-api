@@ -12,6 +12,8 @@ public double VerticalOffset { get; }
 ## -description
 Gets the vertical offset of the scrolled content.
 
+
+
 ## -property-value
 A value in pixels.
 

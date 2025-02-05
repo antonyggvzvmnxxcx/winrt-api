@@ -9,10 +9,11 @@ public XamlLight.XamlLight()
 
 # Windows.UI.Xaml.Media.XamlLight.XamlLight
 
+
 ## -description
+
 Initializes a new instance of the **XamlLight** class.
 
-## -params
 
 ## -remarks
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty PasswordProperty { get; }
 ## -description
 Identifies the [Password](passwordbox_password.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Password](passwordbox_password.md) dependency property.
 

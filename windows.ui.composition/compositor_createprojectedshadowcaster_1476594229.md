@@ -14,6 +14,8 @@ public CompositionProjectedShadowCaster Compositor.CreateProjectedShadowCaster()
 
 Creates an instance of [CompositionProjectedShadowCaster](compositionprojectedshadowcaster.md).
 
+
+
 ## -returns
 
 Returns the created [CompositionProjectedShadowCaster](compositionprojectedshadowcaster.md) object.

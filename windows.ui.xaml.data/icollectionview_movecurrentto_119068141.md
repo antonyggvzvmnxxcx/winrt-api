@@ -12,6 +12,8 @@ public bool MoveCurrentTo(System.Object item)
 ## -description
 Sets the specified item to be the [CurrentItem](icollectionview_currentitem.md) in the view.
 
+
+
 ## -parameters
 ### -param item
 The item to set as the [CurrentItem](icollectionview_currentitem.md).

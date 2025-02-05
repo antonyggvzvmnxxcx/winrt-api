@@ -12,6 +12,8 @@ public string PasswordChar { get;  set; }
 ## -description
 Gets or sets the masking character for the [PasswordBox](passwordbox.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <PasswordBox PasswordChar="char"/>

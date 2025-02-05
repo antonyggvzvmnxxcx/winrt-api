@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IVector<Windows.UI.Xaml.Automation.Peers.A
 ## -description
 Gets the collection of child elements that are represented in the UI Automation tree as immediate child elements of the automation peer.
 
+
+
 ## -returns
 The collection of [AutomationPeer](automationpeer.md) objects for child elements.
 

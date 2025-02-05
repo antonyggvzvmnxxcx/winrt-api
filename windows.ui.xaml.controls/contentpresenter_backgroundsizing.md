@@ -14,6 +14,8 @@ public BackgroundSizing BackgroundSizing { get;  set; }
 
 Gets or sets a value that indicates how far the background extends in relation to this element's border.
 
+
+
 ## -property-value
 
 A value of the enumeration that indicates how far the background extends. The default is **InnerBorderEdge**.

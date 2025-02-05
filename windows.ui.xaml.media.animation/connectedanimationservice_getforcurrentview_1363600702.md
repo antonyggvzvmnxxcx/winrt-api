@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Animation.ConnectedAnimationService GetForCurrentVi
 ## -description
 Returns an instance of [ConnectedAnimationService](connectedanimationservice.md) for the current view.
 
+
+
 ## -returns
 An instance of [ConnectedAnimationService](connectedanimationservice.md) for the current view.
 

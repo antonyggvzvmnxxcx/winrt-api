@@ -12,6 +12,7 @@ public FontIcon()
 ## -description
 Initializes a new instance of the [FontIcon](fonticon.md) class.
 
+
 ## -remarks
 
 ## -examples

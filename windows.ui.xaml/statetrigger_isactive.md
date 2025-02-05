@@ -12,6 +12,8 @@ public bool IsActive { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the trigger should be applied.
 
+
+
 ## -xaml-syntax
 ```xaml
 <StateTrigger IsActive="bool"/>

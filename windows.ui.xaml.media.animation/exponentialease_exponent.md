@@ -12,6 +12,8 @@ public double Exponent { get;  set; }
 ## -description
 Gets or sets the exponent used to determine the interpolation of the animation.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ExponentialEase Exponent="double" .../>

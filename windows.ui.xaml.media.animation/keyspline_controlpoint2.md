@@ -12,6 +12,8 @@ public Windows.Foundation.Point ControlPoint2 { get;  set; }
 ## -description
 Gets or sets the second control point used to define a Bezier curve that describes a [KeySpline](keyspline.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <KeySpline ControlPoint2="x,y"/>

@@ -12,6 +12,7 @@ public DiscreteColorKeyFrame()
 ## -description
 Initializes a new instance of the [DiscreteColorKeyFrame](discretecolorkeyframe.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -14,6 +14,8 @@ public event TypedEventHandler Changed<XamlRoot, XamlRootChangedEventArgs>
 
 Occurs when a property of XamlRoot has changed.
 
+
+
 ## -remarks
 
 ## -see-also

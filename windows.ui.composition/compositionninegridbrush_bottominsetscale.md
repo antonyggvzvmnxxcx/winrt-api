@@ -12,6 +12,8 @@ public float BottomInsetScale { get;  set; }
 ## -description
 Scale to be applied to BottomInset. Defaults to 1.0f.
 
+
+
 ## -property-value
 Scale to be applied to BottomInset. Defaults to 1.0f.
 

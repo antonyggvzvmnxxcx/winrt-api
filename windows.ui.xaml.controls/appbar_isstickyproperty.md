@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsStickyProperty { get; }
 ## -description
 Identifies the [IsSticky](appbar_issticky.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsSticky](appbar_issticky.md) dependency property.
 

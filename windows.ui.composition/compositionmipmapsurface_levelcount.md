@@ -14,6 +14,8 @@ public uint LevelCount { get; }
 
 Gets the number of texture levels in the mipmap.
 
+
+
 ## -property-value
 
 The number of texture levels in the mipmap.

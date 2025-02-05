@@ -12,6 +12,7 @@ protected Projection()
 ## -description
 Provides base class initialization behavior for [Projection](projection.md)-derived classes.
 
+
 ## -remarks
 
 ## -examples

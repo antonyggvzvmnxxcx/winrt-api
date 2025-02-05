@@ -13,6 +13,8 @@ public Windows.UI.Color GhostWhite { get; }
 
 Gets the system-defined color that has an ARGB value of #FFF8F8FF.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFF8F8FF.

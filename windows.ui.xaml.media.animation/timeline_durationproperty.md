@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty DurationProperty { get; }
 ## -description
 Identifies the [Duration](timeline_duration.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [Duration](timeline_duration.md)  dependency property.
 

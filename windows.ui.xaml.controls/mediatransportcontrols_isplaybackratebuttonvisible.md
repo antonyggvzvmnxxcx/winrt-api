@@ -12,6 +12,7 @@ public bool IsPlaybackRateButtonVisible { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the playback rate button is shown.
 
+
 ## -xaml-syntax
 ```xaml
 

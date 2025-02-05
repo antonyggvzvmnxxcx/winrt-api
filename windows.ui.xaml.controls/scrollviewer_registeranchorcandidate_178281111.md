@@ -14,6 +14,8 @@ public void ScrollViewer.RegisterAnchorCandidate(UIElement element)
 
 Registers a [UIElement](../windows.ui.xaml/uielement.md) as a potential scroll anchor.
 
+
+
 ## -parameters
 
 ### -param element
@@ -28,8 +30,6 @@ Similarly, when the property is set to **false** (or an element is removed from 
 
 ## -see-also
 
-* [IScrollAnchorProvider](iscrollanchorprovider.md)
-* [UnregisterAnchorCandidate](iscrollanchorprovider_unregisteranchorcandidate_667335027.md)
-* [CanBeScrollAnchor](../windows.ui.xaml/uielement_canbescrollanchor.md)
+[IScrollAnchorProvider](iscrollanchorprovider.md), [UnregisterAnchorCandidate](iscrollanchorprovider_unregisteranchorcandidate_667335027.md), [CanBeScrollAnchor](../windows.ui.xaml/uielement_canbescrollanchor.md)
 
 ## -examples

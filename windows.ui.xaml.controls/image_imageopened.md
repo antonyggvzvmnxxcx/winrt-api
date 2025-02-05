@@ -12,6 +12,7 @@ public event Windows.UI.Xaml.RoutedEventHandler ImageOpened
 ## -description
 Occurs when the image source is downloaded and decoded with no failure. You can use this event to determine the natural size of the image source.
 
+
 ## -xaml-syntax
 ```xaml
 <Image ImageOpened="eventhandler"/>
@@ -35,4 +36,4 @@ Apps that were compiled for Windows 8 but running on Windows 8.1 continue to u
 ## -examples
 
 ## -see-also
-[ImageFailed](image_imagefailed.md), [Image and ImageBrush](https://docs.microsoft.com/windows/uwp/controls-and-patterns/images-imagebrushes)
+[ImageFailed](image_imagefailed.md), [Image and ImageBrush](/windows/uwp/controls-and-patterns/images-imagebrushes)

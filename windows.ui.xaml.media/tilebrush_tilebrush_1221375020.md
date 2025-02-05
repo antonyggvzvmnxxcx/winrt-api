@@ -12,6 +12,7 @@ protected TileBrush()
 ## -description
 Provides base class initialization behavior for [TileBrush](tilebrush.md)-derived classes.
 
+
 ## -remarks
 
 ## -examples

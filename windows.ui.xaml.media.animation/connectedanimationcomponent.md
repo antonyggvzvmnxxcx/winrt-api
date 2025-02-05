@@ -12,6 +12,8 @@ public enum ConnectedAnimationComponent : int
 ## -description
 Defines constants that specify the component animations that make up a connected animation.
 
+
+
 ## -enum-fields
 ### -field Scale:3
 The scale animation.

@@ -12,6 +12,8 @@ public int ItemUICount { get; }
 ## -description
 Gets the number of UI elements involved in the change.
 
+
+
 ## -property-value
 Integer that represents the number of UI elements involved in the change.
 

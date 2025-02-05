@@ -12,6 +12,7 @@ public bool IsFastForwardEnabled { get;  set; }
 ## -description
 Gets or sets a value that indicates whether a user can fast forward the media.
 
+
 ## -xaml-syntax
 ```xaml
 

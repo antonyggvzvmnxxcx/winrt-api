@@ -12,6 +12,8 @@ public Windows.Foundation.Point Position { get; }
 ## -description
 Gets the x- and y- screen coordinates of the touch input at completed position.
 
+
+
 ## -property-value
 The x- and y- screen coordinates of the touch input at completed position.
 

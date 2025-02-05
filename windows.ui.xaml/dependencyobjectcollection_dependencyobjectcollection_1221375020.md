@@ -12,6 +12,7 @@ public DependencyObjectCollection()
 ## -description
 Initializes a new instance of the [DependencyObjectCollection](dependencyobjectcollection.md) class.
 
+
 ## -remarks
 
 ## -examples

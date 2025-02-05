@@ -12,18 +12,14 @@ public Windows.UI.Xaml.Media.Brush PressedForeground { get;  set; }
 ## -description
 Gets or sets a brush that provides the foreground of a calendar item while it's pressed.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarView PressedForeground="{StaticResource resourceName}"/>
-
-```
-
-```xaml
+- or -
 <CalendarView PressedForeground="colorString"/>
-
-```
-
-```xaml
+- or -
 <CalendarView>
   CalendarView.PressedForeground>singleBrush</CalendarView.PressedForeground>
 </CalendarView>

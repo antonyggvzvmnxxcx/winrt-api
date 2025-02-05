@@ -12,6 +12,7 @@ public GeometryGroup()
 ## -description
 Initializes a new instance of the [GeometryGroup](geometrygroup.md) class.
 
+
 ## -remarks
 
 ## -examples

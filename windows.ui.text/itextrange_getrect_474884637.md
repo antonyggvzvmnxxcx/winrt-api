@@ -12,6 +12,8 @@ public void GetRect(Windows.UI.Text.PointOptions options, Windows.Foundation.Rec
 ## -description
 Retrieves the bounding rectangle that encompasses the text range on the screen.
 
+
+
 ## -parameters
 ### -param options
 A value that indicates the rectangle to retrieve.

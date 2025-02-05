@@ -14,6 +14,7 @@ virtual protected bool AutomationPeer.IsDialogCore()
 
 Provides the peer's behavior when a Microsoft UI Automation client calls [IsDialog](automationpeer_isdialog_1486667341.md) or an equivalent Microsoft UI Automation client API.
 
+
 ## -returns
 
 **true** if the element is a dialog; otherwise, **false**.
@@ -24,4 +25,4 @@ Provides the peer's behavior when a Microsoft UI Automation client calls [IsDial
 
 ## -see-also
 
-[FrameworkElementAutomationPeer](frameworkelementautomationpeer.md), [Custom automation peers](https://docs.microsoft.com/windows/uwp/accessibility/custom-automation-peers), [Accessibility](https://docs.microsoft.com/windows/uwp/accessibility/accessibility)
+[FrameworkElementAutomationPeer](frameworkelementautomationpeer.md), [Custom automation peers](/windows/uwp/accessibility/custom-automation-peers), [Accessibility](/windows/uwp/accessibility/accessibility)

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IconProperty { get; }
 ## -description
 Identifies the [Icon](appbartogglebutton_icon.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Icon](appbartogglebutton_icon.md) dependency property.
 

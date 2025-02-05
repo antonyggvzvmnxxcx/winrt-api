@@ -12,6 +12,7 @@ protected DependencyObject()
 ## -description
 Provides base class initialization behavior for [DependencyObject](dependencyobject.md) derived classes.
 
+
 ## -remarks
 
 ## -examples

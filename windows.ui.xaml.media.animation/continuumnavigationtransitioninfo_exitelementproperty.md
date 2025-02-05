@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ExitElementProperty { get; }
 ## -description
 Identifies the [ExitElement](continuumnavigationtransitioninfo_exitelement.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ExitElement](continuumnavigationtransitioninfo_exitelement.md) dependency property.
 

@@ -12,6 +12,8 @@ public double OpenPaneLength { get;  set; }
 ## -description
 Gets or sets the width of the [SplitView](splitview.md) pane when it's fully expanded.
 
+
+
 ## -xaml-syntax
 ```xaml
 

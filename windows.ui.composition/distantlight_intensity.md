@@ -13,6 +13,8 @@ public float Intensity { get;  set; }
 
 Gets or sets the intensity of the light.
 
+
+
 ## -property-value
 
 The intensity of the light.

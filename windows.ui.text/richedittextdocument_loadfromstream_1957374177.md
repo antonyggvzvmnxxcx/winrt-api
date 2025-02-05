@@ -12,6 +12,8 @@ public void RichEditTextDocument.LoadFromStream(TextSetOptions options, IRandomA
 ## -description
 Loads a document from a stream.
 
+
+
 ## -parameters
 
 ### -param options

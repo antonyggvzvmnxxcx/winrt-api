@@ -12,6 +12,8 @@ public double OldValue { get; }
 ## -description
 Gets the previous value of a range value property.
 
+
+
 ## -property-value
 The previous value.
 

@@ -13,6 +13,7 @@ public class MediaTransportControls : Windows.UI.Xaml.Controls.Control, Windows.
 
 Represents the playback controls for a media player element.
 
+
 ## -xaml-syntax
 
 ```xaml
@@ -28,7 +29,7 @@ You can use the MediaTransportControls to make it easy for users to control thei
 <img alt="Default media transport controls" src="images/controls/MediaTransportControlsBasic.png" />
 
 > [!NOTE]
-> You can also integrate [MediaElement](mediaelement.md) with the system media transport controls. The system transport controls are the controls that pop up when hardware media keys are pressed, such as the media buttons on keyboards. If the user presses the pause key on a keyboard and your app supports the [SystemMediaTransportControls](../windows.media/systemmediatransportcontrols.md), your app is notified and you can take the appropriate action. For more info, see [System Media Transport Controls](https://docs.microsoft.com/windows/uwp/audio-video-camera/system-media-transport-controls).
+> You can also integrate [MediaElement](mediaelement.md) with the system media transport controls. The system transport controls are the controls that pop up when hardware media keys are pressed, such as the media buttons on keyboards. If the user presses the pause key on a keyboard and your app supports the [SystemMediaTransportControls](../windows.media/systemmediatransportcontrols.md), your app is notified and you can take the appropriate action. For more info, see [System Media Transport Controls](/windows/uwp/audio-video-camera/system-media-transport-controls).
 
 ### Adding basic transport controls to a MediaElement
 
@@ -118,7 +119,7 @@ This table shows the built-in transport controls with their associated propertie
 
 There are no properties to hide, show, enable, or disable the play/pause button, closed caption button, audio track selection button, or the cast button. The play/pause and cast buttons are always visible and enabled. The closed caption button is visible whenever closed caption tracks are available, and the audio track selection button is visible whenever multiple audio tracks are available.
 
-To remove these buttons, or to add custom buttons, you must re-template the MediaTransportControls. If you re-template the control, you can also specify the order in which buttons drop out at different screen sizes. For more info, see [Create custom transport controls](https://docs.microsoft.com/windows/uwp/controls-and-patterns/custom-transport-controls) and the [Media transport controls sample](https://go.microsoft.com/fwlink/p/?LinkId=620023&amp;amp;clcid=0x409).
+To remove these buttons, or to add custom buttons, you must re-template the MediaTransportControls. If you re-template the control, you can also specify the order in which buttons drop out at different screen sizes. For more info, see [Create custom transport controls](/windows/uwp/controls-and-patterns/custom-transport-controls) and the [Media transport controls sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlCustomMediaTransportControls?amp;amp;clcid=0x409).
 
 Here's how to configure transport control buttons in XAML. In this example, the aspect ratio button is hidden and disabled, and the playback rate button is shown and enabled.
 
@@ -179,6 +180,17 @@ In the compact mode, the [Slider](slider.md) and [CommandBar](commandbar.md) are
 
 <img alt="Compact media transport control parts" src="images/MediaTransportControls_Anatomy_Compact.png" />
 
+### Control style and template
+
+You can modify the default [Style](../windows.ui.xaml/style.md) and [ControlTemplate](controltemplate.md) to give the control a unique appearance. For information about modifying a control's style and template, see [Styling controls](/windows/uwp/controls-and-patterns/styling-controls). The default style, template, and resources that define the look of the control are included in the `generic.xaml` file. For design purposes, `generic.xaml` is available locally with the SDK or NuGet package installation.
+
+- **[WinUI Styles (recommended)](/windows/apps/design/style/xaml-styles#winui-and-styles):** For updated styles from WinUI, see `\Users\<username>\.nuget\packages\microsoft.ui.xaml\<version>\lib\uap10.0\Microsoft.UI.Xaml\Themes\generic.xaml`.
+- **Non-WinUI styles:** For built-in styles, see `%ProgramFiles(x86)%\Windows Kits\10\DesignTime\CommonConfiguration\Neutral\UAP\<SDK version>\Generic\generic.xaml`.
+
+Locations might be different if you customized the installation. Styles and resources from different versions of the SDK might have different values.
+
+XAML also includes resources that you can use to modify the colors of a control in different visual states without modifying the control template. Modifying these resources is preferred to setting properties such as [Background](control_background.md) and [Foreground](control_foreground.md). For more info, see the [Light-weight styling](/windows/apps/design/style/xaml-styles#lightweight-styling) section of the [XAML styles](/windows/apps/design/style/xaml-styles) article. Light-weight styling resources are available starting in Windows 10, version 1607 (SDK 14393).
+
 ### Version history
 
 | Windows version | SDK version | Value added |
@@ -204,10 +216,10 @@ In the compact mode, the [Slider](slider.md) and [CommandBar](commandbar.md) are
 > [!TIP]
 > For more info, design guidance, and code examples, see [Create custom transport controls](/windows/uwp/design/controls-and-patterns/custom-transport-controls).
 >
-> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the MediaPlayerElement with transport controls in action](xamlcontrolsgallery:/item/MediaPlayerElement).
-> + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
-> + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+> If you have the **WinUI 2 Gallery** app installed, click here to [open the app and see the MediaPlayerElement with transport controls in action](winui2gallery:/item/MediaPlayerElement).
+> + [Get the WinUI 2 Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
+> + [Get the source code (GitHub)](https://github.com/Microsoft/WinUI-Gallery)
 
 ## -see-also
 
-[Control](control.md), [Create custom transport controls](https://docs.microsoft.com/windows/uwp/controls-and-patterns/custom-transport-controls), [Media transport controls sample](https://go.microsoft.com/fwlink/p/?LinkId=620023&amp;amp;clcid=0x409), [Video playback sample](https://go.microsoft.com/fwlink/p/?LinkId=620020&amp;amp;clcid=0x409), [Media transport controls sample (Windows 10)](https://go.microsoft.com/fwlink/p/?LinkId=620023)
+[Control](control.md), [Create custom transport controls](/windows/uwp/controls-and-patterns/custom-transport-controls), [Media transport controls sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlCustomMediaTransportControls?amp;amp;clcid=0x409), [Video playback sample](https://go.microsoft.com/fwlink/p/?LinkId=620020&amp;amp;clcid=0x409), [Media transport controls sample (Windows 10)](https://go.microsoft.com/fwlink/p/?LinkId=620023)

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsHorizontalRailEnabledProperty { get;
 ## -description
 Identifies the [IsHorizontalRailEnabled](scrollviewer_ishorizontalrailenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsHorizontalRailEnabled](scrollviewer_ishorizontalrailenabled.md) dependency property.
 

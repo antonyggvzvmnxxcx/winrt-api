@@ -12,6 +12,8 @@ public void SetIsVerticalRailEnabled(Windows.UI.Xaml.DependencyObject element, S
 ## -description
 Sets the value of the [IsVerticalRailEnabled](scrollviewer_isverticalrailenabled.md) dependency property / `ScrollViewer.IsVerticalRailEnabled` XAML attached property on a specified element.
 
+
+
 ## -parameters
 ### -param element
 The element on which to set the property value.

@@ -13,6 +13,8 @@ public Windows.UI.Color Ivory { get; }
 
 Gets the system-defined color that has an ARGB value of #FFFFFFF0.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFFFFFF0.

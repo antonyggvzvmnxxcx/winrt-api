@@ -12,6 +12,8 @@ public int MoveEndpointByUnit(Windows.UI.Xaml.Automation.Text.TextPatternRangeEn
 ## -description
 Moves one endpoint of the text range the specified number of text units within the document range.
 
+
+
 ## -parameters
 ### -param endpoint
 The endpoint to move.

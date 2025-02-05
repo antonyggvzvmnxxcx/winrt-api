@@ -20,6 +20,8 @@ The Visual used to determine the light’s direction. The light's
     **CoordinateSpace**
    is not set, the [DistantLight](distantlight.md) will not render.
 
+
+
 ## -property-value
 The Visual used to determine the light’s direction. The light's 
     **Direction**

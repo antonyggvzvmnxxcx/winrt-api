@@ -12,6 +12,8 @@ public bool Cancel { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the [CurrentItem](icollectionview_currentitem.md) change should be canceled.
 
+
+
 ## -property-value
 **true** if the event should be canceled; otherwise, **false**. The default is **false**.
 

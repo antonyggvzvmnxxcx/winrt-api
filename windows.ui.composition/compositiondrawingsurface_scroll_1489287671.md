@@ -12,6 +12,8 @@ public void CompositionDrawingSurface.Scroll(PointInt32 offset)
 ## -description
 Scrolls the drawing surface.
 
+
+
 ## -parameters
 
 ### -param offset

@@ -12,6 +12,7 @@ public CommandBar()
 ## -description
 Initializes a new instance of the [CommandBar](commandbar.md) class.
 
+
 ## -remarks
 
 ## -examples

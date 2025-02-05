@@ -12,6 +12,7 @@ public TargetPropertyPath()
 ## -description
 Initializes a new instance of the [TargetPropertyPath](targetpropertypath.md) class.
 
+
 ## -remarks
 
 ## -examples

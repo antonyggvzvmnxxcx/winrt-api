@@ -12,6 +12,8 @@ public bool AutoMaximizeSuggestionArea { get;  set; }
 ## -description
 Indicates if the suggestion area should be automatically maximized.
 
+
+
 ## -xaml-syntax
 ```xaml
 <AutoSuggestBox AutoMaximizeSuggestionArea="bool"/>

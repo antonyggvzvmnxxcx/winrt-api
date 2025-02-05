@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty WindowInteractionStatePrope
 ## -description
 Identifies the [InteractionState](../windows.ui.xaml.automation.provider/iwindowprovider_interactionstate.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

@@ -12,6 +12,8 @@ public bool IsVisible { get;  set; }
 ## -description
 Indicates whether the visual and its entire subtree of child visuals is visible.
 
+
+
 ## -property-value
 Indicates whether the visual and its entire subtree of child visuals is visible.
 

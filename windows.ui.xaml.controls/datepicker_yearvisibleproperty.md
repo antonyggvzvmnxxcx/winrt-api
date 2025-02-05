@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty YearVisibleProperty { get; }
 ## -description
 Gets the identifier for the [YearVisible](datepicker_yearvisible.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [YearVisible](datepicker_yearvisible.md) dependency property.
 

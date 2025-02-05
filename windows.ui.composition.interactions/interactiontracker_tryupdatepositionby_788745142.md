@@ -14,6 +14,8 @@ public int InteractionTracker.TryUpdatePositionBy(Vector3 amount, InteractionTra
 
 Tries to adjust the position of the [InteractionTracker](interactiontracker.md) by the specified amount using the specified clamping option.
 
+
+
 ## -parameters
 
 ### -param amount

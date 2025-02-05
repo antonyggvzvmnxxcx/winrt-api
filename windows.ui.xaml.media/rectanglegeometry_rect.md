@@ -12,6 +12,8 @@ public Windows.Foundation.Rect Rect { get;  set; }
 ## -description
 Gets or sets the dimensions of the rectangle.
 
+
+
 ## -xaml-syntax
 ```xaml
 <RectangleGeometry Rect="x,y,width,height"/>

@@ -12,6 +12,8 @@ public interface IObjectModelProvider :
 ## -description
 Provides access to the underlying object model implemented by a control or app.
 
+
+
 ## -remarks
 
 ## -examples

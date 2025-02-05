@@ -12,6 +12,8 @@ public class AutomationAnnotation : Windows.UI.Xaml.DependencyObject, Windows.UI
 ## -description
 Represents a single UI automation annotation.
 
+
+
 ## -remarks
 
 ## -examples

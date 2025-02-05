@@ -10,6 +10,8 @@ public delegate void DragCompletedEventHandler(System.Object sender, Windows.UI.
 ## -description
 Represents the method that will handle the [DragCompleted](thumb_dragcompleted.md) event of a [Thumb](thumb.md).
 
+
+
 ## -parameters
 ### -param sender
 The object where the event handler is attached.

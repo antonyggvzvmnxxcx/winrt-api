@@ -13,6 +13,7 @@ public CompositionDebugSettings CompositionDebugSettings.TryGetSettings(Composit
 
 Attempts to get an instance of CompositionDebugSettings for the specified compositor.
 
+
 ## -parameters
 ### -param compositor
 
@@ -20,11 +21,11 @@ The compositor to get debug settings for.
 
 ## -returns
 
-An instance of composition debug settings.
+An instance of composition debug settings, or `null` (see Remarks).
 
 ## -remarks
 
-A call to TryGetSettings will fail with an exception if [developer mode](/uwp/get-started/enable-your-device-for-development) is not enabled.
+If [developer mode](/windows/apps/get-started/enable-your-device-for-development) is not enabled, a call to `TryGetSettings` returns `null`.
 
 ## -see-also
 

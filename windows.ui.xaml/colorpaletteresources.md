@@ -14,6 +14,8 @@ public class ColorPaletteResources : ResourceDictionary, ResourceDictionary
 
 Represents a specialized resource dictionary that contains color resources used by XAML elements.
 
+
+
 ## -remarks
 
 ## -see-also

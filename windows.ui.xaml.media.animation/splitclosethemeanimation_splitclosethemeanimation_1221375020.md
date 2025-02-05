@@ -12,6 +12,7 @@ public SplitCloseThemeAnimation()
 ## -description
 Initializes a new instance of the [SplitCloseThemeAnimation](splitclosethemeanimation.md) class.
 
+
 ## -remarks
 
 ## -examples

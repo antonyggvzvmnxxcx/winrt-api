@@ -12,6 +12,8 @@ public double Y2 { get;  set; }
 ## -description
 Gets or sets the y-coordinate of the [Line](line.md) end point.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Line Y2="double"/>

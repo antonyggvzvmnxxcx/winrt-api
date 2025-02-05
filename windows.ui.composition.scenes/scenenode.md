@@ -14,6 +14,8 @@ public class SceneNode : SceneObject, SceneObject
 
 Represents an element in the scene's visual tree.
 
+
+
 ## -remarks
 
 ## -see-also

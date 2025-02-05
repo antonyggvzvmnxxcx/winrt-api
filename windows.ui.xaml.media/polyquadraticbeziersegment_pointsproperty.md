@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty PointsProperty { get; }
 ## -description
 Identifies the [Points](polyquadraticbeziersegment_points.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [Points](polyquadraticbeziersegment_points.md)  dependency property.
 

@@ -12,6 +12,8 @@ public bool CanWrite { get; }
 ## -description
 Gets a value that determines whether the custom property supports write access.
 
+
+
 ## -property-value
 **true** if the value can be written to through a data source relationship in a two-way binding. **false** if the property cannot be written to.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty MaximumRowsOrColumnsProperty { get; }
 ## -description
 Identifies the [MaximumRowsOrColumns](itemswrapgrid_maximumrowsorcolumns.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [MaximumRowsOrColumns](itemswrapgrid_maximumrowsorcolumns.md) dependency property.
 

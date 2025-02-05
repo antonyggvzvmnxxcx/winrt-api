@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty RelativeTransformProperty { get; }
 ## -description
 Identifies the [RelativeTransform](brush_relativetransform.md) dependency property.
 
+
+
 ## -property-value
 The [RelativeTransform](brush_relativetransform.md) dependency property identifier.
 

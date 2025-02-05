@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty MinHeightProperty { get; }
 ## -description
 Identifies the [MinHeight](rowdefinition_minheight.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [MinHeight](rowdefinition_minheight.md) dependency property.
 

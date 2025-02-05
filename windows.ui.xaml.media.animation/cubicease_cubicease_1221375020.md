@@ -12,6 +12,7 @@ public CubicEase()
 ## -description
 Initializes a new instance of the [CubicEase](cubicease.md) class.
 
+
 ## -remarks
 
 ## -examples

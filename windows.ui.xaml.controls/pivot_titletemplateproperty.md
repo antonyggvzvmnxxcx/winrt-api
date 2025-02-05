@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TitleTemplateProperty { get; }
 ## -description
 Identifies the [TitleTemplate](pivot_titletemplate.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [TitleTemplate](pivot_titletemplate.md) dependency property.
 

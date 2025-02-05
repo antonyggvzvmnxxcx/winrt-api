@@ -12,6 +12,8 @@ public void SetPoint(Windows.Foundation.Point point, Windows.UI.Text.PointOption
 ## -description
 Changes the text range based on the specified point.
 
+
+
 ## -parameters
 ### -param point
 An ordered pair of floating-point x- and y-coordinates that defines a point in a two-dimensional plane.

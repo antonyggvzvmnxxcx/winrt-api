@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty HorizontalChildrenAlignmentProperty { 
 ## -description
 Identifies the [HorizontalChildrenAlignment](wrapgrid_horizontalchildrenalignment.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [HorizontalChildrenAlignment](wrapgrid_horizontalchildrenalignment.md) dependency property.
 

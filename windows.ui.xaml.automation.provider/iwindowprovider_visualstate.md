@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.WindowVisualState VisualState { get; }
 ## -description
 Gets the visual state of the window.
 
+
+
 ## -property-value
 The visual state of the window, as a value of the enumeration.
 

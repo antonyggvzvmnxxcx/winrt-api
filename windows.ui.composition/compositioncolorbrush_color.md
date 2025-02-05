@@ -12,6 +12,8 @@ public Windows.UI.Color Color { get;  set; }
 ## -description
 The color used to fill a [SpriteVisual](spritevisual.md). Animatable.
 
+
+
 ## -property-value
 The color used to fill a [SpriteVisual](spritevisual.md).
 

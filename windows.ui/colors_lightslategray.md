@@ -13,6 +13,8 @@ public Windows.UI.Color LightSlateGray { get; }
 
 Gets the system-defined color that has an ARGB value of #FF778899.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FF778899.

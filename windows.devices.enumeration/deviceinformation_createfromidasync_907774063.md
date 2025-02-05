@@ -17,7 +17,7 @@ Creates a [DeviceInformation](deviceinformation.md) object from a [DeviceInforma
 A string containing the [DeviceInformation](deviceinformation.md) ID.
 
 ### -param additionalProperties
-An iterable list of additional properties to include in the [Properties](deviceinformation_properties.md) property of the [DeviceInformation](deviceinformation.md) objects in the enumeration results. For more info on what the properties represent, see [Device information properties](https://docs.microsoft.com/windows/uwp/devices-sensors/device-information-properties).
+An iterable list of additional properties to include in the [Properties](deviceinformation_properties.md) property of the [DeviceInformation](deviceinformation.md) objects in the enumeration results. For more info on what the properties represent, see [Device information properties](/windows/uwp/devices-sensors/device-information-properties).
 
 ## -returns
 An object for starting and managing the asynchronous creation of the [DeviceInformation](deviceinformation.md) object.
@@ -28,7 +28,6 @@ An object for starting and managing the asynchronous creation of the [DeviceInfo
 The following example builds a list of properties to include in the [DeviceInformation](deviceinformation.md) object to create from a [DeviceInformation](deviceinformation.md) ID.The savedId variable in this example is a [DeviceInformation](deviceinformation.md) ID previously saved by the application, obtained from the [id](deviceinformation_id.md) property of the last-used [DeviceInformation](deviceinformation.md) object.
 
 ```javascript
-
     // Create a set of two additional properties
     var propertiesToRetrieve = new Array();
     propertiesToRetrieve.push("System.InterfaceClassGuid");
@@ -45,12 +44,7 @@ The following example builds a list of properties to include in the [DeviceInfor
         function (e) {
             displayError("Failed to create DeviceInformation: " + e.message);
         });
-
-
-
 ```
-
-
 
 ## -see-also
 [CreateFromIdAsync(String)](deviceinformation_createfromidasync_728202765.md)

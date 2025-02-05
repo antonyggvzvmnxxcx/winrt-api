@@ -12,6 +12,8 @@ public double ScaleX { get;  set; }
 ## -description
 Gets or sets the x-axis scale factor.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ScaleTransform ScaleX="double"/>

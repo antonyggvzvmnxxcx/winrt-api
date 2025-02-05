@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TranslateZProperty { get; }
 ## -description
 Identifies the [TranslateZ](compositetransform3d_translatez.md) dependency property.
 
+
+
 ## -property-value
 The [TranslateZ](compositetransform3d_translatez.md) dependency property identifier.
 

@@ -13,6 +13,8 @@ public event TypedEventHandler CuttingToClipboard<RichEditBox, TextControlCuttin
 
 Occurs before cut text is moved to the clipboard.
 
+
+
 ## -xaml-syntax
 
 ```xaml

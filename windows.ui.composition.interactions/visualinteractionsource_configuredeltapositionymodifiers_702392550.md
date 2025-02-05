@@ -12,6 +12,8 @@ public void VisualInteractionSource.ConfigureDeltaPositionYModifiers(IIterable<C
 ## -description
 Takes an ordered list of CompositionConditionalValue. In a frame, the first CompositionConditionalValue to have its “.Condition” evaluate to true replaces the DeltaPositionY value the VisualInteractionSource provides with its “.Value”. If none evaluate to true, the DeltaPositionY is not replaced that frame.
 
+
+
 ## -parameters
 
 ### -param conditionalValues

@@ -12,6 +12,8 @@ public double Value { get; }
 ## -description
 Gets the value of the control.
 
+
+
 ## -property-value
 The value of the control, or null if the control does not support Value.
 

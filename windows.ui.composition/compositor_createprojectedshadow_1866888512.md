@@ -14,6 +14,8 @@ public CompositionProjectedShadow Compositor.CreateProjectedShadow()
 
 Creates an instance of [CompositionProjectedShadow](compositionprojectedshadow.md).
 
+
+
 ## -returns
 
 Returns the created [CompositionProjectedShadow](compositionprojectedshadow.md) object.

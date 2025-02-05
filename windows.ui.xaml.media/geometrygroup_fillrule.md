@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.FillRule FillRule { get;  set; }
 ## -description
 Gets or sets how the intersecting areas of the objects contained in this [GeometryGroup](geometrygroup.md) are combined.
 
+
+
 ## -xaml-syntax
 ```xaml
 <GeometryGroup FillRule="EvenOdd"/>

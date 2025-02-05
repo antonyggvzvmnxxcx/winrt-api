@@ -12,6 +12,7 @@ public BezierSegment()
 ## -description
 Initializes a new instance of the [BezierSegment](beziersegment.md) class.
 
+
 ## -remarks
 
 ## -examples

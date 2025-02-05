@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IObservableVector<Windows.UI.Xaml.Controls
 ## -description
 Gets a collection of [GroupStyle](groupstyle.md) objects that define the appearance of each level of groups.
 
+
+
 ## -xaml-syntax
 ```xaml
 <itemsControl>

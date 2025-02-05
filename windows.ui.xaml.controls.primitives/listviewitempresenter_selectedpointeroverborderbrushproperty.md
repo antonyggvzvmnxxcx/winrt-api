@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty SelectedPointerOverBorderBrushProperty
 ## -description
 Identifies the [SelectedPointerOverBorderBrush](listviewitempresenter_selectedpointeroverborderbrush.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [SelectedPointerOverBorderBrush](listviewitempresenter_selectedpointeroverborderbrush.md) dependency property.
 

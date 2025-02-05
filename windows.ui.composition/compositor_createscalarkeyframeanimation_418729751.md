@@ -12,6 +12,8 @@ public Windows.UI.Composition.ScalarKeyFrameAnimation CreateScalarKeyFrameAnimat
 ## -description
 Creates an instance of [ScalarKeyFrameAnimation](scalarkeyframeanimation.md).
 
+
+
 ## -returns
 Returns the created [ScalarKeyFrameAnimation](scalarkeyframeanimation.md) object.
 

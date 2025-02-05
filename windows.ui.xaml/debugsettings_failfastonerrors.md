@@ -14,6 +14,8 @@ public bool FailFastOnErrors { get;  set; }
 
 Gets or sets a value that indicates whether XAML errors cause an immediate FailFast rather than returning an error.
 
+
+
 ## -property-value
 
 **true** if XAML errors cause an immediate FailFast rather than returning an error; otherwise, **false**. The default is **false**.

@@ -12,6 +12,7 @@ public class ListBox : Windows.UI.Xaml.Controls.Primitives.Selector, Windows.UI.
 ## -description
 Presents a list of items the user can select from.
 
+
 ## -xaml-syntax
 ```xaml
 <ListBox .../>
@@ -33,6 +34,8 @@ ListBox lets users select from a pre-defined list of options presented like a te
 > [!NOTE]
 > ListBox is useful when you are upgrading a Universal Windows 8 app that uses ListBox, and need to minimize changes. For new apps in Windows 10, we recommend using the [ListView](listview.md) control instead.
 
+If you need to handle pointer events for a [UIElement](../windows.ui.xaml/uielement.md) in a scrollable view (such as a ScrollViewer), you must explicitly disable support for manipulation events on the element in the view by calling [UIElement.CancelDirectmanipulation()](../windows.ui.xaml/uielement_canceldirectmanipulations_1164631120.md). To re-enable manipulation events in the view, call [UIElement.TryStartDirectManipulation()](../windows.ui.xaml/uielement_trystartdirectmanipulation_1983346775.md).
+
 ### Using a ListBox
 
 Use a ListBox control to present a list of items that a user can select from. More than one item in a ListBox control is visible at a time. You specify whether the ListBox control allows multiple selections by setting the [SelectionMode](listbox_selectionmode.md) property. You can get or set the selected items for the list box by using the [SelectedItems](listbox_selecteditems.md) property.
@@ -45,7 +48,7 @@ ListBox has a dedicated control for its items, [ListBoxItem](listboxitem.md). Bu
 
 ### ListBox vs. ListView and GridView
 
-ListBox has many similarities with [ListView](listview.md) or [GridView](gridview.md) (they share the parent class [ItemsControl](itemscontrol.md)), but each control is oriented towards different scenarios. ListBox is best for general UI composition, particularly when the elements are always intended to be selectable, whereas [ListView](listview.md) or [GridView](gridview.md) are best for data binding scenarios, particularly if virtualization or large data sets are involved. For more info on virtualization, see [Using virtualization with a list or grid](https://docs.microsoft.com/previous-versions/windows/apps/hh780657(v=win.10)).
+ListBox has many similarities with [ListView](listview.md) or [GridView](gridview.md) (they share the parent class [ItemsControl](itemscontrol.md)), but each control is oriented towards different scenarios. ListBox is best for general UI composition, particularly when the elements are always intended to be selectable, whereas [ListView](listview.md) or [GridView](gridview.md) are best for data binding scenarios, particularly if virtualization or large data sets are involved. For more info on virtualization, see [Using virtualization with a list or grid](/previous-versions/windows/apps/hh780657(v=win.10)).
 
 ### Version history
 
@@ -56,11 +59,12 @@ ListBox has many similarities with [ListView](listview.md) or [GridView](gridvie
 ## -examples
 
 > [!TIP]
-> For more info, design guidance, and code examples, see [Lists](/windows/uwp/design/controls-and-patterns/lists#list-boxes).
->
-> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the ListBox in action](xamlcontrolsgallery:/item/ListBox).
-> + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
-> + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+> For more info, design guidance, and code examples, see [List box](/windows/apps/design/controls/lists#list-boxes).
+
+> [!div class="nextstepaction"]
+> [Open the WinUI 2 Gallery app and see the ListBox in action](winui2gallery:/item/ListBox)
+
+> The **WinUI 2 Gallery** app includes interactive examples of most WinUI 2 controls, features, and functionality. Get the app from the [Microsoft Store](https://www.microsoft.com/store/productId/9MSVH128X2ZT) or get the source code on [GitHub](https://github.com/Microsoft/WinUI-Gallery/tree/winui2).
 
 This example demonstrates how to add a collection of [FontFamily](../windows.ui.xaml.media/fontfamily.md) objects directly to a ListBox control.
 
@@ -94,7 +98,7 @@ public BlankPage()
 }
 ```
 
-```vbnet
+```vb
 
 Dim fonts As New ObservableCollection(of FontFamily) 
 
@@ -110,4 +114,4 @@ End Sub
 
 
 ## -see-also
-[Selector](../windows.ui.xaml.controls.primitives/selector.md), [ItemsControl](itemscontrol.md), [ListBoxItem](listboxitem.md), [ListBox styles and templates](https://docs.microsoft.com/windows/uwp/design/controls-and-patterns/xaml-styles), [ComboBox](combobox.md), [Controls list](https://docs.microsoft.com/windows/uwp/design/controls-and-patterns/), [Controls by function](https://docs.microsoft.com/windows/uwp/controls-and-patterns/controls-by-function)
+[Selector](../windows.ui.xaml.controls.primitives/selector.md), [ItemsControl](itemscontrol.md), [ListBoxItem](listboxitem.md), [ComboBox](combobox.md), [Controls list](/windows/uwp/design/controls-and-patterns/), [Controls by function](/windows/uwp/controls-and-patterns/controls-by-function)

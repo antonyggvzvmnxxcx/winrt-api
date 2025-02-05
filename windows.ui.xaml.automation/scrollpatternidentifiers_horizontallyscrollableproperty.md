@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty HorizontallyScrollablePrope
 ## -description
 Identifies the [HorizontallyScrollable](../windows.ui.xaml.automation.provider/iscrollprovider_horizontallyscrollable.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

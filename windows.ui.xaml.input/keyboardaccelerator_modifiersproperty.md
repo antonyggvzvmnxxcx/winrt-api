@@ -12,13 +12,15 @@ public DependencyProperty ModifiersProperty { get; }
 ## -description
 Identifies the [Modifiers](keyboardaccelerator_modifiers.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Modifiers](keyboardaccelerator_modifiers.md) dependency property.
 
 ## -remarks
 
 ## -see-also
-[Keyboard Accelerators](https://docs.microsoft.com/windows/uwp/design/input/keyboard-accelerators)
+[Keyboard Accelerators](/windows/uwp/design/input/keyboard-accelerators)
 
 ## -examples
 

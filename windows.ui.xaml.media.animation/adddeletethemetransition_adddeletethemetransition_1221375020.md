@@ -12,9 +12,10 @@ public AddDeleteThemeTransition()
 ## -description
 Initializes a new instance of the [AddDeleteThemeTransition](adddeletethemetransition.md) class.
 
+
 ## -remarks
 
 ## -examples
 
 ## -see-also
-[Animating list additions and deletions](https://docs.microsoft.com/previous-versions/windows/apps/jj649430(v=win.10)), [Guidelines and checklist for add and delete animations](https://docs.microsoft.com/windows/uwp/style/motion-list)
+[Animating list additions and deletions](/previous-versions/windows/apps/jj649430(v=win.10)), [Guidelines and checklist for add and delete animations](/windows/uwp/style/motion-list)

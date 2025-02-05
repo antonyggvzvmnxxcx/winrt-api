@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ScaleZProperty { get; }
 ## -description
 Identifies the [ScaleZ](compositetransform3d_scalez.md) dependency property.
 
+
+
 ## -property-value
 The [ScaleZ](compositetransform3d_scalez.md) dependency property identifier.
 

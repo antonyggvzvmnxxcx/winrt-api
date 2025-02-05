@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Brush Enabled { get;  set; }
 ## -description
 Gets or sets the brush to be used for the foreground when the group is not empty and the jump list item is enabled.
 
+
+
 ## -property-value
 The brush to be used for the foreground when the group is not empty and the jump list item is enabled.
 

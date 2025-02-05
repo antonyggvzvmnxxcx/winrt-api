@@ -10,11 +10,13 @@ virtual protected void FlyoutBase.OnProcessKeyboardAccelerators(ProcessKeyboardA
 # Windows.UI.Xaml.Controls.Primitives.FlyoutBase.OnProcessKeyboardAccelerators
 
 ## -description
-Called just before a keyboard shortcut (accelerator) is processed in your app. Invoked whenever application code or internal processes call [ProcessKeyboardAccelerators](uielement_processkeyboardaccelerators.md). Override this method to influence the default accelerator handling.
+Called just before a keyboard shortcut (accelerator) is processed in your app. Invoked whenever application code or internal processes call [ProcessKeyboardAccelerators](../windows.ui.xaml/uielement_processkeyboardaccelerators.md). Override this method to influence the default accelerator handling.
+
+
 
 ## -parameters
 ### -param args
-The [ProcessKeyboardAcceleratorEventArgs](..\windows.ui.xaml.input\processkeyboardacceleratoreventargs.md).
+The [ProcessKeyboardAcceleratorEventArgs](../windows.ui.xaml.input/processkeyboardacceleratoreventargs.md).
 
 ## -remarks
 

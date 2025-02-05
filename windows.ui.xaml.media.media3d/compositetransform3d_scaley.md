@@ -12,6 +12,8 @@ public double ScaleY { get;  set; }
 ## -description
 Gets or sets the y-axis scale factor. You can use this property to stretch or shrink an object along this axis.
 
+
+
 ## -property-value
 The scale factor along the y-axis. The default is 1.
 

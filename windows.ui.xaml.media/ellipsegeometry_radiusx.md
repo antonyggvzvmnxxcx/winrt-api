@@ -12,6 +12,8 @@ public double RadiusX { get;  set; }
 ## -description
 Gets or sets the x-radius value of the [EllipseGeometry](ellipsegeometry.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <EllipseGeometry RadiusX="double"/>

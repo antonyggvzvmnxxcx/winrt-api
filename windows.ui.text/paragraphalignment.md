@@ -12,6 +12,8 @@ public enum Windows.UI.Text.ParagraphAlignment : int
 ## -description
 Specifies values for aligning paragraphs.
 
+
+
 ## -enum-fields
 ### -field Undefined:0
 No paragraph alignment is defined.

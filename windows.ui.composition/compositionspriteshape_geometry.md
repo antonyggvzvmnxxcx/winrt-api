@@ -13,6 +13,8 @@ public CompositionGeometry Geometry { get;  set; }
 
 Gets or sets the geometry that defines this shape.
 
+
+
 ## -property-value
 
 The geometry that defines this shape.

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DataTemplate ContentTemplate { get;  set; }
 ## -description
 Gets or sets the data template that is used to display the content of the [ContentControl](contentcontrol.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <contentControl>
@@ -19,9 +21,7 @@ Gets or sets the data template that is used to display the content of the [Conte
     dataTemplate
   </contentControl.ContentTemplate>
 </contentControl>
-```
-
-```xaml
+- or -
 <contentControl ContentTemplate="templateReference"/>
 ```
 

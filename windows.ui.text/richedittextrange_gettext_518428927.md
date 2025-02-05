@@ -13,6 +13,8 @@ public void RichEditTextRange.GetText(TextGetOptions options, String value)
 
 Retrieves the text in a text range according to the specified conversion flags.
 
+
+
 ## -parameters
 ### -param options
 

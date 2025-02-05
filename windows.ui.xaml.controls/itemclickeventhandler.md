@@ -10,6 +10,8 @@ public delegate void ItemClickEventHandler(System.Object sender, Windows.UI.Xaml
 ## -description
 Represents the method that will handle an [ItemClick](listviewbase_itemclick.md) event.
 
+
+
 ## -parameters
 ### -param sender
 The object where the handler is attached.

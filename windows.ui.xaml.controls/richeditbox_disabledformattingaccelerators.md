@@ -13,6 +13,8 @@ public DisabledFormattingAccelerators DisabledFormattingAccelerators { get;  set
 
 Gets or sets a value that indicates which keyboard shortcuts for formatting are disabled.
 
+
+
 ## -xaml-syntax
 
 ```xaml

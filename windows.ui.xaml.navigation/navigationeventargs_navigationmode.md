@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Navigation.NavigationMode NavigationMode { get; }
 ## -description
 Gets a value that indicates the direction of movement during navigation
 
+
+
 ## -property-value
 A value of the enumeration.
 

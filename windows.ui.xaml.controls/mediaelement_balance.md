@@ -12,6 +12,7 @@ public double Balance { get;  set; }
 ## -description
 Gets or sets a ratio of volume across stereo speakers.
 
+
 ## -xaml-syntax
 ```xaml
 <MediaElement Balance="double"  .../>

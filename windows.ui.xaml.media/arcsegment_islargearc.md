@@ -12,6 +12,8 @@ public bool IsLargeArc { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the arc should be greater than 180 degrees.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ArcSegment IsLargeArc="bool"/>

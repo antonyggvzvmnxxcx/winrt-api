@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty FromProperty { get; }
 ## -description
 Identifies the [From](pointanimation_from.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [From](pointanimation_from.md) dependency property.
 

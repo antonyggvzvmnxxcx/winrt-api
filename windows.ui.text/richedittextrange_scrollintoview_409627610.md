@@ -13,6 +13,8 @@ public void RichEditTextRange.ScrollIntoView(PointOptions value)
 
 Scrolls this text range into view.
 
+
+
 ## -parameters
 ### -param value
 

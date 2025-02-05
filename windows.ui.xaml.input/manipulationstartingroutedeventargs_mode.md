@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Input.ManipulationModes Mode { get;  set; }
 ## -description
 Gets or sets which types of manipulations are possible.
 
+
+
 ## -property-value
 One of the enumeration values. The default is **All**.
 

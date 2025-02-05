@@ -12,12 +12,14 @@ virtual protected AutomationHeadingLevel AutomationPeer.GetHeadingLevelCore()
 ## -description
 Provides the peer's behavior when a Microsoft UI Automation client calls [GetHeadingLevel](automationpeer_getheadinglevel_1176568834.md) or an equivalent Microsoft UI Automation client API.
 
+
+
 ## -returns
 The heading level.
 
 ## -remarks
 
 ## -see-also
-[FrameworkElementAutomationPeer](frameworkelementautomationpeer.md), [Custom automation peers](https://docs.microsoft.com/windows/uwp/accessibility/custom-automation-peers), [Accessibility](https://docs.microsoft.com/windows/uwp/design/accessibility/accessibility)
+[FrameworkElementAutomationPeer](frameworkelementautomationpeer.md), [Custom automation peers](/windows/uwp/accessibility/custom-automation-peers), [Accessibility](/windows/uwp/design/accessibility/accessibility)
 ## -examples
 

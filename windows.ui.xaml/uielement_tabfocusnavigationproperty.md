@@ -12,6 +12,8 @@ public DependencyProperty TabFocusNavigationProperty { get; }
 ## -description
 Identifies the [TabFocusNavigation](uielement_tabfocusnavigation.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [TabFocusNavigation](uielement_tabfocusnavigation.md) dependency property.
 

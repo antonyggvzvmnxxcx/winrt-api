@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Input.InertiaExpansionBehavior ExpansionBehavior { get;  
 ## -description
 Get or sets the rate of slowdown of expansion inertial movement.
 
+
+
 ## -property-value
 The rate of slowdown of expansion inertial movement
 

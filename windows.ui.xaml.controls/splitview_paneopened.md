@@ -13,6 +13,8 @@ public event TypedEventHandler PaneOpened<SplitView,  object>
 
 Occurs when the [SplitView](splitview.md) pane is opened.
 
+
+
 ## -xaml-syntax
 
 ```xaml

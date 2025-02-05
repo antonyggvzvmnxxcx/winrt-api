@@ -12,6 +12,8 @@ public void ExpandToEnclosingUnit(Windows.UI.Xaml.Automation.Text.TextUnit unit)
 ## -description
 Expands the text range to the specified text unit.
 
+
+
 ## -parameters
 ### -param unit
 The text measure unit.

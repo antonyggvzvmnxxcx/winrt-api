@@ -12,6 +12,8 @@ public class AutoSuggestBoxQuerySubmittedEventArgs : Windows.UI.Xaml.DependencyO
 ## -description
 Provides event data for the [AutoSuggestBox.QuerySubmitted](autosuggestbox_querysubmitted.md) event.
 
+
+
 ## -remarks
 
 ## -examples

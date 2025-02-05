@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsDeferredScrollingEnabledProperty { g
 ## -description
 Identifies the [IsDeferredScrollingEnabled](scrollviewer_isdeferredscrollingenabled.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsDeferredScrollingEnabled](scrollviewer_isdeferredscrollingenabled.md) dependency property.
 

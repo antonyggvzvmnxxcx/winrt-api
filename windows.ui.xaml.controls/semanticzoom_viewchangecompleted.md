@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.Controls.SemanticZoomViewChangedEventHandler ViewCh
 ## -description
 Occurs when a view change is complete and the view is displayed.
 
+
+
 ## -xaml-syntax
 ```xaml
 <SemanticZoom ViewChangeCompleted="eventhandler" />

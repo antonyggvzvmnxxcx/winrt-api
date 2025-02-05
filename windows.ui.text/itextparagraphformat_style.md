@@ -12,6 +12,8 @@ public Windows.UI.Text.ParagraphStyle Style { get;  set; }
 ## -description
 Gets or sets the paragraph style.
 
+
+
 ## -property-value
 The paragraph style.
 

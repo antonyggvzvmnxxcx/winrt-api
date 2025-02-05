@@ -12,6 +12,8 @@ public void ClearAllTabs()
 ## -description
 Clears all tabs, reverting to equally spaced tabs with the default tab spacing.
 
+
+
 ## -remarks
 
 ## -examples

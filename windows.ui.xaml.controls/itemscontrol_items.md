@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.ItemCollection Items { get; }
 ## -description
 Gets the collection used to generate the content of the control.
 
+
+
 ## -xaml-syntax
 ```xaml
 <itemsControl>

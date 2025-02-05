@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Geometry Empty { get; }
 ## -description
 Gets an empty geometry object.
 
+
+
 ## -property-value
 The empty geometry object.
 

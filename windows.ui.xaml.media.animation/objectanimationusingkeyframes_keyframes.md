@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Animation.ObjectKeyFrameCollection KeyFrames { get;
 ## -description
 Gets the collection of [ObjectKeyFrame](objectkeyframe.md) objects that define the animation.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ObjectAnimationUsingKeyFrames>oneOrMoreDiscreteObjectKeyFrames</ObjectAnimationUsingKeyFrames>

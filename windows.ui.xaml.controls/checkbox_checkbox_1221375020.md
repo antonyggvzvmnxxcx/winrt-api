@@ -12,6 +12,7 @@ public CheckBox()
 ## -description
 Initializes a new instance of the [CheckBox](checkbox.md) class.
 
+
 ## -remarks
 
 ## -examples

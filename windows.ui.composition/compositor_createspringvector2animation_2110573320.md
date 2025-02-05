@@ -13,6 +13,8 @@ public SpringVector2NaturalMotionAnimation Compositor.CreateSpringVector2Animati
 
 Creates an instance of [SpringVector2NaturalMotionAnimation](springvector2naturalmotionanimation.md).
 
+
+
 ## -returns
 
 The created SpringVector2NaturalMotionAnimation object.

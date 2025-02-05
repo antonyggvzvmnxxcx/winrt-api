@@ -12,13 +12,12 @@ public object Header { get;  set; }
 ## -description
 Gets or sets the content for the control's header.
 
+
+
 ## -xaml-syntax
 ```xaml
 <TextBox Header="headerString"/>
-
-```
-
-```xaml
+- or -
 <TextBox>
   <TextBox.Header>headerObject</TextBox.Header>
 </TextBox>

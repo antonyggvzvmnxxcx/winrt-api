@@ -12,6 +12,8 @@ public Vector3 RelativeOffsetAdjustment { get;  set; }
 ## -description
 Specifies the offset of the visual with respect to the size of its parent visual.
 
+
+
 ## -property-value
 The offset of the visual with respect to the size of its parent visual.
 

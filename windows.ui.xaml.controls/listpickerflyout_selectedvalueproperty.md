@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty SelectedValueProperty { get; }
 ## -description
 Identifies the [SelectedValue](listpickerflyout_selectedvalue.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [SelectedValue](listpickerflyout_selectedvalue.md) dependency property.
 

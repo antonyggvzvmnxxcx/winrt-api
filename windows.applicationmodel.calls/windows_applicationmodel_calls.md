@@ -7,7 +7,7 @@
 
 ## -description
 
-Controls multiple aspects of how an application on the phone behaves, including lock-screen interaction, the phone call history, and various telephony options and information.
+Controls multiple aspects of how an application can interact with a phone device, including lock-screen interaction, the phone call history, and various telephony options and information.
 
 ## -remarks
 
@@ -23,13 +23,16 @@ The telephony options and information classes use the **CallsPhoneContract**. In
 > [!IMPORTANT]
 > If your application uses the **phoneCall** capability, you must request a waiver if you want to publish your application in China. Contact your premier support representative if you need the waiver.
 
-An example that demonstrates how to use much of the functionality of the Windows.ApplicationModel.Calls API can be found [here](https://go.microsoft.com/fwlink/p/?linkid=620586).
-
 ## -examples
+
+An example that demonstrates how to use much of the functionality of the Windows.ApplicationModel.Calls API can be found
+[here](https://github.com/microsoft/Windows-universal-samples/tree/v8.0.7/archived/PhoneCall).
 
 ## -see-also
 
-[Phone call sample (Windows 10)](https://go.microsoft.com/fwlink/p/?LinkId=620586), [Communication blocking and filtering sample (Windows 10)](https://go.microsoft.com/fwlink/p/?LinkId=624164), [Voice over IP (VoIP) sample](https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/VoIP)
+[Phone call sample](https://github.com/microsoft/Windows-universal-samples/tree/v8.0.7/archived/PhoneCall),
+[Communication blocking and filtering sample](https://github.com/microsoft/Windows-universal-samples/tree/v8.0.7/archived/CommunicationBlockAndFilter),
+[Voice over IP (VoIP) sample](https://github.com/microsoft/Windows-universal-samples/tree/main/archived/VoIP)
 
 ## -capabilities
 

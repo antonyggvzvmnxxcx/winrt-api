@@ -12,6 +12,8 @@ public bool IsStaggeringEnabled { get;  set; }
 ## -description
 Gets or sets a value that determines whether the transition staggers rendering of multiple items, or renders all items at once.
 
+
+
 ## -xaml-syntax
 ```xaml
 <RepositionThemeTransition IsStaggeringEnabled="bool"/>
@@ -54,7 +56,7 @@ transition.IsStaggeringEnabled(false);
 lv.ItemContainerTransitions().Append(transition);
 ```
 
-```cpp
+```cppcx
 auto lv = ref new ListView();
 auto transition = ref new RepositionThemeTransition();
 transition->IsStaggeringEnabled = false;

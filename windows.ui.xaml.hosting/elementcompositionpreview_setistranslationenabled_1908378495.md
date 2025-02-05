@@ -13,6 +13,8 @@ public void ElementCompositionPreview.SetIsTranslationEnabled(UIElement element,
 
 Toggles the ability to set, animate, and use a render-time post-layout translate transform to position XAML elements on screen using Composition APIs.
 
+
+
 ## -parameters
 
 ### -param element

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TranslateYProperty { get; }
 ## -description
 Identifies the [TranslateY](compositetransform3d_translatey.md) dependency property.
 
+
+
 ## -property-value
 The [TranslateY](compositetransform3d_translatey.md) dependency property identifier.
 

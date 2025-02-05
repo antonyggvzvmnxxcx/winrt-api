@@ -12,6 +12,7 @@ public bool IsFastRewindButtonVisible { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the rewind button is shown.
 
+
 ## -xaml-syntax
 ```xaml
 

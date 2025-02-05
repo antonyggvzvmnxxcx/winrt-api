@@ -13,6 +13,7 @@ public enum DisabledFormattingAccelerators : uint
 
 Defines constants that specify which keyboard shortcuts for formatting are disabled in a [RichEditBox](richeditbox.md).
 
+
 ## -enum-fields
 ### -field Underline:4
 

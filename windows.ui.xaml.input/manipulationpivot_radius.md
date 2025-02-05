@@ -12,6 +12,8 @@ public double Radius { get;  set; }
 ## -description
 Gets or sets the effective radius of rotation for rotation manipulations.
 
+
+
 ## -property-value
 A value in pixels.
 

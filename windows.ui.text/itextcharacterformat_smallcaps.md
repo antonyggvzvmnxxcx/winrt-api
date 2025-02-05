@@ -12,6 +12,8 @@ public Windows.UI.Text.FormatEffect SmallCaps { get;  set; }
 ## -description
 Gets or sets whether characters are in small capital letters.
 
+
+
 ## -property-value
 The small capitals state.
 

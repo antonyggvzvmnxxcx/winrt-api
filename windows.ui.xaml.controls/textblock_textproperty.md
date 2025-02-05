@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty TextProperty { get; }
 ## -description
 Identifies the [Text](textblock_text.md)  dependency property.
 
+
+
 ## -property-value
 The identifier of the [Text](textblock_text.md) dependency property.
 

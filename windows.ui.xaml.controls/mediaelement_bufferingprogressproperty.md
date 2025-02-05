@@ -12,6 +12,7 @@ public Windows.UI.Xaml.DependencyProperty BufferingProgressProperty { get; }
 ## -description
 Identifies the [BufferingProgress](mediaelement_bufferingprogress.md) dependency property.
 
+
 ## -property-value
 The identifier for the [BufferingProgress](mediaelement_bufferingprogress.md) dependency property.
 

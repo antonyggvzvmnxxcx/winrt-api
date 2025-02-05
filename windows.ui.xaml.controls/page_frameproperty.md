@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty FrameProperty { get; }
 ## -description
 Identifies the [Frame](page_frame.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Frame](page_frame.md) dependency property.
 

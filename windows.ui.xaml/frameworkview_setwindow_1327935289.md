@@ -12,6 +12,8 @@ public void SetWindow(Windows.UI.Core.CoreWindow window)
 ## -description
 Associates a [Window](window.md) with a view.
 
+
+
 ## -parameters
 ### -param window
 The [Window](window.md) to associate.

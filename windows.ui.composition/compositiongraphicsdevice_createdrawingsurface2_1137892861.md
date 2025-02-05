@@ -12,6 +12,8 @@ public CompositionDrawingSurface CompositionGraphicsDevice.CreateDrawingSurface2
 ## -description
 Creates an instance of CompositionDrawingSurface.
 
+
+
 ## -parameters
 
 ### -param sizePixels
@@ -27,6 +29,7 @@ The alpha mode of the drawing surface.
 Returns the created CompositionDrawingSurface.
 
 ## -remarks
+If the requested pixel format is unsupported by the graphics device, an exception will be thrown.
 
 ## -see-also
 

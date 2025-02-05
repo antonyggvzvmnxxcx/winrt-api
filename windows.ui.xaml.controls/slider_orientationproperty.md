@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty OrientationProperty { get; }
 ## -description
 Identifies the [Orientation](slider_orientation.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Orientation](slider_orientation.md) dependency property.
 

@@ -12,6 +12,8 @@ public Windows.Foundation.IReference<Windows.Foundation.DateTime> Date { get;  s
 ## -description
 Gets or sets the date currently set in the calendar picker.
 
+
+
 ## -property-value
 The date currently set in the calendar picker.
 

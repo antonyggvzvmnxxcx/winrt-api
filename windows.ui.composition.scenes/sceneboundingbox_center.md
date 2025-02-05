@@ -14,6 +14,8 @@ public Vector3 Center { get; }
 
 Gets the center of the bounding box.
 
+
+
 ## -property-value
 
 The center of the bounding box.

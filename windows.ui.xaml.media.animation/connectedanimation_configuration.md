@@ -13,6 +13,8 @@ public ConnectedAnimationConfiguration Configuration { get;  set; }
 ## -description
 Gets or sets the configuration that describes the type of connected animation to play.
 
+
+
 ## -property-value
 
 A configuration that describes the type of connected animation to play.

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty BringIntoViewOnFocusChangeProperty { g
 ## -description
 Identifies the [BringIntoViewOnFocusChange](scrollviewer_bringintoviewonfocuschange.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [BringIntoViewOnFocusChange](scrollviewer_bringintoviewonfocuschange.md) dependency property.
 

@@ -12,6 +12,7 @@ public PolyQuadraticBezierSegment()
 ## -description
 Initializes a new instance of the [PolyQuadraticBezierSegment](polyquadraticbeziersegment.md) class.
 
+
 ## -remarks
 
 ## -examples

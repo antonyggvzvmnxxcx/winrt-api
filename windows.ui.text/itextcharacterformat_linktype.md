@@ -12,6 +12,8 @@ public Windows.UI.Text.LinkType LinkType { get; }
 ## -description
 Gets the link type of the text.
 
+
+
 ## -property-value
 The link type.
 

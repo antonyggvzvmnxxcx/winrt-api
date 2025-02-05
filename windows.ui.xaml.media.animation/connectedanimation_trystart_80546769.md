@@ -12,6 +12,8 @@ public bool ConnectedAnimation.TryStart(UIElement destination, IIterable<UIEleme
 ## -description
 Attempts to start the animation on the destination element and specified secondary elements.
 
+
+
 ## -parameters
 
 ### -param destination

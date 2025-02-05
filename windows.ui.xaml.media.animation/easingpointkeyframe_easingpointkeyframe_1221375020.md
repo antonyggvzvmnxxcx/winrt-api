@@ -12,6 +12,7 @@ public EasingPointKeyFrame()
 ## -description
 Initializes a new instance of the [EasingPointKeyFrame](easingpointkeyframe.md) class.
 
+
 ## -remarks
 
 ## -examples

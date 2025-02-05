@@ -14,6 +14,7 @@ public FrameNavigationOptions.FrameNavigationOptions()
 
 Initializes a new instance of the [FrameNavigationOptions](framenavigationoptions.md) class.
 
+
 ## -remarks
 
 ## -see-also

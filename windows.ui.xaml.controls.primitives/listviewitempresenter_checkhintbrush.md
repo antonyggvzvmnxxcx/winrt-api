@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Brush CheckHintBrush { get;  set; }
 ## -description
 Gets or sets the brush used to render the check mark hint. This property is ignored for a Windows 10 app.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ListViewItemPresenter CheckHintBrush="themeResourceReference"/>
@@ -35,4 +37,4 @@ If you're setting this property as an attribute on a custom [ListViewItemPresent
 ## -examples
 
 ## -see-also
-[XAML theme resources](https://docs.microsoft.com/windows/uwp/controls-and-patterns/xaml-theme-resources)
+[XAML theme resources](/windows/apps/design/style/xaml-theme-resources)

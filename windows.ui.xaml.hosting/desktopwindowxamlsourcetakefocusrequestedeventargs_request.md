@@ -14,6 +14,7 @@ public XamlSourceFocusNavigationRequest Request { get; }
 Gets a [XamlSourceFocusNavigationRequest](xamlsourcefocusnavigationrequest.md) object that specifies the reason and other info for the focus navigation.
 
 
+
 ## -property-value
 An object that specifies the reason and other info for the focus navigation.
 

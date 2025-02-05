@@ -12,6 +12,8 @@ public float Position { get;  set; }
 ## -description
 Gets or sets the character offset relative to the baseline.
 
+
+
 ## -property-value
 The character offset, in floating-point points.
 

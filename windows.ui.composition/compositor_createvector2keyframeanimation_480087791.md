@@ -12,6 +12,8 @@ public Windows.UI.Composition.Vector2KeyFrameAnimation CreateVector2KeyFrameAnim
 ## -description
 Creates an instance of [Vector2KeyFrameAnimation](vector2keyframeanimation.md).
 
+
+
 ## -returns
 Returns the created [Vector2KeyFrameAnimation](vector2keyframeanimation.md) object.
 

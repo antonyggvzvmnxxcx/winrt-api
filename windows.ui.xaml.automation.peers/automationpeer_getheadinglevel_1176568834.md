@@ -12,6 +12,8 @@ public AutomationHeadingLevel AutomationPeer.GetHeadingLevel()
 ## -description
 Gets the heading level of the UI Automation element that is associated with this automation peer.
 
+
+
 ## -returns
 The text heading level.
 

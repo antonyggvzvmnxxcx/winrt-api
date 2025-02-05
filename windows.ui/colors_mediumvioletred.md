@@ -13,6 +13,8 @@ public Windows.UI.Color MediumVioletRed { get; }
 
 Gets the system-defined color that has an ARGB value of #FFC71585.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFC71585.

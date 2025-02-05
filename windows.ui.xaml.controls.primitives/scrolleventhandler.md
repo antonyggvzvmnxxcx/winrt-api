@@ -10,6 +10,8 @@ public delegate void ScrollEventHandler(System.Object sender, Windows.UI.Xaml.Co
 ## -description
 Represents the method that will handle the [Scroll](scrollbar_scroll.md) event of a [ScrollBar](scrollbar.md).
 
+
+
 ## -parameters
 ### -param sender
 The source of the event.

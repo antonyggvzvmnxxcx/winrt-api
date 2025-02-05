@@ -12,6 +12,8 @@ public class DrillInNavigationTransitionInfo : Windows.UI.Xaml.Media.Animation.N
 ## -description
 Specifies the animation to run when a user navigates forward in a logical hierarchy, like from a master list to a detail page.
 
+
+
 ## -remarks
 
 ## -examples

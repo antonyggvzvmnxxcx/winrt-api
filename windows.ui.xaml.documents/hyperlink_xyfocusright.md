@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyObject XYFocusRight { get;  set; }
 ## -description
 Gets or sets the object that gets focus when a user presses the Directional Pad (DPAD) right.
 
+
+
 ## -property-value
 The object that gets focus when a user presses the Directional Pad (DPAD).
 

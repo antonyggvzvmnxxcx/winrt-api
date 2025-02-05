@@ -12,6 +12,8 @@ public object Parameter { get; }
 ## -description
 Gets the navigation parameter associated with this navigation.
 
+
+
 ## -property-value
 The navigation parameter.
 

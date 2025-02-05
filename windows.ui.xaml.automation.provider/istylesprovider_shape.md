@@ -12,6 +12,8 @@ public string Shape { get; }
 ## -description
 Gets a string that represents the shape of an element in a document.
 
+
+
 ## -property-value
 A localized string that indicates the shape.
 

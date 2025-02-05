@@ -14,6 +14,8 @@ public SceneVisual SceneVisual.Create(Compositor compositor)
 
 Creates an instance of SceneVisual.
 
+
+
 ## -parameters
 ### -param compositor
 

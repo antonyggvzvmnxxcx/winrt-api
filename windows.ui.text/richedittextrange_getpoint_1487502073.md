@@ -13,6 +13,8 @@ public void RichEditTextRange.GetPoint(HorizontalCharacterAlignment horizontalAl
 
 Retrieves the screen coordinates of a particular location in the text range.
 
+
+
 ## -parameters
 ### -param horizontalAlign
 

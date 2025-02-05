@@ -12,6 +12,7 @@ public SplitView()
 ## -description
 Initializes a new instance of the [SplitView](splitview.md) class.
 
+
 ## -remarks
 
 ## -examples

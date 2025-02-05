@@ -12,6 +12,8 @@ public double RadiusX { get;  set; }
 ## -description
 Gets or sets the x-axis radius of the ellipse that is used to round the corners of the rectangle.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Rectangle RadiusX="double"/>

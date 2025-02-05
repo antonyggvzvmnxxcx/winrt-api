@@ -12,6 +12,8 @@ public float LinearAttenuation { get;  set; }
 ## -description
 The linear coefficient in the light's attenuation equation that determines how the light falls off with distance. Animatable.
 
+
+
 ## -property-value
 The linear coefficient in the light's attenuation equation that determines how the light falls off with distance. Range is from 0 to infinity.
 

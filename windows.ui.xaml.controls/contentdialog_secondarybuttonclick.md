@@ -12,6 +12,8 @@ public event Windows.Foundation.TypedEventHandler SecondaryButtonClick<Windows.U
 ## -description
 Occurs after the secondary button has been tapped.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentDialog SecondaryButtonClick="eventhandler"/>

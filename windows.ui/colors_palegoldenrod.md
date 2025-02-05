@@ -13,6 +13,8 @@ public Windows.UI.Color PaleGoldenrod { get; }
 
 Gets the system-defined color that has an ARGB value of #FFEEE8AA.
 
+
+
 ## -property-value
 
 The system-defined color that has an ARGB value of #FFEEE8AA.

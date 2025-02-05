@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty ClipboardCopyFormatProperty { get; }
 ## -description
 Identifies the [ClipboardCopyFormat](richeditbox_clipboardcopyformat.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [ClipboardCopyFormat](richeditbox_clipboardcopyformat.md) dependency property.
 

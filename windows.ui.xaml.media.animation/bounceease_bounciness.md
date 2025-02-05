@@ -12,6 +12,8 @@ public double Bounciness { get;  set; }
 ## -description
 Gets or sets a value that specifies how bouncy the bounce animation is. Low values of this property result in bounces with little loss of height between bounces (more bouncy) while high values result in dampened bounces (less bouncy).
 
+
+
 ## -xaml-syntax
 ```xaml
 <BounceEase Bounciness="double" .../>

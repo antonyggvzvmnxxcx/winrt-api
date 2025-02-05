@@ -14,6 +14,8 @@ public bool IsInertiaFromImpulse { get; }
 
 Gets a value that indicates whether the inertia is the result of an impulse.
 
+
+
 ## -property-value
 
 **true** if the inertia is the result of an impulse; otherwise, **false**.

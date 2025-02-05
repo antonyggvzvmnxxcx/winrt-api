@@ -12,6 +12,8 @@ public double DesiredDisplacement { get;  set; }
 ## -description
 Gets or sets the linear movement of the manipulation at the end of inertia.
 
+
+
 ## -property-value
 The linear movement of the manipulation at the end of inertia.
 

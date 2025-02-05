@@ -14,6 +14,8 @@ public float BlurRadiusMultiplier { get;  set; }
 
 Gets or sets the multiplier for the shadow's blur radius.
 
+
+
 ## -property-value
 
 The multiplier for the shadow's blur radius.

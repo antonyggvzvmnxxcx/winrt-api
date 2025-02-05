@@ -20,11 +20,11 @@ The name of the new file to create in the current folder.
 When this method completes, it returns a [StorageFile](storagefile.md) that represents the new file.
 
 ## -exceptions
-### System.IO.FileNotFoundException
+### T:System.IO.FileNotFoundException
 
 The file name contains invalid characters, or the format of the filename is incorrect. Check the value of *desiredName*.
 
-### System.UnauthorizedAccessException
+### T:System.UnauthorizedAccessException
 
 You don't have permission to create a file in the current folder.
 
@@ -62,7 +62,7 @@ IAsyncAction MainPage::ExampleCoroutineAsync()
 }
 ```
 
-```cpp
+```cppcx
 //Gets the app's local folder
 StorageFolder^ localFolder = ApplicationData::Current->LocalFolder;
 
@@ -74,24 +74,6 @@ createFileTask.then([](StorageFile^ newFile)
 {
   //Do something with the new file.
  });
-```
-
-```javascript
-// Get the app's local folder.
-var localFolder = Windows.Storage.ApplicationData.current.localFolder;
-
-// Create a new file in the current folder.
-var desiredName = "test.txt";
-var CreationCollisionOption = Windows.Storage.CreationCollisionOption;
-var newFilePromise =
-        localFolder.createFileAsync(desiredName, CreationCollisionOption.failIfExists);
-newFilePromise.done(function createFileSuccess(newFile) 
-{
-    // CreateFile completed successfully.
-}, function createFileFail(failure) 
-{
-    // CreateFile can fail if the file already exists.
-});
 ```
 
 ## -see-also

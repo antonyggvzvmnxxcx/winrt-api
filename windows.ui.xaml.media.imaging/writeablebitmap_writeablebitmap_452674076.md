@@ -12,6 +12,7 @@ public WriteableBitmap(System.Int32 pixelWidth, System.Int32 pixelHeight)
 ## -description
 Initializes a new instance of the [WriteableBitmap](writeablebitmap.md) class.
 
+
 ## -parameters
 ### -param pixelWidth
 The width of the bitmap in pixels.

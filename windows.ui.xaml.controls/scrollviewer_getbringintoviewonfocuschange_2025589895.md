@@ -12,6 +12,8 @@ public bool GetBringIntoViewOnFocusChange(Windows.UI.Xaml.DependencyObject eleme
 ## -description
 Gets the value of the [BringIntoViewOnFocusChange](scrollviewer_bringintoviewonfocuschange.md) dependency property / `ScrollViewer.BringIntoViewOnFocusChange` XAML attached property from a specified element.
 
+
+
 ## -parameters
 ### -param element
 The element from which the property value is read.

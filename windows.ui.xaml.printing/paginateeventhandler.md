@@ -10,6 +10,8 @@ public delegate void PaginateEventHandler(System.Object sender, Windows.UI.Xaml.
 ## -description
 Represents the method that will handle the [Paginate](printdocument_paginate.md) event.
 
+
+
 ## -parameters
 ### -param sender
 The object where the handler is attached.

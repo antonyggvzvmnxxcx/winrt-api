@@ -12,6 +12,8 @@ public void CompositionDrawingSurface.ScrollWithClip(PointInt32 offset, RectInt3
 ## -description
 Scrolls the drawing surface using the specified clip rectangle.
 
+
+
 ## -parameters
 
 ### -param offset

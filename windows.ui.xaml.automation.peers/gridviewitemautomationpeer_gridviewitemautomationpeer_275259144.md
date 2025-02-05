@@ -12,6 +12,7 @@ public GridViewItemAutomationPeer(Windows.UI.Xaml.Controls.GridViewItem owner)
 ## -description
 Initializes a new instance of the [GridViewItemAutomationPeer](gridviewitemautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The owner element to create for.

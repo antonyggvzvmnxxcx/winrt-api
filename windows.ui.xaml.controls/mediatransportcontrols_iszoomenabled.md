@@ -12,6 +12,7 @@ public bool IsZoomEnabled { get;  set; }
 ## -description
 Gets or sets a value that indicates whether a user can zoom the media.
 
+
 ## -xaml-syntax
 ```xaml
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.PivotSlideInAnimationGroup GetSlideInAnimationGr
 ## -description
 Retrieves the animation group that a [FrameworkElement](../windows.ui.xaml/frameworkelement.md) belongs to.
 
+
+
 ## -parameters
 ### -param element
 The [FrameworkElement](../windows.ui.xaml/frameworkelement.md) within the Pivot (such as a [TextBlock](richtextblock.md)) that is to be animated.
@@ -24,3 +26,5 @@ The slide-in animation group that this [FrameworkElement](../windows.ui.xaml/fra
 ## -examples
 
 ## -see-also
+
+[Pivot.SlideInAnimationGroup](pivot_slideinanimationgroup.md), [Attached properties overview](/windows/uwp/xaml-platform/attached-properties-overview)

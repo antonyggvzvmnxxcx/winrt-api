@@ -14,6 +14,8 @@ public float MinBlurRadius { get;  set; }
 
 Gets or sets the minimum blur radius of the shadow.
 
+
+
 ## -property-value
 
 The minimum blur radius of the shadow.

@@ -13,6 +13,8 @@ public enum SlideNavigationTransitionEffect : int
 ## -description
 Defines constants that describe the type of animation to play during a slide transition.
 
+
+
 ## -enum-fields
 ### -field FromRight:2
 The exiting page leaves to the left of the panel and the entering page enters from the right.

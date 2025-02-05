@@ -12,6 +12,7 @@ public RichTextBlockOverflow()
 ## -description
 Initializes a new instance of the [RichTextBlockOverflow](richtextblockoverflow.md) class.
 
+
 ## -remarks
 
 ## -examples

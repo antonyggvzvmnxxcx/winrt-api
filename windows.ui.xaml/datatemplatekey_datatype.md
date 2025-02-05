@@ -12,6 +12,8 @@ public object DataType { get;  set; }
 ## -description
 Gets or sets the type for which the template is designed.
 
+
+
 ## -property-value
 The type of object that the template is used to display, or a string that specifies the XML tag name for the XML data that the template is used to display.
 

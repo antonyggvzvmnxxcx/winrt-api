@@ -12,6 +12,7 @@ public SelectorAutomationPeer(Windows.UI.Xaml.Controls.Primitives.Selector owner
 ## -description
 Initializes a new instance of the [SelectorAutomationPeer](selectorautomationpeer.md) class.
 
+
 ## -parameters
 ### -param owner
 The owner [Selector](../windows.ui.xaml.controls.primitives/selector.md) implementation to create for.

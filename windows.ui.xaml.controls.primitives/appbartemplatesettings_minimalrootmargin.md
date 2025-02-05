@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Thickness MinimalRootMargin { get; }
 ## -description
 Gets the margin of the [AppBar](../windows.ui.xaml.controls/appbar.md) root in the minimal state.
 
+
+
 ## -property-value
 The margin of the [AppBar](../windows.ui.xaml.controls/appbar.md) root in the minimal state.
 

@@ -12,6 +12,8 @@ public Windows.Foundation.Collections.IVector<Windows.UI.Xaml.Controls.HubSectio
 ## -description
 Gets a collection that contains the hub sections that moved into view.
 
+
+
 ## -property-value
 A collection that contains the hub sections that moved into view.
 

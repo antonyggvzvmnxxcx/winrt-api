@@ -12,6 +12,8 @@ public int TabCount { get; }
 ## -description
 Retrieves the tab count.
 
+
+
 ## -property-value
 The tab count.
 

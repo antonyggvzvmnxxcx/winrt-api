@@ -12,6 +12,7 @@ public CircleEase()
 ## -description
 Initializes a new instance of the [CircleEase](circleease.md) class.
 
+
 ## -remarks
 
 ## -examples

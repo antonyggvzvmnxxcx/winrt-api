@@ -12,6 +12,8 @@ public double OriginX { get;  set; }
 ## -description
 Gets or sets the x origin for the glyphs.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Glyphs OriginX="double"/>

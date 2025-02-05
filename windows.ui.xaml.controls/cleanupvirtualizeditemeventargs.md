@@ -12,6 +12,8 @@ public class CleanUpVirtualizedItemEventArgs : Windows.UI.Xaml.RoutedEventArgs, 
 ## -description
 Provides data for the [CleanUpVirtualizedItemEvent](virtualizingstackpanel_cleanupvirtualizeditemevent.md) event.
 
+
+
 ## -remarks
 
 ## -examples

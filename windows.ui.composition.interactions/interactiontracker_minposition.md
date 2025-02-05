@@ -12,6 +12,8 @@ public Windows.Foundation.Numerics.Vector3 MinPosition { get;  set; }
 ## -description
 The minimum position allowed for the [InteractionTracker](interactiontracker.md).
 
+
+
 ## -property-value
 The minimum position allowed for the [InteractionTracker](interactiontracker.md).
 

@@ -12,6 +12,7 @@ public PathIcon()
 ## -description
 Initializes a new instance of the [PathIcon](pathicon.md) class.
 
+
 ## -remarks
 
 ## -examples

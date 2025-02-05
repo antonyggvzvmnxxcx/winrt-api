@@ -12,6 +12,8 @@ public void Clear()
 ## -description
 Removes all animations from the collection.
 
+
+
 ## -remarks
 
 ## -examples

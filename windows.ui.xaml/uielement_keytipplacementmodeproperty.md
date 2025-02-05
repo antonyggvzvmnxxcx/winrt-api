@@ -12,6 +12,8 @@ public DependencyProperty KeyTipPlacementModeProperty { get; }
 ## -description
 Identifies the [KeyTipPlacementMode](uielement_keytipplacementmode.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [KeyTipPlacementMode](uielement_keytipplacementmode.md) dependency property.
 

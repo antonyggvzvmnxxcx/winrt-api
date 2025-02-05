@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty LabelPositionProperty { get; }
 ## -description
 Identifies the [LabelPosition](appbarbutton_labelposition.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [LabelPosition](appbarbutton_labelposition.md) dependency property.
 

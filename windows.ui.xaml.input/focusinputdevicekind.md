@@ -12,6 +12,8 @@ public enum FocusInputDeviceKind : int
 ## -description
 Specifies the input device types from which input events are received.
 
+
+
 ## -enum-fields
 ### -field Touch:2
 Touch input device. 

@@ -12,6 +12,7 @@ public ResourceDictionary()
 ## -description
 Initializes a new instance of the [ResourceDictionary](resourcedictionary.md) class.
 
+
 ## -remarks
 
 ## -examples

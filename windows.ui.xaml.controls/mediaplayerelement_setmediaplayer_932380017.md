@@ -12,6 +12,7 @@ public void SetMediaPlayer(Windows.Media.Playback.MediaPlayer mediaPlayer)
 ## -description
 Sets the [MediaPlayer](../windows.media.playback/mediaplayer.md) instance used to render media.
 
+
 ## -parameters
 ### -param mediaPlayer
 The new [MediaPlayer](../windows.media.playback/mediaplayer.md) instance used to render media.

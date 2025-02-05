@@ -12,6 +12,8 @@ public float Kerning { get;  set; }
 ## -description
 Gets or sets the minimum font size at which kerning occurs.
 
+
+
 ## -property-value
 The kerning size, in floating-point points.
 

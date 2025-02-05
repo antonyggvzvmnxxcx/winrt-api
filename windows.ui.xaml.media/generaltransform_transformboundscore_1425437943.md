@@ -12,6 +12,8 @@ virtual protected Windows.Foundation.Rect TransformBoundsCore(Windows.Foundation
 ## -description
 Provides the means to override the [TransformBounds](generaltransform_transformbounds_2050801728.md) behavior in a derived transform class.
 
+
+
 ## -parameters
 ### -param rect
 The bounding box to transform.

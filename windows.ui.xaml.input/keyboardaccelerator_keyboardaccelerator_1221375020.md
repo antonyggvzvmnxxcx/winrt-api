@@ -12,10 +12,11 @@ public KeyboardAccelerator.KeyboardAccelerator()
 ## -description
 Initializes a new instance of the [KeyboardAccelerator](keyboardaccelerator.md) class.
 
+
 ## -remarks
 
 ## -see-also
-[Keyboard Accelerators](https://docs.microsoft.com/windows/uwp/design/input/keyboard-accelerators)
+[Keyboard Accelerators](/windows/uwp/design/input/keyboard-accelerators)
 
 ## -examples
 

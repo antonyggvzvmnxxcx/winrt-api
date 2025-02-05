@@ -12,6 +12,8 @@ public class TextPointer : Windows.UI.Xaml.Documents.ITextPointer
 ## -description
 Represents a position within a text element.
 
+
+
 ## -remarks
 
 ## -examples

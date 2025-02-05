@@ -12,18 +12,14 @@ public Windows.UI.Xaml.Media.Brush BorderBrush { get;  set; }
 ## -description
 Gets or sets a brush that describes the border fill of the panel.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Grid BorderBrush="{StaticResource resourceName}"/>
-
-```
-
-```xaml
+- or -
 <Grid BorderBrush="colorString"/>
-
-```
-
-```xaml
+- or -
 <Grid>
   <Grid.BorderBrush>singleBrush</Grid.BorderBrush>
 </Grid>

@@ -13,6 +13,8 @@ public interface IItemsRangeInfo : Windows.Foundation.IClosable
 
 Provides info about a range of items in the data source.
 
+
+
 ## -remarks
 
 The IItemsRangeInfo interface supports virtualization of large data sources for efficient presentation by XAML list controls. The other classes and interfaces that support data source virtualization are the following.

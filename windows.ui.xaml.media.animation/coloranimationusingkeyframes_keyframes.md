@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Animation.ColorKeyFrameCollection KeyFrames { get; 
 ## -description
 Gets the collection of [ColorKeyFrame](colorkeyframe.md) objects that define the animation.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ColorAnimationUsingKeyFrames ...>

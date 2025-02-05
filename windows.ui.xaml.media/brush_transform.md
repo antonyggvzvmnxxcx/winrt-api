@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.Transform Transform { get;  set; }
 ## -description
 Gets or sets the transformation that is applied to the brush.
 
+
+
 ## -xaml-syntax
 ```xaml
 <brush>

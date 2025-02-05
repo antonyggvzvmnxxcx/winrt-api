@@ -12,6 +12,8 @@ virtual protected Windows.Foundation.Rect GetBoundingRectangleCore()
 ## -description
 Provides the peer's behavior when a Microsoft UI Automation client calls [GetBoundingRectangle](automationpeer_getboundingrectangle_297705113.md) or an equivalent Microsoft UI Automation client API.
 
+
+
 ## -returns
 The bounding rectangle.
 
@@ -20,4 +22,4 @@ The bounding rectangle.
 ## -examples
 
 ## -see-also
-[FrameworkElementAutomationPeer](frameworkelementautomationpeer.md), [Custom automation peers](https://docs.microsoft.com/windows/uwp/accessibility/custom-automation-peers), [Accessibility](https://docs.microsoft.com/windows/uwp/accessibility/accessibility)
+[FrameworkElementAutomationPeer](frameworkelementautomationpeer.md), [Custom automation peers](/windows/uwp/accessibility/custom-automation-peers), [Accessibility](/windows/uwp/accessibility/accessibility)

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.PivotItem Item { get;  set; }
 ## -description
 Gets the pivot item instance.
 
+
+
 ## -property-value
 Returns [PivotItem](pivotitem.md).
 

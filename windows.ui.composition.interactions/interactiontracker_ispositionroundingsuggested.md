@@ -12,6 +12,8 @@ public bool IsPositionRoundingSuggested { get; }
 ## -description
 Boolean value indicating whether position rounding is currently suggested.
 
+
+
 ## -property-value
 Boolean value indicating whether position rounding is currently suggested.
 

@@ -12,6 +12,8 @@ public double FontSize { get;  set; }
 ## -description
 Gets or sets the size of the icon glyph.
 
+
+
 ## -xaml-syntax
 ```xaml
 <FontIcon FontSize="double" .../>

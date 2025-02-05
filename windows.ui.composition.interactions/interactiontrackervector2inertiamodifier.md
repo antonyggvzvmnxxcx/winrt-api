@@ -13,6 +13,8 @@ public class InteractionTrackerVector2InertiaModifier : CompositionObject, Compo
 
 Base class for [InteractionTrackerVector2InertiaNaturalMotion](interactiontrackervector2inertianaturalmotion.md).
 
+
+
 ## -remarks
 
 ## -see-also

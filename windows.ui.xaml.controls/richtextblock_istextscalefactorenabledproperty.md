@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsTextScaleFactorEnabledProperty { get
 ## -description
 Identifies the [IsTextScaleFactorEnabled](richtextblock_istextscalefactorenabled.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsTextScaleFactorEnabled](richtextblock_istextscalefactorenabled.md) dependency property.
 

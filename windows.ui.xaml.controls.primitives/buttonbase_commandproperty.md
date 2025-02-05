@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty CommandProperty { get; }
 ## -description
 Identifier for the [Command](buttonbase_command.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Command](buttonbase_command.md) dependency property.
 

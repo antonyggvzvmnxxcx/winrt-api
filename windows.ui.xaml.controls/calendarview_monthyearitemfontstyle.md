@@ -12,6 +12,8 @@ public Windows.UI.Text.FontStyle MonthYearItemFontStyle { get;  set; }
 ## -description
 Gets or sets the font style used to display the month and year items in the calendar.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarView MonthYearItemFontStyle="fontStyleMemberName" />

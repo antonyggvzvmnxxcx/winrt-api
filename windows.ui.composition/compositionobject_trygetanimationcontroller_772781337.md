@@ -13,6 +13,8 @@ public AnimationController CompositionObject.TryGetAnimationController(String pr
 
 Returns an AnimationController for the animation running on the specified property.
 
+
+
 ## -parameters
 ### -param propertyName
 

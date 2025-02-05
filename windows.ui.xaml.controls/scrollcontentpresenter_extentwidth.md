@@ -12,6 +12,8 @@ public double ExtentWidth { get; }
 ## -description
 Gets the horizontal size of all the scrollable content.
 
+
+
 ## -property-value
 The horizontal size of all the scrollable content.
 

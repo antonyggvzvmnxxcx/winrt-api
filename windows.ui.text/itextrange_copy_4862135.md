@@ -12,6 +12,8 @@ public void Copy()
 ## -description
 Copies the text of the text range to the Clipboard.
 
+
+
 ## -remarks
 > [!NOTE]
 > On Windows Phone, this method throws an exception. Programmatic access to the clipboard is not supported on Windows Phone.

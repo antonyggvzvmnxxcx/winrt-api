@@ -14,6 +14,8 @@ public class ExecuteRequestedEventArgs
 
 Provides event data for the [ExecuteRequested](xamluicommand_executerequested.md) event.
 
+
+
 ## -remarks
 
 ## -see-also

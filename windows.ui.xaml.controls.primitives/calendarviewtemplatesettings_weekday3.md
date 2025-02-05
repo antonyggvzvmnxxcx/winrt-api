@@ -12,6 +12,8 @@ public string WeekDay3 { get; }
 ## -description
 Gets the third day of the week.
 
+
+
 ## -property-value
 The third day of the week.
 

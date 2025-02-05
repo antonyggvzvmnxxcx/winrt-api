@@ -12,6 +12,8 @@ public Windows.UI.Composition.Interactions.IInteractionTrackerOwner Owner { get;
 ## -description
 The [IInteractionTrackerOwner](iinteractiontrackerowner.md) associated with the [InteractionTracker](interactiontracker.md).
 
+
+
 ## -property-value
 The [IInteractionTrackerOwner](iinteractiontrackerowner.md) associated with the [InteractionTracker](interactiontracker.md).
 

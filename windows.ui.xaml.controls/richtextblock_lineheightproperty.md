@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty LineHeightProperty { get; }
 ## -description
 Identifies the [LineHeight](richtextblock_lineheight.md)  dependency property.
 
+
+
 ## -property-value
 The identifier for the [LineHeight](richtextblock_lineheight.md) dependency property.
 

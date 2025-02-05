@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.Provider.IRawElementProviderSimple GetEnclosin
 ## -description
 Returns the innermost element that encloses the text range.
 
+
+
 ## -returns
 The enclosing control, typically the text provider that provides the text range. However, if the text provider supports child text elements such as tables or hyperlinks, the enclosing element can be a descendant of the text provider.
 

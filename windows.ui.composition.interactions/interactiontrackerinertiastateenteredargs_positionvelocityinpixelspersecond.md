@@ -14,6 +14,8 @@ The velocity of [InteractionTracker](interactiontracker.md)'s position.
 
 The PositionVelocityInPixelsPerSecond property represents the position velocity of [InteractionTracker](interactiontracker.md) when it has entered the Inertia state.
 
+
+
 ## -property-value
 The velocity of [InteractionTracker](interactiontracker.md)'s position.
 

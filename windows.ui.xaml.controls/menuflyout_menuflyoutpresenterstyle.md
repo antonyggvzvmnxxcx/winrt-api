@@ -12,12 +12,12 @@ public Windows.UI.Xaml.Style MenuFlyoutPresenterStyle { get;  set; }
 ## -description
 Gets or sets the style that is used when rendering the [MenuFlyout](menuflyout.md).
 
+
+
 ## -xaml-syntax
 ```xaml
 <MenuFlyout MenuFlyoutPresenterStyle="resourceReferenceToStyle"/>
-```
-
-```xaml
+- or -
 <MenuFlyout>
   <MenuFlyout.FlyoutPresenterStyle>
     <Style TargetType="FlyoutPresenter">

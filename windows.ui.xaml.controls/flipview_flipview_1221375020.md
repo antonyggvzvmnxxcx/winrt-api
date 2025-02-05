@@ -12,6 +12,7 @@ public FlipView()
 ## -description
 Initializes a new instance of the [FlipView](flipview.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public double CurtainCurrentToOnOffset { get; }
 ## -description
 Gets the calculated value of the offset for the "curtain" element of the [ToggleSwitch](../windows.ui.xaml.controls/toggleswitch.md), calculated for an "On" action and current switch position.
 
+
+
 ## -property-value
 A value in pixels.
 

@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty SelectedTextProperty { get; }
 ## -description
 Identifies the [SelectedText](richtextblock_selectedtext.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [SelectedText](richtextblock_selectedtext.md) dependency property.
 

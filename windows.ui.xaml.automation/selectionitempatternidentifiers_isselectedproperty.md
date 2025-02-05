@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.AutomationProperty IsSelectedProperty { get; }
 ## -description
 Identifies the [IsSelected](../windows.ui.xaml.automation.provider/iselectionitemprovider_isselected.md) automation property.
 
+
+
 ## -property-value
 The automation property identifier.
 

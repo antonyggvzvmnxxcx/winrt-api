@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty OpacityProperty { get; }
 ## -description
 Identifies the [Opacity](brush_opacity.md) dependency property.
 
+
+
 ## -property-value
 The [Opacity](brush_opacity.md) dependency property identifier.
 

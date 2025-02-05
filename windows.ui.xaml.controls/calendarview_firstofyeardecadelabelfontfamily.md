@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Media.FontFamily FirstOfYearDecadeLabelFontFamily { get; 
 ## -description
 Gets or sets the font used to display the first-of-year banner in the calendar.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarView FirstOfYearDecadeLabelFontFamily="fontFamilyValue"/>

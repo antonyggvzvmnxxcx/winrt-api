@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Automation.ExpandCollapseState ExpandCollapseState { get;
 ## -description
 Gets the state (expanded or collapsed) of the control.
 
+
+
 ## -property-value
 The state (expanded or collapsed) of the control.
 

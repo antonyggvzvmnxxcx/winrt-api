@@ -12,6 +12,8 @@ public class InertiaExpansionBehavior : Windows.UI.Xaml.Input.IInertiaExpansionB
 ## -description
 Controls the deceleration of a resizing manipulation during inertia.
 
+
+
 ## -remarks
 
 ## -examples

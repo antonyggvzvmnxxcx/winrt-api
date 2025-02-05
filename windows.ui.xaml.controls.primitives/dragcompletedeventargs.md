@@ -12,6 +12,8 @@ public class DragCompletedEventArgs : Windows.UI.Xaml.RoutedEventArgs, Windows.U
 ## -description
 Provides data for the [DragCompleted](thumb_dragcompleted.md) event that occurs when a user completes a drag operation with the mouse of a [Thumb](thumb.md) control.
 
+
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,7 @@ public enum Windows.UI.Xaml.Controls.ItemsUpdatingScrollMode : int
 ## -description
 Defines constants that specify the scrolling behavior of items while updating.
 
+
 ## -enum-fields
 ### -field KeepItemsInView:0
 Adjusts the scroll offset to keep the first visible item in the viewport when items are added to the [ItemsSource](itemscontrol_itemssource.md).

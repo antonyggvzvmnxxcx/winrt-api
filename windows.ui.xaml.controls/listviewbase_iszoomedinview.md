@@ -12,6 +12,8 @@ public bool IsZoomedInView { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the [ListViewBase](listviewbase.md) instance is the zoomed-in view in its owning [SemanticZoom](semanticzoom.md).
 
+
+
 ## -property-value
 **true** if the [ListViewBase](listviewbase.md) is the zoomed-in view; otherwise, **false**.
 

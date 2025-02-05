@@ -14,9 +14,10 @@ public class XamlUICommand : DependencyObject, DependencyObject, ICommand
 
 Provides a base class for defining the command behavior of an interactive UI element that performs an action when invoked (such as sending an email, deleting an item, or submitting a form).
 
+
 ## -remarks
 
-Implements the ICommand interface ([Windows.UI.Xaml.Input.ICommand](icommand.md) for C++ or [System.Windows.Input.ICommand](https://docs.microsoft.com/dotnet/api/system.windows.input.icommand) for C#), adding various UI properties, methods, and events.
+Implements the ICommand interface ([Windows.UI.Xaml.Input.ICommand](icommand.md) for C++ or [System.Windows.Input.ICommand](/dotnet/api/system.windows.input.icommand?view=dotnet-uwp-10.0&preserve-view=true) for C#), adding various UI properties, methods, and events.
 
 ### XamlUICommand derived classes
 
@@ -40,6 +41,6 @@ XamlUICommand lets you specify UI through the control binding, such as an icon, 
 > [!TIP]
 > For more info, design guidance, and code examples, see [Command design basics](/windows/uwp/layout/commanding-basics).
 >
-> If you have the **XAML Controls Gallery** app installed, click here to [open the app and see the StandardUICommand in action](xamlcontrolsgallery:/item/StandardUICommand).
-> + [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
-> + [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+> If you have the **WinUI 2 Gallery** app installed, click here to [open the app and see the StandardUICommand in action](winui2gallery:/item/StandardUICommand).
+> + [Get the WinUI 2 Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
+> + [Get the source code (GitHub)](https://github.com/Microsoft/WinUI-Gallery)

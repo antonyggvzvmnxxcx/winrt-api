@@ -12,6 +12,8 @@ public double DesiredDeceleration { get;  set; }
 ## -description
 Gets or sets the rate that resizing slows.
 
+
+
 ## -property-value
 The rate that resizing slows.
 

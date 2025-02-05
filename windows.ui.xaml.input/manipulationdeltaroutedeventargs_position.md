@@ -12,6 +12,8 @@ public Windows.Foundation.Point Position { get; }
 ## -description
 Gets the point from which the manipulation originated.
 
+
+
 ## -property-value
 The point from which the manipulation originated.
 

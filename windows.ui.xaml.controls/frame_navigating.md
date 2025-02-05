@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.Navigation.NavigatingCancelEventHandler Navigating
 ## -description
 Occurs when a new navigation is requested.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Frame Navigating="eventhandler" />

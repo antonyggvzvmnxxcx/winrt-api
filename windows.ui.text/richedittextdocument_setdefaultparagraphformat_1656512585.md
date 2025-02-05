@@ -12,6 +12,8 @@ public void RichEditTextDocument.SetDefaultParagraphFormat(ITextParagraphFormat 
 ## -description
 Sets the default paragraph formatting attributes of the document.
 
+
+
 ## -parameters
 
 ### -param value

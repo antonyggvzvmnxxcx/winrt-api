@@ -12,6 +12,8 @@ public Windows.Foundation.Point Center { get;  set; }
 ## -description
 Gets or sets the center point for rotation manipulations.
 
+
+
 ## -property-value
 The center point for rotation manipulations.
 

@@ -13,6 +13,8 @@ public Vector2 Scale { get;  set; }
 
 Gets or sets the scale to apply to the brush.
 
+
+
 ## -property-value
 
 The scale to apply to the brush.

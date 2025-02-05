@@ -12,6 +12,7 @@ public void RemoveAllEffects()
 ## -description
 Removes all effects for the next source set for this [MediaElement](mediaelement.md).
 
+
 ## -remarks
 
 ## -examples

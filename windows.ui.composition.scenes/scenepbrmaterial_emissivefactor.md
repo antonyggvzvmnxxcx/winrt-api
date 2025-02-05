@@ -14,6 +14,8 @@ public Vector3 EmissiveFactor { get;  set; }
 
 Gets or sets the material's emissive value.
 
+
+
 ## -property-value
 
 The material's emissive value.

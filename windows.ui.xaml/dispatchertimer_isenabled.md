@@ -12,6 +12,8 @@ public bool IsEnabled { get; }
 ## -description
 Gets a value that indicates whether the timer is running.
 
+
+
 ## -property-value
 **true** if the timer is enabled and running; otherwise, **false**.
 

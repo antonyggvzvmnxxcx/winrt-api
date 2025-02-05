@@ -13,6 +13,8 @@ public Vector3Transition ScaleTransition { get;  set; }
 ## -description
 Gets or sets the Vector3Transition that animates changes to the Scale property.
 
+
+
 ## -property-value
 
 The Vector3Transition that animates changes to the Scale property.

@@ -12,6 +12,8 @@ public class CharacterReceivedRoutedEventArgs : RoutedEventArgs, RoutedEventArgs
 ## -description
 Provides event data for the [UIElement.CharacterReceived](../windows.ui.xaml/uielement_characterreceived.md) routed event.
 
+
+
 ## -remarks
 
 ## -examples

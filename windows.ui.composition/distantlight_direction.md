@@ -12,6 +12,8 @@ public Windows.Foundation.Numerics.Vector3 Direction { get;  set; }
 ## -description
 The direction in which the light is pointing, specified relative to its [CoordinateSpace](distantlight_coordinatespace.md) Visual.
 
+
+
 ## -property-value
 The direction in which the light is cast.
 

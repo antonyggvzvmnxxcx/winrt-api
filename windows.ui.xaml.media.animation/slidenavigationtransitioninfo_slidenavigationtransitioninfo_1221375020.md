@@ -12,6 +12,7 @@ public SlideNavigationTransitionInfo()
 ## -description
 Initializes a new instance of the **SlideNavigationTransitionInfo** class.
 
+
 ## -remarks
 
 ## -examples

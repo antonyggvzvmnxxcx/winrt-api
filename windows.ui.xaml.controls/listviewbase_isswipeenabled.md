@@ -12,6 +12,8 @@ public bool IsSwipeEnabled { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the view supports discrete input processing for a *swipe* interaction.
 
+
+
 ## -xaml-syntax
 ```xaml
 <listViewBase IsSwipeEnabled="bool" .../>

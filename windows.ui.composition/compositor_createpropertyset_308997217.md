@@ -12,6 +12,8 @@ public Windows.UI.Composition.CompositionPropertySet CreatePropertySet()
 ## -description
 Creates an instance of [CompositionPropertySet](compositionpropertyset.md).
 
+
+
 ## -returns
 Returns the created [CompositionPropertySet](compositionpropertyset.md) object.
 

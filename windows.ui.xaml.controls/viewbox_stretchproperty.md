@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty StretchProperty { get; }
 ## -description
 Identifies the [Stretch](viewbox_stretch.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [Stretch](viewbox_stretch.md) dependency property.
 

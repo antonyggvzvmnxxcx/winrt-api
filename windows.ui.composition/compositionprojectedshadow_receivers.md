@@ -14,6 +14,8 @@ public CompositionProjectedShadowReceiverUnorderedCollection Receivers { get; }
 
 Gets the collection of objects that the shadow is cast on.
 
+
+
 ## -property-value
 
 The collection of objects that the shadow is cast on.

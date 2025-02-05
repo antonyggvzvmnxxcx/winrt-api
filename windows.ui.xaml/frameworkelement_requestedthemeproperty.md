@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty RequestedThemeProperty { get; }
 ## -description
 Identifies the [RequestedTheme](frameworkelement_requestedtheme.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [RequestedTheme](frameworkelement_requestedtheme.md) dependency property.
 

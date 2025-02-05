@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty PlaceholderTextProperty { get; }
 ## -description
 Identifies the [PlaceholderText](richeditbox_placeholdertext.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [PlaceholderText](richeditbox_placeholdertext.md) dependency property.
 

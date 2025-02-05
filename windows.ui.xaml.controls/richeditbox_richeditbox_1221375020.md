@@ -12,6 +12,7 @@ public RichEditBox()
 ## -description
 Initializes a new instance of the [RichEditBox](richeditbox.md) class.
 
+
 ## -remarks
 
 ## -examples

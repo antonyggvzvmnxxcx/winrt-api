@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.RoutedEventHandler Closed
 ## -description
 Occurs when a [ToolTip](tooltip.md) is closed and is no longer visible.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ToolTip Closed="eventhandler"/>

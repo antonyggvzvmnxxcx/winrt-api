@@ -16,6 +16,8 @@ The Visual used to determine the light's offset. The light's offset property is 
     **PointLight.CoordinateSpace**
    is not set, the [PointLight](pointlight.md) will not render.
 
+
+
 ## -property-value
 The Visual used to determine the light's offset.
 

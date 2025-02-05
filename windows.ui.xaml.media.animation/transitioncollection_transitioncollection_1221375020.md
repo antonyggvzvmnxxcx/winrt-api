@@ -12,6 +12,7 @@ public TransitionCollection()
 ## -description
 Initializes a new instance of the [TransitionCollection](transitioncollection.md) class.
 
+
 ## -remarks
 
 ## -examples

@@ -12,6 +12,8 @@ public string GetHelpText()
 ## -description
 Gets text that describes the functionality of the control that is associated with the automation peer.
 
+
+
 ## -returns
 The help text.
 

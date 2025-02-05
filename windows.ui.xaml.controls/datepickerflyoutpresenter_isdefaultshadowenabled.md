@@ -14,6 +14,8 @@ public bool IsDefaultShadowEnabled { get;  set; }
 
 Gets or sets a value that indicates whether the default shadow effect is shown.
 
+
+
 ## -property-value
 
 **true** if the default shadow effect is shown; otherwise, **false**. The default is **true**.

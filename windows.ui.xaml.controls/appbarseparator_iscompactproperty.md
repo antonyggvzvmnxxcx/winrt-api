@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty IsCompactProperty { get; }
 ## -description
 Identifies the [IsCompact](appbarseparator_iscompact.md) dependency property.
 
+
+
 ## -property-value
 The identifier for the [IsCompact](appbarseparator_iscompact.md) dependency property.
 

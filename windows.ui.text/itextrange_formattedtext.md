@@ -12,6 +12,8 @@ public Windows.UI.Text.ITextRange FormattedText { get;  set; }
 ## -description
 Gets or sets an [ITextRange](itextrange.md) object with the formatted text of the specified range.
 
+
+
 ## -property-value
 The formatted text.
 

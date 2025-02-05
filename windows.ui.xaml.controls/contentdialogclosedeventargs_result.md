@@ -12,6 +12,8 @@ public Windows.UI.Xaml.Controls.ContentDialogResult Result { get; }
 ## -description
 Gets the [ContentDialogResult](contentdialogresult.md) of the button click event.
 
+
+
 ## -property-value
 The result of the button click event.
 

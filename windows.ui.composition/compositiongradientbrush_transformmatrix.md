@@ -13,6 +13,8 @@ public Matrix3x2 TransformMatrix { get;  set; }
 
 Gets or sets the matrix of transforms to apply to the brush.
 
+
+
 ## -property-value
 
 The matrix of transforms to apply to the brush.

@@ -12,6 +12,8 @@ public Windows.UI.Composition.PointLight CreatePointLight()
 ## -description
 Creates an instance of [PointLight](pointlight.md).
 
+
+
 ## -returns
 Returns the created [PointLight](pointlight.md) object.
 

@@ -12,6 +12,8 @@ public class DatePickerValueChangedEventArgs : Windows.UI.Xaml.Controls.IDatePic
 ## -description
 Provides event data for the [DatePicker.DateChanged](datepicker_datechanged.md) event.
 
+
+
 ## -remarks
 
 ## -examples

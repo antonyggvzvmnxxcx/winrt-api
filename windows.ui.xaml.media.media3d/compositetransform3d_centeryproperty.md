@@ -12,6 +12,8 @@ public Windows.UI.Xaml.DependencyProperty CenterYProperty { get; }
 ## -description
 Identifies the [CenterY](compositetransform3d_centery.md) dependency property.
 
+
+
 ## -property-value
 The [CenterY](compositetransform3d_centery.md) dependency property identifier.
 

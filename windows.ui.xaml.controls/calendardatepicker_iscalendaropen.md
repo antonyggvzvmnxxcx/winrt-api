@@ -12,6 +12,8 @@ public bool IsCalendarOpen { get;  set; }
 ## -description
 Gets or sets a value that indicates whether the calendar view of the [CalendarDatePicker](calendardatepicker.md) is currently shown.
 
+
+
 ## -xaml-syntax
 ```xaml
 <CalendarDatePicker IsCalendarOpen="bool" .../>

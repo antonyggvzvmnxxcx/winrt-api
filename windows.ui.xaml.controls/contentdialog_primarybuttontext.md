@@ -12,6 +12,8 @@ public string PrimaryButtonText { get;  set; }
 ## -description
 Gets or sets the text to display on the primary button.
 
+
+
 ## -xaml-syntax
 ```xaml
 <ContentDialog PrimaryButtonText="string"/>

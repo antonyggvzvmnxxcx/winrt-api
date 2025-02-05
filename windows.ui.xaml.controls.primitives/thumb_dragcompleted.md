@@ -12,6 +12,8 @@ public event Windows.UI.Xaml.Controls.Primitives.DragCompletedEventHandler DragC
 ## -description
 Fires when the [Thumb](thumb.md) control loses mouse capture.
 
+
+
 ## -xaml-syntax
 ```xaml
 <Thumb DragCompleted="eventhandler"/>

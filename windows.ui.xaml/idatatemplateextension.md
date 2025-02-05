@@ -12,6 +12,8 @@ public interface IDataTemplateExtension :
 ## -description
 Defines helper methods for phased rendering of a data template.
 
+
+
 ## -remarks
 
 ## -examples
